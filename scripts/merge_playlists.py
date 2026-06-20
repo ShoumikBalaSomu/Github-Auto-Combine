@@ -115,6 +115,7 @@ class Channel:
             bool(other.tvg_id), bool(other.tvg_logo), bool(other.tvg_name),
             bool(other.tvg_country), bool(other.tvg_language),
             bool(other.catchup), bool(other.catchup_source),
+        ])
         # Give heavy weight to resolution if probed
         if "tvg-resolution" in self.extra_attrs:
             try:
