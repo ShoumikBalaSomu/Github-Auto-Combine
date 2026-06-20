@@ -558,7 +558,7 @@ def run_merge_pipeline(check_links: bool = False) -> Dict:
         "duplicates_removed": len(all_channels) - len(unique_channels),
         "total_countries": output_stats.get("total_countries", 0),
         "countries": output_stats.get("countries", {}),
-        "last_updated": __import__('datetime').datetime.utcnow().isoformat() + "Z",
+        "last_updated": __import__('datetime').datetime.now(__import__('datetime').timezone.utc).isoformat(),
     }
     
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

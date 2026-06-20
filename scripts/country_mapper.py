@@ -185,7 +185,7 @@ _PATTERN_MAP: Dict[str, List[str]] = {
     ],
     # ─── Bangladesh ───────────────────────────────────────────────
     "Bangladesh": [
-        r"\b(bangla\s*vision|channel\s*i|ntv\s*(bangla|bd)|rtv|atv|ekushey|gazi\s*tv|independent|desh\s*tv|boishakhi|my\s*tv|jamuna\s*tv|maasranga|ekattor|news24\s*bd|somoy|deepto|channel\s*9|71\s*tv|btv|sa\s*tv|bijoy\s*tv)\b",
+        r"\b(bangla\s*vision|channel\s*i|ntv\s*(bangla|bd)|rtv|atv|ekushey|gazi\s*tv|independent|desh\s*tv|boishakhi|my\s*tv|jamuna\s*tv|maasranga|ekattor|news24\s*bd|somoy|deepto|channel\s*9|71\s*tv|btv|sa\s*tv|bijoy\s*tv|nagorik|duronto|dipto|ananda|mohanagar|tsports|t\s*sports|gtv|channel\s*24|somoy\s*tv)\b",
     ],
     # ─── Sri Lanka ────────────────────────────────────────────────
     "Sri Lanka": [
