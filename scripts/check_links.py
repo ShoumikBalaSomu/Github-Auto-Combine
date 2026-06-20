@@ -12,7 +12,8 @@ import json
 import time
 import logging
 import argparse
-from typing import List, Tuple
+import subprocess
+from typing import List, Tuple, Optional
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -29,6 +30,7 @@ from country_mapper import get_country_with_flag
 
 # ─── Configuration ────────────────────────────────────────────────
 LINK_TIMEOUT = 10  # seconds per link check
+PROBE_TIMEOUT = 5  # seconds for ffprobe analysis
 MAX_WORKERS = 10  # concurrent checks
 MAX_CHANNELS_TO_CHECK = 5000  # limit to avoid excessive checking
 USER_AGENT = "Mozilla/5.0 (IPTV-Link-Checker/1.0)"
@@ -42,7 +44,31 @@ logging.basicConfig(
 log = logging.getLogger("check_links")
 
 
-def check_single_link(channel: Channel) -> Tuple[Channel, bool, str]:
+def probe_resolution(url: str) -> Optional[int]:
+    """Uses ffprobe to quickly extract the vertical resolution of the stream."""
+    cmd = [
+        "ffprobe",
+        "-v", "error",
+        "-select_streams", "v:0",
+        "-show_entries", "stream=height",
+        "-of", "csv=s=x:p=0",
+        "-analyzeduration", "1000000",
+        "-probesize", "1000000",
+        "-timeout", "5000000", # 5 seconds in microseconds (for tcp/udp)
+        url
+    ]
+    try:
+        # Run ffprobe with a strict timeout
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=PROBE_TIMEOUT)
+        output = result.stdout.strip()
+        if output and output.isdigit():
+            return int(output)
+    except Exception:
+        pass
+    return None
+
+
+def check_single_link(channel: Channel, do_probe: bool = False) -> Tuple[Channel, bool, str]:
     """
     Check if a single stream URL is alive.
     Returns (channel, is_alive, reason).
@@ -60,29 +86,51 @@ def check_single_link(channel: Channel) -> Tuple[Channel, bool, str]:
         })
         
         # First try HEAD request (faster)
+        is_alive = False
+        reason = ""
         try:
             response = session.head(url, timeout=LINK_TIMEOUT, allow_redirects=True)
             if response.status_code < 400:
-                return channel, True, f"HEAD {response.status_code}"
+                is_alive = True
+                reason = f"HEAD {response.status_code}"
         except requests.exceptions.RequestException:
             pass
         
-        # Fallback to GET with stream (for servers that don't support HEAD)
-        try:
-            response = session.get(url, timeout=LINK_TIMEOUT, stream=True, allow_redirects=True)
-            if response.status_code < 400:
-                # Read a small chunk to verify stream is sending data
-                chunk = next(response.iter_content(1024), None)
-                response.close()
-                if chunk:
-                    return channel, True, f"GET {response.status_code} (data received)"
+        # Fallback to GET with stream
+        if not is_alive:
+            try:
+                response = session.get(url, timeout=LINK_TIMEOUT, stream=True, allow_redirects=True)
+                if response.status_code < 400:
+                    chunk = next(response.iter_content(1024), None)
+                    response.close()
+                    if chunk:
+                        is_alive = True
+                        reason = f"GET {response.status_code}"
+                    else:
+                        return channel, False, f"GET {response.status_code} (no data)"
                 else:
-                    return channel, False, f"GET {response.status_code} (no data)"
-            else:
-                response.close()
-                return channel, False, f"HTTP {response.status_code}"
-        except StopIteration:
-            return channel, False, "no data in stream"
+                    response.close()
+                    return channel, False, f"HTTP {response.status_code}"
+            except StopIteration:
+                return channel, False, "no data in stream"
+        
+        # If alive and probing is enabled, extract resolution
+        if is_alive and do_probe:
+            res = probe_resolution(url)
+            if res:
+                # Add resolution tag if not already present
+                if f"{res}p" not in channel.name.lower() and f"{res}i" not in channel.name.lower():
+                    if res >= 2160:
+                        tag = "4K"
+                    else:
+                        tag = f"{res}p"
+                    channel.name = f"{channel.name} [{tag}]"
+                    channel.extra_attrs["tvg-resolution"] = str(res)
+                    # We also add an artificial bump to duration or something so deduplicator prefers it
+                    # But actually we'll handle this in the deduplicator explicitly using extra_attrs
+        
+        return channel, is_alive, reason
+        
     
     except requests.exceptions.Timeout:
         return channel, False, "timeout"
@@ -94,7 +142,7 @@ def check_single_link(channel: Channel) -> Tuple[Channel, bool, str]:
         return channel, False, f"error: {str(e)[:50]}"
 
 
-def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS) -> Tuple[List[Channel], List[Channel]]:
+def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS, do_probe: bool = False) -> Tuple[List[Channel], List[Channel]]:
     """
     Check all channel links concurrently.
     Returns (live_channels, dead_channels).
@@ -106,7 +154,7 @@ def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS) -> Tupl
         channels = channels[:MAX_CHANNELS_TO_CHECK]
         total = len(channels)
     
-    log.info(f"Checking {total} channels with {max_workers} workers...")
+    log.info(f"Checking {total} channels with {max_workers} workers. Probing: {do_probe}...")
     
     live_channels = []
     dead_channels = []
@@ -114,7 +162,7 @@ def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS) -> Tupl
     start_time = time.time()
     
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(check_single_link, ch): ch for ch in channels}
+        futures = {executor.submit(check_single_link, ch, do_probe): ch for ch in channels}
         
         for future in as_completed(futures):
             checked += 1
@@ -165,8 +213,8 @@ def run_link_checker():
     log.info(f"  Loaded {len(channels)} channels")
     
     # Check links
-    log.info("\n🔍 Checking links...")
-    live_channels, dead_channels = check_links(channels)
+    log.info(f"\n🔍 Checking links (Probe enabled: {DO_PROBE})...")
+    live_channels, dead_channels = check_links(channels, max_workers=MAX_WORKERS, do_probe=DO_PROBE)
     
     # Write live channels to combined_live.m3u
     log.info("\n📦 Writing live channels...")
@@ -219,11 +267,13 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="IPTV Dead Link Checker")
     parser.add_argument("--timeout", type=int, default=LINK_TIMEOUT, help="Timeout per link (seconds)")
     parser.add_argument("--workers", type=int, default=MAX_WORKERS, help="Concurrent workers")
+    parser.add_argument("--probe", action="store_true", help="Enable ffprobe stream resolution probing")
     parser.add_argument("--verbose", "-v", action="store_true", help="Verbose logging")
     args = parser.parse_args()
     
     LINK_TIMEOUT = args.timeout
     MAX_WORKERS = args.workers
+    DO_PROBE = args.probe
     
     if args.verbose:
         logging.getLogger().setLevel(logging.DEBUG)

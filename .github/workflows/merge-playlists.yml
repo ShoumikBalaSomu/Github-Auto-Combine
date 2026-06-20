@@ -53,16 +53,24 @@ jobs:
           cache: 'pip'
           cache-dependency-path: 'scripts/requirements.txt'
       
-      - name: 📦 Install dependencies
+      - name: 📦 Install Python dependencies
         run: pip install -r scripts/requirements.txt
+      
+      - name: 🎥 Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
       
       - name: 🔄 Run playlist merger
         run: python scripts/merge_playlists.py --verbose
       
-      - name: 🔍 Check dead links
+      - name: 🔍 Check dead links & probe resolution
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.check_links == 'true') }}
-        run: python scripts/check_links.py --timeout 10 --workers 10 --verbose
+        run: python scripts/check_links.py --timeout 10 --workers 15 --probe --verbose
         continue-on-error: true
+      
+      - name: 🗜️ Compress outputs (GZIP)
+        run: |
+          # Create compressed versions of all m3u files
+          find output/ -name "*.m3u" -exec gzip -k -9 {} +
       
       - name: 📊 Generate GitHub Pages
         run: |

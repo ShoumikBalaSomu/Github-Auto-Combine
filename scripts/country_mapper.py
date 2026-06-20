@@ -49,6 +49,18 @@ FLAGS: Dict[str, str] = {
     "Entertainment": "🎭", "Adult": "🔞",
 }
 
+# Sub-categories mapping
+CATEGORY_PATTERNS = [
+    (re.compile(r'\b(news|noticias|haber|akhbar|samachar|khabar|info|24|bbc\s*news|cnn|fox\s*news|al\s*jazeera|skai|rt|ndtv|aaj\s*tak)\b', re.IGNORECASE), "News"),
+    (re.compile(r'\b(sport|sports|esporte|esportes|deportes|bein|espn|fox\s*sports|sky\s*sports|arena\s*sport|super\s*sport|dazn|nba|nfl|wwe|ufc|f1)\b', re.IGNORECASE), "Sports"),
+    (re.compile(r'\b(movie|movies|cinema|film|films|pelicula|peliculas|kino|filme|cine|hbo|starz|cinemax|showtime|amc|tcm)\b', re.IGNORECASE), "Movies"),
+    (re.compile(r'\b(kid|kids|child|children|cocuk|niños|cartoon|disney|nick|nickelodeon|cbeebies|boing|baby|animax|sprout)\b', re.IGNORECASE), "Kids"),
+    (re.compile(r'\b(music|musica|muzik|mtv|vh1|trace|mcm|clubland|kiss|kerrang|viva|vevo|melody)\b', re.IGNORECASE), "Music"),
+    (re.compile(r'\b(doc|documentary|docu|history|discovery|nat\s*geo|national\s*geographic|animal\s*planet|science|nature)\b', re.IGNORECASE), "Documentary"),
+    (re.compile(r'\b(islam|islamic|quran|sunnah|makkah|madinah|peace|god|jesus|christ|christian|catholic|church|pope|buddha|hindu|bhakti|sanskar|aastha)\b', re.IGNORECASE), "Religious"),
+    (re.compile(r'\b(xxx|adult|18\+|porn|playboy|hustler|brazzers|babes|passion)\b', re.IGNORECASE), "Adult"),
+]
+
 # Comprehensive channel name patterns → country mapping
 # Each entry: (compiled_regex_pattern, country_name)
 CHANNEL_PATTERNS: List[Tuple[re.Pattern, str]] = []
@@ -532,6 +544,16 @@ def get_country_from_attributes(tvg_country: str = "", tvg_language: str = "") -
             return lang_map[lang_lower]
     
     return None
+
+
+def get_category(channel_name: str) -> Optional[str]:
+    """Identify the channel category based on name keywords."""
+    if not channel_name:
+        return None
+    for pattern, category in CATEGORY_PATTERNS:
+        if pattern.search(channel_name):
+            return category
+    return "Entertainment" # Default category
 
 
 def identify_country(

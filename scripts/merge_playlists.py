@@ -35,7 +35,8 @@ except ImportError:
     print("ERROR: 'requests' package not found. Install with: pip install requests")
     sys.exit(1)
 
-from country_mapper import identify_country, get_country_with_flag, FLAGS
+from country_mapper import identify_country, get_country_with_flag, get_category, FLAGS
+from epg_mapper import get_tvg_id, load_epg_database
 
 # ─── Configuration ────────────────────────────────────────────────
 SCRIPT_DIR = Path(__file__).parent
@@ -78,6 +79,7 @@ class Channel:
     duration: str = "-1"
     extra_attrs: Dict[str, str] = field(default_factory=dict)
     country: str = ""  # Resolved country
+    category: str = "" # Resolved category
     source_url: str = ""  # Which playlist this came from
     
     @property
@@ -113,7 +115,18 @@ class Channel:
             bool(other.tvg_id), bool(other.tvg_logo), bool(other.tvg_name),
             bool(other.tvg_country), bool(other.tvg_language),
             bool(other.catchup), bool(other.catchup_source),
-        ])
+        # Give heavy weight to resolution if probed
+        if "tvg-resolution" in self.extra_attrs:
+            try:
+                self_score += int(self.extra_attrs["tvg-resolution"]) * 10
+            except ValueError:
+                self_score += 100
+        if "tvg-resolution" in other.extra_attrs:
+            try:
+                other_score += int(other.extra_attrs["tvg-resolution"]) * 10
+            except ValueError:
+                other_score += 100
+                
         return self_score >= other_score
     
     def to_m3u_line(self, use_country_group: bool = True) -> str:
@@ -133,9 +146,11 @@ class Channel:
         if self.tvg_shift:
             attrs.append(f'tvg-shift="{self.tvg_shift}"')
         
-        # Set group-title to country if using country groups
+        # Set group-title to country + category if using country groups
         if use_country_group and self.country:
             group = get_country_with_flag(self.country)
+            if self.category and self.category != "Entertainment":
+                group = f"{group} - {self.category}"
         elif self.group_title:
             group = self.group_title
         else:
@@ -488,8 +503,12 @@ def run_merge_pipeline(check_links: bool = False) -> Dict:
     
     log.info(f"  ✓ Total channels downloaded: {len(all_channels)}")
     
-    # Step 3: Remove original groups and identify countries
-    log.info("\n🌍 Step 3: Identifying countries...")
+    # Load EPG database
+    log.info("\n📅 Step 3: Loading EPG Database...")
+    load_epg_database()
+    
+    # Step 4: Remove original groups and identify countries/categories/EPG
+    log.info("\n🌍 Step 4: Identifying countries and EPG IDs...")
     for ch in all_channels:
         # Identify country using all available signals
         ch.country = identify_country(
@@ -499,6 +518,14 @@ def run_merge_pipeline(check_links: bool = False) -> Dict:
             tvg_language=ch.tvg_language,
             tvg_id=ch.tvg_id,
         )
+        # Identify category
+        ch.category = get_category(ch.display_name)
+        
+        # Auto-map EPG
+        if not ch.tvg_id:
+            epg_id = get_tvg_id(ch.display_name)
+            if epg_id:
+                ch.tvg_id = epg_id
     
     # Count countries
     country_counts: Dict[str, int] = {}
@@ -512,15 +539,15 @@ def run_merge_pipeline(check_links: bool = False) -> Dict:
     if len(country_counts) > 15:
         log.info(f"    ... and {len(country_counts) - 15} more")
     
-    # Step 4: Deduplicate
-    log.info("\n🔄 Step 4: Deduplicating channels...")
+    # Step 5: Deduplicate
+    log.info("\n🔄 Step 5: Deduplicating channels...")
     unique_channels = Deduplicator.deduplicate(all_channels)
     
-    # Step 5: Generate output files
-    log.info("\n📦 Step 5: Generating output files...")
+    # Step 6: Generate output files
+    log.info("\n📦 Step 6: Generating output files...")
     output_stats = OutputGenerator.generate_all_outputs(unique_channels)
     
-    # Step 6: Save stats
+    # Step 7: Save stats
     stats = {
         "total_urls": len(urls),
         "download_success": download_stats["success"],
