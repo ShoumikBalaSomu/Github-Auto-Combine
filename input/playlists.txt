@@ -1,0 +1,10 @@
+# IPTV Playlist URLs
+# Add your IPTV playlist URLs below (one per line)
+# Lines starting with # are comments and will be ignored
+#
+# Example:
+# https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+# https://iptv-org.github.io/iptv/index.m3u
+#
+# Add your playlist URLs below:
+https://iptv-org.github.io/iptv/index.m3u

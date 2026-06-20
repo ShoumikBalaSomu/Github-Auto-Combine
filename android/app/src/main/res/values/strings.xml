@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV Auto Combine</string>
+
+    <!-- Navigation -->
+    <string name="nav_channels">Channels</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Channel List -->
+    <string name="channels_title">Live Channels</string>
+    <string name="no_channels">No channels found</string>
+    <string name="loading_channels">Loading channels…</string>
+    <string name="error_loading">Failed to load playlist</string>
+    <string name="retry">Retry</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="channel_count">%d channels</string>
+    <string name="group_count">%d groups</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search channels…</string>
+    <string name="search_no_results">No channels match your search</string>
+    <string name="search_title">Search</string>
+    <string name="clear_search">Clear search</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">Favorites</string>
+    <string name="no_favorites">No favorite channels yet.\nTap the ★ icon on any channel to add it here.</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+
+    <!-- Player -->
+    <string name="player_title">Now Playing</string>
+    <string name="player_error">Unable to play this stream</string>
+    <string name="player_buffering">Buffering…</string>
+    <string name="player_loading">Loading stream…</string>
+    <string name="player_live">LIVE</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="exit_fullscreen">Exit fullscreen</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="pref_playlist_url_title">Playlist URL</string>
+    <string name="pref_playlist_url_summary">M3U playlist source URL</string>
+    <string name="pref_playlist_url_default">https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combined_by_country.m3u</string>
+    <string name="pref_auto_refresh_title">Auto Refresh</string>
+    <string name="pref_auto_refresh_summary">Automatically refresh playlist periodically</string>
+    <string name="pref_refresh_interval_title">Refresh Interval</string>
+    <string name="pref_refresh_interval_summary">How often to refresh the playlist</string>
+    <string name="pref_category_playlist">Playlist</string>
+    <string name="pref_category_playback">Playback</string>
+    <string name="pref_category_about">About</string>
+    <string name="pref_version_title">App Version</string>
+    <string name="pref_buffer_size_title">Buffer Size</string>
+    <string name="pref_buffer_size_summary">Larger buffers reduce stuttering</string>
+
+    <!-- Refresh intervals -->
+    <string-array name="refresh_intervals">
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+    </string-array>
+    <string-array name="refresh_interval_values">
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+    </string-array>
+
+    <!-- TV -->
+    <string name="tv_browse_title">IPTV Auto Combine</string>
+    <string name="tv_channels_row">Channels</string>
+    <string name="tv_favorites_row">★ Favorites</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="unknown_group">Uncategorized</string>
+    <string name="all_channels">All Channels</string>
+    <string name="content_description_logo">Channel Logo</string>
+    <string name="content_description_favorite">Toggle favorite</string>
+</resources>

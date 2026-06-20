@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/group_header_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="@dimen/group_header_padding"
+    android:paddingHorizontal="4dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="?attr/selectableItemBackground">
+
+    <!-- Expand/collapse arrow -->
+    <ImageView
+        android:id="@+id/expand_arrow"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@android:drawable/arrow_down_float"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="Expand" />
+
+    <!-- Flag emoji + group name -->
+    <TextView
+        android:id="@+id/group_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/TextAppearance.IPTVAutoCombine.GroupHeader"
+        tools:text="🇺🇸 United States" />
+
+    <!-- Channel count in group -->
+    <TextView
+        android:id="@+id/group_channel_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_hint"
+        android:textSize="@dimen/text_group_count"
+        android:background="@drawable/card_background"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="4dp"
+        tools:text="24 ch" />
+</LinearLayout>

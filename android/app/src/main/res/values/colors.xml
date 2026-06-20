@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors - Deep Purple/Indigo -->
+    <color name="purple_primary">#FF6200EE</color>
+    <color name="purple_primary_dark">#FF3700B3</color>
+    <color name="purple_primary_variant">#FF7C4DFF</color>
+    <color name="indigo_accent">#FF536DFE</color>
+    <color name="indigo_accent_dark">#FF304FFE</color>
+
+    <!-- Material 3 Seed colors -->
+    <color name="md_theme_primary">#FF7C4DFF</color>
+    <color name="md_theme_on_primary">#FFFFFFFF</color>
+    <color name="md_theme_primary_container">#FFE8DDFF</color>
+    <color name="md_theme_on_primary_container">#FF21005D</color>
+
+    <color name="md_theme_secondary">#FF536DFE</color>
+    <color name="md_theme_on_secondary">#FFFFFFFF</color>
+    <color name="md_theme_secondary_container">#FFDBE1FF</color>
+    <color name="md_theme_on_secondary_container">#FF001A41</color>
+
+    <color name="md_theme_tertiary">#FF03DAC6</color>
+    <color name="md_theme_on_tertiary">#FF000000</color>
+
+    <color name="md_theme_error">#FFCF6679</color>
+    <color name="md_theme_on_error">#FF000000</color>
+
+    <color name="md_theme_background">#FF121212</color>
+    <color name="md_theme_on_background">#FFE6E1E5</color>
+    <color name="md_theme_surface">#FF1E1E2E</color>
+    <color name="md_theme_on_surface">#FFE6E1E5</color>
+    <color name="md_theme_surface_variant">#FF2D2D3F</color>
+    <color name="md_theme_on_surface_variant">#FFCAC4D0</color>
+    <color name="md_theme_outline">#FF938F99</color>
+
+    <!-- Dark surfaces -->
+    <color name="surface_dark">#FF121212</color>
+    <color name="surface_dark_1">#FF1E1E2E</color>
+    <color name="surface_dark_2">#FF252538</color>
+    <color name="surface_dark_3">#FF2D2D3F</color>
+    <color name="surface_dark_4">#FF353548</color>
+
+    <!-- Card colors -->
+    <color name="card_background">#FF252538</color>
+    <color name="card_border">#FF3D3D55</color>
+    <color name="card_ripple">#337C4DFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#66FFFFFF</color>
+
+    <!-- Player colors -->
+    <color name="player_background">#FF000000</color>
+    <color name="player_controls_bg">#99000000</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#FF1A1A2E</color>
+    <color name="gradient_center">#FF16213E</color>
+    <color name="gradient_end">#FF0F3460</color>
+
+    <!-- Status / accent -->
+    <color name="live_badge">#FFFF1744</color>
+    <color name="favorite_active">#FFFFAB40</color>
+    <color name="favorite_inactive">#66FFFFFF</color>
+
+    <!-- TV specific -->
+    <color name="tv_background">#FF0A0A1A</color>
+    <color name="tv_card_selected">#FF7C4DFF</color>
+    <color name="tv_card_default">#FF1E1E2E</color>
+    <color name="tv_search_bar">#FF2D2D3F</color>
+</resources>

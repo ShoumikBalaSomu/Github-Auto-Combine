@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Auto Combine — Playlist Dashboard</title>
+    <meta name="description" content="Automated IPTV playlist combiner — merged, deduplicated, and organized by country. Compatible with OTT Navigator.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a1a;
+            --bg-secondary: #111128;
+            --bg-card: rgba(30, 30, 60, 0.6);
+            --bg-card-hover: rgba(40, 40, 80, 0.8);
+            --border-color: rgba(100, 100, 200, 0.15);
+            --text-primary: #e8e8f0;
+            --text-secondary: #9090b0;
+            --text-muted: #606080;
+            --accent-primary: #7c5cfc;
+            --accent-secondary: #5c9cfc;
+            --accent-gradient: linear-gradient(135deg, #7c5cfc 0%, #5c9cfc 50%, #5cfcb0 100%);
+            --success: #4cdc7c;
+            --warning: #fcbc4c;
+            --danger: #fc5c5c;
+            --glow: rgba(124, 92, 252, 0.3);
+            --radius: 16px;
+            --radius-sm: 10px;
+            --shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Animated background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 50%, rgba(124, 92, 252, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 20%, rgba(92, 156, 252, 0.06) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 80%, rgba(92, 252, 176, 0.04) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 24px;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Header */
+        header {
+            padding: 60px 0 40px;
+            text-align: center;
+        }
+
+        .logo {
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: clamp(32px, 5vw, 52px);
+            font-weight: 800;
+            line-height: 1.1;
+            margin-bottom: 16px;
+            background: linear-gradient(135deg, #fff 0%, #c0c0e0 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+            font-weight: 300;
+        }
+
+        /* Stats bar */
+        .stats-bar {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 40px 0;
+        }
+
+        .stat-chip {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            backdrop-filter: blur(20px);
+            border-radius: 100px;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .stat-chip:hover {
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 20px var(--glow);
+            transform: translateY(-2px);
+        }
+
+        .stat-chip .number {
+            font-weight: 700;
+            font-size: 16px;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Playlist cards */
+        .section-title {
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+            padding-left: 4px;
+        }
+
+        .playlist-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 16px;
+            margin-bottom: 48px;
+        }
+
+        .playlist-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            backdrop-filter: blur(20px);
+            border-radius: var(--radius);
+            padding: 24px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .playlist-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: var(--accent-gradient);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .playlist-card:hover {
+            border-color: rgba(124, 92, 252, 0.3);
+            box-shadow: var(--shadow), 0 0 30px var(--glow);
+            transform: translateY(-4px);
+        }
+
+        .playlist-card:hover::before {
+            opacity: 1;
+        }
+
+        .card-icon {
+            font-size: 32px;
+            margin-bottom: 12px;
+        }
+
+        .card-title {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+
+        .card-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .card-actions {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 10px 18px;
+            border-radius: var(--radius-sm);
+            font-size: 13px;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: none;
+            font-family: inherit;
+        }
+
+        .btn-primary {
+            background: var(--accent-gradient);
+            color: #fff;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 15px var(--glow);
+        }
+
+        .btn-secondary {
+            background: rgba(124, 92, 252, 0.1);
+            color: var(--accent-primary);
+            border: 1px solid rgba(124, 92, 252, 0.2);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(124, 92, 252, 0.2);
+        }
+
+        /* Country list */
+        .country-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 8px;
+            margin-bottom: 48px;
+        }
+
+        .country-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-sm);
+            padding: 12px 16px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .country-item:hover {
+            border-color: var(--accent-primary);
+            background: var(--bg-card-hover);
+        }
+
+        .country-item .name {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .country-item .count {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-muted);
+            background: rgba(124, 92, 252, 0.1);
+            padding: 2px 8px;
+            border-radius: 100px;
+        }
+
+        /* OTT Navigator guide */
+        .guide-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            backdrop-filter: blur(20px);
+            border-radius: var(--radius);
+            padding: 32px;
+            margin-bottom: 48px;
+        }
+
+        .guide-card h3 {
+            font-size: 20px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .steps {
+            list-style: none;
+            counter-reset: steps;
+        }
+
+        .steps li {
+            counter-increment: steps;
+            padding: 12px 0;
+            padding-left: 48px;
+            position: relative;
+            color: var(--text-secondary);
+            font-size: 15px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .steps li:last-child {
+            border-bottom: none;
+        }
+
+        .steps li::before {
+            content: counter(steps);
+            position: absolute;
+            left: 0;
+            top: 12px;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: rgba(124, 92, 252, 0.15);
+            color: var(--accent-primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        .steps li strong {
+            color: var(--text-primary);
+        }
+
+        /* Toast notification */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: var(--success);
+            color: #000;
+            padding: 12px 24px;
+            border-radius: 100px;
+            font-size: 14px;
+            font-weight: 600;
+            z-index: 1000;
+            opacity: 0;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            pointer-events: none;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: var(--text-muted);
+            font-size: 13px;
+            border-top: 1px solid var(--border-color);
+        }
+
+        footer a {
+            color: var(--accent-secondary);
+            text-decoration: none;
+        }
+
+        .last-updated {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 8px;
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            header { padding: 40px 0 24px; }
+            .playlist-grid { grid-template-columns: 1fr; }
+            .country-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+            .guide-card { padding: 20px; }
+        }
+
+        /* Shimmer loading animation */
+        @keyframes shimmer {
+            0% { background-position: -200% 0; }
+            100% { background-position: 200% 0; }
+        }
+
+        .loading {
+            background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-card-hover) 50%, var(--bg-card) 75%);
+            background-size: 200% 100%;
+            animation: shimmer 2s ease-in-out infinite;
+        }
+
+        /* Pulse animation for live badge */
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .live-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--success);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .live-badge::before {
+            content: '';
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--success);
+            animation: pulse 2s ease-in-out infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">⚡ IPTV Auto Combine</div>
+            <h1>Your Unified Playlist</h1>
+            <p class="subtitle">Automatically merged, deduplicated, and organized by country. Updated daily via GitHub Actions.</p>
+        </header>
+
+        <div class="stats-bar" id="stats-bar">
+            <div class="stat-chip">
+                <span>📺</span>
+                <span id="stat-channels" class="number">—</span>
+                <span>Channels</span>
+            </div>
+            <div class="stat-chip">
+                <span>🌍</span>
+                <span id="stat-countries" class="number">—</span>
+                <span>Countries</span>
+            </div>
+            <div class="stat-chip">
+                <span>🔄</span>
+                <span id="stat-dedup" class="number">—</span>
+                <span>Duplicates Removed</span>
+            </div>
+            <div class="stat-chip">
+                <span class="live-badge">Live</span>
+                <span id="stat-live" class="number">—</span>
+                <span>Verified</span>
+            </div>
+        </div>
+
+        <div class="section-title">📋 Main Playlists</div>
+        <div class="playlist-grid">
+            <div class="playlist-card">
+                <div class="card-icon">🌍</div>
+                <div class="card-title">All Channels (By Country)</div>
+                <div class="card-desc">Complete playlist with all channels organized by country. Best for OTT Navigator.</div>
+                <div class="card-actions">
+                    <button class="btn btn-primary" onclick="copyLink('combined_by_country.m3u')">📋 Copy Link</button>
+                    <a class="btn btn-secondary" href="output/combined_by_country.m3u" download>⬇ Download</a>
+                </div>
+            </div>
+
+            <div class="playlist-card">
+                <div class="card-icon">📺</div>
+                <div class="card-title">All Channels (Raw)</div>
+                <div class="card-desc">All merged channels in a single flat playlist without country organization.</div>
+                <div class="card-actions">
+                    <button class="btn btn-primary" onclick="copyLink('combined_all.m3u')">📋 Copy Link</button>
+                    <a class="btn btn-secondary" href="output/combined_all.m3u" download>⬇ Download</a>
+                </div>
+            </div>
+
+            <div class="playlist-card">
+                <div class="card-icon">✅</div>
+                <div class="card-title">Live Channels Only</div>
+                <div class="card-desc">Only verified working channels. Dead links have been filtered out automatically.</div>
+                <div class="card-actions">
+                    <button class="btn btn-primary" onclick="copyLink('combined_live.m3u')">📋 Copy Link</button>
+                    <a class="btn btn-secondary" href="output/combined_live.m3u" download>⬇ Download</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title">🏳️ Playlists By Country</div>
+        <div class="country-grid" id="country-grid">
+            <div class="country-item loading" style="height:48px"></div>
+            <div class="country-item loading" style="height:48px"></div>
+            <div class="country-item loading" style="height:48px"></div>
+            <div class="country-item loading" style="height:48px"></div>
+        </div>
+
+        <div class="section-title">📖 Setup Guide</div>
+        <div class="guide-card">
+            <h3>📱 How to use with OTT Navigator</h3>
+            <ol class="steps">
+                <li><strong>Copy the playlist link</strong> — Click "Copy Link" on any playlist above</li>
+                <li><strong>Open OTT Navigator</strong> — Launch the app on your device</li>
+                <li><strong>Add Provider</strong> — Go to Settings → Providers → Add Provider</li>
+                <li><strong>Paste the URL</strong> — Select "M3U Playlist" and paste the copied link</li>
+                <li><strong>Save & Refresh</strong> — The channels will load automatically, organized by country</li>
+            </ol>
+        </div>
+
+        <div class="guide-card">
+            <h3>➕ How to Add Your Playlists</h3>
+            <ol class="steps">
+                <li><strong>Edit playlists.txt</strong> — Go to the <code>input/playlists.txt</code> file in the repository</li>
+                <li><strong>Add URLs</strong> — Add your M3U/M3U8 playlist URLs, one per line</li>
+                <li><strong>Commit & Push</strong> — Save and push your changes</li>
+                <li><strong>Auto-merge</strong> — GitHub Actions will automatically download, merge, deduplicate, and organize your playlists</li>
+                <li><strong>Get your link</strong> — Use the same playlist URL above — it's always up to date!</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="toast" id="toast">✓ Link copied to clipboard!</div>
+
+    <footer>
+        <div class="container">
+            <p>Built with ❤️ by <a href="https://github.com/ShoumikBalaSomu">ShoumikBalaSomu</a></p>
+            <p class="last-updated" id="last-updated">Loading last update time...</p>
+        </div>
+    </footer>
+
+    <script>
+        // Base URL for playlists (auto-detect from current page URL)
+        const BASE_URL = window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '/');
+
+        function getPlaylistUrl(filename) {
+            return BASE_URL + 'output/' + filename;
+        }
+
+        function copyLink(filename) {
+            const url = getPlaylistUrl(filename);
+            navigator.clipboard.writeText(url).then(() => {
+                showToast();
+            }).catch(() => {
+                // Fallback for older browsers
+                const input = document.createElement('input');
+                input.value = url;
+                document.body.appendChild(input);
+                input.select();
+                document.execCommand('copy');
+                document.body.removeChild(input);
+                showToast();
+            });
+        }
+
+        function copyCountryLink(filename) {
+            const url = getPlaylistUrl('countries/' + filename);
+            navigator.clipboard.writeText(url).then(() => {
+                showToast();
+            }).catch(() => {
+                const input = document.createElement('input');
+                input.value = url;
+                document.body.appendChild(input);
+                input.select();
+                document.execCommand('copy');
+                document.body.removeChild(input);
+                showToast();
+            });
+        }
+
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 2500);
+        }
+
+        // Load stats
+        async function loadStats() {
+            try {
+                const response = await fetch('output/stats.json');
+                if (!response.ok) throw new Error('Stats not found');
+                const stats = await response.json();
+
+                // Update stat chips
+                document.getElementById('stat-channels').textContent = 
+                    (stats.total_channels_unique || 0).toLocaleString();
+                document.getElementById('stat-countries').textContent = 
+                    stats.total_countries || 0;
+                document.getElementById('stat-dedup').textContent = 
+                    (stats.duplicates_removed || 0).toLocaleString();
+                document.getElementById('stat-live').textContent = 
+                    stats.live_channels !== undefined ? stats.live_channels.toLocaleString() : '—';
+
+                // Update last updated
+                if (stats.last_updated) {
+                    const date = new Date(stats.last_updated);
+                    document.getElementById('last-updated').textContent = 
+                        'Last updated: ' + date.toLocaleString();
+                }
+
+                // Build country grid
+                if (stats.countries) {
+                    const grid = document.getElementById('country-grid');
+                    grid.innerHTML = '';
+                    
+                    // Sort by channel count descending
+                    const sorted = Object.entries(stats.countries)
+                        .sort((a, b) => b[1] - a[1]);
+                    
+                    for (const [country, count] of sorted) {
+                        const safeName = country.toLowerCase().replace(/[^a-z0-9_]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+                        const item = document.createElement('div');
+                        item.className = 'country-item';
+                        item.onclick = () => copyCountryLink(safeName + '.m3u');
+                        item.innerHTML = `
+                            <span class="name">${country}</span>
+                            <span class="count">${count}</span>
+                        `;
+                        grid.appendChild(item);
+                    }
+                }
+            } catch (e) {
+                console.log('Stats not available yet:', e.message);
+                document.getElementById('last-updated').textContent = 
+                    'Stats will appear after the first GitHub Actions run.';
+            }
+        }
+
+        loadStats();
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Channel card style -->
+    <style name="Widget.IPTVAutoCombine.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="contentPadding">@dimen/card_padding</item>
+        <item name="rippleColor">@color/card_ripple</item>
+    </style>
+
+    <!-- Group header text -->
+    <style name="TextAppearance.IPTVAutoCombine.GroupHeader" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_group_header</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <!-- Channel title text -->
+    <style name="TextAppearance.IPTVAutoCombine.ChannelTitle" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <!-- Channel subtitle text -->
+    <style name="TextAppearance.IPTVAutoCombine.ChannelSubtitle" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">@dimen/text_subtitle</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <!-- Search bar -->
+    <style name="Widget.IPTVAutoCombine.SearchBar" parent="">
+        <item name="android:background">@drawable/search_bar_background</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:imeOptions">actionSearch</item>
+        <item name="android:inputType">text</item>
+    </style>
+
+    <!-- Bottom navigation style override -->
+    <style name="Widget.IPTVAutoCombine.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundTint">@color/surface_dark_1</item>
+        <item name="itemIconTint">@color/md_theme_on_surface_variant</item>
+        <item name="itemTextColor">@color/md_theme_on_surface_variant</item>
+        <item name="itemActiveIndicatorStyle">@style/Widget.IPTVAutoCombine.BottomNav.ActiveIndicator</item>
+    </style>
+
+    <style name="Widget.IPTVAutoCombine.BottomNav.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/md_theme_primary_container</item>
+    </style>
+
+    <!-- Toolbar -->
+    <style name="Widget.IPTVAutoCombine.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextColor">@color/text_primary</item>
+        <item name="subtitleTextColor">@color/text_secondary</item>
+    </style>
+</resources>

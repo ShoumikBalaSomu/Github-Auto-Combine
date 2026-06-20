@@ -1,0 +1,105 @@
+name: IPTV Playlist Auto-Combine
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Manual trigger
+  workflow_dispatch:
+    inputs:
+      check_links:
+        description: 'Also check for dead links'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+  
+  # Run when playlists.txt is updated
+  push:
+    paths:
+      - 'input/playlists.txt'
+    branches:
+      - main
+
+# Permissions for GitHub Pages deployment
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Only allow one concurrent run
+concurrency:
+  group: "merge-playlists"
+  cancel-in-progress: true
+
+jobs:
+  merge-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+      
+      - name: 📦 Install dependencies
+        run: pip install -r scripts/requirements.txt
+      
+      - name: 🔄 Run playlist merger
+        run: python scripts/merge_playlists.py --verbose
+      
+      - name: 🔍 Check dead links
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.check_links == 'true') }}
+        run: python scripts/check_links.py --timeout 10 --workers 10 --verbose
+        continue-on-error: true
+      
+      - name: 📊 Generate GitHub Pages
+        run: |
+          # Copy output files to docs for GitHub Pages
+          mkdir -p docs/output
+          cp -r output/* docs/output/ 2>/dev/null || true
+          
+          # Generate timestamp
+          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > docs/output/last_updated.txt
+      
+      - name: 💾 Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/ docs/
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto-update: Merged IPTV playlists $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+      
+      - name: 📄 Summary
+        run: |
+          echo "## 📊 Merge Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f output/stats.json ]; then
+            echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+            echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+            echo "| Total Channels | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("total_channels_unique", "N/A"))')" >> $GITHUB_STEP_SUMMARY
+            echo "| Duplicates Removed | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("duplicates_removed", "N/A"))')" >> $GITHUB_STEP_SUMMARY
+            echo "| Countries | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("total_countries", "N/A"))')" >> $GITHUB_STEP_SUMMARY
+            if [ -f output/combined_live.m3u ]; then
+              echo "| Live Channels | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("live_channels", "N/A"))')" >> $GITHUB_STEP_SUMMARY
+            fi
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Pipeline completed successfully!" >> $GITHUB_STEP_SUMMARY
