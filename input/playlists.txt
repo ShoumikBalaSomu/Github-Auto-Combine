@@ -1,10 +1,22 @@
-# IPTV Playlist URLs
-# Add your IPTV playlist URLs below (one per line)
-# Lines starting with # are comments and will be ignored
-#
-# Example:
-# https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-# https://iptv-org.github.io/iptv/index.m3u
-#
-# Add your playlist URLs below:
-https://iptv-org.github.io/iptv/index.m3u
+# Add your raw IPTV playlist M3U URLs below. One per line.
+# Blank lines and lines starting with # are ignored.
+
+# --- GLOBAL ENGLISH SOURCES ---
+https://iptv-org.github.io/iptv/languages/eng.m3u
+https://iptv-org.github.io/iptv/countries/us.m3u
+https://iptv-org.github.io/iptv/countries/uk.m3u
+https://iptv-org.github.io/iptv/countries/ca.m3u
+https://iptv-org.github.io/iptv/countries/au.m3u
+
+# --- INDIA SOURCES ---
+https://iptv-org.github.io/iptv/countries/in.m3u
+https://iptv-org.github.io/iptv/languages/hin.m3u
+https://iptv-org.github.io/iptv/languages/tam.m3u
+https://iptv-org.github.io/iptv/languages/tel.m3u
+https://iptv-org.github.io/iptv/languages/mal.m3u
+
+# --- BANGLADESH SOURCES ---
+https://iptv-org.github.io/iptv/countries/bd.m3u
+https://iptv-org.github.io/iptv/languages/ben.m3u
+
+# Add any other custom M3U lists below:
