@@ -427,8 +427,8 @@ http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bO
 https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="🇺🇸 USA - Sports",beIN Sports USA (720p)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="🇺🇸 USA - Sports",BeIN Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="🇺🇸 USA - Sports",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🇺🇸 USA - Sports",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="beINSports" tvg-name="beINSports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="🇺🇸 USA",beINSports
@@ -1134,9 +1134,9 @@ http://mxonlive.xyz/live/xap/354294.m3u8?e=1781986593&token=688861b5e3f63c8068d5
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://i.imgur.com/fuChl2l.jpeg" group-title="🇺🇸 USA - Sports",ESPN
 https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.nl" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="🇺🇸 USA - Sports",ESPN 1
-https://cdn5.zohanayaan.com:1686/hls/espnusa.m3u8?md5=CzZcwrm9xvjtYtzw9VeGXA&expires=1781970366
+https://cdn2.zohanayaan.com:1686/hls/espnusa.m3u8?md5=1359j97s1dMvNfLPD0WRYg&expires=1781978419
 #EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="🇺🇸 USA - Sports",ESPN 2
-https://cdn9.zohanayaan.com:1686/hls/espn2.m3u8?md5=DSLzLfuF5zqdVH9GmFNlxg&expires=1781970366
+https://cdn1.zohanayaan.com:1686/hls/espn2.m3u8?md5=HhR3SzseXpzaksMKayfWLA&expires=1781978419
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="🇺🇸 USA - Sports",ESPN S1
 https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="🇺🇸 USA - Sports",ESPN S2
@@ -1561,8 +1561,8 @@ https://live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 http://41.223.30.230/FOXSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="🇺🇸 USA - Sports",Fox Sports 1 HD
 https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="🇺🇸 USA - Sports",Fox Sports 2
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=f164a9fa5ad742024e07ef54e4be86ce
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="🇺🇸 USA - Sports",Fox Sports 2 HD
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="🇺🇸 USA - Sports",Fox Sports 501 FHD
 https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="🇺🇸 USA - Sports",Fox Sports 502 FHD
@@ -3088,13 +3088,13 @@ https://korim.packingggl.workers.dev/api/8ea645b228/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.es" tvg-logo="https://i.postimg.cc/NfbJwMbX/tnt-us.png" group-title="🇺🇸 USA",TNT
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/TNTHDH265/default.mpd
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="🇺🇸 USA",TNT 1
-https://cdn2.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=nXwJl892T_EjQWom-GAUeA&expires=1781970364
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=ubaFgw8Rdi5RNlvpGIVsGw&expires=1781978416
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="🇺🇸 USA",TNT 2
-https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=Uuu3VCl9mjY1vBnoI4EH4A&expires=1781970364
+https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=kSUmhOFPrwXbOqvUPAG42Q&expires=1781978416
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="🇺🇸 USA",TNT 3
-https://cdn5.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=eLS1iyOHgaTSEqWBWxIRkw&expires=1781970364
+https://cdn8.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=MBTiYyJ__TmpOyUKbJiGtA&expires=1781978417
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="🇺🇸 USA",TNT 4
-https://cdn8.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=GSKyYGAbE-mdAmAlDnw2kQ&expires=1781970364
+https://cdn2.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=nG8LvWtUriroE-qMdLwfQw&expires=1781978417
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="🇺🇸 USA - Sports",TNT Sports 1 FHD
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="🇺🇸 USA - Sports",TNT Sports 2 FHD

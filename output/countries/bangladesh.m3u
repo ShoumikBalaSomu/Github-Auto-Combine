@@ -147,8 +147,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://vfgtyy.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Ekattor.S1.720p.(2020).mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-id="ekattor_tv" tvg-name="Ekattor TV" tvg-logo="https://assets-prod.services.toffeelive.com//PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="🇧🇩 Bangladesh",Ekattor TV
 https://sm-monirul.top/toffee/play/ekattor_tv.m3u8
-#EXTINF:-1 tvg-id="ekushey.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" group-title="🇧🇩 Bangladesh",Ekushay TV (Local)
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="https://otapp.store/uploads/tv_image/ekushey-tv.png" group-title="🇧🇩 Bangladesh",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="ES: RTV Vida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/19fa9d93e325e52d950b696a7b05b314.png" group-title="🇧🇩 Bangladesh",ES: RTV Vida

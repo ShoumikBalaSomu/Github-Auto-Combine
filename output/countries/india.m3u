@@ -443,8 +443,8 @@ https://m3uplay.com/leo/live.m3u8?id=1568&e=.m3u8|referer=https://m3uplay.com/
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=640961b3234e8a82ce53cbb80bdd4787
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="🇮🇳 India",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.af" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="🇮🇳 India - News",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-id="ATNNews.af" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png" group-title="🇮🇳 India - News",ATN News HD
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
 #EXTINF:-1 tvg-id="2191" tvg-name="Atrangii TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Atrangii_TV.png" tvg-language="Hindi" group-title="🇮🇳 India" tvg-type="Entertainment",Atrangii TV
 https://m3uplay.com/leo/live.m3u8?id=2191&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Awaaz_India_TV.png" group-title="🇮🇳 India",Awaaz India TV
@@ -647,8 +647,8 @@ http://mxonlive.xyz/live/xap/354439.m3u8?e=1781986593&token=26a7edd8d683ce365171
 http://mxonlive.xyz/live/xap/354440.m3u8?e=1781986593&token=e5239af2197e6b3a6b9f64bee6be81e119a569051150dab4ac029c90b75c2d37
 #EXTINF:-1 tvg-id="ChannelOneTV.gh" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="🇮🇳 India",Channel 1 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://s3.aynaott.com/storage/342b1a51814ed9946fe36ac4999d82a2" group-title="🇮🇳 India",Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="🇮🇳 India",Channel S HD
+http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-logo="https://i.ibb.co.com/Vp2HKT0s/Channel-S-TV.png" group-title="🇮🇳 India",Channel S TV
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="🇮🇳 India",Channel S UK
@@ -1353,6 +1353,8 @@ https://m3uplay.com/leo/live.m3u8?id=481&e=.m3u8|referer=https://m3uplay.com/
 https://vfgtyy.b-cdn.net/upload/videos/2023/09/[Fibwatch.Com]Epic.(2013).Dual.720p.mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png" group-title="🇮🇳 India" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=@cloudplay&Cookie=__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37" EXTVLCOPT="http-user-agent=@cloudplay",EPIC Bhojpuri
 https://jiotvmblive.cdn.jio.com/bpk-tv/Filamchi_Bhojpuri_MOB/WDVLive/index.mpd?__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37
+#EXTINF:-1 tvg-id="EpicMusic.in" tvg-logo="https://www.epiccompany.com/assets/img/EPIC_MUSIC.png" group-title="🇮🇳 India - Music",Epic Music
+http://103.175.73.12:8080/live/469/master.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/EPIC_TV.png" group-title="🇮🇳 India",EPIC TV
 https://alex4528.site/jplus/O1i1Ii0ioii1lO0IO1lloo/manifest.mpd
 #EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/622f473506c6e3ea09edd4d0d0d3e7ef.png" group-title="🇮🇳 India - Kids",ES: Nick Junior
@@ -1871,8 +1873,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="🇮🇳 India - Movies",Hinde Movies 2
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="🇮🇳 India",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="808" tvg-name="Hindi Khabar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" tvg-language="Hindi" group-title="🇮🇳 India - News" tvg-type="News",Hindi Khabar
 https://m3uplay.com/leo/live.m3u8?id=808&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="🇮🇳 India - News",Hindi Movie Classic 24

@@ -7,6 +7,8 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560404/index.mpd
 #EXTINF:-1 tvg-id="andpicture_hd" tvg-name="& Pictures HD" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="🌍 International",& Pictures HD
 https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="🌍 International" KODIPROP="inputstream.adaptive.manifest_type=mpd",& Xplor HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1322" tvg-name="&Flix HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="English" group-title="🌍 International" tvg-type="Movies",&Flix HD
 https://m3uplay.com/leo/live.m3u8?id=1322&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-id="and_tv_hd" tvg-name="&TV HD" tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="🌍 International",&TV HD
@@ -295,8 +297,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://sflex07.fun/Sflex-Artl/ACTION_CINEMA.m3u8
 #EXTINF:-1 tvg-id="2737" tvg-logo="https://core.freetvindia.com/media/action_hollywood_movie.png" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
-#EXTINF:-1 tvg-id="143307" tvg-name="Adac Gt Race 1   Dekra Lausitzring" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png" tvg-language="English" group-title="🌍 International",Adac Gt Race 1   Dekra Lausitzring
-https://dai-fancode.pages.dev/mumbai/143307_english_hls_2fc2004b3e36357_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adhya_Bhakti.png" group-title="🌍 International - Religious",Adhya Bhakti
 https://alex4528.site/jplus/lO0I0lI0lOOLlOL1LI0I00/manifest.mpd
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/adhyatmatv.png" group-title="🌍 International",Adhyatam TV
@@ -308,7 +308,7 @@ https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/ADN-40-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1zsk9RV/adrenalina-sports.png" group-title="🌍 International - Sports",Adrenalina Sports
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/ADRENALINAHD/default.mpd
 #EXTINF:-1 tvg-id="292" tvg-name="adventure-sports-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png" group-title="🌍 International - Sports" tvg-chno="266",adventure-sports-tv
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbac0562-cc83-4443-a546-44c04912102a/manifest.m3u8?hdnts=st%3D1781951725~exp%3D1781973325~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fdbac0562-cc83-4443-a546-44c04912102a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_292_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_292_-1~hmac%3D36bf1f4bde6bb4f78dd1acfda4b5d26469943a88a80cbf98e356b55c1e5ba615
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/dbac0562-cc83-4443-a546-44c04912102a/manifest.m3u8?hdnts=st%3D1781957923~exp%3D1781979523~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fdbac0562-cc83-4443-a546-44c04912102a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_292_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_292_-1~hmac%3Dbe92d612042ceba1ea6737670aadeaf137b653938f7ecaae8c627a7d2109e1ac
 #EXTINF:-1 tvg-name="AE: Al Aan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ed1a1932be72b8ebc26135021dd63a40.png" group-title="🌍 International",AE: Al Aan TV
 http://mxonlive.xyz/live/xap/354917.m3u8?e=1781986593&token=86aef9eee534b7181f164f4c31d68b16f9076a398ee634b521e18c027b44c7c8
 #EXTINF:-1 tvg-name="AE: Al Dafrah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/a5174ab8377577faf22810f6d506d907.png" group-title="🌍 International",AE: Al Dafrah TV
@@ -815,8 +815,6 @@ http://mxonlive.xyz/live/xap/419302.m3u8?e=1781986593&token=ee1e4162b553e01667fb
 http://mxonlive.xyz/live/xap/419326.m3u8?e=1781986593&token=9f6f2acdf32c9edf183740844d32ca34f7a3f692cc2c1eb429902c86e28624a2
 #EXTINF:-1 tvg-name="AF: WALF TV" tvg-logo="https://s1-ssl.dmcdn.net/l_C_Y/x1080-xiK.jpg" group-title="🌍 International",AF: WALF TV
 http://mxonlive.xyz/live/xap/419222.m3u8?e=1781986593&token=29727da2d175d079671b55a996edf3d796e427bc37a9697dcec955db5d673460
-#EXTINF:-1 tvg-id="B0H4PSD2LV" tvg-name="Afghanistan tour of India 2026 - 3rd ODI - India vs Afghanistan" group-title="🌍 International" PLAYLIST="Willow Cricket Event Info" LAST_UPDATE="08:02 PM 20-06-2026" TELEGRAM="https://t.me/livesportsplay" OWNER="Md Sohanur Rahman Hady" LIVE_COUNT="5" UPCOMING_COUNT="15",Afghanistan tour of India 2026 - 3rd ODI - India vs Afghanistan
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gzyicjiy44/out/v1/388277c3c7a7495e9a7c48bbb0f639a3/cenc.mpd
 #EXTINF:-1 tvg-id="2848" tvg-logo="https://core.freetvindia.com/media/Afrobeat_TV.png" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Afrobeat
 https://stream.ecable.tv/afrobeats/index.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-id="AIRTEL_MINIPLEX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="🌍 International",Airtel Miniplex
@@ -1273,8 +1271,8 @@ https://m3uplay.com/leo/live.m3u8?id=1349&e=.m3u8|referer=https://m3uplay.com/
 https://book4u.top/xyz/player.m3u8?id=edge3/tv-hd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="🌍 International",And Xplor HD
 https://alex4528.site/jplus/oOi1LO1ioOi1iiiLLIOLio/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ANDY_MURRAY_ARENA_HSBC_Championships.jpg" group-title="🌍 International",ANDY MURRAY ARENA | HSBC Championships [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/510516/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=8a681e6c1a6ab15813a6bb674aae32a5&x-time=1781964960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ANDY_MURRAY_ARENA_HSBC_Championships.jpg" group-title="🌍 International",ANDY MURRAY ARENA | HSBC Championships [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=4581055a61e10e1b9b0109a96314a5844121ad61&x-sign=6165053fb7223c608e3493e5964fc188&x-time=1781973060
 #EXTINF:-1 tvg-id="AngelTV.gh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="🌍 International",Angel TV HD
 https://alex4528.site/jplus/O1LLoO0LO1i1io0ILIO0/manifest.mpd
 #EXTINF:-1 tvg-id="2258" tvg-name="Animax" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" tvg-language="English" group-title="🌍 International - Kids" tvg-type="Entertainment",Animax
@@ -1710,11 +1708,11 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bydEQp0Upl1qODZU4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTv0gvcN/beisbol-tv.png" group-title="🌍 International",BEISBOL LATINO
 https://nog-live1-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6-ZPZ6UT3YhXilJF9fxtHzCqIt6mD71Dmg2_D-ZUsg&s=10" group-title="🌍 International" tvg-chno="",BFL Live 1
-https://prod-cdn01-live.toffeelive.com/live/match-11/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/match-11/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//MXnGgJkBcqxnFHJBILyR/posters/035a24dd-4d88-4fc2-99a1-275a5bc97bf5.png" group-title="🌍 International" tvg-chno="",BFL Live 2
-https://prod-cdn01-live.toffeelive.com/live/match-12/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/match-12/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//LnlKhJkBcqxnFHJBU8GM/posters/74e6a7bb-f850-4ec5-991f-7a882b04db37.png" group-title="🌍 International" tvg-chno="",BFL Live 3
-https://prod-cdn01-live.toffeelive.com/live/match-13/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/match-13/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BHStyle_Icon.png" group-title="🌍 International",BH OTT India Fest
 https://alex4528.site/jplus/oOOLilL0LIOLlOIolOOLio/manifest.mpd
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="🌍 International" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=@cloudplay&Cookie=__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37" EXTVLCOPT="http-user-agent=@cloudplay",Bhagyam TV
@@ -1916,13 +1914,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png" group-title="🌍 International" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=@cloudplay&Cookie=__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37" EXTVLCOPT="http-user-agent=@cloudplay",Bollywood Masala
 https://jiotvmblive.cdn.jio.com/bpk-tv/bollywoodmasala/HLSPartner/index.m3u8?__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37
 #EXTINF:-1 tvg-id="47" tvg-name="bollywood-4u" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png" group-title="🌍 International" tvg-chno="83",bollywood-4u
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?hdnts=st%3D1781951655~exp%3D1781973255~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F22d13e33-8705-40e8-9809-4e80aa795f15%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_47_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_47_-1~hmac%3D039ceabf806bf50b6d65da1fd18c6878a0af9c5a6731982c65e7a49cdce2ed26
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?hdnts=st%3D1781957853~exp%3D1781979453~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F22d13e33-8705-40e8-9809-4e80aa795f15%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_47_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_47_-1~hmac%3D989afcd88025c6fc1aee2d34e4eaf6369338f9c8659174ca434b7ad55dcdbf5a
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bangla.png" group-title="🌍 International",Boogle Bangla
 http://103.180.212.191:3500/live/2817.m3u8
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="🌍 International",Boogle Bollywood
 http://103.180.212.191:3500/live/962.m3u8
 #EXTINF:-1 tvg-id="199" tvg-name="boogle-bollywood" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png" group-title="🌍 International" tvg-chno="711",boogle-bollywood
-https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st%3D1781951678~exp%3D1781973278~acl%3D%21%2A%2F181224%2Fsmil%3Abogglebollywood.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_199_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_199_-1~hmac%3D5f00631eff70ddb8225171829951c598ceb8ffb71d049be8f7e4414e3d6f74f3
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st%3D1781957871~exp%3D1781979471~acl%3D%21%2A%2F181224%2Fsmil%3Abogglebollywood.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_199_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_199_-1~hmac%3D9d96ea0981703390cfe9f7d13c53309ac98c066ad996f86ef438827d10d12b73
 #EXTINF:-1 tvg-name="Bookies: William Hill TV 1" group-title="🌍 International",Bookies: William Hill TV 1
 http://mxonlive.xyz/live/xap/171453.m3u8?e=1781986593&token=506359f483c4823dbfd4b8f9a0ecbd9636673f668209872e05edd7b330a00420
 #EXTINF:-1 tvg-name="Bookies: William Hill TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3Fk-JYeOXNfEx9EgcbxBbMKALcrWLBNZ-w&usqp=CAU" group-title="🌍 International",Bookies: William Hill TV 2
@@ -2625,8 +2623,6 @@ http://mxonlive.xyz/live/xap/381750.m3u8?e=1781986593&token=c06c12eec403dfd81550
 http://210.89.51.165:80/hlslive/Admin/RSPD031/live/PlayOut9/master_1.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD" group-title="🌍 International - Sports",Chicago Sports Network HD
 https://tvpass.org/live/chicago-sports-network/hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China_PR_VS_Brazil_Nations_League.jpg" group-title="🌍 International",China PR VS Brazil | Nations League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=13f4a47558c61cb3d1188a905338e4e1&x-time=1781964960
 #EXTINF:-1 tvg-id="12357" tvg-logo="https://core.freetvindia.com/media/Chintpurni_Live.png" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Chintpurni Live
 https://origin1.freetvindia.com/live/CHINTPURNILIVE.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-id="ChintuTV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="🌍 International",Chintu TV
@@ -2901,8 +2897,6 @@ http://mxonlive.xyz/live/xap/349433.m3u8?e=1781986593&token=a489df3a39bf123383b4
 http://mxonlive.xyz/live/xap/349434.m3u8?e=1781986593&token=424f79b5bd2a709e40ef839203646d1aafcfd5b35ee07ac0e5473973849ec1fc
 #EXTINF:-1 tvg-id="2328" tvg-name="CyberPeace TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CyberPeace_TV.png" tvg-language="English" group-title="🌍 International" tvg-type="Educational",CyberPeace TV
 https://m3uplay.com/leo/live.m3u8?id=2328&e=.m3u8|referer=https://m3uplay.com/
-#EXTINF:-1 tvg-id="139952" tvg-name="Czechia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" tvg-language="English" group-title="🌍 International",Czechia Gp
-https://dai-fancode.pages.dev/mumbai/139952_english_hls_aac8a6af7c252_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-name="D Sports" group-title="🌍 International - Sports",D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="🌍 International - Sports",D SPORTS - AQ [ES]
@@ -2941,16 +2935,16 @@ https://alex4528.site/jplus/LIIOOO0iLIlloiL1lOO0/manifest.mpd
 https://mumt05.tangotv.in/DARSHAN24/index.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-name="Dawn" tvg-logo="https://media.zongmobiletv.com/file/channel_thumbs/6fAqWaVseQjN2wC6sA4fh1sf11JDhi76NTsUG4rv.webp" group-title="🌍 International",Dawn
 https://s5.ideationtec.live/Dawn/Dawn.m3u8
-#EXTINF:-1 tvg-id="143249" tvg-name="Day 4   Doubles Semifinal 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" tvg-language="English" group-title="🌍 International",Day 4   Doubles Semifinal 1
-https://dai-fancode.pages.dev/mumbai/143249_english_hls_fa436c794e85065_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="143542" tvg-name="Day 4   Doubles Semifinal 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg" tvg-language="English" group-title="🌍 International",Day 4   Doubles Semifinal 2
-https://dai-fancode.pages.dev/mumbai/143542_english_hls_b9af3784f850775_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="143295" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png" tvg-language="English" group-title="🌍 International",Day 3
+https://dai-fancode.pages.dev/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="143541" tvg-name="Day 4   Doubles Semifinal 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" tvg-language="English" group-title="🌍 International",Day 4   Doubles Semifinal 2
+https://dai-fancode.pages.dev/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="143263" tvg-name="Day 4   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" tvg-language="English" group-title="🌍 International",Day 4   World Feed
 https://dai-fancode.pages.dev/mumbai/143263_english_hls_433a91742541852_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_6_Berlin_Open_Berlin_Open.jpg" group-title="🌍 International",Day 6: Berlin Open | Berlin Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=3ad9697aeff95f5bb49e862894b5d6f1&x-time=1781964960
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=4581055a61e10e1b9b0109a96314a5844121ad61&x-sign=e3e5e7ceb9c56aad54d0d91744310535&x-time=1781973060
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_8_Halle_Germany_Terra_Wortmann_Open.jpg" group-title="🌍 International",Day 8: Halle Germany | Terra Wortmann Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=e556aabf9fe67928f28cf79cb27e582b&x-time=1781964960
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=4581055a61e10e1b9b0109a96314a5844121ad61&x-sign=9585125a0a10daae6cad60c0804a3eb0&x-time=1781973060
 #EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="🌍 International - News",DBC News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Arunprabha.png" group-title="🌍 International",DD Arunprabha
@@ -3539,10 +3533,10 @@ https://a1xs.vip/14001
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="EMAX++" tvg-name="EMAX ADS" tvg-logo="https://i.postimg.cc/vB4SXGZC/a-bold-broadcast-wordmark-on-pure-white-q-Xd-NOqo-Vw-Cj-Yx-Yb-BWY8-Q-66-qk-CXHRJy-KLx-G4zx-OTZQ-sd.jpg" group-title="🌍 International",EMAX ADS
 https://drive.google.com/uc?id=1A0JPptdN1ybbympRPZ-9SLoKW-mBxl1
-#EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="🌍 International"  Playlist Name=" Tapmad bd"  Last Update=" 08:20 PM 20-06-2026"  Telegram=" https://t.me/livesportsplay"  Owner=" Md Sohanur Rahman Hady",England vs New Zealand | New Zealand Tour of England 2026
+#EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="🌍 International"  Playlist Name=" Tapmad bd"  Last Update=" 10:40 PM 20-06-2026"  Telegram=" https://t.me/livesportsplay"  Owner=" Md Sohanur Rahman Hady",England vs New Zealand | New Zealand Tour of England 2026
 https://serieAleague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="d611c955-368d-4209-9d59-309676a99066" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gzwlkpr6srkh7mcadgd8" group-title="🌍 International" tvg-lang="English" DATE="- 20-06-2026 18:45"  Join us on Telegram=" https://t.me/jitendraunatti_github",English | 3rd T20I: Namibia v Nigeria
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781984711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=837ce3210620817b96ca55d21c507385fec5b012ed30d2a7506fa405135a888b/manifest.mpd?vcfilter=d611c955-368d-4209-9d59-309676a99066&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="1fddaff5-cb1d-4785-a85c-3791a57f51cd" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ixrmeaktb2s1kb6ca9kp" group-title="🌍 International" tvg-lang="English",English | WT20: England v Scotland
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782002711~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=393bcc7821f5051763591ecfb8db3693de9e15859ecac091f6481c04a7a6445e/manifest.mpd?vcfilter=1fddaff5-cb1d-4785-a85c-3791a57f51cd&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="d2453c17-8142-46e0-9911-107768b4cc03" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cjjfe6v93f2dcstcn8ys" group-title="🌍 International" tvg-lang="English",English | WT20: Pakistan v Bangladesh (BENGALI)
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1781990114~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e828d917e5ce40ff5d75c82782537ae355e31276646f9891957419db0fd19b35/manifest.mpd?vcfilter=d2453c17-8142-46e0-9911-107768b4cc03&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.postimg.cc/MKQLVJ7m/enlace.png" group-title="🌍 International",Enlace
@@ -3579,8 +3573,6 @@ http://mxonlive.xyz/live/xap/381741.m3u8?e=1781986593&token=e92f4b8dbada3a32ee4a
 http://mxonlive.xyz/live/xap/381742.m3u8?e=1781986593&token=563de44659a9d9f283c4420d0d7c56b2b7d51b88e7b1e5095e8974e28bd77ab1
 #EXTINF:-1 tvg-name="EPL10: Liverpool 16:30 Brentford 25/08" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="🌍 International",EPL10: Liverpool 16:30 Brentford 25/08
 http://mxonlive.xyz/live/xap/381743.m3u8?e=1781986593&token=94888b102a18d2c5099ee78e6e58093cf5da6bc58b332a7a8d6c0a8662d61083
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Switzerland%2C_Stage_4_UCI_World_Tour.jpg" group-title="🌍 International",ES1, Tour of Switzerland, Stage 4 | UCI World Tour [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=86c0fb7746b9a6e8d6b910585e1a64c0&x-time=1781964960
 #EXTINF:-1 tvg-name="ES: M. Golf HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_golf.png" group-title="🌍 International",ES: M. Golf HD
 http://mxonlive.xyz/live/xap/244981.m3u8?e=1781986593&token=1e7c77afb9b1f6fbcebf5d486547b4ae16ac3e97bef0de0935934ef92a0c89dc
 #EXTINF:-1 tvg-id="1675" tvg-name="ESG TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" tvg-language="English" group-title="🌍 International" tvg-type="Sports",ESG TV
@@ -4574,7 +4566,7 @@ https://m3uplay.com/leo/live.m3u8?id=1743&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hosanna_TV.png" group-title="🌍 International",Hosanna TV
 http://103.180.212.191:3500/live/1738.m3u8
 #EXTINF:-1 tvg-id="280" tvg-name="hosanna-tv-hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png" group-title="🌍 International" tvg-chno="109",hosanna-tv-hindi
-https://2-fss-2.themediacdn.com/pl_144/amlst:206512-3287954/playlist.m3u8?hdnts=st%3D1781951691~exp%3D1781973291~acl%3D%21%2A%2Fpl_144%2Famlst%3A206512-3287954%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_280_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_280_-1~hmac%3D7dbf896e3613c8d6065c88a49cf56a2f0548289534e328027a9d9d2907b7b26b
+https://2-fss-2.themediacdn.com/pl_144/amlst:206512-3287954/playlist.m3u8?hdnts=st%3D1781957886~exp%3D1781979486~acl%3D%21%2A%2Fpl_144%2Famlst%3A206512-3287954%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_280_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_280_-1~hmac%3Df8a043f372af8e497a6972729f06cc2c0dbdd8e5bfadc18198edc2f28ead3a9b
 #EXTINF:-1 tvg-name="HT: Kajou TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🌍 International",HT: Kajou TV
 http://mxonlive.xyz/live/xap/350745.m3u8?e=1781986593&token=25c2254b480133ae4507ea78b62c4b6c5d7b551ca23178287a0a69a695d0b9e1
 #EXTINF:-1 tvg-name="HT: Radio Tele Puissance" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/742661800dd2ecc28bef9106d280f70a.png" group-title="🌍 International",HT: Radio Tele Puissance
@@ -4791,8 +4783,6 @@ http://210.89.51.165:80/hlslive/Admin/RSPD031/live/IndiaTalkies/master_1.m3u8|Us
 https://m3uplay.com/leo/live.m3u8?id=493&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-id="IndiaVoice.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="🌍 International",India Voice
 https://alex4528.site/jplus/LIiL0l01lOOL0001O1il/manifest.mpd
-#EXTINF:-1 tvg-id="tapmad-14081" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816822571020x576.jpg" group-title="🌍 International",India vs Afghanistan | Afghanistan Tour of India 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="ts1059" tvg-logo=" https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Indian-News-logo-Transparent.png" group-title="🌍 International - News",Indian News
 https://legitpro.co.in/indu/indu/index.m3u8
 #EXTINF:-1 tvg-id="908" tvg-name="Indradhanu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" tvg-language="Assamese" group-title="🌍 International" tvg-type="Movies",Indradhanu
@@ -5278,7 +5268,7 @@ https://m3uplay.com/leo/live.m3u8?id=1456&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" group-title="🌍 International",Lakshya TV
 http://103.180.212.191:3500/live/886.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="🌍 International",LaLiGA
-https://cdn5.zohanayaan.com:1686/hls/laligauk.m3u8?md5=Y_PSsqz-DAywM2GhcSugqw&expires=1781970365
+https://cdn6.zohanayaan.com:1686/hls/laligauk.m3u8?md5=LA-pYytIDmg8pKMhmMIwcg&expires=1781978419
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" group-title="🌍 International",Lancs TV HD
 https://alex4528.site/jplus/lOi1oO0ilOlllOIolOi1ii/manifest.mpd
 #EXTINF:-1 tvg-name="LAO: MV Lao TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/30e48071cd1f4db4bee99f6ef9543c76.png" group-title="🌍 International",LAO: MV Lao TV
@@ -5839,8 +5829,6 @@ http://mxonlive.xyz/live/xap/352271.m3u8?e=1781986593&token=fdec92fe254e738f5b82
 https://alex4528.site/jplus/oi0IooI0LI0IlO0IlOi1il/manifest.mpd
 #EXTINF:-1 tvg-id="MNX_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LANDSCAPE_169_HD/image.png" group-title="🌍 International",MNX HD
 https://sflex07.fun/Sflex-Artl/MNX_HD.m3u8
-#EXTINF:-1 tvg-name="Mohali Monsters Vs Ludhiana Lions [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781954209234/143045_CASACARDS_SPORTY_APP.png" group-title="🌍 International",Mohali Monsters Vs Ludhiana Lions [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143045_english_hls_05d70feaf117152_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782038648~_GO=Generated~acl=/mumbai/143045_english_hls_05d70feaf117152_1ta-di_h264/*~Signature=Afto3p3meV4LR5_bf7kdR6IT3nbsLQEQEmqdinmlRvGaCn3m6wF3viWfTcGJXYHHn_eIbyIFYDi-Wv9_FInNx65A2xoI
 #EXTINF:-1 tvg-id="mohona-tv" tvg-name="Mohona TV" tvg-logo="https://otapp.store/uploads/tv_image/mohona-tv.png" group-title="🌍 International",Mohona TV
 https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e
 #EXTINF:-1 tvg-id="14244" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000376.png" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Mojo TV
@@ -5849,8 +5837,6 @@ https://mumt02.tangotv.in/MOJOTV/index.m3u8|User-Agent=com.freetvinmob.app/1.7.0
 http://103.180.212.191:3500/live/3298.m3u8
 #EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network HD" group-title="🌍 International - Sports",Monumental Sports Network HD
 https://tvpass.org/live/monumental-sports-network/hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza_-_Race_1_Porsche_Carrera_Cup_Italy.jpg" group-title="🌍 International",Monza - Race 1 | Porsche Carrera Cup Italy [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=774e0c3c08204e3aa0696dd7818f4bd1&x-time=1781965020
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="🌍 International",Moon TV
 https://alex4528.site/jplus/lOi1ooloO1i1iio1lOi1io/manifest.mpd
 #EXTINF:-1 tvg-name="MotoGP: Atmos (Events Only)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/motogp.png" group-title="🌍 International",MotoGP: Atmos (Events Only)
@@ -5877,8 +5863,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-sam
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 tvg-id="movie-bangla" tvg-name="Movie Bangla" tvg-logo="https://otapp.store/uploads/tv_image/movie-bangla.png" group-title="🌍 International - Movies",Movie Bangla
 https://book4u.top/xyz/player.m3u8?id=edge3/movie-bangla
-#EXTINF:-1 tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="🌍 International - Movies",Movie Bangla TV
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="movie-plus" tvg-name="Movie Plus" tvg-logo="https://otapp.store/uploads/tv_image/movie-plus.png" group-title="🌍 International - Movies",Movie Plus
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="11099" tvg-logo="https://core.freetvindia.com/media/900_FreeTV_Movie_punjab.png" group-title="🌍 International - Movies" tvg-lang="BLOODY_SWEET",Movie Punjab
@@ -5945,8 +5929,8 @@ https://alex4528.site/jplus/oOi1IiOLO1lloiIolOIo/manifest.mpd
 https://servertvhub.site/cache/manifest.mpd?id=408|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="12024" tvg-logo="https://core.freetvindia.com/media/namdhari_tv.jpg" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Namdhari Channel
 https://hdvideo.namdhari.tv/live/sbs1.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
-#EXTINF:-1 tvg-id="143316" tvg-name="Namibia Vs Nigeria" tvg-logo="https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="🌍 International"  Join us on Telegram=" https://t.me/jitendraunatti_github" DATE="- Saturday, 20 June 2026 at 7:28:15 pm",Namibia Vs Nigeria
-https://dai-fancode.pages.dev/mumbai/143316_english_hls_74b80ef3ef76526_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-name="Namibia Vs Nigeria [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png" group-title="🌍 International",Namibia Vs Nigeria [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143316_english_hls_74b80ef3ef76526_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782042667~_GO=Generated~acl=/mumbai/143316_english_hls_74b80ef3ef76526_1ta-di_h264/*~Signature=Afto3p22UotbM3NBQGGZAooHQIRLPF8bhU-h_cNk-5BoQ2eN-9LKwXWaGEhbC22MWuICL7hi3cnDT_J1PXyG6hYgfh0K
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_Bangalore.png" group-title="🌍 International",Namma Bangalore
 https://alex4528.site/jplus/lOLLoOLoLIi1lOI0lO0I00/manifest.mpd
 #EXTINF:-1 tvg-id="ts782" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Namma TV.png" group-title="🌍 International",Namma TV
@@ -5982,7 +5966,7 @@ https://m3uplay.com/leo/live.m3u8?id=799&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png" group-title="🌍 International - News",Naxatra News Hindi
 https://alex4528.site/jplus/O1i1oO0ilOOLlOIoO1lloi/manifest.mpd
 #EXTINF:-1 tvg-id="310" tvg-name="naxatra-news-hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/naxatra-news-hindi.png" group-title="🌍 International - News" tvg-chno="",naxatra-news-hindi
-https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st%3D1781951604~exp%3D1781973204~acl%3D%21%2A%2F230226%2Fnaxatranewshindi%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_310_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_310_-1~hmac%3De20adca68ef2835669a7320d55a4892058b343b9ab95afc2b142d9e82bff25bc
+https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st%3D1781957799~exp%3D1781979399~acl%3D%21%2A%2F230226%2Fnaxatranewshindi%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_310_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_310_-1~hmac%3D924fe1ee541eeefc6c022d0b8829180ed4ff104b3f0bf915218868e46708b307
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nazara.png" group-title="🌍 International",Nazara
 https://alex4528.site/jplus/lOi1ilI0lOlllO0IO1lllO/manifest.mpd
 #EXTINF:-1 tvg-id="21436" tvg-logo="https://core.freetvindia.com/media/channels/NazaraTv.png" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Nazara TV
@@ -6143,9 +6127,9 @@ http://mxonlive.xyz/live/xap/382000.m3u8?e=1781986593&token=cfcf1a6d615d14325796
 https://alex4528.site/jplus/lOlliiIolOlliio1lOOLio/manifest.mpd
 #EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network HD" group-title="🌍 International - Sports",New England Sports Network HD
 https://tvpass.org/live/new-england-sports-network/hd
-#EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="New Zealand tour of England 2026 - 2nd Test - England vs New Zealand" group-title="🌍 International",New Zealand tour of England 2026 - 2nd Test - England vs New Zealand
+#EXTINF:-1 tvg-id="B0GW5Y7XDY" tvg-name="New Zealand tour of England 2026 - 2nd Test - England vs New Zealand" group-title="🌍 International" PLAYLIST="Willow Cricket Event Info" LAST_UPDATE="10:32 PM 20-06-2026" TELEGRAM="https://t.me/livesportsplay" OWNER="Md Sohanur Rahman Hady" LIVE_COUNT="3" UPCOMING_COUNT="17",New Zealand tour of England 2026 - 2nd Test - England vs New Zealand
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yhaslh2a7/out/v1/e05749a7cc374d5a9b93f2d94f2fdb3e/cenc.mpd
-#EXTINF:-1 tvg-id="sonyliv-1090535050" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019769/1781933880852681_ENGvsNZ_2nd_test_day4_watch_free_live_landscape_thumb.jpg" group-title="🌍 International"  name=" SonyLiv Matches Full Data"  telegram=" https://t.me/livesportsplay"  owner=" Md Sohanur Rahman Hady"  last_update=" 08:15:23 PM 20-06-2026",New Zealand Tour of England 2026 | 2nd Test - Day 4 - 20 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090535050" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019769/1781933880852681_ENGvsNZ_2nd_test_day4_watch_free_live_landscape_thumb.jpg" group-title="🌍 International"  name=" SonyLiv Matches Full Data"  telegram=" https://t.me/livesportsplay"  owner=" Md Sohanur Rahman Hady"  last_update=" 10:45:22 PM 20-06-2026",New Zealand Tour of England 2026 | 2nd Test - Day 4 - 20 Jun 2026
 https://dai.google.com/ssai/event/ghJ5GB4BQ5OqDvM0i1-BfA/master.m3u8
 #EXTINF:-1 tvg-name="Newcastle United" tvg-logo="https://seeklogo.com/images/N/newcastle-united-fc-logo-58D461B354-seeklogo.com.png" group-title="🌍 International",Newcastle United
 http://mxonlive.xyz/live/xap/381758.m3u8?e=1781986593&token=3018c6348e5debbe7f0e57abff5cc2b40a0d2f08eb0ad35dd44415a6f269705d
@@ -6405,12 +6389,8 @@ https://mumt05.tangotv.in/NKTVPLUSBANGLA/index.m3u8|User-Agent=com.freetvinmob.a
 https://m3uplay.com/leo/live.m3u8?id=1855&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/No_Filter_Neha.png" group-title="🌍 International",Nofilterneha
 http://103.180.212.191:3500/live/2962.m3u8
-#EXTINF:-1 tvg-id="B0H4B3PLKP" tvg-name="Nordic Smash T20 Cup 2026 - 2nd Semi-Final - Stockholm United vs Vasteras United" group-title="🌍 International",Nordic Smash T20 Cup 2026 - 2nd Semi-Final - Stockholm United vs Vasteras United
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qh0ugi8b3f/out/v1/38afd60f25c340a8a4068101fdb59639/cenc.mpd
 #EXTINF:-1 tvg-id="637" tvg-name="North East Live" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" tvg-language="Assamese" group-title="🌍 International" tvg-type="News",North East Live
 https://m3uplay.com/leo/live.m3u8?id=637&e=.m3u8|referer=https://m3uplay.com/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northampton_VS_Exeter_PREM_Rugby.jpg" group-title="🌍 International",Northampton VS Exeter | PREM Rugby [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=cbd6273a1b2b04f696056580f24d5da0&x-time=1781965020
 #EXTINF:-1 tvg-name="Nottingham Forest" tvg-logo="https://seeklogo.com/images/N/nottingham-forest-logo-34EC0D2B28-seeklogo.com.png" group-title="🌍 International",Nottingham Forest
 http://mxonlive.xyz/live/xap/381759.m3u8?e=1781986593&token=54808e79f0943d927db26f8ce15dc0679be5ff2fec72863df46a633977314f36
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png?worldtv2 " group-title="🌍 International - Adult",NOVELAS Y SERIES", Adult Swim
@@ -6493,6 +6473,8 @@ https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 https://alex4528.site/jplus/LIi1O0IoLIOL0iIolOIo/manifest.mpd
 #EXTINF:-1 tvg-id="OnTV4U.us@SD" tvg-logo="https://i.imgur.com/yaCK1Mh.png" group-title="🌍 International",ONTV4U (1080p)
 https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ordabasy_VS_Kaspiy_Premier_League.jpg" group-title="🌍 International",Ordabasy VS Kaspiy | Premier League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c2a1/chunks.m3u8?is_vip=false&token=1782059518-Kv4cPTAAP5YTi-4581055a61e10e1b9b0109a96314a5844121ad61-3c57fb16a787d66d2298a1ee38cce6da
 #EXTINF:-1 tvg-id="243" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="🌍 International",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 #EXTINF:-1 tvg-id="883" tvg-name="Oscar Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-language="Bhojpuri" group-title="🌍 International - Movies" tvg-type="Movies",Oscar Movies
@@ -6956,13 +6938,13 @@ http://mxonlive.xyz/live/xap/352570.m3u8?e=1781986593&token=d3492714586381b8d116
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png", Mohona TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/9TTspp4Bb1O6C9k7yfhl/posters/56b0a3c8-efa9-4545-8918-d99e1e4e05a9.png", FIFA WC Channel 3
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 group-title="🌍 International - Movies" tvg-chno="",q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png", Movie Bangla
 https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png", Nexus TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png", BAN VS AUS
-https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 tvg-id="KECGB54BuUSiBsg_dHyj" group-title="🌍 International",q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Entertainment",Rajdhani TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png", ATN Bangla
@@ -6970,9 +6952,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_bangla/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International - News" tvg-chno="",q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png", ATN News
 https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/b7125f91-56da-41d5-9413-20c762353f75.png", FIFA WC CHANNEL 2
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 group-title="🌍 International" tvg-chno="",q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/a5ce2112-0dc0-4f63-885a-87b5b8dd1a34.png", FIFA WC Channel 1
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 tvg-name="QA: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a1785416ae7e6dbb932232bb1ad4e6cd.jpg" group-title="🌍 International - Sports",QA: beIN Box Office 1
 http://mxonlive.xyz/live/xap/352991.m3u8?e=1781986593&token=2350f9a8de098bdc44f13aefc237554884e4b06689a86f5d08c72d439aa70f82
 #EXTINF:-1 tvg-name="QA: beIN Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3ed2da3eb57b68e64b3c86821ca6201e.png" group-title="🌍 International - Sports",QA: beIN Gourmet
@@ -7098,7 +7080,7 @@ https://servertvhub.site/cache/manifest.mpd?id=890|X-Forwarded-For=59.178.74.184
 #EXTINF:-1 tvg-id="7917" tvg-logo="https://core.freetvindia.com/media/channels/9005123451000412.png" group-title="🌍 International" tvg-lang="BLOODY_SWEET",Republic Kannada
 https://mumt04.tangotv.in/REPUBLICKANNADA/index.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-id="24" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" group-title="🌍 International" tvg-chno="678",republic-bangla
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-896571/out/v1/9a5954cd7b7648b78160649038cfd0e4/main.m3u8?hdnts=st%3D1781951607~exp%3D1781973207~acl%3D%21%2A%2Fvglive-sk-896571%2Fout%2Fv1%2F9a5954cd7b7648b78160649038cfd0e4%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_24_-1~hmac%3De650813fd899509f9e36572c5e7d4217af93a88c311d4ac4c30dcbdce44e2e35
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-896571/out/v1/9a5954cd7b7648b78160649038cfd0e4/main.m3u8?hdnts=st%3D1781957802~exp%3D1781979402~acl%3D%21%2A%2Fvglive-sk-896571%2Fout%2Fv1%2F9a5954cd7b7648b78160649038cfd0e4%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_24_-1~hmac%3D4da2446acac67d34aacb4b16183bdddf76fb578e15519bf662c52aacbd09930e
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Restful_Sleep.png" group-title="🌍 International",Restful Sleep
 http://103.180.212.191:3500/live/3251.m3u8
 #EXTINF:-1 group-title="🌍 International - Sports",Retake E-sport Live (720p)
@@ -7581,8 +7563,6 @@ http://mxonlive.xyz/live/xap/353796.m3u8?e=1781986593&token=57796a488e267328e449
 http://mxonlive.xyz/live/xap/353797.m3u8?e=1781986593&token=dcfb5513c9c33483cc8773ecb534116eef638df85f37c16120183c1a48e1626d
 #EXTINF:-1 tvg-name="SK: Wau TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/815d6bf8f69efe5a28771ee1a77e9599.png" group-title="🌍 International",SK: Wau TV
 http://mxonlive.xyz/live/xap/353798.m3u8?e=1781986593&token=1e38afd83ac0abda3c964ff16f7b03c63dc1d8b94f5da8003c881bbb456c4dc6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="🌍 International",Slovak Darts Open | Slovak Darts Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=82c8e9372b97c1755a72987538d84389b4c9c30f&x-sign=8353c61e1316bd76b60f00771781a95c&x-time=1781964960
 #EXTINF:-1 tvg-id="220" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="🌍 International",Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="🌍 International",SMBC TV
@@ -7630,7 +7610,7 @@ https://ashtv.com.bd/server/channels/sony_ten_sports_2_hd.m3u8
 #EXTINF:-1 tvg-id="SONY SPORTS 5 HD" tvg-name="SONY SPORTS 5" tvg-logo="https://i.imgur.com/S1VtnRj.jpeg" group-title="🌍 International - Sports",SONY SPORTS 5
 https://ashtv.com.bd/server/channels/sony_ten_sports_5_hd.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="🌍 International",Sony Sports3
-https://cdn5.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=zR6gvg8xuATjE53noZOQ_Q&expires=1781970366
+https://cdn6.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=YAC81LDQ1E16aWyW6TNHdQ&expires=1781978420
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Soochna_India.png" group-title="🌍 International",Soochna India
 https://alex4528.site/jplus/LIOLOO0iLIlllOI0O1llil/manifest.mpd
 #EXTINF:-1 tvg-name="Southampton" tvg-logo="https://1000logos.net/wp-content/uploads/2018/07/Southampton-Logo-1974.png" group-title="🌍 International",Southampton
@@ -7647,8 +7627,6 @@ http://mxonlive.xyz/live/xap/233173.m3u8?e=1781986593&token=3511014bfa3041a312bf
 http://mxonlive.xyz/live/xap/233172.m3u8?e=1781986593&token=0b8f1e4283c747210320dd5a8d861f0404fb600871d14a17c0abbf4f0dcfeafa
 #EXTINF:-1 tvg-name="SPFL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Scottish_Championship.svg/1200px-Scottish_Championship.svg.png" group-title="🌍 International",SPFL 6
 http://mxonlive.xyz/live/xap/380810.m3u8?e=1781986593&token=fbbf347968619e9cde31e93f57b37200274e487a288984b5dc9d75a9ae4630c4
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="🌍 International",Spice FM
-https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-id="2435" tvg-name="Spondon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Spondon.png" tvg-language="Assamese" group-title="🌍 International" tvg-type="Entertainment",Spondon
 https://m3uplay.com/leo/live.m3u8?id=2435&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="🌍 International - Sports",SPORT 1 🇸🇰
@@ -7656,7 +7634,7 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" group-title="🌍 International - Sports",SPORT 2 🇸🇰
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="76" tvg-name="sport-fishing-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png" group-title="🌍 International - Sports" tvg-chno="286",sport-fishing-tv
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8?hdnts=st%3D1781951721~exp%3D1781973321~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Feea68b79-bfe2-451e-a227-d637a5b9548a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_76_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_76_-1~hmac%3D877c9e280170a855a18ecfa441e8034ec27ec60b50f005d86e1681cd02c55ede
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8?hdnts=st%3D1781957919~exp%3D1781979519~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Feea68b79-bfe2-451e-a227-d637a5b9548a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_76_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_76_-1~hmac%3D0560e9f759d3333bd407aa9eea4065d756a1a0457746b57199bb9db716703387
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/fede32688e783945fed0473f3b0daf23" group-title="🌍 International - Sports",Sports Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46" group-title="🌍 International - Sports",Sports Grid
@@ -7743,6 +7721,8 @@ https://alex4528.site/jplus/lOlll0OLLIOLiiL1LIlllO/manifest.mpd
 https://alex4528.site/jplus/lOi1ilo1LIOLiiL1lO0Ioi/manifest.mpd
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="🌍 International - Music",Steelbird Music
 http://103.180.212.191:3500/live/1184.m3u8
+#EXTINF:-1 tvg-id="143192" tvg-name="Stockholm City Vs Vasteras United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" tvg-language="English" group-title="🌍 International"  Join us on Telegram=" https://t.me/jitendraunatti_github" DATE="- Saturday, 20 June 2026 at 9:28:18 pm",Stockholm City Vs Vasteras United
+https://dai-fancode.pages.dev/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="tapmad-14473" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17819626991020x576.jpg" group-title="🌍 International",Stockholm City vs Vasteras United | Nordic Smash 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-id="14281" tvg-logo="https://core.freetvindia.com/media/Studio_N_News.png" group-title="🌍 International - News" tvg-lang="BLOODY_SWEET",Studio N News
@@ -7796,9 +7776,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd?__hdnea
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sundrani_TV.png" group-title="🌍 International",Sundrani TV
 https://alex4528.site/jplus/oi0ILI0LO1lllOIoO1lllO/manifest.mpd
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="🌍 International",Super Football
-https://cdn3.zohanayaan.com:1686/hls/superfotball.m3u8?md5=YFwC9i-o69HfTztKpGzi7g&expires=1781970365
+https://cdn7.zohanayaan.com:1686/hls/superfotball.m3u8?md5=L1syMdW9jkoKioS6lCyAFw&expires=1781978419
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="🌍 International",Super Premier League
-https://cdn2.zohanayaan.com:1686/hls/superpremier.m3u8?md5=58Wh2U0DKpYsOuX7NzlUHA&expires=1781970365
+https://cdn1.zohanayaan.com:1686/hls/superpremier.m3u8?md5=VfTQe8xpBnaM4ThFa9sY1w&expires=1781978419
 #EXTINF:-1 tvg-id="Default" tvg-name="SUPER SPORT 1 HD" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70632.jpeg" group-title="🌍 International - Sports",SUPER SPORT 1 HD
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/473973.m3u8
 #EXTINF:-1 tvg-id="Default" tvg-name="SUPER SPORT 2 HD" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70633.jpeg" group-title="🌍 International - Sports",SUPER SPORT 2 HD
@@ -8079,8 +8059,6 @@ https://delta45tatasky.akamaized.net/out/i/1828.mpd
 https://servertvhub.site/cache/manifest.mpd?id=167|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="ts986" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata_Play_Zindagi.png" group-title="🌍 International",Tata Play Zindagi
 https://servertvhub.site/cache/manifest.mpd?id=986|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 tvg-id="143192" tvg-name="Tbc Vs Tbc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" tvg-language="English" group-title="🌍 International",Tbc Vs Tbc
-https://dai-fancode.pages.dev/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="TeenNick.br" tvg-logo="https://i.postimg.cc/ZqHkBP66/teennick.png" group-title="🌍 International",TeenNick
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/TEENNICKHD/default.mpd
 #EXTINF:-1 tvg-id="TehzeebTV.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="🌍 International",Tehzeeb TV
@@ -8342,7 +8320,7 @@ https://alex4528.site/jplus/oOi1iiL0oOlloiL1LIIo/manifest.mpd
 #EXTINF:-1 tvg-id="TV9_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="🌍 International",TV9 Marathi
 https://sflex07.fun/Sflex-Artl/TV9_MARATHI.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="tv9-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png" group-title="🌍 International" tvg-chno="680",tv9-bangla
-https://vg-tv9yupp.vgcdn.net/vglive-sk-349214/v1/019dfcc139501567ee93770f7da98/019dfcc65a271ea55784752988543/main.m3u8?hdnts=st%3D1781951610~exp%3D1781973210~acl%3D%21%2A%2Fvglive-sk-349214%2Fv1%2F019dfcc139501567ee93770f7da98%2F019dfcc65a271ea55784752988543%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_35_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_35_-1~hmac%3D96faddac18b4cb916daacb3043baebef9d259502584cf103f628aa30df558a82
+https://vg-tv9yupp.vgcdn.net/vglive-sk-349214/v1/019dfcc139501567ee93770f7da98/019dfcc65a271ea55784752988543/main.m3u8?hdnts=st%3D1781957806~exp%3D1781979406~acl%3D%21%2A%2Fvglive-sk-349214%2Fv1%2F019dfcc139501567ee93770f7da98%2F019dfcc65a271ea55784752988543%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_35_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_35_-1~hmac%3D3e9592a9c842059c0676cb4a39a452e9509365e69fba38a7046ac3371cf54c6a
 #EXTINF:-1 tvg-name="TW: Da Ai TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/1a9192976e8e28ed4e2e1e89b5499a5e.jpg" group-title="🌍 International",TW: Da Ai TV
 http://mxonlive.xyz/live/xap/354528.m3u8?e=1781986593&token=d61055787c56022054befed6ef204e7407a933de9e62ff8482dbe0b5ee64c73f
 #EXTINF:-1 tvg-name="TW: EBC 24 Hours Live News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6e8d2dfc92a0f5bb3200b9bf143d11c0.jpeg" group-title="🌍 International - News",TW: EBC 24 Hours Live News
@@ -8369,6 +8347,8 @@ http://mxonlive.xyz/live/xap/354538.m3u8?e=1781986593&token=3735de1d4d1789c9f1b6
 https://servertvhub.site/cache/manifest.mpd?id=799|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="🌍 International - News",Twenty Four News
 https://alex4528.site/jplus/lOll1oOioOOLiiI0LIi1il/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye_VS_Germany_Nations_League.jpg" group-title="🌍 International",Türkiye VS Germany | Nations League [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782059528-Kv4cPTAAP5YTi-4581055a61e10e1b9b0109a96314a5844121ad61-6040303ccb7f5dcfc75724b2d64ec534
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" group-title="🌍 International",U Bangla
 https://alex4528.site/jplus/O1i1oo0IlO0IooL1O1llO0/manifest.mpd
 #EXTINF:-1 tvg-id="ts1080" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Bangla-TV-Transparent.png" group-title="🌍 International",U Bangla TV
@@ -8507,6 +8487,8 @@ https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 https://xtream.lazyspace.online/uplink/play/745202/lmND4qC9ustQ/live.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="🌍 International - Movies",UNIVERSAL CINEMA
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd
+#EXTINF:-1 group-title="🌍 International",Unknown Channel
+https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-id="ts1255" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/update-india_2000_X_1125_Transpharent.png" group-title="🌍 International",Update India
 https://desitashantv.livebox.co.in/updateindiadash/updateindia.mpd
 #EXTINF:-1 tvg-name="US: OneGolf Tv" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="🌍 International",US: OneGolf Tv
@@ -8601,8 +8583,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vande_Gujarat_8_MOB/WDVLive/index.mpd?__h
 https://jiotvmblive.cdn.jio.com/bpk-tv/Vande_Gujarat_9_MOB/WDVLive/index.mpd?__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37
 #EXTINF:-1 tvg-id="VANITHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LANDSCAPE_169_HD/image.png" group-title="🌍 International",Vanitha
 https://sflex07.fun/Sflex-Artl/VANITHA.m3u8
-#EXTINF:-1 tvg-name="Vasteras United Vs Stockholm United [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" group-title="🌍 International",Vasteras United Vs Stockholm United [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143191_english_hls_65f63fb62316328_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782037147~_GO=Generated~acl=/mumbai/143191_english_hls_65f63fb62316328_1ta-di_h264/*~Signature=Afto3p3gaVYviAmbvFHRs4PnLTHLF1rT-B1rhie0sa8pUe3XX6W8LLf5D0NWmHf-EE8er_CmvVVTrzw7n7DkfjcvpgsC
 #EXTINF:-1 tvg-name="VE: Agrotendencia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d685e97bd871191a3bdbd93d86c8888d.png" group-title="🌍 International",VE: Agrotendencia TV
 http://mxonlive.xyz/live/xap/355106.m3u8?e=1781986593&token=2913530cd3aaec47830649ad8705ebeb2af566f017ca9aa3a9e3b1dfe433d1eb
 #EXTINF:-1 tvg-name="VE: Canal 11" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d3038ec6314200e85d9cf1ffcb7eadf0.jpeg" group-title="🌍 International",VE: Canal 11
@@ -8950,17 +8930,19 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-id="WILLOW" tvg-name="WILLOW" tvg-logo="https://i.imgur.com/UnrS7Kn.png" group-title="🌍 International",WILLOW
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="🌍 International",Willow HD 2
-https://cdn3.zohanayaan.com:1686/hls/willowextra.m3u8?md5=SuLqICHXio7rG53uK89aIA&expires=1781970363
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=XDno72PsuXAU4XoUn6j8Uw&expires=1781978416
 #EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" group-title="🌍 International",WILLOW TV
 http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvSSYAHFV1g0pFbOXu7GMJM/m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="willow-sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png" group-title="🌍 International - Sports" tvg-chno="",willow-sports
-https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1781951718~exp%3D1781973318~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_284_-1~hmac%3Dcba33eae35f153b0e78aaedcb7bdf475f692a9e79a707123bfa8cfe40ecd9bb5
+https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1781957917~exp%3D1781979517~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_284_-1~hmac%3Da86436033301355f3208a01e0997fe58a7c032189021324d7ce25c9aa675d63a
 #EXTINF:-1 tvg-id="WinPlusFutbol.co" tvg-name="Win Sports" group-title="🌍 International - Sports",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-id="WinTV.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="🌍 International",Win TV
 https://alex4528.site/jplus/oiiLO00IoiOL0iL0lOil/manifest.mpd
 #EXTINF:-1 tvg-name="Wolverhampton Wanderers" tvg-logo="https://seeklogo.com/images/W/wolverhampton-wanderers-fc-70-s-logo-7B453B9C9F-seeklogo.com.png" group-title="🌍 International",Wolverhampton Wanderers
 http://mxonlive.xyz/live/xap/381763.m3u8?e=1781986593&token=8122ad11978d6822b3441c6d9265a40cad26d2197d2274befd852ddc0194e2d3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women's_Series_13_%26_14_-_Wigan_Women's_Series.jpg" group-title="🌍 International",Women's Series 13 & 14 - Wigan | Women's Series [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=4581055a61e10e1b9b0109a96314a5844121ad61&x-sign=f93e11d885c12821608f8a0dd4885311&x-time=1781973060
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="🌍 International - Sports",Women's Sports Network (1080p)
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 #EXTINF:-1 group-title="🌍 International",World Chess
@@ -9078,29 +9060,29 @@ https://servertvhub.site/cache/manifest.mpd?id=637|X-Forwarded-For=59.178.74.184
 #EXTINF:-1 group-title="🌍 International",Zee Zast
 http://103.175.73.12:8080/live/327/327_0.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="zee-24-kalak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vbezgf.png" group-title="🌍 International - News" tvg-chno="753",zee-24-kalak
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/main.m3u8?hdnts=st%3D1781951625~exp%3D1781973225~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24kalak%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F497f7199-758d-495d-9d2f-a5489231c428%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_32_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_32_-1~hmac%3Da83ff0f38d8b9abdd365c7d97c87b92e4d501cc480d4c0b6372dd13de0d41634
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/main.m3u8?hdnts=st%3D1781957820~exp%3D1781979420~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24kalak%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F497f7199-758d-495d-9d2f-a5489231c428%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_32_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_32_-1~hmac%3D3049f123f35b80597804661d3155af27c33259c35a30faef4a7ec59dfd248f8a
 #EXTINF:-1 tvg-id="30" tvg-name="zee-bihar-jharkhand" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png" group-title="🌍 International" tvg-chno="16",zee-bihar-jharkhand
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-198870/main.m3u8?hdnts=st%3D1781951582~exp%3D1781973182~acl%3D%21%2A%2Fvglive-sk-198870%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_30_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_30_-1~hmac%3D7b7c045c33e569663e9c66feaa971b441a86cb32aeb2daac89360c048a252d18
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-198870/main.m3u8?hdnts=st%3D1781957781~exp%3D1781979381~acl%3D%21%2A%2Fvglive-sk-198870%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_30_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_30_-1~hmac%3D9e905ce790b46611c77594299e200c40898cdc2f9cd5cf3d4ee75d64f6be8a91
 #EXTINF:-1 tvg-id="5" tvg-name="zee-business" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png" group-title="🌍 International" tvg-chno="51",zee-business
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8?hdnts=st%3D1781951598~exp%3D1781973198~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee_business%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Faf1b3fa3-f56d-4741-9c63-78409a798988%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_5_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_5_-1~hmac%3Dbb642a47da030d6d5307494ab5b755783cf53a29635366437c3298156edf5163
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8?hdnts=st%3D1781957793~exp%3D1781979393~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee_business%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Faf1b3fa3-f56d-4741-9c63-78409a798988%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_5_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_5_-1~hmac%3D3d147a421a1aacfa980a36e18d88fe21fd197c0e940fa72241274140d80d27eb
 #EXTINF:-1 tvg-id="31" tvg-name="zee-delhi-ncr-haryana" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png" group-title="🌍 International" tvg-chno="17",zee-delhi-ncr-haryana
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8?hdnts=st%3D1781951583~exp%3D1781973183~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeedelhincr%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcc483a15-1b39-4642-872d-5d08d362ed01%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_31_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_31_-1~hmac%3D96cf28f87459cac0ffd86a9e50dc14499e91e3037f8f8e599bfde1c77c9c052c
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8?hdnts=st%3D1781957782~exp%3D1781979382~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeedelhincr%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcc483a15-1b39-4642-872d-5d08d362ed01%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_31_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_31_-1~hmac%3D2169f3dda8fd94e2e59a8401999f5b4edf2c8b09b84937334a1c020698d177dc
 #EXTINF:-1 tvg-id="25" tvg-name="zee-hindustan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png" group-title="🌍 International" tvg-chno="12",zee-hindustan
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8?hdnts=st%3D1781951578~exp%3D1781973178~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeehindustan%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F96bbab12-582e-4540-af70-510ab6824581%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_25_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_25_-1~hmac%3Db299878e74d4fe61d4bf5255a0aea83197ef1815a7f134526c5794252be28621
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8?hdnts=st%3D1781957779~exp%3D1781979379~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeehindustan%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F96bbab12-582e-4540-af70-510ab6824581%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_25_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_25_-1~hmac%3D3ce3a7e5fddcc3ff48b47f28344c09fa6a379b7be2596a598f1533321941224b
 #EXTINF:-1 tvg-id="28" tvg-name="zee-madhya-pradesh-chhattisgarh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png" group-title="🌍 International" tvg-chno="19",zee-madhya-pradesh-chhattisgarh
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8?hdnts=st%3D1781951584~exp%3D1781973184~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeemadhyachhattisgarh%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2ab17056-6187-4f0e-a34d-f436ac479d6c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_28_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_28_-1~hmac%3D614cf96368f65e7612d54af7631e261e7d760d5a484231898e1f2f2330e774d8
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8?hdnts=st%3D1781957783~exp%3D1781979383~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeemadhyachhattisgarh%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2ab17056-6187-4f0e-a34d-f436ac479d6c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_28_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_28_-1~hmac%3D7e339e20dedd3c735036335062a3e493dcb0cfe2659346bc93f9219525391391
 #EXTINF:-1 tvg-id="13" tvg-name="zee-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png" group-title="🌍 International - News" tvg-chno="8",zee-news
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1781951576~exp%3D1781973176~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_13_-1~hmac%3D20021c0094d2ac1ee3027576300b9dc7d9c260236dbf9d9f684a261b3bbb1a3f
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1781957776~exp%3D1781979376~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_13_-1~hmac%3D2989b45bd0443a1c897e43dcee1286fb7dae4fce2afffb7f143fe9c7398541a1
 #EXTINF:-1 tvg-id="33" tvg-name="zee-news-telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png" group-title="🌍 International - News" tvg-chno="410",zee-news-telugu
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?hdnts=st%3D1781951616~exp%3D1781973216~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeetelugunews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F17fe98f0-d496-4c26-beeb-96b466d01162%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_33_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_33_-1~hmac%3Deb9d3d46c1913c92382aafbd49b992696207249d9a246844f91c1998ed44f0c3
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeetelugunews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/17fe98f0-d496-4c26-beeb-96b466d01162/main.m3u8?hdnts=st%3D1781957813~exp%3D1781979413~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeetelugunews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F17fe98f0-d496-4c26-beeb-96b466d01162%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_33_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_33_-1~hmac%3D6df03a88c9c921f05d5fb61fba3848be7d748318f6eebee50d6321ddb2a35ec1
 #EXTINF:-1 tvg-id="15" tvg-name="zee-punjab-haryana-himachal" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rkpgdq.png" group-title="🌍 International" tvg-chno="705",zee-punjab-haryana-himachal
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8?hdnts=st%3D1781951628~exp%3D1781973228~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeepunjabharyanahima%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F65eed269-2f3a-4dd0-ac89-d18959af28e3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_15_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_15_-1~hmac%3D254c2c56868467f0d1fe388f3e879324a5fa9c93acba43df598fe040bc3b3bf7
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8?hdnts=st%3D1781957826~exp%3D1781979426~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeepunjabharyanahima%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F65eed269-2f3a-4dd0-ac89-d18959af28e3%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_15_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_15_-1~hmac%3D61d12a770f6b92183ef945fa3c59eb0751f0fc78d89c86b1056c32d004913cf4
 #EXTINF:-1 tvg-id="26" tvg-name="zee-rajasthan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png" group-title="🌍 International - News" tvg-chno="22",zee-rajasthan-news
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?hdnts=st%3D1781951587~exp%3D1781973187~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeerajashthannews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8e864b9a-1681-41a0-99a6-387490bc5b24%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_26_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_26_-1~hmac%3D892c3d4d105eccc19237ad144017c082193b518b2a6deadf9646e063ebf44d8d
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?hdnts=st%3D1781957785~exp%3D1781979385~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeerajashthannews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8e864b9a-1681-41a0-99a6-387490bc5b24%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_26_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_26_-1~hmac%3D952671950c7a4b44ca6c216806c8543d8ec8056e65228b616833fb3944a5fa91
 #EXTINF:-1 tvg-id="27" tvg-name="zee-salaam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png" group-title="🌍 International" tvg-chno="801",zee-salaam
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?hdnts=st%3D1781951629~exp%3D1781973229~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeesalaam%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F426c6db7-595e-4aa8-859c-7e86ed2811d0%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_27_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_27_-1~hmac%3D75e3f32d20c968ec366b1a8729aea750298df7e8c22ef7db0f0fcc2c3fa5c74b
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?hdnts=st%3D1781957826~exp%3D1781979426~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeesalaam%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F426c6db7-595e-4aa8-859c-7e86ed2811d0%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_27_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_27_-1~hmac%3D073aac0403024fb0e84833bd9fe10f1265a97ccdbc64bad5fcbbf7008d21dca1
 #EXTINF:-1 tvg-id="29" tvg-name="zee-up-uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png" group-title="🌍 International" tvg-chno="21",zee-up-uk
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8?hdnts=st%3D1781951586~exp%3D1781973186~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeeupuk%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa8c57b70-538f-49ae-af12-2fc2acaa4ff1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_29_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.174.109.243_yuppfast_2_channel_29_-1~hmac%3D03a769b2b053c141d81e5d94df0220f79785062c18913adf5ec78440a0311d96
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeeupuk/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8?hdnts=st%3D1781957784~exp%3D1781979384~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeeupuk%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa8c57b70-538f-49ae-af12-2fc2acaa4ff1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_29_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.214.104.49_yuppfast_2_channel_29_-1~hmac%3D5202c426354d515a5a35e64440eb99cceb01a1ff0483337bf8d210aa259bd099
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="🌍 International" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=@cloudplay&Cookie=__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37" EXTVLCOPT="http-user-agent=@cloudplay",Zillar Barta
 https://jiotvmblive.cdn.jio.com/bpk-tv/zillarbarta/HLSPartner/index.m3u8?__hdnea__=st=1781962120~exp=1781983720~acl=/*~hmac=0528f87780dcecdd28370fa78ed27fd980a8de85dcf13f9035443c5e5726dd37
 #EXTINF:-1 tvg-id="zoom" tvg-name="ZOOM" tvg-logo="https://otapp.store/uploads/tv_image/zoom.png" group-title="🌍 International",ZOOM

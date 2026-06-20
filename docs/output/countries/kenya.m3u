@@ -23,7 +23,7 @@ https://alex4528.site/jplus/LIiLLIOLoii1ii01O1i1ii/manifest.mpd
 https://alex4528.site/jplus/LIIOl00ioii1ioloLIil/manifest.mpd
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="🇰🇪 Kenya - Sports",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488" group-title="🇰🇪 Kenya - Sports",KTV Sport Plus
+#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="🇰🇪 Kenya - Sports",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="KW: KTV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/123b30ee86b91d350ad0495de8510eab.png" group-title="🇰🇪 Kenya",KW: KTV 1
 http://mxonlive.xyz/live/xap/351789.m3u8?e=1781986593&token=c08fd58965345b4c814707cd81fb0d30cc7df394817631b90e4518b64ed3a899

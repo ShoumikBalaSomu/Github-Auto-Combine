@@ -2091,8 +2091,8 @@ http://mxonlive.xyz/live/xap/417604.m3u8?e=1781986593&token=96f5cee06f063629a6ea
 http://mxonlive.xyz/live/xap/416903.m3u8?e=1781986593&token=8539d8f800399d6a900590e3da5a8ef5b0c5bc084685624e85ddbd8f14ce97d5
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6" group-title="🇬🇧 United Kingdom",\t USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1781708099&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=b4c65574a86887db64ea830e9739799d
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="🇬🇧 United Kingdom - Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="🇬🇧 United Kingdom - Movies",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="AE: MBC Drama+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/195b1e1162d78a1df8c227c1fc5a8a6f.png" group-title="🇬🇧 United Kingdom",AE: MBC Drama+
 http://mxonlive.xyz/live/xap/354959.m3u8?e=1781986593&token=0b228e1fd5990079101f06afc0dba683c6162108852b2aa6dc0a62aed0c41a78
 #EXTINF:-1 tvg-name="AE: Sky News Arabia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f32575aec1874e37d0a019f5f06f7ff6.png" group-title="🇬🇧 United Kingdom - News",AE: Sky News Arabia
@@ -2788,9 +2788,9 @@ https://a1xs.vip/8000022
 #EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: Blaze" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="🇬🇧 United Kingdom",PT: Blaze
 http://mxonlive.xyz/live/xap/352867.m3u8?e=1781986593&token=5c8e7310d357ae1cac5017c1e81e0f842ccf2341c946f6fd0319c481776ba78e
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-chno="",q_75,f_webp/1__3pp4BObUt2AG6u0sF/posters/76c658d2-f729-490c-8219-099a80310c55.png", FIFA WC Channel 5
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-chno="",q_75,f_webp/RzT1pp4Bb1O6C9k7RvnM/posters/c627b0ec-e1ea-4494-a639-3412bb930801.png", FIFA WC Channel 4
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/index.m3u8?edge-cache-token=Expires=1782046518~Starts=1781960118~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SDSb9KSFl7FreYLAtR9xGN3AWN6kjh06tai_X6eBp2tFzxGG14sCIx00SnUL52E70p-lYCJjXgqxUvqxfHwWDA
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/index.m3u8?edge-cache-token=Expires=1782054210~Starts=1781967810~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bbRH3M1DfOUO6zbg3K_FABXok2zrt9aLI-brMd2AcYCoS-h1s0Ypdqy1cd5VL7ZnWglmnAEvJdIdpntv_4CMDA
 #EXTINF:-1 tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="🇬🇧 United Kingdom - Sports",QA: beIN Drama 1
 http://mxonlive.xyz/live/xap/352992.m3u8?e=1781986593&token=138a755c3a4753adb0128d21421fbea67aa24d3aefbc43acada4a393d5d91f47
 #EXTINF:-1 tvg-name="QA: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14fdcdb04d6dedc02d4c5da6b8799ac9.png" group-title="🇬🇧 United Kingdom - Sports",QA: beIN Movies Drama 3
@@ -2822,7 +2822,7 @@ https://m3uplay.com/leo/live.m3u8?id=1957&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="🇬🇧 United Kingdom",SKY Bundesliga
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
 #EXTINF:-1 tvg-id="SkyCinema4K.it" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="🇬🇧 United Kingdom - Movies",Sky Cinema
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=rOQjhtnrWF0Z3sHtTdFUhg&expires=1781970364
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=vz4yfRQOUzj9NTI8SYIrxA&expires=1781978416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="🇬🇧 United Kingdom",SKY Evento 1
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="🇬🇧 United Kingdom",SKY Evento 2
@@ -2858,23 +2858,23 @@ https://nog-live1-ott.izzigo.tv/11/out/u/dash/SKYONEHD/default.mpd
 #EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/04/Sky.Sharks.jpg" group-title="🇬🇧 United Kingdom",Sky Sharks 2020 dual 1080p
 https://vfgtyy.b-cdn.net/s2/upload/videos/2025/04/[Fibwatch.Com]Sky.Sharks.2020.dual.1080p.mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport 6 Nz
-https://cdn8.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=vvPavAMh89OdsPBiE6-fpQ&expires=1781970364
+https://cdn10.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=1f7MwNT86oq1jmNLDRrmVQ&expires=1781978417
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 1
-https://cdn9.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=vcOwg-7YTn1TBt-r6Dceqw&expires=1781970364
+https://cdn1.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=kYGNnkj3IwZrQqTnNrHcCw&expires=1781978417
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 2
-https://cdn1.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=ad5tOi2DmvMjn97iZCJ8_Q&expires=1781970364
+https://cdn8.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=lxvZBtL7z8we958S0OaiVQ&expires=1781978417
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 3
-https://cdn1.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=zRdvAIE_oFPULIhFD9_bzQ&expires=1781970364
+https://cdn6.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=NF3Cq-gl1s7UmHrHU56FyQ&expires=1781978417
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 4
-https://cdn3.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=sZyPR3V87CSEZEJGxdQG2Q&expires=1781970364
+https://cdn4.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=0s0jKlLBHULbPSUNGRggFA&expires=1781978417
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 5
-https://cdn4.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=VL4vleYFCGplhWvjjDmkJA&expires=1781970364
+https://cdn1.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=Yan0hpIaSs9vHKUA73L-HQ&expires=1781978417
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 7
-https://cdn7.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=T3jFbfQti7ta838HrQl67Q&expires=1781970364
+https://cdn10.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=-be3_oRK1zSQeMx9h_TXJA&expires=1781978418
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 8
-https://cdn1.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=3Od_U0QB6p28ODiYDD5r4A&expires=1781970364
+https://cdn6.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=NXRpOHZhFL290spDWRZ4iA&expires=1781978418
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sport Nz 9
-https://cdn4.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=dVKvr3_FdmzHB-vD2oGNcg&expires=1781970364
+https://cdn6.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=O4mSULEFGgXci9nsBTYsWw&expires=1781978418
 #EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sports 1 FHD
 https://hilay.tv/l/skysportsnz1
 #EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sports 2 FHD
@@ -2896,7 +2896,7 @@ https://hilay.tv/l/skysportsnz9
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sports Action FHD
 https://a1xs.vip/2000011
 #EXTINF:-1 tvg-id="SkySportsArena.ie" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sports Arena
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=-u4Hr8QQgo4KMu_SOBNh1A&expires=1781970365
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=7rKqqg6PmIx3zKt9wIhw1g&expires=1781978418
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sports Cricket FHD
 https://a1xs.vip/2000006
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="🇬🇧 United Kingdom - Sports",Sky Sports F1 FHD
