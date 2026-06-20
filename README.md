@@ -9,6 +9,17 @@ A fully automated IPTV playlist manager that collects, merges, deduplicates, and
 - **Deduplication**: Automatically removes duplicate channels, keeping the one with the best metadata
 - **Dead Link Filtering**: Verifies streams and provides a `combined_live.m3u` of only working channels
 - **Zero Cost**: Runs entirely on GitHub Actions within the free tier
+## 📺 Your Playlist Links
+
+Use these links directly in your IPTV player (like OTT Navigator, TiViMate, VLC, Kodi):
+
+**1. All Channels (Untested - Includes Dead Links)**  
+👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combined_by_country.m3u`
+
+**2. Live Channels Only (Tested - Dead Links Removed)**  
+👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combined_live.m3u`
+
+*(Note: The "Live Channels Only" playlist updates when you manually run the dead-link check from the Actions tab, or automatically every Sunday).*
 
 ## Setup Guide
 
