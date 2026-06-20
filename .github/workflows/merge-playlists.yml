@@ -67,7 +67,7 @@ jobs:
       - name: 🔍 Check dead links & probe resolution
         # To preserve free tier GitHub Actions minutes, only run full link checking manually or on Sundays
         if: ${{ (github.event_name == 'schedule' && github.event.schedule == '0 0 * * 0') || (github.event_name == 'workflow_dispatch' && github.event.inputs.check_links == 'true') }}
-        run: python scripts/check_links.py --timeout 8 --workers 20 --probe --verbose
+        run: python scripts/check_links.py --timeout 12 --workers 100 --probe --verbose
         continue-on-error: true
       
       - name: 🗜️ Compress outputs (GZIP)

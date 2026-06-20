@@ -25,6 +25,8 @@ from typing import Dict, List, Optional, Tuple, Set
 from dataclasses import dataclass, field
 from pathlib import Path
 from urllib.parse import urlparse
+import concurrent.futures
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Add scripts directory to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -484,19 +486,28 @@ def run_merge_pipeline(check_links: bool = False) -> Dict:
     
     # Step 2: Download playlists
     log.info("\n📥 Step 2: Downloading playlists...")
-    downloader = PlaylistDownloader()
     all_channels: List[Channel] = []
     download_stats = {"success": 0, "failed": 0}
     
-    for url in urls:
-        content = downloader.download(url)
+    def process_url(target_url: str) -> Optional[List[Channel]]:
+        # Use a fresh downloader instance per thread for complete safety
+        local_downloader = PlaylistDownloader()
+        content = local_downloader.download(target_url)
         if content:
-            channels = M3UParser.parse(content, source_url=url)
-            log.info(f"    Parsed {len(channels)} channels from {urlparse(url).netloc}")
-            all_channels.extend(channels)
-            download_stats["success"] += 1
-        else:
-            download_stats["failed"] += 1
+            channels = M3UParser.parse(content, source_url=target_url)
+            log.info(f"    Parsed {len(channels)} channels from {urlparse(target_url).netloc}")
+            return channels
+        return None
+
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        future_to_url = {executor.submit(process_url, url): url for url in urls}
+        for future in as_completed(future_to_url):
+            result = future.result()
+            if result is not None:
+                all_channels.extend(result)
+                download_stats["success"] += 1
+            else:
+                download_stats["failed"] += 1
     
     if not all_channels:
         log.error("No channels found in any playlist!")
