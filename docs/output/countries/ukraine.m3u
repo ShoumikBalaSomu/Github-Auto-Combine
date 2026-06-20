@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="RU: 5 Kanal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb0acc93743532396066f7f5dd02b689.png" group-title="🇺🇦 Ukraine",RU: 5 Kanal
+http://mxonlive.xyz/live/xap/353234.m3u8?e=1781986593&token=fbbae01d2e0e181b469468eb7d9ec19b5ad497be0d8de956da0f54f4d5cd0ba4
+#EXTINF:-1 tvg-name="UKR: 1+1 International" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/7f66b9357907c5e18194c1e01d867de8.svg" group-title="🇺🇦 Ukraine",UKR: 1+1 International
+http://mxonlive.xyz/live/xap/355025.m3u8?e=1781986593&token=a2935bb87672b4fe4843c4abcacb26832e9ced7fa19a4fd46415f0c31a2b275e
+#EXTINF:-1 tvg-name="UKR: 1+1 Maraton" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/d2a2043421587c5cab3674078d16f82b.png" group-title="🇺🇦 Ukraine",UKR: 1+1 Maraton
+http://mxonlive.xyz/live/xap/355026.m3u8?e=1781986593&token=84998330e95c1ad4555d82094632c63454544ce6b00b0608fb1a8e91b4399f8b
+#EXTINF:-1 tvg-name="UKR: 1+1 Україна" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/1bff2aaccad556c2ffd77540d8078017.png" group-title="🇺🇦 Ukraine",UKR: 1+1 Україна
+http://mxonlive.xyz/live/xap/355027.m3u8?e=1781986593&token=e66455d58aa4ca3bd29b0743608d0f639dca16950a26ef42969ffaab9946a10a
+#EXTINF:-1 tvg-name="UKR: 2+2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6e581a74f7fd5c04f2283b712a058ba5.png" group-title="🇺🇦 Ukraine",UKR: 2+2
+http://mxonlive.xyz/live/xap/355029.m3u8?e=1781986593&token=aaf15e87d1da21dc357be5db4492149e52a2dbec691219cf24a38a402f1e7f57
+#EXTINF:-1 tvg-name="UKR: 5 Kanal (5 канал)" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/5c627d7f4f6572ba0a219a9e7ea912cd.png" group-title="🇺🇦 Ukraine",UKR: 5 Kanal (5 канал)
+http://mxonlive.xyz/live/xap/355023.m3u8?e=1781986593&token=404966ab3e0dcf5838d3e8138fcc8c9afc52d23b7b62be46ba57bd0ea0f6db0e
+#EXTINF:-1 tvg-name="UKR: Espreso TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/9cc364371a4e8a105a700b4029133a14.png" group-title="🇺🇦 Ukraine",UKR: Espreso TV
+http://mxonlive.xyz/live/xap/355038.m3u8?e=1781986593&token=30f99c565c239524e642eda6e93b13051ed93d7f4bd2f6ee10e6113d3a4e79c1
+#EXTINF:-1 tvg-name="UKR: ICTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/72042606a3bf6ae463f99a1d9d341389.jpg" group-title="🇺🇦 Ukraine",UKR: ICTV
+http://mxonlive.xyz/live/xap/355041.m3u8?e=1781986593&token=73b4f3b21cb0a65560f3b29ef2ac4940c092c93b8daed5c44d45b507fb7b7c39
+#EXTINF:-1 tvg-name="UKR: Novy Kanal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1588c120a8ffe65e3763e4be186571fc.png" group-title="🇺🇦 Ukraine",UKR: Novy Kanal
+http://mxonlive.xyz/live/xap/355052.m3u8?e=1781986593&token=2b705616527fb5326dcf9fa0ece83a7448ee8818b78dae757095bab40a159672
+#EXTINF:-1 tvg-name="UKR: Telekanal STB" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/23045f2b928a7c1bbb381c673bbe377c.jfif" group-title="🇺🇦 Ukraine",UKR: Telekanal STB
+http://mxonlive.xyz/live/xap/355067.m3u8?e=1781986593&token=d00a774d6faed3e6645d73919367d8218e10dc0c31f2af5da923039ab3ff1d6b

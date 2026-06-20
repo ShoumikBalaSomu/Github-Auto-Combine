@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Af | DSTV: RTP Internacional" tvg-logo="http://vod-logo.net/photos/bfb983977b3c3ec9962adc3544ca269d.png" group-title="🇵🇹 Portugal",Af | DSTV: RTP Internacional
+http://mxonlive.xyz/live/xap/238623.m3u8?e=1781986593&token=eff04f95df63384f2c541ae70e36aa3e04d5ff34bf519069b785b47ceff48f59
+#EXTINF:-1 tvg-name="NG: TVI Africa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/767a8e7432444913a3209793b682572c.jpeg" group-title="🇵🇹 Portugal",NG: TVI Africa
+http://mxonlive.xyz/live/xap/419526.m3u8?e=1781986593&token=b187133c7e26ea8bfb5fcdf565089a72321ceac96854b92311a74df468cefa93
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="🇵🇹 Portugal",PT: A Bola TV
+http://mxonlive.xyz/live/xap/352862.m3u8?e=1781986593&token=b1e2e62726aebdf29dcb89400eac4e0d18c734ef588ba6c20ab5c6282403f302
+#EXTINF:-1 tvg-name="PT: Advance SIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇵🇹 Portugal",PT: Advance SIC
+http://mxonlive.xyz/live/xap/352947.m3u8?e=1781986593&token=d37a3f97393e7812febe6d148f7f1e07a222632f45ed23092f543afec2222db8
+#EXTINF:-1 tvg-name="PT: Afro Music Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ebb638597b4f6b35d739a3d94ac85b1d.png" group-title="🇵🇹 Portugal - Music",PT: Afro Music Channel
+http://mxonlive.xyz/live/xap/352957.m3u8?e=1781986593&token=b71c9bd434c9ff823b22a42cbf790a236020160ce627981974f70790a9fcb502
+#EXTINF:-1 tvg-name="PT: Alma Lusa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/33df3da365e8d1a5debd13803f9e993b.jpg" group-title="🇵🇹 Portugal",PT: Alma Lusa
+http://mxonlive.xyz/live/xap/352863.m3u8?e=1781986593&token=b4c9227ee54ee183fa9bb1d576b32d56604f84a9fcd0c4763149d066a61b0921
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="🇵🇹 Portugal",PT: AR TV
+http://mxonlive.xyz/live/xap/352864.m3u8?e=1781986593&token=ce4a4aef2b3f3d3f351d09e59f6ecf0537c1711793789ef22fd94cf518c010cd
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="🇵🇹 Portugal",PT: AXN
+http://mxonlive.xyz/live/xap/352894.m3u8?e=1781986593&token=6ac32845ba486a0c0b03cff5e4230c9febb2c4d5023d2c11bbabb03e22a3695f
+#EXTINF:-1 tvg-name="PT: AXN Black" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/46bd7963439cfb05cc5fa6a74e27ffcc.png" group-title="🇵🇹 Portugal",PT: AXN Black
+http://mxonlive.xyz/live/xap/352895.m3u8?e=1781986593&token=1abf1cdcd0caa883cbc16fa33b0480175865c71d8a285532da6bd2f45b92a62d
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="🇵🇹 Portugal - Movies",PT: AXN Movies
+http://mxonlive.xyz/live/xap/352896.m3u8?e=1781986593&token=466ae85b18f36cbb15a50675d2fe1771972d29fb8d45b297157c1f4331ee1e1a
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN White" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="🇵🇹 Portugal",PT: AXN White
+http://mxonlive.xyz/live/xap/352897.m3u8?e=1781986593&token=06a6ee14be7b69d7c04a4cdd7c88c0570c9c01fae0e2075060a55ee61edc0f48
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: Benfica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="🇵🇹 Portugal",PT: Benfica TV
+http://mxonlive.xyz/live/xap/352922.m3u8?e=1781986593&token=22d0b4f12606903c998592ee842f0bdfa2440695c4a3fafd1b9ddc9004682f36
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: Biggs" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="🇵🇹 Portugal",PT: Biggs
+http://mxonlive.xyz/live/xap/352865.m3u8?e=1781986593&token=559d419bc61b0ad366d1b784419dfc9e03cd34559c18df5e35840d15c36105b9
+#EXTINF:-1 tvg-name="PT: Campo Pequeno" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇵🇹 Portugal",PT: Campo Pequeno
+http://mxonlive.xyz/live/xap/352948.m3u8?e=1781986593&token=02fccfca26dd34c7722601f4528637bf13c262d526b51f60db169ae1aa57cd6c
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: Canal 11" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="🇵🇹 Portugal",PT: Canal 11
+http://mxonlive.xyz/live/xap/352923.m3u8?e=1781986593&token=6d5ef6643a4c04966c6071f110fedb806a06c24b6ca51373e36ed25fbdc3a2cc
+#EXTINF:-1 tvg-id="canal180.pt" tvg-name="PT: CANAL 180" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇵🇹 Portugal",PT: CANAL 180
+http://mxonlive.xyz/live/xap/352959.m3u8?e=1781986593&token=dbe832097426bc64550e5d510dab21ef18aa9c1213a056c811a03bb3fd034b20
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: Canal Hollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="🇵🇹 Portugal",PT: Canal Hollywood
+http://mxonlive.xyz/live/xap/352898.m3u8?e=1781986593&token=55b7d673bc0215da50e6865d3487d081719920a46590e18ab5d1641319418ef3
+#EXTINF:-1 tvg-name="PT: Canal Macau" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6e8078421bf72e8fae6ecbebbaec85fd.png" group-title="🇵🇹 Portugal",PT: Canal Macau
+http://mxonlive.xyz/live/xap/352940.m3u8?e=1781986593&token=4ab2d232e3850b6ebfec63ec1f805f596e70c156c167b84d675c1bd53abcc117
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: Canal Panda" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="🇵🇹 Portugal",PT: Canal Panda
+http://mxonlive.xyz/live/xap/352851.m3u8?e=1781986593&token=ce79857f93c9e94f3f4ce243a641307ecedf57bb3e3d06047d094361453cfff5
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: Canal Q" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="🇵🇹 Portugal",PT: Canal Q
+http://mxonlive.xyz/live/xap/352869.m3u8?e=1781986593&token=2e4daa422bda630aa53264cb5666795ff053194d7028fd625935b259bb5636e7
+#EXTINF:-1 tvg-name="PT: Canal Vida" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dec253af1ae13fa8427d2b1161f780e5.png" group-title="🇵🇹 Portugal",PT: Canal Vida
+http://mxonlive.xyz/live/xap/352949.m3u8?e=1781986593&token=4dd248d066fc78beec601d2091f047d76a5efadc118852ff75a910e51e777fb7
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: Casa e Cozinha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="🇵🇹 Portugal",PT: Casa e Cozinha
+http://mxonlive.xyz/live/xap/352866.m3u8?e=1781986593&token=ec22fb402dab4355fdb15da87c3607a9ef9adf68b9ed42f18d844eb7c3a56b39
+#EXTINF:-1 tvg-name="PT: Caza y Pesca" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a1b305ea7b0e852adefe7dbb105da387.png" group-title="🇵🇹 Portugal",PT: Caza y Pesca
+http://mxonlive.xyz/live/xap/352841.m3u8?e=1781986593&token=40e07960a1657905ae7bca6711851d1aa88d45eb5280fe3efb0c54bd611a01a0
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT: Caçavision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e5841517874fb6f89b1d336ff814cff9.png" group-title="🇵🇹 Portugal",PT: Caçavision
+http://mxonlive.xyz/live/xap/352842.m3u8?e=1781986593&token=bd2862b7c2e35ee3f954d8461b24bf69bfa85a77f8cc773a5213a4572e777a33
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: Cine Mundo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="🇵🇹 Portugal - Movies",PT: Cine Mundo
+http://mxonlive.xyz/live/xap/352900.m3u8?e=1781986593&token=7bb4d8aae706b5d2306ccc3c1d336f5e82fdb87f019d753771e03910c739f00b
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CM TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="🇵🇹 Portugal",PT: CM TV
+http://mxonlive.xyz/live/xap/352941.m3u8?e=1781986593&token=774745c5fb8ac3c21710f0b14ee69f3740348e4d39b0b4d7805c70e217f4a741
+#EXTINF:-1 tvg-name="PT: Crime District" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aa39afd1595de483bb3ea94a9220ba63.png" group-title="🇵🇹 Portugal",PT: Crime District
+http://mxonlive.xyz/live/xap/352844.m3u8?e=1781986593&token=6c65934bc09b68e4d6a77354ef0686d3b241561198891299103819680f164312
+#EXTINF:-1 tvg-name="PT: Disney+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f0484ce1b78c3e3b76a1e440dfb0682.jpg" group-title="🇵🇹 Portugal - Kids",PT: Disney+
+http://mxonlive.xyz/live/xap/352855.m3u8?e=1781986593&token=ec654fed1c82c649c5e7b961752e6df6601291f97a0e1de0bea19dba0285c9a6
+#EXTINF:-1 tvg-name="PT: Disney+ Pixar" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇵🇹 Portugal - Kids",PT: Disney+ Pixar
+http://mxonlive.xyz/live/xap/352856.m3u8?e=1781986593&token=dc0b2f94668803d5fa360f2b4d622130d3e2e33ed17795589cf9853a4a134ffc
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="🇵🇹 Portugal",PT: E!
+http://mxonlive.xyz/live/xap/352871.m3u8?e=1781986593&token=cdd795549f57db05dbaec2acefe79736c96c04dd253cb5b72c22b8f0d15223c6
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="🇵🇹 Portugal - Sports",PT: ELEVEN SPORTS 1
+http://mxonlive.xyz/live/xap/352916.m3u8?e=1781986593&token=18d6dd78f31dca7ccf94e4287ab1f031206a3a866b2dd4516f2075de03fb6bbb
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="🇵🇹 Portugal - Sports",PT: ELEVEN SPORTS 2
+http://mxonlive.xyz/live/xap/352917.m3u8?e=1781986593&token=d9e65b99c7eed5ff42a533d5e46b81f01d5be5e8effe5926d6049bad0beb68ab
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="🇵🇹 Portugal - Sports",PT: ELEVEN SPORTS 3
+http://mxonlive.xyz/live/xap/352918.m3u8?e=1781986593&token=ccf2d6ddceea8531f77497e19485e1c1ed8edca8d7ac585e7417a9463d980825
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="🇵🇹 Portugal - Sports",PT: ELEVEN SPORTS 4
+http://mxonlive.xyz/live/xap/352919.m3u8?e=1781986593&token=4b5d7ae5312279c4ded74440b57dcf0893e9be128f8896ae30cc3722e58fc92c
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="🇵🇹 Portugal - Sports",PT: ELEVEN SPORTS 5
+http://mxonlive.xyz/live/xap/352920.m3u8?e=1781986593&token=3ae46b9af092b0b177eb308ec19733eba439a2671499aeb2b79815637c435ab1
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="🇵🇹 Portugal - Sports",PT: ELEVEN SPORTS 6
+http://mxonlive.xyz/live/xap/352921.m3u8?e=1781986593&token=e681f001d606734dc5709b223a4751bd14d5e81ea83bef63c7d1a6df926ef6e8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="🇵🇹 Portugal",PT: euronews
+http://mxonlive.xyz/live/xap/352943.m3u8?e=1781986593&token=50d44b418a83834491799317c1d61f6edd7a3dba968bd98573d12e22751d3c72
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: Fuel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="🇵🇹 Portugal",PT: Fuel TV
+http://mxonlive.xyz/live/xap/352927.m3u8?e=1781986593&token=6b0aa5aa12544047e716284eefea33756559524430de09c1b7eda6b9463406d7
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="🇵🇹 Portugal",PT: Historia
+http://mxonlive.xyz/live/xap/352846.m3u8?e=1781986593&token=33da4428497d60c79362cddf44db6e4c5b5063a80f88d49d3f2d7fefeacc46d2
+#EXTINF:-1 tvg-name="PT: Hollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/64fd3bf86a91bf4b98ae289b8af890e4.png" group-title="🇵🇹 Portugal",PT: Hollywood
+http://mxonlive.xyz/live/xap/352906.m3u8?e=1781986593&token=033784074dd2a82a373ab244fe6213827632d9da99fd9877cd94d926cb70dba8
+#EXTINF:-1 tvg-name="PT: Kuriakos Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇵🇹 Portugal - Kids",PT: Kuriakos Kids
+http://mxonlive.xyz/live/xap/352858.m3u8?e=1781986593&token=6a495db8b525d036cf34d5541e2fccd5a4cc4b1fc476e637bba405fb78964396
+#EXTINF:-1 tvg-name="PT: Kuriakos TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="🇵🇹 Portugal",PT: Kuriakos TV
+http://mxonlive.xyz/live/xap/352950.m3u8?e=1781986593&token=6f1c6e5b2573edf183d46c9b5be29acc0e00ef6584e32510f6f4294570fe2232
+#EXTINF:-1 tvg-name="PT: MEO Videoclube" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇵🇹 Portugal",PT: MEO Videoclube
+http://mxonlive.xyz/live/xap/352907.m3u8?e=1781986593&token=c63153a8878181af3344e6deea65ec2edb18af9bfd9712ac441a977bff1501b7
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: Motorvision TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="🇵🇹 Portugal",PT: Motorvision TV
+http://mxonlive.xyz/live/xap/352928.m3u8?e=1781986593&token=4cc3b5e3a6a31ad65be449c33c87fed761f85515501b07e7e71544b606abe61b
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: Odisseia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="🇵🇹 Portugal",PT: Odisseia
+http://mxonlive.xyz/live/xap/352873.m3u8?e=1781986593&token=5dd167ef2321dfb9efb387d2ccc6a25da39f3e9665892db5c9e735239ca0f299
+#EXTINF:-1 tvg-name="PT: PANDA Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3cefd291288dfa0625349be7c43007c8.png" group-title="🇵🇹 Portugal - Kids",PT: PANDA Kids
+http://mxonlive.xyz/live/xap/352861.m3u8?e=1781986593&token=b7d93786d910a434df1a9d32d169a1cefc33ee243df817e507e1991995ed673f
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: Porto Canal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="🇵🇹 Portugal",PT: Porto Canal
+http://mxonlive.xyz/live/xap/352874.m3u8?e=1781986593&token=c51500724034d59c4a305783e1673eed38ba05db1d165f55cac23ee6ee30d8c7
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="🇵🇹 Portugal",PT: RTP 1
+http://mxonlive.xyz/live/xap/352875.m3u8?e=1781986593&token=5dbb7baac1d0af1a3c73c3bb1f8a8c553897b45dfcbd730e1cb60f70c2fb19a0
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="🇵🇹 Portugal",PT: RTP 2
+http://mxonlive.xyz/live/xap/352876.m3u8?e=1781986593&token=abc245c0210545ead16d34c1cd1f16f7e2c3e51325aea7142af7ce45c9a6f634
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="🇵🇹 Portugal",PT: RTP 3
+http://mxonlive.xyz/live/xap/352877.m3u8?e=1781986593&token=2bc8560143082919fed68ed0e6b84c174e59391e1609566ddda9773f801450df
+#EXTINF:-1 tvg-name="PT: RTP Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cdbc2f555b8d1e89eb34575db4b04aab.png" group-title="🇵🇹 Portugal",PT: RTP Arena
+http://mxonlive.xyz/live/xap/352952.m3u8?e=1781986593&token=b8f35af2a14ecc432afe5c0e547f324305a291ce07c0cf5379118f836b31c2b9
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="🇵🇹 Portugal",PT: RTP Açores
+http://mxonlive.xyz/live/xap/352878.m3u8?e=1781986593&token=1cc02f0bfa6fa589db3a845b5122af0c334dc454c1cda869dd467ede68d5b510
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="🇵🇹 Portugal",PT: RTP Madeira
+http://mxonlive.xyz/live/xap/352879.m3u8?e=1781986593&token=9058982f848bb3047543e1d2302360445fcd6ba165cb8e15d62cc2cae4a5fbd5
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memória" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="🇵🇹 Portugal",PT: RTP Memória
+http://mxonlive.xyz/live/xap/352880.m3u8?e=1781986593&token=13e069d98f9845a30ceac9118266613e60213d649855c1a38f48f9156f7c2fe0
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP África" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="🇵🇹 Portugal",PT: RTP África
+http://mxonlive.xyz/live/xap/352881.m3u8?e=1781986593&token=95008b49ca70971d427b21ca1a3374f469681c2cc8602210af797c3cbd812b97
+#EXTINF:-1 tvg-name="PT: SAUDE+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/83ccd96060ac85f5dc1edfb7a078cb99.jpg" group-title="🇵🇹 Portugal",PT: SAUDE+
+http://mxonlive.xyz/live/xap/352882.m3u8?e=1781986593&token=1d631a4621544b1051a68e7ae23d7573afcccb3e5b7c3c11ef45435b6cb5c67f
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="🇵🇹 Portugal",PT: SIC
+http://mxonlive.xyz/live/xap/352883.m3u8?e=1781986593&token=c252009942cd6704bb0bdde99935491989581bd67f3e7aa6e8651c6129c87d66
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC Caras" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="🇵🇹 Portugal",PT: SIC Caras
+http://mxonlive.xyz/live/xap/352884.m3u8?e=1781986593&token=51672dc61cfcf58d21f940d0214f2601ffa7736b3eadcfc83aaeb92935b18318
+#EXTINF:-1 tvg-name="PT: SIC Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/54df892171325d99e6c38d3b28d2df7c.jpg" group-title="🇵🇹 Portugal",PT: SIC Internacional
+http://mxonlive.xyz/live/xap/352953.m3u8?e=1781986593&token=6e0ee398404803c4913eaa68e46cf21d73a68c29b4cfd6108b17788787e1ec2e
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="🇵🇹 Portugal",PT: SIC K
+http://mxonlive.xyz/live/xap/352885.m3u8?e=1781986593&token=6fd6c4043cca7abf9d058be5b30f724d22431dff42cd240d3f53c675f8fe1d7b
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="🇵🇹 Portugal",PT: SIC Mulher
+http://mxonlive.xyz/live/xap/352909.m3u8?e=1781986593&token=6983ae7f819ce46ab4c60d6c67fd62a017a901ded6459acf843a055f5ed1594b
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="🇵🇹 Portugal - News",PT: SIC Noticias
+http://mxonlive.xyz/live/xap/352944.m3u8?e=1781986593&token=f8d4f8fef2ef0847f1f066005298790eedb9c3e1bd84bd316d51b68b72d1c200
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="🇵🇹 Portugal",PT: SIC Radical
+http://mxonlive.xyz/live/xap/352886.m3u8?e=1781986593&token=29570dd704508ebf2888a06ef62c8ad04d9f6dc8ea6cc46d9aa2356787f197fa
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="🇵🇹 Portugal",PT: Sporting TV
+http://mxonlive.xyz/live/xap/352937.m3u8?e=1781986593&token=a292db5596f19a5b364d5f878498bb9f2a1d4c4e5ea3a6bd4a9b59361e78b9aa
+#EXTINF:-1 tvg-name="PT: Toros" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/db8f499229b8217be7574125eb449f7a.png" group-title="🇵🇹 Portugal",PT: Toros
+http://mxonlive.xyz/live/xap/352954.m3u8?e=1781986593&token=c75c5eec066579d12a49968ae63d8c51ff3f0725cefe3a5c12e7745871ea91dc
+#EXTINF:-1 tvg-name="PT: TPA Notícias" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/45b8541fb653ee36234e68169c70b795.png" group-title="🇵🇹 Portugal",PT: TPA Notícias
+http://mxonlive.xyz/live/xap/352955.m3u8?e=1781986593&token=825e93d71cc2bffb5c82d8b392c6ed3404b08789dde28f7aea969fa31c356cff
+#EXTINF:-1 tvg-name="PT: TV Mana 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/60238430d0c25e5b66a86aa814b0bde5.png" group-title="🇵🇹 Portugal",PT: TV Mana 1
+http://mxonlive.xyz/live/xap/352889.m3u8?e=1781986593&token=a1ae2abdf5ec191d70a9a224026e7c0e6781cc1ea06e0554e095d77c80c16fc4
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCine Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="🇵🇹 Portugal",PT: TVCine Action
+http://mxonlive.xyz/live/xap/352911.m3u8?e=1781986593&token=5424a3e6b068bd4134625ff4b6891f855d73ced98935ab1f2ad6459a14f6ffc8
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCine Edition" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="🇵🇹 Portugal",PT: TVCine Edition
+http://mxonlive.xyz/live/xap/352912.m3u8?e=1781986593&token=16cd3000fbc40247573c03f03d0a160b5d2737b9a8c8a9c77b5a1b57129bc0aa
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCine Emotion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="🇵🇹 Portugal",PT: TVCine Emotion
+http://mxonlive.xyz/live/xap/352913.m3u8?e=1781986593&token=e8a22a0aeba220a887b26a31f680b8c027ace0d53b95b6658b948d53e001dc2f
+#EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="PT: TVCine Top" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="🇵🇹 Portugal",PT: TVCine Top
+http://mxonlive.xyz/live/xap/352914.m3u8?e=1781986593&token=30eb72c6a28172e6adc25740aefb5aa93a253affd5da43dc12d1ac817bffc96f
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="🇵🇹 Portugal",PT: TVI
+http://mxonlive.xyz/live/xap/352945.m3u8?e=1781986593&token=07e5ec5cf3e0396829cdd95082b716bc87ec9c13f4a67aa99b9899ef5f158c4f
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI Ficção" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="🇵🇹 Portugal",PT: TVI Ficção
+http://mxonlive.xyz/live/xap/352890.m3u8?e=1781986593&token=4e4cf9ceede8aba76376df57202fc44baa90afed74b6afdb5d186104c2d13052
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="🇵🇹 Portugal",PT: TVI Reality
+http://mxonlive.xyz/live/xap/352891.m3u8?e=1781986593&token=ceedd7bdac5b2e3dd82beebc40bf2536e383e442964b46004a519fde657eefe3
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 1 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 1 FHD
+http://mxonlive.xyz/live/xap/441749.m3u8?e=1781986593&token=bf34f4d343b436fdc3b8958ac780dc7113498a62bcb07145227f60aeb578b034
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 10 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 10 FHD
+http://mxonlive.xyz/live/xap/441758.m3u8?e=1781986593&token=9bb0cf415a9c4f08d4ff197f35e16a32a24c6312df73167f76602d210faa9401
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 11 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 11 FHD
+http://mxonlive.xyz/live/xap/441759.m3u8?e=1781986593&token=b8813ea25723104d15859e3eb0938e05a0d74e31d7f504db766fbab3fb9c9428
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 12 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 12 FHD
+http://mxonlive.xyz/live/xap/441760.m3u8?e=1781986593&token=47818aec3f1bd9ce3affcf270fd21c02c8d5fe82243d3b56042b6099885ff277
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 13 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 13 FHD
+http://mxonlive.xyz/live/xap/441761.m3u8?e=1781986593&token=c0213fda0bde3f33251db0fb8e63d5f34419046728554bbbc4ff6fb9e998b675
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 14 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 14 FHD
+http://mxonlive.xyz/live/xap/441762.m3u8?e=1781986593&token=770bd09f54c9ee9678245cddcb0d19481362dcb4db7175b43e8e7fbdefc09c7e
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 15 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 15 FHD
+http://mxonlive.xyz/live/xap/441763.m3u8?e=1781986593&token=126436055fad22723fb83fb1cf13153dee295df323e788e91ba8c4e02d5567bd
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 16 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 16 FHD
+http://mxonlive.xyz/live/xap/441764.m3u8?e=1781986593&token=ce846ab9c38929c765749b66495e3e6ec0f73328f8d2c5c7aa4729c796e87013
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 17 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 17 FHD
+http://mxonlive.xyz/live/xap/441765.m3u8?e=1781986593&token=7eb952c88c60605128132cadc562aa3efc00ec7dd8785ff60f9b277ceebb9ed5
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 18 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 18 FHD
+http://mxonlive.xyz/live/xap/441766.m3u8?e=1781986593&token=e1971239684cde34b335f878da455532d2e163e864b3ad741378d3918c8451f6
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 19 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 19 FHD
+http://mxonlive.xyz/live/xap/441767.m3u8?e=1781986593&token=cccfc3ee0f41d0ee1174831c7bf8db93f1976c66543feac0450e14d991f2098c
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 2 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 2 FHD
+http://mxonlive.xyz/live/xap/441750.m3u8?e=1781986593&token=c3b2c69878763e14b96ea83b2b0bd9cf49e815678b42dc0f2202194940193777
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 20 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 20 FHD
+http://mxonlive.xyz/live/xap/441768.m3u8?e=1781986593&token=f67b076244cbf9830b2a1275d5ac0dd19da0759f8fc60e758a9af7cd63e5d322
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 3 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 3 FHD
+http://mxonlive.xyz/live/xap/441751.m3u8?e=1781986593&token=8e3dd9cb4a525b7b58fc138c14c89d9121a2e2b4179999273c4026644103c12e
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 4 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 4 FHD
+http://mxonlive.xyz/live/xap/441752.m3u8?e=1781986593&token=84f0e1dfb7238eabf82d2ac5dffec072ad352f1a79c0869422627cdf512c10af
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 5 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 5 FHD
+http://mxonlive.xyz/live/xap/441753.m3u8?e=1781986593&token=ff077af015c1b15eea8b6188247569d62abadb9c5695caffccd525b406a4e128
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 6 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 6 FHD
+http://mxonlive.xyz/live/xap/441754.m3u8?e=1781986593&token=c56fbe0ba4794591ab1eec79bf03ca1afd31f012449b5de30c0342c3392672ee
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 7 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 7 FHD
+http://mxonlive.xyz/live/xap/441755.m3u8?e=1781986593&token=d79fb199d3b7cec2a1cdf0c64f787f91607752065b5ec68d85d88710ee5d9f66
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 8 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 8 FHD
+http://mxonlive.xyz/live/xap/441756.m3u8?e=1781986593&token=1dda1a0e9ee8f08baacce988d17877ac2a91363b94ca1825c31b4e5dbee83e74
+#EXTINF:-1 tvg-name="Vibe Portugal Movies 9 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇹 Portugal - Movies",Vibe Portugal Movies 9 FHD
+http://mxonlive.xyz/live/xap/441757.m3u8?e=1781986593&token=2610d2d416504e79ea4a0212ac453f7c0b548da007438444aaf82aff58cdbe2b
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇵🇹 Portugal",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/352938.m3u8?e=1781986593&token=a2a27d58dd9831ca12a1088fce9fb82591df58843444503d3d8bcd69dfe5f670

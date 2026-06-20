@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AF: OCN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/cc977a5d47bf29177cb9b75c09a7f57a.jpg" group-title="🇰🇷 South Korea",AF: OCN TV
+http://mxonlive.xyz/live/xap/419442.m3u8?e=1781986593&token=f8fc034ee767c80dd5e23510b3d330fdb6e36a0a452a2a7f1f527afef7940a64
+#EXTINF:-1 tvg-id="47961" tvg-logo="https://core.freetvindia.com/media/channels/arirang.png" group-title="🇰🇷 South Korea" tvg-lang="BLOODY_SWEET",Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-name="BE: EbS+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bfce80bbc4ae43f2d9bd7661496225a2.png" group-title="🇰🇷 South Korea",BE: EbS+
+http://mxonlive.xyz/live/xap/348332.m3u8?e=1781986593&token=71621933af3b9e2589fc9057b9db5d2b5e4c84e4b0e9c0d692d2e7df02724089
+#EXTINF:-1 tvg-name="CL: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2314bf5a61edc01dc4d31f777acc5470.svg" group-title="🇰🇷 South Korea",CL: TVN
+http://mxonlive.xyz/live/xap/349112.m3u8?e=1781986593&token=df165758ffc88ff46493a96f900d75e53a855412e1df6cfdfd40a7c88c0363bf
+#EXTINF:-1 tvg-name="ID: Arirang" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="🇰🇷 South Korea",ID: Arirang
+http://mxonlive.xyz/live/xap/350893.m3u8?e=1781986593&token=be6614d315b40c410824001f458fb84fc5f29aab60d8edd3d152c1cc3a949785
+#EXTINF:-1 tvg-name="ID: KBS World" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="🇰🇷 South Korea",ID: KBS World
+http://mxonlive.xyz/live/xap/350981.m3u8?e=1781986593&token=6de4f93df0fd8c746f266c1c5399e6f9c596db0e5b1729756f368671abebda17
+#EXTINF:-1 tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="🇰🇷 South Korea",ID: TVN
+http://mxonlive.xyz/live/xap/351045.m3u8?e=1781986593&token=d6868c7d5b360458577eace5bcb082f65dc0737fa764d96c9e623b9553938d8d
+#EXTINF:-1 tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="🇰🇷 South Korea - Movies",ID: TVN Movies
+http://mxonlive.xyz/live/xap/351046.m3u8?e=1781986593&token=1ffe35fdb6590b9a6c72e1c4ea8ba183d0a9dd43f3b6011bce7262c50cf56138
+#EXTINF:-1 tvg-name="KR: AniPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="🇰🇷 South Korea",KR: AniPlus
+http://mxonlive.xyz/live/xap/353980.m3u8?e=1781986593&token=e345f686b25d8b20f3a52c16aa43079522131ab12a6ccc0cb9d1353f1ad173eb
+#EXTINF:-1 tvg-name="KR: Arirang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/f0733d9fc870fa1bacf7b3f3b55b7ac7.png" group-title="🇰🇷 South Korea",KR: Arirang
+http://mxonlive.xyz/live/xap/353981.m3u8?e=1781986593&token=23cfdd0f90a88631fb39214ab7abae4fb91035060301a5bd7a33e2bb8d2ea986
+#EXTINF:-1 tvg-name="KR: Arirang Radio" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c837ebe2d66417d8dd25889e47121211.png" group-title="🇰🇷 South Korea",KR: Arirang Radio
+http://mxonlive.xyz/live/xap/353982.m3u8?e=1781986593&token=946c377983f06c881a4e8d8c70570fb396ea49f1cb4bbb28f1c72b1975e4c713
+#EXTINF:-1 tvg-name="KR: BBS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/46602ef7549d0788e992684ff772e5e3.jpg" group-title="🇰🇷 South Korea",KR: BBS
+http://mxonlive.xyz/live/xap/353983.m3u8?e=1781986593&token=2e745b5c1e7843d08eb76b6e70cdf0d20161b0e3b6d2d20d48249592a012219b
+#EXTINF:-1 tvg-name="KR: CGN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1b15161f49eaca4a237e3bf519201d5d.png" group-title="🇰🇷 South Korea",KR: CGN TV
+http://mxonlive.xyz/live/xap/353985.m3u8?e=1781986593&token=f40152a78bd7fb89f20d893016751fa0a98d9fcbe0450b56ec69fd64a60856d1
+#EXTINF:-1 tvg-name="KR: CJB" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/92dda19321d2320f7f6f6a5078c08aee.png" group-title="🇰🇷 South Korea",KR: CJB
+http://mxonlive.xyz/live/xap/353986.m3u8?e=1781986593&token=25c08ed6671e8323379531f075e76df249a325b9add080dfb7653f7f876cd14d
+#EXTINF:-1 tvg-name="KR: CTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fc5c69b056764a7e5fa484f6091fb973.png" group-title="🇰🇷 South Korea",KR: CTS
+http://mxonlive.xyz/live/xap/353987.m3u8?e=1781986593&token=50b154a6beb05ace11249123e9fa512b49345408e6ef4c9b58cd20cd29de1591
+#EXTINF:-1 tvg-name="KR: EBS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d483d641f5c5f3bfc42c5e67664c9c48.png" group-title="🇰🇷 South Korea",KR: EBS 1
+http://mxonlive.xyz/live/xap/353988.m3u8?e=1781986593&token=1f989939fa8533510262812fd85fa6e5272d9e5d930a3efbad45a35e249cbd13
+#EXTINF:-1 tvg-name="KR: EBS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5e4f53be79d81a7e6440cb68baeabc13.png" group-title="🇰🇷 South Korea",KR: EBS 2
+http://mxonlive.xyz/live/xap/353989.m3u8?e=1781986593&token=71f7d8476b02c3c7ed2704d94e8ed79580ce45a716dbf3aaccec13851caa5c0f
+#EXTINF:-1 tvg-name="KR: EBS e" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e331ca70f48633775cb0c37420c02f26.jfif" group-title="🇰🇷 South Korea",KR: EBS e
+http://mxonlive.xyz/live/xap/353990.m3u8?e=1781986593&token=5fe512aa653e9a241c61cb390e82b1bf74ed62a9f5e28ce312a198de50ba8586
+#EXTINF:-1 tvg-name="KR: EBS Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7ec49e6b70caad2eafeeefc980bec974.png" group-title="🇰🇷 South Korea - Kids",KR: EBS Kids
+http://mxonlive.xyz/live/xap/353991.m3u8?e=1781986593&token=68019f53095dcf59d234c02111fe38a10fb58651f3c13b8ba1551574904325ff
+#EXTINF:-1 tvg-name="KR: EBS Plus 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3aa3181d37867940eb8ed2861db6c2b1.png" group-title="🇰🇷 South Korea",KR: EBS Plus 1
+http://mxonlive.xyz/live/xap/353992.m3u8?e=1781986593&token=fe8071ecc85f25aa75e20630e7b67afcccdff1854a927e5a43ad2d3928bb7c28
+#EXTINF:-1 tvg-name="KR: EBS Plus 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0efaa79acdfa5b0749256a5d2a24d067.png" group-title="🇰🇷 South Korea",KR: EBS Plus 2
+http://mxonlive.xyz/live/xap/353993.m3u8?e=1781986593&token=bcf3be4b76887c7c974dad5433b2fbc30ce7fc384452540881d9bfd8329d880c
+#EXTINF:-1 tvg-name="KR: GCN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/20c1fd47ba6a03aec940aed24375bb98.png" group-title="🇰🇷 South Korea",KR: GCN
+http://mxonlive.xyz/live/xap/353994.m3u8?e=1781986593&token=afa3b4d38a583cc35f58f86a126bfa226795b1b37882db7b2991c00996dd2880
+#EXTINF:-1 tvg-name="KR: Home & Shopping" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/17054534f6e7b678cbe5d21f76ad8def.png" group-title="🇰🇷 South Korea",KR: Home & Shopping
+http://mxonlive.xyz/live/xap/353995.m3u8?e=1781986593&token=aae5cc89bb519fa58acc8098080443a0576a5c4611a307e058595c35a0922154
+#EXTINF:-1 tvg-name="KR: Hyundai Home Shopping" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/2fe7d82ef30a1a6e437639e4adae08be.png" group-title="🇰🇷 South Korea",KR: Hyundai Home Shopping
+http://mxonlive.xyz/live/xap/353996.m3u8?e=1781986593&token=8daf7757049973dd7dfe203cf64d585218b1c6222a264799c9ee7f6aa674ea05
+#EXTINF:-1 tvg-name="KR: KBS Live Dokdo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/8b6212aa05d4af12ef100ccac51eb932.png" group-title="🇰🇷 South Korea",KR: KBS Live Dokdo
+http://mxonlive.xyz/live/xap/353998.m3u8?e=1781986593&token=23cd2ba32356809e961557b854fc82b2d5913529a47b448bc1238a0707caf31c
+#EXTINF:-1 tvg-name="KR: KBS World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/bba062dc58f6eea5230447581f362846.png" group-title="🇰🇷 South Korea",KR: KBS World
+http://mxonlive.xyz/live/xap/353999.m3u8?e=1781986593&token=b5bef87016f870e92002a98c31ebc4baf82a71b5bb53734f2fab771e5d09b837
+#EXTINF:-1 tvg-name="KR: KCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/aec9a1e6e1aa512b520832f06f8a3a99.png" group-title="🇰🇷 South Korea",KR: KCTV
+http://mxonlive.xyz/live/xap/354000.m3u8?e=1781986593&token=03d9191d9dcad0c3de6cfaafdb5375c574caf8e74ad34bca501f6e4a7592c8c0
+#EXTINF:-1 tvg-name="KR: KFN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e8e2af693b88299ae96330bb138d5418.png" group-title="🇰🇷 South Korea",KR: KFN TV
+http://mxonlive.xyz/live/xap/354001.m3u8?e=1781986593&token=af36345a2e86193e7d4ebc1d441d5a662afe8411ed388a2e10f73b041a32a695
+#EXTINF:-1 tvg-name="KR: Kplus" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c225d1d803382469023328e117bea5e3.png" group-title="🇰🇷 South Korea",KR: Kplus
+http://mxonlive.xyz/live/xap/354002.m3u8?e=1781986593&token=2b442c8eee65a0f00bb5b621f6c855494bc351e4adf0ff8840eee0c0bd6b3a66
+#EXTINF:-1 tvg-name="KR: MTN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c486b77547a25eb6eb7a9344d206576e.png" group-title="🇰🇷 South Korea",KR: MTN
+http://mxonlive.xyz/live/xap/354004.m3u8?e=1781986593&token=341fc6b62e363679257f1fedb263140fd640f762e4e2c353f33d2e894d688fa0
+#EXTINF:-1 tvg-name="KR: NBS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1d37778517cde4c15a89a8dd98824537.png" group-title="🇰🇷 South Korea",KR: NBS
+http://mxonlive.xyz/live/xap/354005.m3u8?e=1781986593&token=e22dd81b29947250a3fc5848fa3be938fbabe03e7ef44d187b74617edc53ef9a
+#EXTINF:-1 tvg-name="KR: NHTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/81b69c57380a34515fa3990bcd72485d.png" group-title="🇰🇷 South Korea",KR: NHTV
+http://mxonlive.xyz/live/xap/354006.m3u8?e=1781986593&token=e36e6c283a37dd45367a163cd37f91e8cb691e50119fbb853446139b392b2c03
+#EXTINF:-1 tvg-name="KR: NS Home Shopping" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/dea1c123bbb509c9479d92ee584ae90f.png" group-title="🇰🇷 South Korea",KR: NS Home Shopping
+http://mxonlive.xyz/live/xap/354007.m3u8?e=1781986593&token=17ae07d7476b59e54a47573eaa0cc5579d0b0da877846a8c83504de8ef9fb55d
+#EXTINF:-1 tvg-name="KR: TJB" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/5198ff4da916a74c41239c0abdd0068f.png" group-title="🇰🇷 South Korea",KR: TJB
+http://mxonlive.xyz/live/xap/354008.m3u8?e=1781986593&token=8bcf5f5d6c453d87ff692206b3ca559ef10fa83463c40acbb34f9c77ee47fd34
+#EXTINF:-1 tvg-name="KR: TV Work Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/4d0dd399c2a9bbe9a51479c31aad0ad8.png" group-title="🇰🇷 South Korea",KR: TV Work Net
+http://mxonlive.xyz/live/xap/354009.m3u8?e=1781986593&token=dd5879c4a2c17bca42e5e88770e851861e17863a883c9ea7b09723bada6fbf6a
+#EXTINF:-1 tvg-name="KR: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c6a5e644fa00bde3ddf02f78b8ca44b9.png" group-title="🇰🇷 South Korea",KR: TVN
+http://mxonlive.xyz/live/xap/354010.m3u8?e=1781986593&token=65130a2e45317f629a17a73e5b3d5234428b94871423ce9e41d7702244860280
+#EXTINF:-1 tvg-name="KR: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9f981ae25467aa645e1cde4f95eed4fe.png" group-title="🇰🇷 South Korea - Movies",KR: TVN Movies
+http://mxonlive.xyz/live/xap/354011.m3u8?e=1781986593&token=22b0846cce5aa8b7be5a434b4435097aa7f4820cf713031d21028561bf65752d
+#EXTINF:-1 tvg-name="KR: 국악방송" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/a1ef8421a2950cc61febbecd10b9b4dc.jfif" group-title="🇰🇷 South Korea",KR: 국악방송
+http://mxonlive.xyz/live/xap/354012.m3u8?e=1781986593&token=2fc8bbe2a7f2d9a0928a3d8e3af1a1c0709699b3633445a1ffdad34cd1c7bbf4
+#EXTINF:-1 tvg-name="My: tvN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVN_HD_Logo_2012.PNG/250px-TVN_HD_Logo_2012.PNG" group-title="🇰🇷 South Korea",My: tvN HD
+http://mxonlive.xyz/live/xap/388778.m3u8?e=1781986593&token=9a9edcc8e39249200da28dff085f0119320ce5464fd10101aed0c84c584f569d
+#EXTINF:-1 tvg-name="My: tvN Movies HD" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="🇰🇷 South Korea - Movies",My: tvN Movies HD
+http://mxonlive.xyz/live/xap/388753.m3u8?e=1781986593&token=025907aa9780caeb787fea50103473d8330402c91862e896fb9a361d3b406b71
+#EXTINF:-1 tvg-name="PA: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9248f7e4ee224168f1744d52a038c4f9.png" group-title="🇰🇷 South Korea",PA: TVN
+http://mxonlive.xyz/live/xap/352552.m3u8?e=1781986593&token=47033d91a30c29e4e0e73275f27f81bf4f92e67886315ff0c8da261847abd4a8
+#EXTINF:-1 tvg-name="PH: TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/53959f21e9e5cc2b55d43653ab6f8a73.svg" group-title="🇰🇷 South Korea",PH: TVN
+http://mxonlive.xyz/live/xap/384020.m3u8?e=1781986593&token=d9fdcf95e25ca63dbe2f45763edef693934cc3ce64c5b8b44dbd0de67bd05a77
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0e6061e9b1e8f09b8157c3ba1beb67e2.png" group-title="🇰🇷 South Korea",PL: TVN
+http://mxonlive.xyz/live/xap/352715.m3u8?e=1781986593&token=99f6d63dbe483a951fd86955a304989b4a57b879d50ac337ce53ce7597910a76
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL: TVN 24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/da21b9203986193c046a6749874e2296.png" group-title="🇰🇷 South Korea - News",PL: TVN 24
+http://mxonlive.xyz/live/xap/352792.m3u8?e=1781986593&token=d0479f00477af1650355c7f42321070f81be6c78b6b153684d491c988ffa4f60
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL: TVN 24 BiS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ed882067f248a4cb08dedf4131a4993f.png" group-title="🇰🇷 South Korea - News",PL: TVN 24 BiS
+http://mxonlive.xyz/live/xap/352793.m3u8?e=1781986593&token=f9aaaffc846dbe49659902343cf9e33a484e01fd40ba4211a70e1f23fc25ece6
+#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL: TVN 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4322b69c49c3893efe6ec27976603e7.png" group-title="🇰🇷 South Korea",PL: TVN 7
+http://mxonlive.xyz/live/xap/352836.m3u8?e=1781986593&token=c88d51138c21aada7516ab5b0efd69a532a6ecff8ff7c81ec6957a70d2c6e813
+#EXTINF:-1 tvg-name="PL: TVN Fabula" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d57f0e760f2562daa1d235bdcfb4ac28.png" group-title="🇰🇷 South Korea",PL: TVN Fabula
+http://mxonlive.xyz/live/xap/352765.m3u8?e=1781986593&token=d4fa9cadb087e581fbf1e43f26c1d7df41690e3b5706923ef79ef7f5ee2a7a46
+#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="PL: TVN Style" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d31a9964df7d5eae90a99d76db384ee6.png" group-title="🇰🇷 South Korea",PL: TVN Style
+http://mxonlive.xyz/live/xap/352716.m3u8?e=1781986593&token=73c0ab944d28218fc945f3c48d7087a72743808899c7782580ff503c34599cdf
+#EXTINF:-1 tvg-id="discoveryturboxtra.pl" tvg-name="PL: TVN Turbo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab67e74b7ce8a0a8e73e5625898b3ea2.png" group-title="🇰🇷 South Korea",PL: TVN Turbo
+http://mxonlive.xyz/live/xap/352815.m3u8?e=1781986593&token=25c000d97d8c679eaa2e18387145ba6ae3209d8f50997209bc01b4ff93a14b68
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇰🇷 South Korea",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/353979.m3u8?e=1781986593&token=9b781b406942cdf6c061cb90ef0c3f944266c9c22fdb6c21caa025d36dc9e498

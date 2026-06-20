@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AF: AIT INT'L" tvg-logo="https://server4ip.ath.cx/logo/tv/aa/ait_international.png" group-title="🇳🇬 Nigeria",AF: AIT INT'L
+http://mxonlive.xyz/live/xap/419260.m3u8?e=1781986593&token=59fe8817dbef84a8373a207e467a0ed7a53508213122f56432a1760a9697f220
+#EXTINF:-1 tvg-name="AF: Arise News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/53c00632f92ecb30e54fbedb4afb581b.png" group-title="🇳🇬 Nigeria - News",AF: Arise News
+http://mxonlive.xyz/live/xap/419354.m3u8?e=1781986593&token=29a691fb3152903196771702edcee845369137cbc9f2004f5879dd4d796ffe61
+#EXTINF:-1 tvg-name="AF: TVC News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/5f84ce4d2e48d98712d0dd1f031836ae.png" group-title="🇳🇬 Nigeria - News",AF: TVC News
+http://mxonlive.xyz/live/xap/419490.m3u8?e=1781986593&token=b0b1cc2b3693cfcd58b5c71fdb2e3ca63a3d896620fe92be9a083e930ae4bbbe
+#EXTINF:-1 tvg-name="NG: Africa 24 English" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/727e227e72730cdf01bc05436d631882.png" group-title="🇳🇬 Nigeria - News",NG: Africa 24 English
+http://mxonlive.xyz/live/xap/419500.m3u8?e=1781986593&token=2b53bc360519905ba24c8b669aa4a1b5bb48bd014076027d08fa29ee64f59e3e
+#EXTINF:-1 tvg-name="NG: Anfani TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/04932418b5871f40aad1462b8dccddad.png" group-title="🇳🇬 Nigeria",NG: Anfani TV
+http://mxonlive.xyz/live/xap/419501.m3u8?e=1781986593&token=174718ac66cc7a727c0fca1162d1466517322ca04c3b8ba7e87e15e220f223fd
+#EXTINF:-1 tvg-name="NG: Bonferey" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/7e840a6211481c1777cb6e82656c0a5a.png" group-title="🇳🇬 Nigeria",NG: Bonferey
+http://mxonlive.xyz/live/xap/419502.m3u8?e=1781986593&token=0c209d9b26caa81da0715101800076df1019606551ac4f3d3d0d1c16f49e7d45
+#EXTINF:-1 tvg-name="NG: Channels 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/5fee007b4e54984c4ea3207780558644.png" group-title="🇳🇬 Nigeria - News",NG: Channels 24
+http://mxonlive.xyz/live/xap/419503.m3u8?e=1781986593&token=4486d2ec0b3a56aef7a3ea3e326deb9009343ecad3f724d9aed2a3cd61828b3a
+#EXTINF:-1 tvg-name="NG: Dounia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/df5ec1597311cc72662bb9eda4603fee.png" group-title="🇳🇬 Nigeria",NG: Dounia
+http://mxonlive.xyz/live/xap/419505.m3u8?e=1781986593&token=44883fc84e3964992f7d9884f812570e475cb50961a677c0bb6567a05e0e1f9b
+#EXTINF:-1 tvg-name="NG: Dove TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/b05e3c5d9ac34c8358ade1809e32e0c0.png" group-title="🇳🇬 Nigeria",NG: Dove TV
+http://mxonlive.xyz/live/xap/419506.m3u8?e=1781986593&token=fc69ea2fce7b8a388747044b9293ce1bdc2b9e43483b72d47342fe71e9f8bb1a
+#EXTINF:-1 tvg-name="NG: Dunamis TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/60f4e5a3479eca6844f3525aabb38405.png" group-title="🇳🇬 Nigeria",NG: Dunamis TV
+http://mxonlive.xyz/live/xap/419507.m3u8?e=1781986593&token=756429639405c11caf20efbccc3e381f6924d01af0d6aacb366cc6677a3d87c6
+#EXTINF:-1 tvg-name="NG: Espérance TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/c0282383731a748cf38d39b0d091a072.png" group-title="🇳🇬 Nigeria",NG: Espérance TV
+http://mxonlive.xyz/live/xap/419508.m3u8?e=1781986593&token=3e922945a122825c17c364e486d1ef0561792e178a780a5568be73c2e42b6b05
+#EXTINF:-1 tvg-name="NG: Kingsview TV" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇳🇬 Nigeria",NG: Kingsview TV
+http://mxonlive.xyz/live/xap/419509.m3u8?e=1781986593&token=970a6e6ef507246a30c67fc67eae3072199d43a920ffad1a3126ce0f7f3b1609
+#EXTINF:-1 tvg-name="NG: Labari TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/9a92c2784960af6ec33b7769823f8c24.png" group-title="🇳🇬 Nigeria",NG: Labari TV
+http://mxonlive.xyz/live/xap/419510.m3u8?e=1781986593&token=26d233a473d6fd9f43d0d5d61409ad6aa3623713ab5acd56982cc4b918303f2d
+#EXTINF:-1 tvg-name="NG: Liptako TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/bb2464f18c06159162c962095d5221a6.png" group-title="🇳🇬 Nigeria",NG: Liptako TV
+http://mxonlive.xyz/live/xap/419511.m3u8?e=1781986593&token=b43a5ed204490eab07d1974fde4b94e00fd12dc65f65d3151c826eb9d5480744
+#EXTINF:-1 tvg-name="NG: LoveWorld Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/8b5eb8c15df599eca6d7af203f4af641.png" group-title="🇳🇬 Nigeria",NG: LoveWorld Asia
+http://mxonlive.xyz/live/xap/419512.m3u8?e=1781986593&token=ef87eb1d1c38ea15f1da0df7898cab8b4d85a9d04de30704efe6f99bc8bd0f50
+#EXTINF:-1 tvg-name="NG: Niger 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/9735641cf133161afd1a0e3c948b5af8.png" group-title="🇳🇬 Nigeria - News",NG: Niger 24
+http://mxonlive.xyz/live/xap/419513.m3u8?e=1781986593&token=83e3f93252ac77105b93e9336b6c9101c443d8497416fe07766dc6a4232f50fc
+#EXTINF:-1 tvg-name="NG: Qausain TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/8ab9c3d78678ca32c4412ac14eb228f2.png" group-title="🇳🇬 Nigeria",NG: Qausain TV
+http://mxonlive.xyz/live/xap/419514.m3u8?e=1781986593&token=0e0e751c5f1fca307421fb63b38c243bab012b0baea31353a29d46ea77d483b9
+#EXTINF:-1 tvg-name="NG: Rave TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/9ab5cb86fb4eab992d4ced48dda4b0a7.png" group-title="🇳🇬 Nigeria",NG: Rave TV
+http://mxonlive.xyz/live/xap/419515.m3u8?e=1781986593&token=658c3055d38d6dab8af426bb6a3ea13b298fcde8050d70363c752f9c3402ce28
+#EXTINF:-1 tvg-name="NG: Rhema TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/b1463ff4c6b985f7dd80f13cbcb7b025.png" group-title="🇳🇬 Nigeria",NG: Rhema TV
+http://mxonlive.xyz/live/xap/419516.m3u8?e=1781986593&token=1ad11db94c736d4e0dc61ec4f2559d14443b5fcce8b12f567cbfa697c34c687f
+#EXTINF:-1 tvg-name="NG: Saraounia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/be3d2050b0ed724e60f64d0eebce9a13.png" group-title="🇳🇬 Nigeria",NG: Saraounia TV
+http://mxonlive.xyz/live/xap/419517.m3u8?e=1781986593&token=5faf12f4c807a7a1b926d6df6cc1f8574eb83bf0fdd51d243a95ca1b4011cca9
+#EXTINF:-1 tvg-name="NG: Superscreen TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/9a87050aa51d04abef0256dc843b8ae4.png" group-title="🇳🇬 Nigeria",NG: Superscreen TV
+http://mxonlive.xyz/live/xap/419518.m3u8?e=1781986593&token=495f68dbac6f068f0fff8efed89302f843450a32880b427f356bac2f71384201
+#EXTINF:-1 tvg-name="NG: Tal TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/252536739b27728e3af34d430d94683f.png" group-title="🇳🇬 Nigeria",NG: Tal TV
+http://mxonlive.xyz/live/xap/419519.m3u8?e=1781986593&token=0550d55fadc7efa872dfa44881b8e6b711d4d0286219393f6514dca4db9e1c7d
+#EXTINF:-1 tvg-name="NG: Tambara TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/8bd363b398ed6facd475fa145503b180.png" group-title="🇳🇬 Nigeria",NG: Tambara TV
+http://mxonlive.xyz/live/xap/419520.m3u8?e=1781986593&token=aaa115d9223c23dd8196a282660422a1280589047da9dfb8f1c7405f33fe44f6
+#EXTINF:-1 tvg-name="NG: Tele Sahel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/16d3a653e186897f7037fada3702515c.png" group-title="🇳🇬 Nigeria",NG: Tele Sahel
+http://mxonlive.xyz/live/xap/419521.m3u8?e=1781986593&token=6781d87904116e32e3894b02162353373d8f5f7fab14a87f19856f562ff43036
+#EXTINF:-1 tvg-name="NG: TV Fidelité" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/7f0028630868b01f4fb15977cc56547d.png" group-title="🇳🇬 Nigeria",NG: TV Fidelité
+http://mxonlive.xyz/live/xap/419524.m3u8?e=1781986593&token=9a3bf92095a10641efadb5c19718e9111b121b5a5745e9fad74411ff7ada94f8
+#EXTINF:-1 tvg-name="NG: TVC News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8651453b423b2b0eae668e883b0c9b4f.png" group-title="🇳🇬 Nigeria - News",NG: TVC News
+http://mxonlive.xyz/live/xap/419525.m3u8?e=1781986593&token=cd9e4862b0638c3bfab513fc82de887efa37870ffafec7b713ca8a277363e106
+#EXTINF:-1 tvg-name="NG: Ténéré TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/e55db2de2206f717c4ff5ed77b2f6f97.png" group-title="🇳🇬 Nigeria",NG: Ténéré TV
+http://mxonlive.xyz/live/xap/419522.m3u8?e=1781986593&token=e8cefa8ffe3446e670b666ee7680241f13d4c4ef5241fee19c37e3ff35f5f47d
+#EXTINF:-1 tvg-name="NG: Wap TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/f16eea5f9db393d9c38c0a24d6a90083.png" group-title="🇳🇬 Nigeria",NG: Wap TV
+http://mxonlive.xyz/live/xap/419527.m3u8?e=1781986593&token=e746760a54bd4a3cc607d91a22b112ed6396aecf4ec497c20f334f0d1d3ce6d1
+#EXTINF:-1 tvg-name="NG: Whole Word TV" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="🇳🇬 Nigeria",NG: Whole Word TV
+http://mxonlive.xyz/live/xap/419528.m3u8?e=1781986593&token=82fa362a7c1e45ad4fe52bafa6f074a67d2d3cb1bbd96832d2567b243e4d1ae5
+#EXTINF:-1 tvg-name="UK-Arise News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kXM1RXRlPPtYKlHhurjihNMkyWufd12RVJehOwEwc-REU=s900-c-k-c0x00ffffff-no-rj" group-title="🇳🇬 Nigeria - News",UK-Arise News
+http://mxonlive.xyz/live/xap/382247.m3u8?e=1781986593&token=58eb0f253d2f47ea2de7eec34b1f89d33ab9da6800cc7b5e43d7f8cca10ff312
+#EXTINF:-1 tvg-name="UK-TVC News SD*" tvg-logo="https://www.thecable.ng/wp-content/uploads/2014/09/TVC.jpg" group-title="🇳🇬 Nigeria - News",UK-TVC News SD*
+http://mxonlive.xyz/live/xap/382246.m3u8?e=1781986593&token=7d237835a9efebbb5ab0de30fa29ae319ecf0bcfd5d4bbe41bf8654fa7c5c8d9
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇳🇬 Nigeria",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/352458.m3u8?e=1781986593&token=4da03e62b28c3b4734d5a6ed6d1a96ac599d419eb6277d67d1001d7943327a0d

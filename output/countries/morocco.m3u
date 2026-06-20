@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MA: 2M Monde" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/faf6aab7b100fe1587f6b807ed206bce.png" group-title="🇲🇦 Morocco",MA: 2M Monde
+http://mxonlive.xyz/live/xap/352283.m3u8?e=1781986593&token=109867c5526527f6973a6c8529870fd311acf151027bf16c460b69d9a73f5fb1
+#EXTINF:-1 tvg-name="MA: Al Aoula" tvg-logo="http://s3.i3ns.net/portal/picon/2021-02/73811391d16c517aa62c5f84b1026248.png" group-title="🇲🇦 Morocco",MA: Al Aoula
+http://mxonlive.xyz/live/xap/352285.m3u8?e=1781986593&token=2c633e023be16dc5fc97e1cca40596474dbc958612eadd1e08eee89e9cdccb95
+#EXTINF:-1 tvg-name="MA: Arryadia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a32a17a65f6aa35f2f759177b9c7def2.png" group-title="🇲🇦 Morocco",MA: Arryadia
+http://mxonlive.xyz/live/xap/352288.m3u8?e=1781986593&token=1471b3d207ffc11389df18c3a7a18031b4b2a3513fa18203d83ecbceb808049d
+#EXTINF:-1 tvg-name="MA: Laayoune" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3a53a89e255dad0da08a0d9b0d6fa9fc.png" group-title="🇲🇦 Morocco",MA: Laayoune
+http://mxonlive.xyz/live/xap/352293.m3u8?e=1781986593&token=d5e4d84783daea47aa5dfe23c5567cbfa44d5ed6ade42a52f4ca3516c6899fe9
+#EXTINF:-1 tvg-name="MA: Medi 1 TV Afrique" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/eb51600b4f2d0b9bfb9d9724e1bd1946.png" group-title="🇲🇦 Morocco",MA: Medi 1 TV Afrique
+http://mxonlive.xyz/live/xap/352295.m3u8?e=1781986593&token=570212cc0aed1f7b1f7a062e61aa84c5af3cff6f039e979b3237f18669ab3199
+#EXTINF:-1 tvg-name="MA: Medi 1 TV Arabic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1849b7eaf1014e2cb8835993b4ce9ac9.png" group-title="🇲🇦 Morocco",MA: Medi 1 TV Arabic
+http://mxonlive.xyz/live/xap/352296.m3u8?e=1781986593&token=9a0a789ca0ed2c57de9a3af13d4c1afacaa59babe5bb78a83bdff0f7a199a26d
+#EXTINF:-1 tvg-name="MA: Medi 1 TV Maghreb" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9b078aab9b2a77578903456c4c50e6c8.png" group-title="🇲🇦 Morocco",MA: Medi 1 TV Maghreb
+http://mxonlive.xyz/live/xap/352297.m3u8?e=1781986593&token=289fada5f3eccee752501b66257f5941213b97d736b9ebfb68b9cef9452390b4
+#EXTINF:-1 tvg-name="MA: Tamazight" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2e83eeb1efecd67f5c7021097c1a1ab4.png" group-title="🇲🇦 Morocco",MA: Tamazight
+http://mxonlive.xyz/live/xap/352298.m3u8?e=1781986593&token=9927dd109869f65d8e2e2093bf0ad9f30e8c3b8416eba6d56edd5e4b87be55bd

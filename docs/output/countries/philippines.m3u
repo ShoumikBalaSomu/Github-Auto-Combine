@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="PH: A2Z Channel 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e63eb0eb23fe856c15ad341dc31a3298.png" group-title="🇵🇭 Philippines",PH: A2Z Channel 11
+http://mxonlive.xyz/live/xap/383996.m3u8?e=1781986593&token=ce718f5fcb4764f1231a4057dfcb12d9c2ef0c2904ff0e987da0fabd3588ebd7
+#EXTINF:-1 tvg-name="PH: ABS CBN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/6dc9f619fd0473b5f58a3e58930e6bd3.png" group-title="🇵🇭 Philippines",PH: ABS CBN
+http://mxonlive.xyz/live/xap/352601.m3u8?e=1781986593&token=62d927bf6386327c02457d56b2cebdeb393515576ef7f19fdec713f9d395388e
+#EXTINF:-1 tvg-name="PH: ANC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fa89a31358f97bba2dd61f63734bba0.png" group-title="🇵🇭 Philippines",PH: ANC
+http://mxonlive.xyz/live/xap/352602.m3u8?e=1781986593&token=8929392e97ddee5296cf30f3cafa5e24b670e55d2a6b0897638810eda219c19d
+#EXTINF:-1 tvg-name="PH: Animax Philippines **" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6f994d0864737b77a93c0797eb8f9180.png" group-title="🇵🇭 Philippines - Kids",PH: Animax Philippines **
+http://mxonlive.xyz/live/xap/352603.m3u8?e=1781986593&token=d31c0e13832e61e4dbec3b4e00db127a6f1f0655175cba465021601602de34ac
+#EXTINF:-1 tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/79163a3883ff4c56864552f4f799b120.png" group-title="🇵🇭 Philippines",PH: AXN
+http://mxonlive.xyz/live/xap/352604.m3u8?e=1781986593&token=6ee372de4cadf8579eb5f4f22498435ac3a4906bb7b1e1fe5fc76f547aa3be35
+#EXTINF:-1 tvg-name="PH: BuKo Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/17f8b620b5a1b26f3f11b3ca14013705.png" group-title="🇵🇭 Philippines",PH: BuKo Channel
+http://mxonlive.xyz/live/xap/383998.m3u8?e=1781986593&token=a5cd445c177111f32abf048308c227a3a2c17b49eab693a8ee6818c3bc3a0fc5
+#EXTINF:-1 tvg-name="PH: CCTN 47" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/ab1ef458bdaf36c2712155092876acb3.webp" group-title="🇵🇭 Philippines",PH: CCTN 47
+http://mxonlive.xyz/live/xap/352608.m3u8?e=1781986593&token=4bdb1c809772a43a9cb705dee631aae336a00f5f0a2c569fc378a9a6e3a99705
+#EXTINF:-1 tvg-name="PH: Cine Mo!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/133884a64c6b5b9cb5cf313d11b4ac29.svg" group-title="🇵🇭 Philippines - Movies",PH: Cine Mo!
+http://mxonlive.xyz/live/xap/383999.m3u8?e=1781986593&token=c71ef1fc1f4d6c624e9876e14c3af42896f78961d06fc590da8ece72cca4dc27
+#EXTINF:-1 tvg-name="PH: Cinema 1 **" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60d3554c881e1bd3579edd29cb4d144e.png" group-title="🇵🇭 Philippines - Movies",PH: Cinema 1 **
+http://mxonlive.xyz/live/xap/352609.m3u8?e=1781986593&token=5dd91e30aef8b234e98e671d5ad5e32c136cb958c3e244b0aff9d68defcc9c15
+#EXTINF:-1 tvg-name="PH: Crime+ Investigation **" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cef6f50462b01da55c9f19ece9a618f7.png" group-title="🇵🇭 Philippines",PH: Crime+ Investigation **
+http://mxonlive.xyz/live/xap/352611.m3u8?e=1781986593&token=1cda16eb90e819e81252f31e033f65ffd65225e2144329364de6eaa66bfad6b2
+#EXTINF:-1 tvg-name="PH: GMA Life TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/ff00b1703c149f37c84fbe2d162075df.png" group-title="🇵🇭 Philippines",PH: GMA Life TV
+http://mxonlive.xyz/live/xap/352615.m3u8?e=1781986593&token=39d09026f351d21f639322d075fababc27dd2e0833565e53b785df320e982de4
+#EXTINF:-1 tvg-name="PH: GMA News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/20fd546935c0ac5386dbc81309c5ef82.png" group-title="🇵🇭 Philippines - News",PH: GMA News TV
+http://mxonlive.xyz/live/xap/352616.m3u8?e=1781986593&token=725ace6037ee9ea7281b341fd481bcd4ea1d60da64b3c1ceade09cdaa32ddd75
+#EXTINF:-1 tvg-name="PH: GMA Pinoy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/f9fe2c041454b56a4c56c605e3937a7e.png" group-title="🇵🇭 Philippines",PH: GMA Pinoy TV
+http://mxonlive.xyz/live/xap/352617.m3u8?e=1781986593&token=6fcad18bda122561c72358dc299868ab34a361a1e6417005c829cc216e39e80d
+#EXTINF:-1 tvg-name="PH: HITS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/ed443b244296a383cec03e00d8ff0d59.png" group-title="🇵🇭 Philippines",PH: HITS
+http://mxonlive.xyz/live/xap/384001.m3u8?e=1781986593&token=5f05894a389a370835c4790d296369de9b887b5c8165c2ba771e7fb73aee3be8
+#EXTINF:-1 tvg-name="PH: HITS Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b5441d5267592cb28cda65639ec25d10.png" group-title="🇵🇭 Philippines - Movies",PH: HITS Movies
+http://mxonlive.xyz/live/xap/352618.m3u8?e=1781986593&token=d412b7fadf3c6324a1314321d7bc20fb046a577e96e952f479896ab6f62c23fa
+#EXTINF:-1 tvg-name="PH: IBC 13" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/9a59aa523340e00a9e2ec670ff310ec5.png" group-title="🇵🇭 Philippines",PH: IBC 13
+http://mxonlive.xyz/live/xap/384002.m3u8?e=1781986593&token=ab2c6c735055adccdf1078e04a1fefa800b53aeba924813f569d897ce322fd0c
+#EXTINF:-1 tvg-name="PH: INC TV **" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5cc77d7abcb47383b8192c72df51c7db.png" group-title="🇵🇭 Philippines",PH: INC TV **
+http://mxonlive.xyz/live/xap/352619.m3u8?e=1781986593&token=a6143ceb0c6d6ef414f4e0ccb037d4acf57cd4b41a05ee426a45f63ebe9af518
+#EXTINF:-1 tvg-name="PH: Kapatid TV 5 **" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7aac68a88cfef3f3561f05779704e077.png" group-title="🇵🇭 Philippines",PH: Kapatid TV 5 **
+http://mxonlive.xyz/live/xap/352620.m3u8?e=1781986593&token=e5048b048fdd0fc500efb1b5bb1c5d5134cbf8531d0f6961607f9e6e25090330
+#EXTINF:-1 tvg-name="PH: KIX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/e5a2f150aa65bc36de50f90cc532f0db.png" group-title="🇵🇭 Philippines",PH: KIX
+http://mxonlive.xyz/live/xap/384003.m3u8?e=1781986593&token=aa810f709c20711f01898ec489196ff66c4db3580fe4cc83ba1b95766e7af94c
+#EXTINF:-1 tvg-name="PH: Knowledge Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/36b3f519082856af7537cb298f13c3f1.png" group-title="🇵🇭 Philippines",PH: Knowledge Channel
+http://mxonlive.xyz/live/xap/384004.m3u8?e=1781986593&token=84c3c0dd47c003bda1df34045896708a4c4249a6cfdce356f0905a149fd459ec
+#EXTINF:-1 tvg-name="PH: Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇵🇭 Philippines - Kids",PH: Moonbug Kids
+http://mxonlive.xyz/live/xap/384005.m3u8?e=1781986593&token=07a281178100f97ead48d706d80fece20d0086e29dea56bf3e1f5ce7aea7eacb
+#EXTINF:-1 tvg-name="PH: Myx Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/d186d8314289e501ee10a47be41838b4.png" group-title="🇵🇭 Philippines",PH: Myx Philippines
+http://mxonlive.xyz/live/xap/384007.m3u8?e=1781986593&token=518fa74e7a9dbc838233aad800bf56c0905fbbfea1ad748c2ffd241b3100f6df
+#EXTINF:-1 tvg-name="PH: PBA Rush" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7c7aeee2dbed0093c5c1c3c2bada1d8f.png" group-title="🇵🇭 Philippines",PH: PBA Rush
+http://mxonlive.xyz/live/xap/384010.m3u8?e=1781986593&token=1db0bfc82062fa7d441a322e5f1457252bcda6e51e6eebf7432a9e3580e7c21c
+#EXTINF:-1 tvg-name="PH: Premier Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/06863d46f1e6641d28f2bc9615cfec97.png" group-title="🇵🇭 Philippines",PH: Premier Tennis
+http://mxonlive.xyz/live/xap/384012.m3u8?e=1781986593&token=5bf50ca805d597c368393704b4ac74c00ac158241b11eee518a141b0d4948e99
+#EXTINF:-1 tvg-name="PH: PTV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="🇵🇭 Philippines",PH: PTV
+http://mxonlive.xyz/live/xap/384013.m3u8?e=1781986593&token=4411b95976a5ace9942ebc6dd120880f75a2333ed41cb230fd860b63d12a1bde
+#EXTINF:-1 tvg-name="PH: Rock Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8e99f7fca379abe230b00ef675a956ba.png" group-title="🇵🇭 Philippines",PH: Rock Action
+http://mxonlive.xyz/live/xap/384014.m3u8?e=1781986593&token=ef57553912ba70856d734837eda8ab7a21ae5a7f3c44b40403d81bdbf30d33ea
+#EXTINF:-1 tvg-name="PH: Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/8dd9e2b5d3a5859b12383f814d5f4b34.png" group-title="🇵🇭 Philippines",PH: Rock Entertaiment
+http://mxonlive.xyz/live/xap/384015.m3u8?e=1781986593&token=a064a141e3c8070a3963d727d82c601861320f13fca3f4827f3c8bf0118b32f2
+#EXTINF:-1 tvg-name="PH: Sari Sari" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b80884ea3fd2cc60d9d7fe0cbaeb194c.png" group-title="🇵🇭 Philippines",PH: Sari Sari
+http://mxonlive.xyz/live/xap/352627.m3u8?e=1781986593&token=40eae36263eed4ca6696335a115916fa352a2f8918ade9408dff24968f6cd956
+#EXTINF:-1 tvg-name="PH: SMNI **" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9a7ab46030e45b841fcac8e1bb26031b.png" group-title="🇵🇭 Philippines",PH: SMNI **
+http://mxonlive.xyz/live/xap/352628.m3u8?e=1781986593&token=863b2e5872e566571b812804684be15a53be7e924cb66ad2cc316dd853a6a703
+#EXTINF:-1 tvg-name="PH: Super Radyo DZBB" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a3a10b36137b1afc082b2161a98c0a3c.png" group-title="🇵🇭 Philippines",PH: Super Radyo DZBB
+http://mxonlive.xyz/live/xap/352629.m3u8?e=1781986593&token=10bfa3ecd1b6d67f7b566218335e442e3a99e7984b4898f536d88b530db527be
+#EXTINF:-1 tvg-name="PH: Tap Edge" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8fcd2d946876de05e7a3fc9a14bc3e31.png" group-title="🇵🇭 Philippines",PH: Tap Edge
+http://mxonlive.xyz/live/xap/384016.m3u8?e=1781986593&token=9d76abc31c6ebc3aa8ce018d655e3beb52cb61c679372d71cd786fbb9b383f8a
+#EXTINF:-1 tvg-name="PH: TAP Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" group-title="🇵🇭 Philippines - Sports",PH: TAP Sports
+http://mxonlive.xyz/live/xap/384017.m3u8?e=1781986593&token=33d9927a5affb1cc40a3627ded826cff5c284187a13d3d4e3d2717b3cbc6b020
+#EXTINF:-1 tvg-name="PH: TFC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/85c9b1c6344b0bcfa1fb76b21cb8a376.png" group-title="🇵🇭 Philippines",PH: TFC
+http://mxonlive.xyz/live/xap/352630.m3u8?e=1781986593&token=db45cb542dee9b6b9000ffb1f30602786b34a672436f22f077236311e718437a
+#EXTINF:-1 tvg-name="PH: Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/7b4777a1db669ace23dc40eb7423774c.png" group-title="🇵🇭 Philippines",PH: Thrill
+http://mxonlive.xyz/live/xap/384018.m3u8?e=1781986593&token=0d2658ededb8797ded3ae1dbd7ae851dea8490d97302fb77afce939d9056012d
+#EXTINF:-1 tvg-name="PH: TV 5 Monde Asie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/edccf0eec41d88a93ac48fd68e9fed96.png" group-title="🇵🇭 Philippines",PH: TV 5 Monde Asie
+http://mxonlive.xyz/live/xap/352631.m3u8?e=1781986593&token=a9faf7ab41dcb5a6214e39a0f022b2a9b689f1ea301b704f19adfe4fd4d48e7a
+#EXTINF:-1 tvg-name="PH: UAAP Varsity Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e11524ae8e1e56af300a50556f9e6d56.png" group-title="🇵🇭 Philippines",PH: UAAP Varsity Channel
+http://mxonlive.xyz/live/xap/384021.m3u8?e=1781986593&token=ee7529a0095fefd020881e2932e3fec85915c8cf0836e0409500695d1b436610
+#EXTINF:-1 tvg-name="PH: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/050dfc679295d4887b15bacffd627f4d.png" group-title="🇵🇭 Philippines",PH: Warner TV
+http://mxonlive.xyz/live/xap/352633.m3u8?e=1781986593&token=50821859be7fe8ff1e8b3b3fd9146ae985efefb06a809baf97515f36f26093ed
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇵🇭 Philippines",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/352600.m3u8?e=1781986593&token=8a4490f7de3dc450df61140cde296d8b4926ba47edfee053bc7ca66cc6694b82

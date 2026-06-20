@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CL: VTV Valle de Aconcagua" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dee5608bf0ce360a62de5b7daa4305f.png" group-title="🇻🇪 Venezuela",CL: VTV Valle de Aconcagua
+http://mxonlive.xyz/live/xap/349116.m3u8?e=1781986593&token=7d91c9e6d3cf10b228b1b31beac99b113bef9a0843ebe463d59093b9eefb94b5
+#EXTINF:-1 group-title="🇻🇪 Venezuela - News" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Cookie=hdntl=exp=1779527844~acl=%2fbpk-tv%2firdeto_com_Channel_821%2foutput%2f*~id=9441230843~data=hdntl~hmac=66b49778a0c278de97704313cf11464114df500a0bd392da606c4614a263665b" EXTVLCOPT="http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11912-j9l58n8w-v2/imageContent-11912-j9l58n8w-m4.png" group-title="TPlay 3 (IND IP)",VTV News
+https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd
+#EXTINF:-1 tvg-name="HN: VTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3bc2b020f72a08fa84094a024efce3aa.png" group-title="🇻🇪 Venezuela",HN: VTV
+http://mxonlive.xyz/live/xap/350769.m3u8?e=1781986593&token=fdbd4a2359d3207e5ad460dc9a98d390d43e138fdc36fbe69e983b20e5cd5a3c
+#EXTINF:-1 tvg-name="IN-GUJ | VTV NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/VTV-News.png" group-title="🇻🇪 Venezuela - News",IN-GUJ | VTV NEWS
+http://mxonlive.xyz/live/xap/381280.m3u8?e=1781986593&token=0681bc9039033f6e93bd1dc9b5d769ba6fbb917f888f21583e8a77b68a1e9349
+#EXTINF:-1 tvg-name="UY: VTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/c59520f86e56e746d448b04cd3d6786d.png" group-title="🇻🇪 Venezuela",UY: VTV
+http://mxonlive.xyz/live/xap/355103.m3u8?e=1781986593&token=f1530da43c7dc5b114b1d1deaa04b67dda48fbab324cc1efdcf7a812fc811adf
+#EXTINF:-1 tvg-name="UY: VTV Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3b5039ea5e0d2425aaf266130b1d497b.png" group-title="🇻🇪 Venezuela",UY: VTV Plus
+http://mxonlive.xyz/live/xap/355104.m3u8?e=1781986593&token=5a45d274dd1d9cbfa6a93cf6e3b22a6efc145ebbd7b42032972af9c4e6f30e93
+#EXTINF:-1 tvg-name="VE: Globovision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b934642de9295fd6f5fd6cbc08d64a22.jpg" group-title="🇻🇪 Venezuela",VE: Globovision
+http://mxonlive.xyz/live/xap/355110.m3u8?e=1781986593&token=b1441b239370bc35b6946772a029ada303a8c287763c4f6f2ade183d764af16d
+#EXTINF:-1 tvg-name="VE: Meridiano TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/4dca15c2cee82dc04f0ba665316dd5e0.png" group-title="🇻🇪 Venezuela",VE: Meridiano TV
+http://mxonlive.xyz/live/xap/355111.m3u8?e=1781986593&token=83332b89701082004fceb0a75dac4c214273592ccf04951532aaafd1ce8fd144
+#EXTINF:-1 tvg-name="VE: Televen" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/7a86c30d57e352ca75e0df4f2cb30a98.jpg" group-title="🇻🇪 Venezuela",VE: Televen
+http://mxonlive.xyz/live/xap/355115.m3u8?e=1781986593&token=41d06be8df547b5d770b2fa152c452c4d3d05e1fa1e4032ed4c1af4f672b0879
+#EXTINF:-1 tvg-name="VE: TVes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8d9c847f17a052650913c5731bbfef5e.png" group-title="🇻🇪 Venezuela",VE: TVes
+http://mxonlive.xyz/live/xap/355118.m3u8?e=1781986593&token=2d2eaf75d96e11fec35af2b161a78886312b3b22cfd81b000b760eb540ca5e7c
+#EXTINF:-1 tvg-name="VE: Venevision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/75103f875b0bb1e4ec53efe593984924.jfif" group-title="🇻🇪 Venezuela",VE: Venevision
+http://mxonlive.xyz/live/xap/355119.m3u8?e=1781986593&token=2afb3ba09c752269500ab2892aee2b55a44f2d0b239ce5ebd3034f7f11d702e6
+#EXTINF:-1 tvg-name="VN: VTV 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/782cd837c6e47c844f676402a4945254.png" group-title="🇻🇪 Venezuela",VN: VTV 7
+http://mxonlive.xyz/live/xap/355177.m3u8?e=1781986593&token=ab9e7942f90bb856b8ebe6bd85604332e7c83e8961245971f614930a40e2c467
+#EXTINF:-1 tvg-name="VN: VTV 8" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/fc20e91680aa1fef7c273d6305ae43a3.png" group-title="🇻🇪 Venezuela",VN: VTV 8
+http://mxonlive.xyz/live/xap/355178.m3u8?e=1781986593&token=ed8a4299310af62d4ebe85667b2d07dd4907cfb5e092d7b7fdafccd74f4d7b28
+#EXTINF:-1 tvg-name="VN: VTV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0ffd98187ea351db7fa5fde48f647f21.png" group-title="🇻🇪 Venezuela",VN: VTV 9
+http://mxonlive.xyz/live/xap/355179.m3u8?e=1781986593&token=11480f8da8640ed724afde2c8ff0c91bc0dcaf09484cff6e734334e66fa007f0
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="🇻🇪 Venezuela",VTV Gujarati
+https://alex4528.site/jplus/oiOL1o1ilOOLoiI1lOio/manifest.mpd
+#EXTINF:-1 tvg-id="497" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg" group-title="🇻🇪 Venezuela - News",VTV News
+https://sflex07.fun/Sflex-Artl/497.m3u8

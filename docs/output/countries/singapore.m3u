@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SG: Channel 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇸🇬 Singapore",SG: Channel 8
+http://mxonlive.xyz/live/xap/353760.m3u8?e=1781986593&token=938a629a07833c88439bb5d77ba233ba3992b5779d1cbe2d78b078cfbf24ebba
+#EXTINF:-1 tvg-name="SG: Channel News Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b72f2bbc39bb2b8afeeb0afe9f931f64.png" group-title="🇸🇬 Singapore - News",SG: Channel News Asia
+http://mxonlive.xyz/live/xap/353761.m3u8?e=1781986593&token=fb34ad6fa3255991da43c8c4f260d8a284bba70c120c500b8abfb888af86811f
+#EXTINF:-1 tvg-name="SG: CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c922da17bb8dbfb8049917747ad87f0b.png" group-title="🇸🇬 Singapore",SG: CinemaWorld
+http://mxonlive.xyz/live/xap/353762.m3u8?e=1781986593&token=d39d1c105f7e9b1ec7cd27b0dd7cfcb14106d1cab15bf8a430ef68c8f65c594a
+#EXTINF:-1 tvg-name="SG: Suria" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇸🇬 Singapore",SG: Suria
+http://mxonlive.xyz/live/xap/353763.m3u8?e=1781986593&token=5471fa2e2f0ab48b3ae29ab14c9abdb551b3eccb2f238e2f902b76d5b674b21c
+#EXTINF:-1 tvg-name="SG: Vasantham" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇸🇬 Singapore",SG: Vasantham
+http://mxonlive.xyz/live/xap/353764.m3u8?e=1781986593&token=1182dd6095defc2a2a4d76e65b97d86157858dce4c20f043f2c57b7b4354d9b8
+#EXTINF:-1 tvg-name="TH: Channel 8" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4d1bb4695654b2d55655ef0e5ff33526.jfif" group-title="🇸🇬 Singapore",TH: Channel 8
+http://mxonlive.xyz/live/xap/354546.m3u8?e=1781986593&token=d5306d1862195d9d6c93919cdea4a2f5338f0fb027b6ee7d2940f8903b6f3e39
