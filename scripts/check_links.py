@@ -140,6 +140,8 @@ def check_single_link(channel: Channel, do_probe: bool = False) -> Tuple[Channel
                     else:
                         tag = f"{res}p"
                     channel.name = f"{channel.name} [{tag}]"
+                    if channel.tvg_name:
+                        channel.tvg_name = f"{channel.tvg_name} [{tag}]"
                     channel.extra_attrs["tvg-resolution"] = str(res)
 
         return channel, is_alive, reason
@@ -154,16 +156,16 @@ def check_single_link(channel: Channel, do_probe: bool = False) -> Tuple[Channel
         return channel, False, f"error: {str(e)[:50]}"
 
 
-def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS, do_probe: bool = False) -> Tuple[List[Channel], List[Channel]]:
+def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS, do_probe: bool = False, max_channels: int = 0) -> Tuple[List[Channel], List[Channel]]:
     """
     Check all channel links concurrently.
     Returns (live_channels, dead_channels).
     """
     total = len(channels)
 
-    if total > MAX_CHANNELS_TO_CHECK:
-        log.warning(f"Too many channels ({total}). Checking first {MAX_CHANNELS_TO_CHECK} only.")
-        channels = channels[:MAX_CHANNELS_TO_CHECK]
+    if max_channels and total > max_channels:
+        log.warning(f"Too many channels ({total}). Checking first {max_channels} only.")
+        channels = channels[:max_channels]
         total = len(channels)
 
     log.info(f"Checking {total} channels with {max_workers} workers (probe={do_probe})...")

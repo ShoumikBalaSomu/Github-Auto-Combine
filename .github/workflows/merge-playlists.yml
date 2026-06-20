@@ -3,7 +3,9 @@ name: IPTV Playlist Auto-Combine
 on:
   # Run daily at 00:00 UTC (6:00 AM BDT) and 12:00 UTC (6:00 PM BDT)
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 0,12 * * 1-6'
+    - cron: '0 12 * * 0'
+    - cron: '0 0 * * 0'
   
   # Manual trigger
   workflow_dispatch:
@@ -63,8 +65,9 @@ jobs:
         run: python scripts/merge_playlists.py --verbose
       
       - name: 🔍 Check dead links & probe resolution
-        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.check_links == 'true') }}
-        run: python scripts/check_links.py --timeout 10 --workers 15 --probe --verbose
+        # To preserve free tier GitHub Actions minutes, only run full link checking manually or on Sundays
+        if: ${{ (github.event_name == 'schedule' && github.event.schedule == '0 0 * * 0') || (github.event_name == 'workflow_dispatch' && github.event.inputs.check_links == 'true') }}
+        run: python scripts/check_links.py --timeout 8 --workers 20 --probe --verbose
         continue-on-error: true
       
       - name: 🗜️ Compress outputs (GZIP)
