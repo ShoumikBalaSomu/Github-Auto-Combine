@@ -67,15 +67,13 @@ https://tvsen7.aynaott.com/comedycentral/index.m3u8?e=1781708099&u=f54c14f5-0c1d
 https://sm-monirul.top/toffee/play/discovery_sd.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="🇺🇸 USA - Documentary",Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png" group-title="🇺🇸 USA - Documentary",Discovery Bangla
-http://103.180.212.191:3500/live/573.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="🇺🇸 USA - Documentary",Discovery Bangla
+http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-logo="https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10" group-title="🇺🇸 USA - Documentary",Discovery Family
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1781708098&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=74d6d838c8713c901a128c89150e1f1b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="🇺🇸 USA - Documentary",Discovery HD Multi Audio
 http://103.175.73.12:8080/live/135/135_0.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png" group-title="🇺🇸 USA - Documentary",Discovery Hindi
-http://103.180.212.191:3500/live/3428.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png" group-title="🇺🇸 USA - Documentary",Discovery Hindi B
+#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="🇺🇸 USA - Documentary",Discovery Hindi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1 tvg-id="discovery_kids" tvg-name="Discovery Kids" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="🇺🇸 USA - Kids",Discovery Kids
 https://sm-monirul.top/toffee/play/discovery_kids.m3u8
@@ -119,8 +117,8 @@ https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 http://41.223.30.230/FOXSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="🇺🇸 USA - Sports",Fox Sports 1 HD
 https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="🇺🇸 USA - Sports",Fox Sports 2 HD
-https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="🇺🇸 USA - Sports",Fox Sports 2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=f164a9fa5ad742024e07ef54e4be86ce
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="🇺🇸 USA - Sports",Fox Sports 501 FHD
 https://a1xs.vip/700001
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="🇺🇸 USA - Sports",Fox Sports 502 FHD
@@ -170,7 +168,7 @@ https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1781708099&u=f54c14f5-0c1d-4106-88
 #EXTINF:-1 tvg-id="MTV.au" tvg-logo="https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653" group-title="🇺🇸 USA - Music",MTV
 https://tvsen6.aynaott.com/mtv/index.m3u8?e=1781708099&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=a90c3037d4fea44cf0b427ec16819459
 #EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="🇺🇸 USA - Documentary",Nat Geo HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
+http://103.229.254.25:7001/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="🇺🇸 USA - Documentary",Nat Geo TV
 https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1781708099&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=520b224afa08627737a0a7280306f850
 #EXTINF:-1 tvg-id="NationalGeographicWild.au" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png" group-title="🇺🇸 USA - Documentary",Nat Geo Wild

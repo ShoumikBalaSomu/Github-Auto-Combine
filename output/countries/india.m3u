@@ -29,14 +29,14 @@ https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1781708100&u=f54c14f5-0c1d-41
 https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=640961b3234e8a82ce53cbb80bdd4787
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="🇮🇳 India",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.af" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png" group-title="🇮🇳 India - News",ATN News HD
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
+#EXTINF:-1 tvg-id="ATNNews.af" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="🇮🇳 India - News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 tvg-id="AynaTV.af" tvg-logo="https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png" group-title="🇮🇳 India",Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="🇮🇳 India",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png" group-title="🇮🇳 India - Movies",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="🇮🇳 India - Movies",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-id="b4u_movies" tvg-name="B4U Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="🇮🇳 India - Movies",B4U Movies VIP
 https://sm-monirul.top/toffee/play/b4u_movies.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" group-title="🇮🇳 India - Music",B4U Music
@@ -121,8 +121,8 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8?e=1781708094&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=3deb6eda056caa05c9f3b3012ecbedd1
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="🇮🇳 India",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="🇮🇳 India",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="🇮🇳 India",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="🇮🇳 India - Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="🇮🇳 India - Movies",Goldmines Movies 2
@@ -225,8 +225,8 @@ https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1781708100&u=f54c14f5-0c1d-
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MohonaTV.bd" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="🇮🇳 India",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=fb1b70786afb3a0b4fc2fe3ebbf261fe
-#EXTINF:-1 tvg-id="MovieBangla.bd" tvg-logo="https://imglink.cc/cdn/B1Dn0E5UKs.png" group-title="🇮🇳 India - Movies",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png" group-title="🇮🇳 India - Movies",Movie Bangla
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="🇮🇳 India",MU | 8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png" group-title="🇮🇳 India",MU | 9X Jalwa
@@ -259,8 +259,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/in
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="NexusTV.bd" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="🇮🇳 India",NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=eeca36fb411ca2a2ee48400978c97233
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/XRDlkFnTFb.jpg" group-title="🇮🇳 India - Kids",Nick Bangla
-http://103.204.43.87:8080/live/1/1/275.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🇮🇳 India - Kids",Nick Bangla
+http://103.182.170.32:8888/play/a04q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🇮🇳 India - Kids",Nick HD Plus
 http://103.175.73.12:8080/live/322/322_0.m3u8
 #EXTINF:-1 tvg-id="NickJr.au" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🇮🇳 India - Kids",Nick JR
@@ -289,7 +289,7 @@ http://172.105.123.238:18002/play/a015
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="🇮🇳 India",Samay Kolkata
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="🇮🇳 India",Sangeet Bangla (720p)
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="🇮🇳 India",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="🇮🇳 India",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -299,22 +299,22 @@ http://103.213.31.109:90/ShemarooBollywoodHD/playlist.m3u8
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in" group-title="🇮🇳 India",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/G2BnUli8dP.png" group-title="🇮🇳 India",Sonic Bangla
-http://103.204.43.87:8080/live/1/1/274.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="🇮🇳 India",Sonic Bangla
+http://103.182.170.32:8888/play/a02s
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aat VIP" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="🇮🇳 India",Sony Aat VIP
 https://sm-monirul.top/toffee/play/sonyaath.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png" group-title="🇮🇳 India",Sony Aath
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=c1bbca22ab088b19c0bba490f6f74c67dcff3a88-61933a142add01f3550129205ce90895-1781061323-1781050523
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg" group-title="🇮🇳 India",Sony Aath
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇮🇳 India",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png" group-title="🇮🇳 India",Sony Marathi (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png" group-title="🇮🇳 India",Sony Max 2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=1ae6cc9578f7e8a9fbeb42b32a9ea6e19c246ec6-aa37a828978035cc1450f0721cf5f067-1781061322-1781050522
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png" group-title="🇮🇳 India",Sony Max
+http://103.161.153.165:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg" group-title="🇮🇳 India",Sony Max 2 HD
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
 #EXTINF:-1 tvg-id="sonymax_2" tvg-name="SONY MAX 2 VIP" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="🇮🇳 India",SONY MAX 2 VIP
 https://sm-monirul.top/toffee/play/sonymax_2.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png" group-title="🇮🇳 India",Sony Max HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/index.m3u8?token=0acbc3381f074f74cd7db448c566c55fe7592a3c-efc9e16855524918b6a0e514aaddd012-1781061322-1781050522
 #EXTINF:-1 tvg-id="sony_max" tvg-name="SONY MAX VIP" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="🇮🇳 India",SONY MAX VIP
 https://sm-monirul.top/toffee/play/sony_max.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in" group-title="🇮🇳 India",Sony Pal
@@ -355,14 +355,14 @@ http://xtv.ooo:8080/danyear12/am8091danyear98
 http://xtv.ooo:8080/danyear12/am809100/263386
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png" group-title="🇮🇳 India",Star Bharat HD
 http://103.182.170.32:8888/play/a02n
-#EXTINF:-1 tvg-id="StarGold.in" tvg-logo="https://imglink.cc/cdn/Nkj7hqlPz-.jpg" group-title="🇮🇳 India",Star Gold
-http://198.195.239.50:8095/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png" group-title="🇮🇳 India",Star Gold 2
 http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 tvg-id="StarGold.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="🇮🇳 India",Star Gold HD
+http://103.182.170.32:8888/play/a02j
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg" group-title="🇮🇳 India",Star Gold Select HD
 http://103.229.254.25:7001/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png" group-title="🇮🇳 India",Star Jalsha
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="🇮🇳 India",Star Jalsha HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 #EXTINF:-1 tvg-id="StarNews.bd" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png" group-title="🇮🇳 India - News",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
 #EXTINF:-1 tvg-id="StarPlus.al" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="🇮🇳 India",Star Plus HD

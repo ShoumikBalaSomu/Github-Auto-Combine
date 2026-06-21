@@ -3,8 +3,8 @@
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6" group-title="🇬🇧 United Kingdom",\t USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1781708099&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=b4c65574a86887db64ea830e9739799d
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="🇬🇧 United Kingdom - Movies",Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="🇬🇧 United Kingdom - Movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇧 United Kingdom",And Flix HD
 http://103.182.170.32:8888/play/a02a
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg" group-title="🇬🇧 United Kingdom",BBC Earth
