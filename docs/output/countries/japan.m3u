@@ -1,3 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KPJK603.us" tvg-logo="https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549" group-title="🇯🇵 Japan",NHK World
-https://tvsen6.aynaott.com/nhkworld/index.m3u8?e=1781708096&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=c3669f26a8801ef6461aad2f6db58b34
+#EXTINF:-1 tvg-name="FR: Fashion TV Tokyo FASHION FILMS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇯🇵 Japan - Movies",FR: Fashion TV Tokyo FASHION FILMS
+http://mxonlive.xyz/live/xap/349950.m3u8?e=1781986593&token=e701d000641156eca4b4707b4508e8c97f51d3e7cf3145f0a6dcae70dca123ef
+#EXTINF:-1 tvg-name="ID: NHK World" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="🇯🇵 Japan",ID: NHK World
+http://mxonlive.xyz/live/xap/351011.m3u8?e=1781986593&token=ddfa5eb64804e6e3069a3bbb6cc3654294dafae81d3d0b5e0dc8c486ae347165
+#EXTINF:-1 tvg-name="JP: Animax Japan" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67948806348185268b7261d90535b40c.png" group-title="🇯🇵 Japan - Kids",JP: Animax Japan
+http://mxonlive.xyz/live/xap/351674.m3u8?e=1781986593&token=2fed8ea6a144627835519a8c700395697ea61deb2322c5ebfc038d1440bb7ad5
+#EXTINF:-1 tvg-name="JP: ANN News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5c8fcadef061f8e58727cd665e8dc91a.jpeg" group-title="🇯🇵 Japan - News",JP: ANN News
+http://mxonlive.xyz/live/xap/351675.m3u8?e=1781986593&token=74c0072227318fb2b8c6f400f7d9099788276643841f3b043071d623b23a6c9b
+#EXTINF:-1 tvg-name="JP: ATX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b04432c483e98afae8ba9c154788c9be.png" group-title="🇯🇵 Japan",JP: ATX
+http://mxonlive.xyz/live/xap/351676.m3u8?e=1781986593&token=07cab2a10e294f2a81c510d649af77003eb4e5d4149f69ace47219e234d20fdc
+#EXTINF:-1 tvg-name="JP: CGNTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a30a428adba178fc757eabed9ea987bd.png" group-title="🇯🇵 Japan",JP: CGNTV
+http://mxonlive.xyz/live/xap/351677.m3u8?e=1781986593&token=30934d84a65fb76ea69d12f3ade54b4df4d982464933069e56a59f1035922b9c
+#EXTINF:-1 tvg-name="JP: Gunma TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bd97bd082417abc55aa5e036073aa57d.jfif" group-title="🇯🇵 Japan",JP: Gunma TV
+http://mxonlive.xyz/live/xap/351678.m3u8?e=1781986593&token=1bd9451f2744279593b7a23555a61a31935a79d8ae2f335061b19b4785af4092
+#EXTINF:-1 tvg-name="JP: Hokkaido HTB News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a232cbd6495537e2abc92f7aa1c842c0.jpeg" group-title="🇯🇵 Japan - News",JP: Hokkaido HTB News
+http://mxonlive.xyz/live/xap/351679.m3u8?e=1781986593&token=8419a30f26ad8973b158c9da6504fc3c769f517a6c57fcce7590580c9e40c1c2
+#EXTINF:-1 tvg-name="JP: KANSAI News24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ee0e331e819e9ab0603880f13c537af0.jpeg" group-title="🇯🇵 Japan",JP: KANSAI News24
+http://mxonlive.xyz/live/xap/351680.m3u8?e=1781986593&token=d1538348b67129b4c4f658f9d2da126fe4fcbdd64522004f9ecb10a31df78a17
+#EXTINF:-1 tvg-name="JP: NHK World Japan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0be97c6e2c376db49be656d245fff8cb.png" group-title="🇯🇵 Japan",JP: NHK World Japan
+http://mxonlive.xyz/live/xap/351681.m3u8?e=1781986593&token=ce1af0007ed00f33717c2a58e96e61ee027e40e381a5c062c4b79e3805d615a2
+#EXTINF:-1 tvg-name="JP: Shop Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8bb74457648ebcdb4f0c8d59bbdefcdb.png" group-title="🇯🇵 Japan",JP: Shop Channel
+http://mxonlive.xyz/live/xap/351683.m3u8?e=1781986593&token=a0b3c3360fa0d45be250341cd39c939e6f85c526d9f62da3f59eca6c75941877
+#EXTINF:-1 tvg-name="JP: Tokyo MX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/29e8b011fcbc7ba3ed71bebfe16694e7.png" group-title="🇯🇵 Japan",JP: Tokyo MX
+http://mxonlive.xyz/live/xap/351685.m3u8?e=1781986593&token=6e2b9e635b6e8935b1c9a7871d83f66b044b72c593a66f31ec5a9595c5c2135e
+#EXTINF:-1 tvg-name="JP: Tokyo MX 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9f4acaed2c455d214c78f8e2672de17c.png" group-title="🇯🇵 Japan",JP: Tokyo MX 1
+http://mxonlive.xyz/live/xap/351686.m3u8?e=1781986593&token=410155463226776663fe9914f5142ca2b0aded7563da14f27d2889875f5eb52e
+#EXTINF:-1 tvg-name="JP: Tokyo MX 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/49a8782cc5092bacc428c668bfa12e8f.png" group-title="🇯🇵 Japan",JP: Tokyo MX 2
+http://mxonlive.xyz/live/xap/351687.m3u8?e=1781986593&token=199e5f22164bd6e9134c9a59bcd8ea6af288350b250378176e63fef6e599b128
+#EXTINF:-1 tvg-name="JP: weather news" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e44d07969312ad45275a82753773eb29.jpeg" group-title="🇯🇵 Japan - News",JP: weather news
+http://mxonlive.xyz/live/xap/351688.m3u8?e=1781986593&token=7aaf157611608564714aee54ac8a852409753358804b7a3cd519cbd4f161355c
+#EXTINF:-1 tvg-name="UK-NHK News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3vk3VtGwIC_VThJ41MG3j4bWeyusxGBUIQ&s" group-title="🇯🇵 Japan - News",UK-NHK News HD
+http://mxonlive.xyz/live/xap/382244.m3u8?e=1781986593&token=093ff7585309c8ce6bb07ce6b737dbc0faf110121d72408badf266b57b26a4bb
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇯🇵 Japan",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/351673.m3u8?e=1781986593&token=6d0171cf4253d4035138e5e885de923896848544b711c38be7a595bc4bcb8e6c

@@ -1,19 +1,285 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hum_masala" tvg-name="Hum Masala" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="🇵🇰 Pakistan",Hum Masala
-https://sm-monirul.top/toffee/play/hum_masala.m3u8
-#EXTINF:-1 tvg-id="hum_tv" tvg-name="Hum TV" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="🇵🇰 Pakistan",Hum TV
-https://sm-monirul.top/toffee/play/hum_tv.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇵🇰 Pakistan - Sports",PTV Sports A🇵🇰
-https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇵🇰 Pakistan - Sports",PTV Sports B 🇵🇰
-http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇵🇰 Pakistan - Sports",PTV Sports C 🇵🇰
-http://premiumtvs.space/live/jen12345/Jen54321/89.ts
-#EXTINF:-1 tvg-id="PTV SPORTS HD" tvg-name="PTV SPORTS HD" tvg-logo="https://i.imgur.com/WFf2kaH.jpeg" group-title="🇵🇰 Pakistan - Sports",PTV SPORTS HD
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-#EXTINF:-1 tvg-id="Ptv.sports.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🇵🇰 Pakistan - Sports",PTV Sports HD PK
-https://ptvsports-cgc.pages.dev/720p.m3u8
-#EXTINF:-1 tvg-id="T9O9X5UBm1RY_In7UXFv" group-title="🇵🇰 Pakistan",w_300,q_85/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Infotainment",HUM Masala
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8
-#EXTINF:-1 tvg-id="WtPBX5UBm1RY_In7mXEU" group-title="🇵🇰 Pakistan",w_300,q_85/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Entertainment",HUM Sitaray
-https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
+#EXTINF:-1 tvg-name="01 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",01 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251695.m3u8?e=1781986593&token=a4c602ba1dcf5e039453e225f682448e9840a336d948212dbac7d99b9646238e
+#EXTINF:-1 tvg-name="02 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",02 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251718.m3u8?e=1781986593&token=7b654f5647f9f5c230dac5095cfb2d42739b4ce238e3dbd8278fdd167a97922e
+#EXTINF:-1 tvg-name="03 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",03 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251763.m3u8?e=1781986593&token=28db9a710fc12989d387932cc8d4bb877fdb8fac314d4bd622a1b3564f28c071
+#EXTINF:-1 tvg-name="04 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",04 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251883.m3u8?e=1781986593&token=c9be2f9fb6ce73ad29c6532df4a5c450526f38320d1639ecd14cf8c30eaec39a
+#EXTINF:-1 tvg-name="05 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",05 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251884.m3u8?e=1781986593&token=26192a5f3ea74d3bcb577b9aeecfdbec127f3374f3a0ed979b1949d3011a51c0
+#EXTINF:-1 tvg-name="06 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",06 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251885.m3u8?e=1781986593&token=694e012b66d3030abf7e55116e4590d8e5dae97d99b419c7813114cd97f8ee71
+#EXTINF:-1 tvg-name="07 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",07 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251967.m3u8?e=1781986593&token=be8c8874bab9480258dbee99080a15703150b8e83a95f0fd0c1f0836bc319d24
+#EXTINF:-1 tvg-name="08 LOLLYWOOD 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="🇵🇰 Pakistan - News",08 LOLLYWOOD 24/7
+http://mxonlive.xyz/live/xap/251968.m3u8?e=1781986593&token=a90ff630369b2c1c961603c08f8290b19b82f853799e5f9554c5cd409d956f8b
+#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" tvg-logo="https://xc.slweb.tv/logos/pakistan/ary_qtv.png" group-title="🇵🇰 Pakistan",ARY QTV
+http://mxonlive.xyz/live/xap/3.m3u8?e=1781986593&token=f095f9e70c73ec709275b90207028305d453c5916a6fca759b89ccbc082b2a12
+#EXTINF:-1 tvg-id="ARYWorld.pk" tvg-name="Ary World" group-title="🇵🇰 Pakistan",Ary World
+http://mxonlive.xyz/live/xap/153291.m3u8?e=1781986593&token=20d125766de976c5bdeba0038a25f44f9a7905b5e4bfa2ab5b3f76c5bcb78cb3
+#EXTINF:-1 tvg-name="Cinemania Pakistan_1" group-title="🇵🇰 Pakistan",Cinemania Pakistan_1
+http://mxonlive.xyz/live/xap/440942.m3u8?e=1781986593&token=eff2f6aff9acf2eb3155447adaa4f4b76b2d871fdb700520932121222608ecfa
+#EXTINF:-1 tvg-name="Cinemania Pakistan_2" group-title="🇵🇰 Pakistan",Cinemania Pakistan_2
+http://mxonlive.xyz/live/xap/440943.m3u8?e=1781986593&token=9fe45eca011bccee240ccf64e27dfe00d7bbff282cdfcb88d27b420b70fdd989
+#EXTINF:-1 tvg-name="DE: Geo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png" group-title="🇵🇰 Pakistan",DE: Geo TV
+http://mxonlive.xyz/live/xap/350287.m3u8?e=1781986593&token=6eb558cae7212e43825224320593cf9f0de51c968de0c8f2571fe23b96bfa33f
+#EXTINF:-1 tvg-id="DinNews.pk" tvg-name="Din News Hd" tvg-logo="http://b1g.fun/logos2/din_news.jpg" group-title="🇵🇰 Pakistan - News",Din News Hd
+http://mxonlive.xyz/live/xap/129985.m3u8?e=1781986593&token=1ab279d4e71e2a12c00c28e018ac1176f93820ca34c67e18bd794f215714476a
+#EXTINF:-1 tvg-name="DZ: AL 24 News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a410f537ad1c19cc89dc1f2331ab10ee.png" group-title="🇵🇰 Pakistan - News",DZ: AL 24 News
+http://mxonlive.xyz/live/xap/347967.m3u8?e=1781986593&token=765ac113f148774c170e1fef05a1c432301acdc41eec9d35ae2708e34ce493dd
+#EXTINF:-1 tvg-name="FIFA: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🇵🇰 Pakistan - Sports",FIFA: PTV SPORTS
+http://mxonlive.xyz/live/xap/444385.m3u8?e=1781986593&token=e8773251fb8a758c33721eb1a63baa6e1da300e1468f414e98ae606f2413b09d
+#EXTINF:-1 tvg-name="GR: BCI 24 News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b32c9f4043223e5eebf87dfbc096bd99.png" group-title="🇵🇰 Pakistan - News",GR: BCI 24 News
+http://mxonlive.xyz/live/xap/350656.m3u8?e=1781986593&token=e124b6ff7fe6d8dcaa679b936fe5ecdf6173cd148c3ab047b41df2fe030a142e
+#EXTINF:-1 tvg-name="IND-regional: 24News" group-title="🇵🇰 Pakistan",IND-regional: 24News
+http://mxonlive.xyz/live/xap/246222.m3u8?e=1781986593&token=ab079e42c895d953c494d5aa3b7357d39f50f5ab341fb6c4ce83e17fd6dc85c3
+#EXTINF:-1 tvg-name="Jeeto Pakistan League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Jeeto_Pakistan_League.jpg" group-title="🇵🇰 Pakistan",Jeeto Pakistan League
+http://mxonlive.xyz/live/xap/376304.m3u8?e=1781986593&token=d783b3df79bb63807101722f69e90b34763cd7d2aafe4326d7903e0f894639d2
+#EXTINF:-1 tvg-name="Pak: Green entertainment" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Green-Entertainment-Logo-Vector-1.png" group-title="🇵🇰 Pakistan",Pak: Green entertainment
+http://mxonlive.xyz/live/xap/344646.m3u8?e=1781986593&token=5ebf2b4e500d66f64c83a438cdee17bae4700281d734e4e622d41c5acfe8456f
+#EXTINF:-1 tvg-name="PAK: PTV BOLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Ptv_bolan.jpg" group-title="🇵🇰 Pakistan",PAK: PTV BOLAN
+http://mxonlive.xyz/live/xap/341213.m3u8?e=1781986593&token=8a254b3785f84ff2cac1fefa5c1a71cd4a00cf2cdc25ac32ba31f4514eccd7d7
+#EXTINF:-1 tvg-name="PAK: Ptv World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="🇵🇰 Pakistan",PAK: Ptv World
+http://mxonlive.xyz/live/xap/167657.m3u8?e=1781986593&token=a5589d876aa93392683174c2c0b6a3268fda1ce7276d7493c9fe691f7fb2c996
+#EXTINF:-1 tvg-name="Pak: Suno Tv" tvg-logo="https://sunonews.tv/wp-content/uploads/2023/07/Suno-Logo.png" group-title="🇵🇰 Pakistan",Pak: Suno Tv
+http://mxonlive.xyz/live/xap/301512.m3u8?e=1781986593&token=df2cc91f02649ebb8d70f9188e84717f1db356b5860481a70e1d827c7dc2d129
+#EXTINF:-1 tvg-name="PK : Tag Tv" tvg-logo="https://tagtv.info/wp-content/uploads/2021/02/TagTv.png" group-title="🇵🇰 Pakistan",PK : Tag Tv
+http://mxonlive.xyz/live/xap/110059.m3u8?e=1781986593&token=be13cc5be44fa151f140d205e6debd0475d34e2be0ef32de33e00084dcb63d44
+#EXTINF:-1 tvg-name="PK | 24 News HD" tvg-logo="http://b1g.fun/logos2/24_channel.jpg" group-title="🇵🇰 Pakistan - News",PK | 24 News HD
+http://mxonlive.xyz/live/xap/25995.m3u8?e=1781986593&token=f8f9aaf799f41b90d133c011640898cc291fc7e19cb3d9c8a0d98e7170495f44
+#EXTINF:-1 tvg-name="PK | 365 NEWS HD" tvg-logo="http://logo.opplextv.com/logo/365NEWS.jpg" group-title="🇵🇰 Pakistan - News",PK | 365 NEWS HD
+http://mxonlive.xyz/live/xap/167883.m3u8?e=1781986593&token=71cd61fea03a5c9739047e9863a46e53a1501110bcd1de99ff06c4efba9f05ca
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News HD" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="🇵🇰 Pakistan - News",PK | 92 News HD
+http://mxonlive.xyz/live/xap/25996.m3u8?e=1781986593&token=e54b7b0b00350328771a266f297181efada24c330f6faa9ad927874aa2be75fd
+#EXTINF:-1 tvg-name="PK | A PLUS" tvg-logo="https://static.epg.best/pk/APlusTV.pk.png" group-title="🇵🇰 Pakistan",PK | A PLUS
+http://mxonlive.xyz/live/xap/25984.m3u8?e=1781986593&token=870e10d587d7193416acb8b441f0fb269cdbfb2bbc76c083665b41bd8db3bf91
+#EXTINF:-1 tvg-name="PK | A1 TV" tvg-logo="http://b1g.fun/logos2/a1_tv.jpg" group-title="🇵🇰 Pakistan",PK | A1 TV
+http://mxonlive.xyz/live/xap/105796.m3u8?e=1781986593&token=ed6705f3ce5bbc13e70197148acbf95f66b9958a6c8fc4df4ab7e424366bc905
+#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="PK | AAJ NEWS" tvg-logo="http://b1g.fun/logos2/aaj_news.jpg" group-title="🇵🇰 Pakistan - News",PK | AAJ NEWS
+http://mxonlive.xyz/live/xap/26001.m3u8?e=1781986593&token=5f03a3717eac09a823cee48bc0357eb5d330bffd61d5be5ff5242c3ad22cae3e
+#EXTINF:-1 tvg-name="PK | AAN TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aan_TV.png/1200px-Aan_TV.png" group-title="🇵🇰 Pakistan",PK | AAN TV FHD
+http://mxonlive.xyz/live/xap/371733.m3u8?e=1781986593&token=b5fba3b92af79037f8e12a3115b2a03a87ebb9288e192057b152ea53f2811f99
+#EXTINF:-1 tvg-name="PK | Abbtak News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="🇵🇰 Pakistan - News",PK | Abbtak News
+http://mxonlive.xyz/live/xap/25997.m3u8?e=1781986593&token=ca6c6628d452c7e7aa569a05782f0317addb8273ec7a79da300ccfee9612c0bb
+#EXTINF:-1 tvg-name="PK | ABN NEWS" tvg-logo="https://abnnews.pk/wp-content/uploads/2023/01/Logo-ABN-News-mobile.png" group-title="🇵🇰 Pakistan - News",PK | ABN NEWS
+http://mxonlive.xyz/live/xap/371735.m3u8?e=1781986593&token=d2b715653d7bff05493877d9ca819fe25af4219c382ce3ed7e62f9b3e93c8c4c
+#EXTINF:-1 tvg-id="apna.pk" tvg-name="PK | Apna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Apna_Channel_New_Logo.png" group-title="🇵🇰 Pakistan",PK | Apna Channel
+http://mxonlive.xyz/live/xap/25998.m3u8?e=1781986593&token=755177eea0662986214bd9c2bb6f46a6c2e8bae2954e97c2f0a1892d6261296e
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="🇵🇰 Pakistan",PK | ARY DIGITAL HD
+http://mxonlive.xyz/live/xap/25989.m3u8?e=1781986593&token=74a3bb8f2ab193d591b081ab76e5e11a66cf4c0cf327f34faaca8c28e81fa977
+#EXTINF:-1 tvg-id="arymusik.pk" tvg-name="PK | Ary Music Pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="🇵🇰 Pakistan - Music",PK | Ary Music Pk
+http://mxonlive.xyz/live/xap/26000.m3u8?e=1781986593&token=b14526d5c3c1e16c9b5a5575beb30084c35dfe34bcf14aed607a5dc2e5b6b01e
+#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="🇵🇰 Pakistan - News",PK | ARY News HD
+http://mxonlive.xyz/live/xap/25980.m3u8?e=1781986593&token=e987fcbe9ca719466b3acf806ba163ce175f3fc294f50f54ca3580e39f08ae38
+#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="🇵🇰 Pakistan",PK | ARY ZINDAGI
+http://mxonlive.xyz/live/xap/25990.m3u8?e=1781986593&token=bfb9c00c73cba2662f5648e32f2631967e67ab4e61d0c91d5848ca6df293177e
+#EXTINF:-1 tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="🇵🇰 Pakistan",PK | Bol Entertainment HD
+http://mxonlive.xyz/live/xap/26045.m3u8?e=1781986593&token=2fa591c68e8c0215a243bfa0ae8e0affbb34d3c8ed75b9346a67c7b3151dcfa3
+#EXTINF:-1 tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="🇵🇰 Pakistan - News",PK | Bol News HD
+http://mxonlive.xyz/live/xap/26046.m3u8?e=1781986593&token=ccc51694fe44e6245c3dce8af25250cd2845638f24c1e12f4f59a127b6b53379
+#EXTINF:-1 tvg-name="PK | Capital Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Capital_TV.jpg/200px-Capital_TV.jpg" group-title="🇵🇰 Pakistan",PK | Capital Tv
+http://mxonlive.xyz/live/xap/25992.m3u8?e=1781986593&token=83652634622115c8bb044ec25a74b68396308bc05b4e48f0330dc3b8afd2407f
+#EXTINF:-1 tvg-name="PK | City 42" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/City_42.png" group-title="🇵🇰 Pakistan",PK | City 42
+http://mxonlive.xyz/live/xap/26006.m3u8?e=1781986593&token=ed19efda44e5ada83b4e745e70410f4f8cc8598a6848caeff180cda26cb4425e
+#EXTINF:-1 tvg-id="dawnnews.pk" tvg-name="PK | Dawn News" tvg-logo="https://i.imgur.com/BMmlLwS.png" group-title="🇵🇰 Pakistan - News",PK | Dawn News
+http://mxonlive.xyz/live/xap/26007.m3u8?e=1781986593&token=577a7fe38ceebdfb01e631abe93404fd50efcf323f7144e6cc535bad5fae44d2
+#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Dunya_News.jpg/220px-Dunya_News.jpg" group-title="🇵🇰 Pakistan - News",PK | Dunya News HD
+http://mxonlive.xyz/live/xap/26008.m3u8?e=1781986593&token=201d8d10be0e5a300b4af14a10df73ed2de4dd20e4a953a6fd93b36faef62886
+#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="🇵🇰 Pakistan",PK | Express Entertainment
+http://mxonlive.xyz/live/xap/26010.m3u8?e=1781986593&token=96a93f1aa464e4fe39c631ac58613d075454eb9b5a2a712e0108e87262d876e0
+#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="http://logo.opplextv.com/logo/EXPRESSNEWS.png" group-title="🇵🇰 Pakistan - News",PK | Express news
+http://mxonlive.xyz/live/xap/26011.m3u8?e=1781986593&token=4dde08bec696829e4bc5df1f138675f68724a6141e789ac52386b0b6c6f5c3ec
+#EXTINF:-1 tvg-name="PK | FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="🇵🇰 Pakistan",PK | FILMAX
+http://mxonlive.xyz/live/xap/26038.m3u8?e=1781986593&token=d5693a143ec924e325927845e3a9d9e1609edeb205f2ea0562c0f811661bdaaf
+#EXTINF:-1 tvg-name="PK | FILMAZIA PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="🇵🇰 Pakistan",PK | FILMAZIA PUNJABI
+http://mxonlive.xyz/live/xap/371763.m3u8?e=1781986593&token=269ad5ad2fdc123a856d85b44ee08a9f9c6edcdb76f0d1a27ce1286a84c8d453
+#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT FHD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="🇵🇰 Pakistan",PK | GEO ENTERMENT FHD
+http://mxonlive.xyz/live/xap/25977.m3u8?e=1781986593&token=fbafc4f60dde1db121a46a35a816a284512259191fd96d32f3a125042db05242
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="🇵🇰 Pakistan",PK | GEO KAHANI HD
+http://mxonlive.xyz/live/xap/221341.m3u8?e=1781986593&token=9b7517ac9f9402c4ff8b74af395102e241c9e7e173618702b1fa237ac40bde50
+#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="🇵🇰 Pakistan - News",PK | GEO NEWS FHD
+http://mxonlive.xyz/live/xap/25976.m3u8?e=1781986593&token=8d2c0b78b1ed5f2fa1d7dc6cd8b8d50d924513dfb9b3fdbc1913bacae2b91282
+#EXTINF:-1 tvg-name="PK | Geo Tezz" tvg-logo="http://logo.opplextv.com/logo/GEOTEZZ.png" group-title="🇵🇰 Pakistan",PK | Geo Tezz
+http://mxonlive.xyz/live/xap/26013.m3u8?e=1781986593&token=aafec563a64cdd6424f1d6ccd137c174116f8a8eb0cdf6a0f8e71df52224f69d
+#EXTINF:-1 tvg-name="PK | GNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" group-title="🇵🇰 Pakistan",PK | GNN HD
+http://mxonlive.xyz/live/xap/25991.m3u8?e=1781986593&token=e09c863f1f11974a212cf6a3e8eb6962a18c4ba8cf2b78f0b811fe717797cfac
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | Hum News FHD" group-title="🇵🇰 Pakistan - News",PK | Hum News FHD
+http://mxonlive.xyz/live/xap/26018.m3u8?e=1781986593&token=db9aeed6a428403aacb891ae61d5cb6943bc03a415ff2b60ab26ad9767e9e182
+#EXTINF:-1 tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="🇵🇰 Pakistan",PK | HUM SITARAY
+http://mxonlive.xyz/live/xap/25983.m3u8?e=1781986593&token=e4136b951ab3ef00a1e2b3dad9acaf647699be139eea4177b11c323f580256ca
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV (4K)" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="🇵🇰 Pakistan",PK | HUM TV (4K)
+http://mxonlive.xyz/live/xap/25981.m3u8?e=1781986593&token=9d10cfe081f366d2ba14f3de77cae1cd843eb16a42adf64c80b8eb422b63cc1a
+#EXTINF:-1 tvg-name="PK | JALWA MUSIC" tvg-logo="https://www.trendinginsocial.com/wp-content/uploads/2016/06/Jalwa-Logo-640x512.png" group-title="🇵🇰 Pakistan - Music",PK | JALWA MUSIC
+http://mxonlive.xyz/live/xap/167670.m3u8?e=1781986593&token=a0c403541ffbda41758d724bb92ddf1fb76aed1f95ec01cf1c0f25b640f3206a
+#EXTINF:-1 tvg-name="PK | JOO MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest/scale-to-width-down/270?cb=20200108100316" group-title="🇵🇰 Pakistan - Music",PK | JOO MUSIC
+http://mxonlive.xyz/live/xap/106118.m3u8?e=1781986593&token=25cbf55c4ff9406293266e473eb3454adc22b522a03fe719606dbf3e92528a3e
+#EXTINF:-1 tvg-name="PK | KASHISH" tvg-logo="http://b1g.fun/logos2/kashish.jpg" group-title="🇵🇰 Pakistan",PK | KASHISH
+http://mxonlive.xyz/live/xap/106115.m3u8?e=1781986593&token=07e500c01a01f0a22b2326f734fe95c37460e3e77415dabeb864c12b872ca88f
+#EXTINF:-1 tvg-name="PK | Kay 2" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="🇵🇰 Pakistan",PK | Kay 2
+http://mxonlive.xyz/live/xap/26023.m3u8?e=1781986593&token=dbfc9d4d34dbed2e287eb9c474457549b5fd0fe0a79631f67ad7303a3ff7a779
+#EXTINF:-1 tvg-name="PK | Khyber News Pashto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/AVT_Khyber_Logo.png" group-title="🇵🇰 Pakistan - News",PK | Khyber News Pashto
+http://mxonlive.xyz/live/xap/26024.m3u8?e=1781986593&token=b8126a41c67a0ed94bfdd29306ae7404a2fd2b3f965f6ddd588424ba9a11788e
+#EXTINF:-1 tvg-name="PK | Khyber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/AVT_Khyber_Logo.png" group-title="🇵🇰 Pakistan",PK | Khyber TV
+http://mxonlive.xyz/live/xap/26025.m3u8?e=1781986593&token=0b1252083981677dd28b08529b38f9eb507ea3cb1ec9c23c8b699230308e0d6a
+#EXTINF:-1 tvg-name="PK | KOHINOOR NEWS" tvg-logo="http://b1g.fun/logos2/kohenoor_news.jpg" group-title="🇵🇰 Pakistan - News",PK | KOHINOOR NEWS
+http://mxonlive.xyz/live/xap/106116.m3u8?e=1781986593&token=3eedcd97a082666b2c49d32edc8ea25d6c345bf6faa7bd85424430c8ead9f8b4
+#EXTINF:-1 tvg-name="PK | Lahore News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lahore_News.png/220px-Lahore_News.png" group-title="🇵🇰 Pakistan - News",PK | Lahore News HD
+http://mxonlive.xyz/live/xap/26047.m3u8?e=1781986593&token=1e9a3412b85fab0eca72ae9ac31e48c0f1d4d91b98984e5cc91ce83f75a79ab5
+#EXTINF:-1 tvg-name="PK | Lahore Rung" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1550524418.jpeg" group-title="🇵🇰 Pakistan",PK | Lahore Rung
+http://mxonlive.xyz/live/xap/26039.m3u8?e=1781986593&token=aaa3001f12cb3c301dbfaebf09c81a36de2ad4139dfadf38813ba5843bd8e920
+#EXTINF:-1 tvg-name="PK | LTN FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/LTN_Family.png" group-title="🇵🇰 Pakistan",PK | LTN FAMILY
+http://mxonlive.xyz/live/xap/106114.m3u8?e=1781986593&token=3e48be2ae07744976ba01e7dca2b801851e644cb3436fdf2fa278562f1cc86ec
+#EXTINF:-1 tvg-name="PK | MUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mun-TV.png" group-title="🇵🇰 Pakistan",PK | MUN TV FHD
+http://mxonlive.xyz/live/xap/371734.m3u8?e=1781986593&token=308e722ddfc9da937ecb6dc3e7fbebdbbc6116598b86bc0d74bea81671edbd63
+#EXTINF:-1 tvg-name="PK | NEO NEWS" tvg-logo="https://www.neonetwork.pk/uploads/theme/logo-1532677402.png" group-title="🇵🇰 Pakistan - News",PK | NEO NEWS
+http://mxonlive.xyz/live/xap/25993.m3u8?e=1781986593&token=e1f3a19883fc981fa90d7539cfdb676170a25fa59c83ec998ff9af8ac1f0f1c4
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="🇵🇰 Pakistan",PK | PTV GLOBAL
+http://mxonlive.xyz/live/xap/25994.m3u8?e=1781986593&token=27f9ae5ba3486218d8f3659ca7ec19741c62c32db4ffac0e62ef06ccc76f6e29
+#EXTINF:-1 tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="🇵🇰 Pakistan - News",PK | PTV NEWS
+http://mxonlive.xyz/live/xap/25988.m3u8?e=1781986593&token=6e93521bac58c8835a3e47e5a63eca64ffa7fc408fd0c70d52cc322770497f63
+#EXTINF:-1 tvg-name="PK | Public News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Public-News-Logo-1.jpg" group-title="🇵🇰 Pakistan - News",PK | Public News HD
+http://mxonlive.xyz/live/xap/26034.m3u8?e=1781986593&token=427da7b1cbcc3dc0b6cc5cfa263bc6e580e322ff82dfb16bf73840989f3e0d94
+#EXTINF:-1 tvg-name="PK | ROHI TV" tvg-logo="http://b1g.fun/logos2/rohi_tv.jpg" group-title="🇵🇰 Pakistan",PK | ROHI TV
+http://mxonlive.xyz/live/xap/106117.m3u8?e=1781986593&token=0781597574301e690e57dab68666c2077e61cd67840071dee823813945c96b38
+#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="http://logo.opplextv.com/logo/SAMAANEWS.png" group-title="🇵🇰 Pakistan - News",PK | Samaa News
+http://mxonlive.xyz/live/xap/26036.m3u8?e=1781986593&token=56508174c154a02be445e21f4a8099517a0e4ea81de3e7238ba30192e06785fb
+#EXTINF:-1 tvg-name="PK | See HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="🇵🇰 Pakistan",PK | See HD
+http://mxonlive.xyz/live/xap/25982.m3u8?e=1781986593&token=b64c8152d06b674f3e962ba481eb46c916f4ddabe32eb98dadcfd154199470ad
+#EXTINF:-1 tvg-name="PK | Set Entertainment" tvg-logo="https://setentertainment.tv/wp-content/uploads/2024/03/logo.png" group-title="🇵🇰 Pakistan",PK | Set Entertainment
+http://mxonlive.xyz/live/xap/389825.m3u8?e=1781986593&token=4ae9f03dca15f90e9b76d12b222e19b162f458e17d84ea539a2a74f53655f97f
+#EXTINF:-1 tvg-name="PK | Such TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/SuchTV_Logo_HQ_-.png/800px-SuchTV_Logo_HQ_-.png" group-title="🇵🇰 Pakistan",PK | Such TV
+http://mxonlive.xyz/live/xap/26037.m3u8?e=1781986593&token=3a83a61418819922234605f6b4cb5e2d4f95ea3784b68fae9f128ca34ea3ad74
+#EXTINF:-1 tvg-name="PK | TIME NEWS HD" tvg-logo="http://b1g.fun/logos2/TimeNewsHD.jpg" group-title="🇵🇰 Pakistan - News",PK | TIME NEWS HD
+http://mxonlive.xyz/live/xap/371736.m3u8?e=1781986593&token=5af2a04e76aff43f8e977f78ca2b3e2aeea772128e31e68c008a4688ce2dc9a2
+#EXTINF:-1 tvg-name="PK | TV2 DAY NEWS" tvg-logo="http://b1g.fun/logos2/tv_today.jpg" group-title="🇵🇰 Pakistan - News",PK | TV2 DAY NEWS
+http://mxonlive.xyz/live/xap/106119.m3u8?e=1781986593&token=e626846b8312c61066695a42208a5676ec3053971e09a3a6e21422a24a4c34c8
+#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="🇵🇰 Pakistan",PK | Urdu 1
+http://mxonlive.xyz/live/xap/221340.m3u8?e=1781986593&token=953c2aad8efa1e9aa2d73aa875a91e0e771c6eea46a778156415015fa984eb61
+#EXTINF:-1 tvg-name="PK | Waseeb TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="🇵🇰 Pakistan",PK | Waseeb TV
+http://mxonlive.xyz/live/xap/26042.m3u8?e=1781986593&token=5f44ef882b289287f72ac4ff2287d4546a8fd95f714ddae3c70e45a91a7f440c
+#EXTINF:-1 tvg-name="PK | Zindgai TV*" group-title="🇵🇰 Pakistan",PK | Zindgai TV*
+http://mxonlive.xyz/live/xap/26043.m3u8?e=1781986593&token=1940acfbf28cbc6d7cb019288e9d025105f0ba591a326a82a967cd2685a6d5b0
+#EXTINF:-1 tvg-name="PK: 7 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Seven_News_logo.png" group-title="🇵🇰 Pakistan - News",PK: 7 NEWS
+http://mxonlive.xyz/live/xap/275336.m3u8?e=1781986593&token=60164b8eba5fdbea8dcf90672399164b7b09e4a7b4a4e888b9ba175be7ecb29f
+#EXTINF:-1 tvg-name="PK: 8XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="🇵🇰 Pakistan",PK: 8XM
+http://mxonlive.xyz/live/xap/103668.m3u8?e=1781986593&token=e99c0f98f8615cef65efcf2ec001e8cdd13066aa8ac88b23052fd288dd6743be
+#EXTINF:-1 tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png" group-title="🇵🇰 Pakistan",PK: AAJ ENTERTAINMENT
+http://mxonlive.xyz/live/xap/103670.m3u8?e=1781986593&token=b34c2ed508ecd25e6d3a1593de17d56ec8850eb8dac5e9310110dafbb623fd89
+#EXTINF:-1 tvg-name="PK: Afghan Tv*" group-title="🇵🇰 Pakistan",PK: Afghan Tv*
+http://mxonlive.xyz/live/xap/167888.m3u8?e=1781986593&token=db36d2ef43c84b3e6c3b39174685542f732dcd8417a35d7bc187b866eafedb06
+#EXTINF:-1 tvg-name="PK: ARUJ TV" group-title="🇵🇰 Pakistan",PK: ARUJ TV
+http://mxonlive.xyz/live/xap/103685.m3u8?e=1781986593&token=022736560d742435b4c536efa9b96d3dfeec60bea9a6eb3d1ddcbf6b83e7d807
+#EXTINF:-1 tvg-name="PK: ARY Family" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/ARY-Family.png" group-title="🇵🇰 Pakistan",PK: ARY Family
+http://mxonlive.xyz/live/xap/103673.m3u8?e=1781986593&token=984ef4fde48873f7a8b74b1718ceca36c62b266f286e85469f8674ae4f044364
+#EXTINF:-1 tvg-name="PK: ARY NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="🇵🇰 Pakistan - News",PK: ARY NEWS WORLD
+http://mxonlive.xyz/live/xap/217572.m3u8?e=1781986593&token=f8e291df87ea566cc773e8bf0250f9a937caca8c5a58f4307c4641bcd9321e43
+#EXTINF:-1 tvg-name="PK: AUR LIFE HD" tvg-logo="https://aur.tv/wp-content/uploads/2023/06/button.jpg" group-title="🇵🇰 Pakistan",PK: AUR LIFE HD
+http://mxonlive.xyz/live/xap/167885.m3u8?e=1781986593&token=65fb6d47ae3d68131609f4e9b0deaec00c1dc4501823ffb25e4acf4d6b9eb322
+#EXTINF:-1 tvg-name="PK: C44" group-title="🇵🇰 Pakistan",PK: C44
+http://mxonlive.xyz/live/xap/103677.m3u8?e=1781986593&token=dda28e9a3461e65b10bb51d12b02e3e08fdcbbd328dd4c3c6da93116018c179c
+#EXTINF:-1 tvg-name="PK: CITY 41 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/City_41_Logo.png" group-title="🇵🇰 Pakistan - News",PK: CITY 41 NEWS
+http://mxonlive.xyz/live/xap/103683.m3u8?e=1781986593&token=66801759ee22fd6ee9735e51149241b92373732e35ad1a39f9cbb7eb3e5bfff3
+#EXTINF:-1 tvg-name="PK: Discover Pakistan" tvg-logo="http://b1g.fun/logos2/discover_pakistan.jpg" group-title="🇵🇰 Pakistan",PK: Discover Pakistan
+http://mxonlive.xyz/live/xap/103684.m3u8?e=1781986593&token=8573e6d74e94fb8d9c07dd4418047b81209b7592f8c7e60bb1cc9532c71b8e71
+#EXTINF:-1 tvg-name="PK: EAWAZ TV*" group-title="🇵🇰 Pakistan",PK: EAWAZ TV*
+http://mxonlive.xyz/live/xap/103671.m3u8?e=1781986593&token=adac6bc952c68aea9930a962884ce93569d79e2ce8ce08f397aa63479e5c2040
+#EXTINF:-1 tvg-name="PK: FILMAZIA ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="🇵🇰 Pakistan",PK: FILMAZIA ENTERTAINMENT
+http://mxonlive.xyz/live/xap/105792.m3u8?e=1781986593&token=bab2831070935f9c4ecca48c1aa1a5c5d49e7ecedfba3c1e01b60a31b149561f
+#EXTINF:-1 tvg-name="PK: FILMWORLD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/film_world_pk.png" group-title="🇵🇰 Pakistan",PK: FILMWORLD
+http://mxonlive.xyz/live/xap/103686.m3u8?e=1781986593&token=9b8ecc469b1aee71a0184e472466c672f5ecd2c5de0336484ba57dc59e5b4439
+#EXTINF:-1 tvg-name="PK: GEO NEWS UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="🇵🇰 Pakistan - News",PK: GEO NEWS UK
+http://mxonlive.xyz/live/xap/305736.m3u8?e=1781986593&token=4935c3cdf29ad638a9a0a11d49c8c56edd5708d5996bc1541d01651c0df9a99b
+#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK: HUM EUROPE*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="🇵🇰 Pakistan",PK: HUM EUROPE*
+http://mxonlive.xyz/live/xap/103688.m3u8?e=1781986593&token=c7d6f39fd981cb7bda5cfd2c4a274fd1de70bd2ec33cf99c56ba70110b05113e
+#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM MASALA" group-title="🇵🇰 Pakistan",PK: HUM MASALA
+http://mxonlive.xyz/live/xap/103689.m3u8?e=1781986593&token=a847a1691146fe9534c74b3c2b5a65cd27f18cb7558075584bfcf21c9eb3113a
+#EXTINF:-1 tvg-name="PK: Hum Pashto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/22-35-30-cropped-pashto-logo.png" group-title="🇵🇰 Pakistan",PK: Hum Pashto 1
+http://mxonlive.xyz/live/xap/207397.m3u8?e=1781986593&token=72ede469f407544b1205117ae5bc515041352b7db1797c1b492db16c19d13815
+#EXTINF:-1 tvg-name="PK: INDUS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Indus_News_logo.png" group-title="🇵🇰 Pakistan - News",PK: INDUS NEWS
+http://mxonlive.xyz/live/xap/103693.m3u8?e=1781986593&token=29f7c618decf507afa58daad76fa6e3eadd2bee57d7afea440a8e76d165fe8d6
+#EXTINF:-1 tvg-name="PK: ISAAS TV" group-title="🇵🇰 Pakistan",PK: ISAAS TV
+http://mxonlive.xyz/live/xap/244936.m3u8?e=1781986593&token=a671df1fbb0e446d7191e156c7c42999d1bf1014bd47c247227fe61d134d9dd4
+#EXTINF:-1 tvg-name="PK: K21 NEWS" tvg-logo="https://k21news.pk/wp-content/uploads/2020/11/k21-news-logo.png" group-title="🇵🇰 Pakistan - News",PK: K21 NEWS
+http://mxonlive.xyz/live/xap/103694.m3u8?e=1781986593&token=98c26b62178b2d1255de2c32f6801600886af7cddf91b1924cd38bf6b1d9399e
+#EXTINF:-1 tvg-name="PK: Khyber Middle East TV" group-title="🇵🇰 Pakistan",PK: Khyber Middle East TV
+http://mxonlive.xyz/live/xap/110051.m3u8?e=1781986593&token=a1627b7371861fe80022ba75c2a97fdc34219fc69b56ad98dd53fbaf56b5143a
+#EXTINF:-1 tvg-name="PK: KING TV" group-title="🇵🇰 Pakistan",PK: KING TV
+http://mxonlive.xyz/live/xap/110053.m3u8?e=1781986593&token=0350323ace7315ef2e78aaaeb241c8055b6ed5ad7b34fe4082c41d64240100e4
+#EXTINF:-1 tvg-name="PK: Mehran Tv" group-title="🇵🇰 Pakistan",PK: Mehran Tv
+http://mxonlive.xyz/live/xap/110060.m3u8?e=1781986593&token=a4b53c2fb1d7337749f4736ca6615a13fa80ab58b2becc9c8b5349d864e2b41e
+#EXTINF:-1 tvg-name="PK: PAKUS TV" tvg-logo="http://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="🇵🇰 Pakistan",PK: PAKUS TV
+http://mxonlive.xyz/live/xap/105799.m3u8?e=1781986593&token=8ab077841d247a82e05cc5d9c24d98dea51dc3c1279b52669538977acda289a9
+#EXTINF:-1 tvg-name="PK: PLAY TV" group-title="🇵🇰 Pakistan",PK: PLAY TV
+http://mxonlive.xyz/live/xap/103699.m3u8?e=1781986593&token=9e380062421900a613c8d81ce8f549709da83da885e4c484e8f8945ebb06d160
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="🇵🇰 Pakistan",PK: PTV HOME HD
+http://mxonlive.xyz/live/xap/103703.m3u8?e=1781986593&token=37adb359f1d137d3bcf4a62e588641cf10513b91cdce1d07bb53256ac0dd396f
+#EXTINF:-1 tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="🇵🇰 Pakistan",PK: PTV NATIONAL
+http://mxonlive.xyz/live/xap/110050.m3u8?e=1781986593&token=b476734876885e9d23b3b8eb7893a1405425922521804d16a85bf03aed4eb5d0
+#EXTINF:-1 tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🇵🇰 Pakistan - Sports",PK: PTV SPORTS HD
+http://mxonlive.xyz/live/xap/217968.m3u8?e=1781986593&token=0511c6f4c06e6bc3d319526cd9fbd1c072de1d5e46775e7b2ad42d12e01b8cd9
+#EXTINF:-1 tvg-name="PK: Raavi Films" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="🇵🇰 Pakistan - Movies",PK: Raavi Films
+http://mxonlive.xyz/live/xap/103705.m3u8?e=1781986593&token=8fd39e89e38a761159e5eeb7c1aff23fe5ea1df140a82ed16cdd4377402588fd
+#EXTINF:-1 tvg-name="PK: Roze News" tvg-logo="https://www.lyngsat.com/logo/tv/rr/roze_news_pk.png" group-title="🇵🇰 Pakistan - News",PK: Roze News
+http://mxonlive.xyz/live/xap/103706.m3u8?e=1781986593&token=29211df02a6f87e20ff5723b6fe249382abb487e2c2549606ac8065c9e1cc236
+#EXTINF:-1 tvg-name="PK: SAB TV PAK" tvg-logo="http://b1g.fun/logos2/sab_tv.jpg" group-title="🇵🇰 Pakistan",PK: SAB TV PAK
+http://mxonlive.xyz/live/xap/25975.m3u8?e=1781986593&token=668af9525c2ff0bee332297fd1a7f11b8f160ff9de4d4650e06c01a695725d56
+#EXTINF:-1 tvg-name="PK: Sindh News" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png" group-title="🇵🇰 Pakistan - News",PK: Sindh News
+http://mxonlive.xyz/live/xap/103708.m3u8?e=1781986593&token=c5380b5a8e340c7a8748be1a804f0ded8c2bbcbc633ca95bffa66878c7685ee1
+#EXTINF:-1 tvg-name="PK: SINDH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="🇵🇰 Pakistan",PK: SINDH TV
+http://mxonlive.xyz/live/xap/103709.m3u8?e=1781986593&token=0ba22f9dd1dfd880ed8489c16785353079e2e32e9d025422644bbe9aa5fa54ef
+#EXTINF:-1 tvg-name="PK: TUM NEWS" group-title="🇵🇰 Pakistan - News",PK: TUM NEWS
+http://mxonlive.xyz/live/xap/244937.m3u8?e=1781986593&token=57c93faf85b0f64bd51baed45ff51907b7a841a652e604513a08d6d07e84a723
+#EXTINF:-1 tvg-name="PK: Venus TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus_uk.png" group-title="🇵🇰 Pakistan",PK: Venus TV
+http://mxonlive.xyz/live/xap/103712.m3u8?e=1781986593&token=8190df0348bbfbf30684e26eb8698dd88dfb6b8f20369f86eb8adab6344c7cac
+#EXTINF:-1 tvg-name="Pk: VSH NEWS" tvg-logo="https://www.dthsat.com/images/VSH-News-Logo.png" group-title="🇵🇰 Pakistan - News",Pk: VSH NEWS
+http://mxonlive.xyz/live/xap/311880.m3u8?e=1781986593&token=7782a573430fef8128132da9132080dc013493c44051f948f4ac4bd28751b7f8
+#EXTINF:-1 tvg-name="UK: Ary Digital" group-title="🇵🇰 Pakistan",UK: Ary Digital
+http://mxonlive.xyz/live/xap/382226.m3u8?e=1781986593&token=7543d102a57fac7ee49c642fbfc6e9595aebdc167215dfccb05b8a554b5a68a7
+#EXTINF:-1 tvg-name="USA Asian: ARY News" group-title="🇵🇰 Pakistan - News",USA Asian: ARY News
+http://mxonlive.xyz/live/xap/388629.m3u8?e=1781986593&token=ebf58f83098eb58951f7f884a8b04b131b2666c6b8a78673d23cc2937436ebb8
+#EXTINF:-1 tvg-name="USA Asian: ARY QTV" group-title="🇵🇰 Pakistan",USA Asian: ARY QTV
+http://mxonlive.xyz/live/xap/388630.m3u8?e=1781986593&token=88a10248742275c296285a3807b92b5d8787f3615b8472699eac66efeb1373e8
+#EXTINF:-1 tvg-name="USA Asian: GEO Kahani" group-title="🇵🇰 Pakistan",USA Asian: GEO Kahani
+http://mxonlive.xyz/live/xap/388666.m3u8?e=1781986593&token=6af67d1f6c82f1ff827309a9acadc30f307ea9d5e662e938035266b1f3ce93ac
+#EXTINF:-1 tvg-name="USA Asian: GEO TV" group-title="🇵🇰 Pakistan",USA Asian: GEO TV
+http://mxonlive.xyz/live/xap/388632.m3u8?e=1781986593&token=e73c0ed60ee7da9707dd22278573aed7546437e41e2693f5d42b6d4490ebadbe
+#EXTINF:-1 tvg-name="USA Asian: HUM Masala" group-title="🇵🇰 Pakistan",USA Asian: HUM Masala
+http://mxonlive.xyz/live/xap/388633.m3u8?e=1781986593&token=19e16a515308ec515f44ae9fcc3fa153337c9629af685936ad9640f74a00dbf7
+#EXTINF:-1 tvg-name="USA Asian: HUM Sitaray" group-title="🇵🇰 Pakistan",USA Asian: HUM Sitaray
+http://mxonlive.xyz/live/xap/388634.m3u8?e=1781986593&token=f9f3e9700dfad0b8d401d59fd75a2988e1b9634c0d25ab912aa8a4fb14184056
+#EXTINF:-1 tvg-name="USA Asian: HUM TV" group-title="🇵🇰 Pakistan",USA Asian: HUM TV
+http://mxonlive.xyz/live/xap/388635.m3u8?e=1781986593&token=a6860a08016cc43fa72218be8361853419bdcd4327dbab6ff26d583551739d7f
+#EXTINF:-1 tvg-name="Vibe Urdu Series 1 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 1 FHD
+http://mxonlive.xyz/live/xap/441535.m3u8?e=1781986593&token=4edede7a23b3915f37322185fc370cafd275085cb2ed5c4d23888181309863aa
+#EXTINF:-1 tvg-name="Vibe Urdu Series 10 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 10 FHD
+http://mxonlive.xyz/live/xap/441544.m3u8?e=1781986593&token=909addb08191a699c9f08cb44e831de3c4bbf700cb181314219a8e0a8cb359ae
+#EXTINF:-1 tvg-name="Vibe Urdu Series 11 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 11 FHD
+http://mxonlive.xyz/live/xap/441545.m3u8?e=1781986593&token=b3438bdeb6e9763fcef7eb5f2892c29cc518b69d9d98a6e6e1b1955b72dfdac0
+#EXTINF:-1 tvg-name="Vibe Urdu Series 12 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 12 FHD
+http://mxonlive.xyz/live/xap/441546.m3u8?e=1781986593&token=c679fd558e59625b66fa4181f291dfaba1a2c510c21ebe08fb0aae0ce15afaf5
+#EXTINF:-1 tvg-name="Vibe Urdu Series 13 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 13 FHD
+http://mxonlive.xyz/live/xap/441547.m3u8?e=1781986593&token=b576e37639e74d494136927d4f2622e50bee29ff5c58079542545afa53e4b52d
+#EXTINF:-1 tvg-name="Vibe Urdu Series 14 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 14 FHD
+http://mxonlive.xyz/live/xap/441548.m3u8?e=1781986593&token=58f750ed2c4e32bfb9bb1ab2487712efbadfe1ad9dba555c4f38ddf3d698667c
+#EXTINF:-1 tvg-name="Vibe Urdu Series 15 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 15 FHD
+http://mxonlive.xyz/live/xap/441549.m3u8?e=1781986593&token=b17ce8a595d97dca7ffbaf7ee2fb42d4ea0ac64aa09ccf55430b9fc77cefec54
+#EXTINF:-1 tvg-name="Vibe Urdu Series 2 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 2 FHD
+http://mxonlive.xyz/live/xap/441536.m3u8?e=1781986593&token=a42e56828f2399c45f2252098a8193f954813e1a4e70cbca0f915e67d160f3f8
+#EXTINF:-1 tvg-name="Vibe Urdu Series 3 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 3 FHD
+http://mxonlive.xyz/live/xap/441537.m3u8?e=1781986593&token=267ef22c4aa9eb6ec53f21be80b916a52bd41c088a12688a4710489c0a8e0705
+#EXTINF:-1 tvg-name="Vibe Urdu Series 4 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 4 FHD
+http://mxonlive.xyz/live/xap/441538.m3u8?e=1781986593&token=cded39599a7992d337ad0bbc86d40bca926c417ed2e7b52254586685def52d66
+#EXTINF:-1 tvg-name="Vibe Urdu Series 5 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 5 FHD
+http://mxonlive.xyz/live/xap/441539.m3u8?e=1781986593&token=722fc49cd987af18ee1f61dfe41c773559ec70f479ec1f26867afa449e5b39ec
+#EXTINF:-1 tvg-name="Vibe Urdu Series 6 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 6 FHD
+http://mxonlive.xyz/live/xap/441540.m3u8?e=1781986593&token=d028b9b21efe22f9659fbd57330c3a22080562898bd74617e3271c830e526916
+#EXTINF:-1 tvg-name="Vibe Urdu Series 7 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 7 FHD
+http://mxonlive.xyz/live/xap/441541.m3u8?e=1781986593&token=835a1a95018ec08feb452ce82a2a6c3e7e43c97e271d24443c53a540dc63d2f7
+#EXTINF:-1 tvg-name="Vibe Urdu Series 8 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 8 FHD
+http://mxonlive.xyz/live/xap/441542.m3u8?e=1781986593&token=bcd505b51acc091a1fc9103f45f321aaed99171e6008977b368a9bbee9b157af
+#EXTINF:-1 tvg-name="Vibe Urdu Series 9 FHD" tvg-logo="https://xc.slweb.tv/logos/Vibe.png" group-title="🇵🇰 Pakistan",Vibe Urdu Series 9 FHD
+http://mxonlive.xyz/live/xap/441543.m3u8?e=1781986593&token=6eed7a8c2d58a8053b954e42054b6baae9c6b31b5c1ea1bd3f076bd4f008e643
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇵🇰 Pakistan",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/25974.m3u8?e=1781986593&token=4cfdaf3ed9adef9994dbd13da1aae1ef135ea2ab7f6e938f07e8131a0f665af0

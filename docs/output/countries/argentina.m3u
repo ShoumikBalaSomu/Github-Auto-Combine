@@ -17,8 +17,6 @@ http://mxonlive.xyz/live/xap/348160.m3u8?e=1781986593&token=ffd91cd38a1922145a92
 http://mxonlive.xyz/live/xap/350743.m3u8?e=1781986593&token=31ecd51659490451f58f58586ffc5c2728fefad3c8e1c22ef7643757e23f2495
 #EXTINF:-1 tvg-name="SUR: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f5dd194858c5ccc641fa47654b4c323f.png" group-title="🇦🇷 Argentina",SUR: Telefe
 http://mxonlive.xyz/live/xap/354339.m3u8?e=1781986593&token=2a4abc9bf0e7e228f1d4a62bbe9741466ba8449678860678158fe5856f41dc38
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="🇦🇷 Argentina",TELEFE
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/TELEFEHD/default.mpd
 #EXTINF:-1 tvg-name="TN: Al Insen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/37f77021f465397ac107441c12798451.png" group-title="🇦🇷 Argentina",TN: Al Insen TV
 http://mxonlive.xyz/live/xap/354594.m3u8?e=1781986593&token=9b8c0250371cbd3d629e657d9d3b919f4a1ee61a1bc27ae83f5602c023a5523f
 #EXTINF:-1 tvg-name="TN: AL Janoubia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/dfe762d1862deafd829657f7a02b6f2e.png" group-title="🇦🇷 Argentina",TN: AL Janoubia TV

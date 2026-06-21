@@ -1,7 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="🇲🇾 Malaysia" EXTVLCOPT="http-origin=https://executeandship.com",Astro Cricket
-https://cdn4.zohanayaan.com:1686/hls/fox501.m3u8?md5=pPDqph2TYjEJelbx2uKHRg&expires=1782003616
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="Astro Sports UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="🇲🇾 Malaysia - Sports",Astro Sports UHD
-https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png group-title=" group-title="🇲🇾 Malaysia - Sports",MY: Astro Sports UHD
-https://a1xs.vip/9000001
+#EXTINF:-1 tvg-name="CZ: RTM plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d1a7307955f235caf11a6a3b4c141c43.png" group-title="🇲🇾 Malaysia",CZ: RTM plus
+http://mxonlive.xyz/live/xap/349504.m3u8?e=1781986593&token=c2d70ef9733e615720e7f067b6a5d3e8b7df5245f681c49663fac76aace11441
+#EXTINF:-1 tvg-name="HK: NOW Astro Cricket HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_110_80" group-title="🇲🇾 Malaysia",HK: NOW Astro Cricket HD
+http://mxonlive.xyz/live/xap/381414.m3u8?e=1781986593&token=2576742c15019b322fdbf54b7511339cd419fe9703696ea3fd36cf1e848abe4e
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="🇲🇾 Malaysia",IN | Astro Cricket HD
+http://mxonlive.xyz/live/xap/167581.m3u8?e=1781986593&token=b70f3b37fdc3b8d95cb216d4e7e442936c4d28158945990c2611e7c515d3986f
+#EXTINF:-1 tvg-name="My: ADITHYA" tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="🇲🇾 Malaysia",My: ADITHYA
+http://mxonlive.xyz/live/xap/388816.m3u8?e=1781986593&token=cc82d9de4811eff820a7849c2e26921c65753a8f59fa34db42cc27d4e5b5a9b5
+#EXTINF:-1 tvg-name="My: AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="🇲🇾 Malaysia",My: AFN HD
+http://mxonlive.xyz/live/xap/388785.m3u8?e=1781986593&token=e4f17f894f971a1b5bea9c55a300b8f253f3d23d18ffca3df3fd38c9f895c86e
+#EXTINF:-1 tvg-name="MY: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="🇲🇾 Malaysia - Kids",MY: Animax
+http://mxonlive.xyz/live/xap/352080.m3u8?e=1781986593&token=4e37878f477d7353ca768f73cfe35d325f4fc6b1de2b046ea5c68422dd692284
+#EXTINF:-1 tvg-name="My: Astro AEC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Astro_AEC_HD.png/400px-Astro_AEC_HD.png" group-title="🇲🇾 Malaysia",My: Astro AEC HD
+http://mxonlive.xyz/live/xap/388723.m3u8?e=1781986593&token=a1bcd85d100597218a15a86bccfeb3e7168ef461404f027ee618f689d6786306
+#EXTINF:-1 tvg-name="My: Astro AOD 311" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="🇲🇾 Malaysia",My: Astro AOD 311
+http://mxonlive.xyz/live/xap/388742.m3u8?e=1781986593&token=e24ebb4c57c91ae588c949015f2f28441f2be1f3e5d9366e5d59174917a8d413
+#EXTINF:-1 tvg-name="My: Astro AOD 352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="🇲🇾 Malaysia",My: Astro AOD 352
+http://mxonlive.xyz/live/xap/388743.m3u8?e=1781986593&token=34f5054f023538bc3bef16e9ff04d51d590a951fe79db16748533952ca28429b
+#EXTINF:-1 tvg-name="My: Astro AOD 353" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="🇲🇾 Malaysia",My: Astro AOD 353
+http://mxonlive.xyz/live/xap/388744.m3u8?e=1781986593&token=3ee13201e864fcf981e53879d0977d503b3f8488667b1458e6519326b31ef68c
+#EXTINF:-1 tvg-name="My: Astro AOD 354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="🇲🇾 Malaysia",My: Astro AOD 354
+http://mxonlive.xyz/live/xap/388745.m3u8?e=1781986593&token=f5dc758248189f70a07cdae9f64472999c0cbe551c41e591bea7379327924a94
+#EXTINF:-1 tvg-name="My: Astro Arena 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="🇲🇾 Malaysia",My: Astro Arena 2 HD
+http://mxonlive.xyz/live/xap/388708.m3u8?e=1781986593&token=30d56cab9d1a5817e303bb4b8315eabb8d34648a9d01d18835e53674ae297d27
+#EXTINF:-1 tvg-name="MY: Astro Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="🇲🇾 Malaysia",MY: Astro Arena HD
+http://mxonlive.xyz/live/xap/388707.m3u8?e=1781986593&token=644d4c7e6a7cf540d399b2a2f62051d329793072557b176be6ea09d6061d3f26
+#EXTINF:-1 tvg-name="My: Astro Aura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="🇲🇾 Malaysia",My: Astro Aura HD
+http://mxonlive.xyz/live/xap/388737.m3u8?e=1781986593&token=7effe763a787628cf41296553ae18d8ec8471f46ec5ff72ae1b9b05ceba7f9d4
+#EXTINF:-1 tvg-name="My: Astro Awani" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest/scale-to-width-down/340?cb=20200520200333" group-title="🇲🇾 Malaysia",My: Astro Awani
+http://mxonlive.xyz/live/xap/388732.m3u8?e=1781986593&token=f8abeb48fddbbc4421b4693ad1f0d86818b64ab7898415480426571a5357a432
+#EXTINF:-1 tvg-name="My: Astro Bollyone HD" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png" group-title="🇲🇾 Malaysia",My: Astro Bollyone HD
+http://mxonlive.xyz/live/xap/388738.m3u8?e=1781986593&token=9a17dd20f76e213900cb0d9a8204a44fd17c6b7220fe472ba3f4bc8a5aa7e07a
+#EXTINF:-1 tvg-name="My: Astro Boo HD" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png" group-title="🇲🇾 Malaysia",My: Astro Boo HD
+http://mxonlive.xyz/live/xap/388747.m3u8?e=1781986593&token=8a613b87ca7fbd99435d5daf1227a6f0f236c236350b57696b801ee6c8ee2488
+#EXTINF:-1 tvg-name="My: Astro Celestial HD" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/astro-celestialmovies-hd-ch309_orig.png" group-title="🇲🇾 Malaysia",My: Astro Celestial HD
+http://mxonlive.xyz/live/xap/388740.m3u8?e=1781986593&token=2896d6d8a254d98d15c0d073ae160fd4daac99b9a21b6eecf147f0d08560b617
+#EXTINF:-1 tvg-name="My: Astro Ceria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LogoAstroCeriaHD.png/220px-LogoAstroCeriaHD.png" group-title="🇲🇾 Malaysia",My: Astro Ceria HD
+http://mxonlive.xyz/live/xap/388726.m3u8?e=1781986593&token=7758167002ef2015d275f908e40ac7539b1508719d7e78313143bca4ae7caf5d
+#EXTINF:-1 tvg-name="My: Astro Citra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="🇲🇾 Malaysia",My: Astro Citra HD
+http://mxonlive.xyz/live/xap/388746.m3u8?e=1781986593&token=bf4e8365175a9e28d2e79dca973e6491923bd0d6702e6f1f7105cf9feab07b1f
+#EXTINF:-1 tvg-name="My: Astro Cricket HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/824.png" group-title="🇲🇾 Malaysia",My: Astro Cricket HD
+http://mxonlive.xyz/live/xap/388706.m3u8?e=1781986593&token=f92ab6e4cb2ae7e87c1cba9fed75c1d452b6f0c85c474b5572487cc9444c9465
+#EXTINF:-1 tvg-name="My: Astro CTI ASIA" tvg-logo="https://tvkuindodotnet.files.wordpress.com/2018/11/channel-cti-asia-hd-3.png" group-title="🇲🇾 Malaysia",My: Astro CTI ASIA
+http://mxonlive.xyz/live/xap/388735.m3u8?e=1781986593&token=355307823d46302196c5ddc3c7bb88d95a5f6deb3a97bf6083ca97222b9adfa8
+#EXTINF:-1 tvg-name="My: Astro Events 1" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🇲🇾 Malaysia",My: Astro Events 1
+http://mxonlive.xyz/live/xap/388715.m3u8?e=1781986593&token=83df4501bbe7783fd239a63dca3621021f1247ed82f5befbd35fedfddc0b91f5
+#EXTINF:-1 tvg-name="My: Astro Events 2" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🇲🇾 Malaysia",My: Astro Events 2
+http://mxonlive.xyz/live/xap/388716.m3u8?e=1781986593&token=1248ac0ec4b459dc03910214071d47497a478634963f82b66c9f6762da8bdc7a
+#EXTINF:-1 tvg-name="My: Astro Events 3" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🇲🇾 Malaysia",My: Astro Events 3
+http://mxonlive.xyz/live/xap/388717.m3u8?e=1781986593&token=5f2768764276c95c74c7c2258ac4e04ab641a05d3a5e40e744e2ce57dafa6c44
+#EXTINF:-1 tvg-name="My: Astro Events 4" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🇲🇾 Malaysia",My: Astro Events 4
+http://mxonlive.xyz/live/xap/388718.m3u8?e=1781986593&token=4e23507acbeda1074ed801be40042eadc5cc8894dcb23c05da84142347ca0677
+#EXTINF:-1 tvg-name="My: Astro Go Shop HD" tvg-logo="https://images.unicartapp.com/image/alfioraldo/image/data/FKITjgc71570100559.png" group-title="🇲🇾 Malaysia",My: Astro Go Shop HD
+http://mxonlive.xyz/live/xap/388741.m3u8?e=1781986593&token=44b6ea5f6d0ffa195758aa8eb28523534216df888f4e714ef2b45b3ebd7248df
+#EXTINF:-1 tvg-name="My: Astro Hello" tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo.jpg" group-title="🇲🇾 Malaysia",My: Astro Hello
+http://mxonlive.xyz/live/xap/388727.m3u8?e=1781986593&token=b2ab99885d21277a842dedcf47585acef14a72db3c7064d3e57a41a967dc039b
+#EXTINF:-1 tvg-name="My: Astro HUA HEE DAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png" group-title="🇲🇾 Malaysia",My: Astro HUA HEE DAI HD
+http://mxonlive.xyz/live/xap/388736.m3u8?e=1781986593&token=5a2780dd1de540cb3c035fadbcdade7274c7c42fa8b956a414ec8b3f7f2803f8
+#EXTINF:-1 tvg-name="My: Astro Huan Xi Tai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="🇲🇾 Malaysia",My: Astro Huan Xi Tai HD
+http://mxonlive.xyz/live/xap/388730.m3u8?e=1781986593&token=55dce06496ceb099cd85e7feb0e1c8b11cb6885efcc4ff6906d7e05cf5492146
+#EXTINF:-1 tvg-name="My: Astro iQIYI HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ABWNB-YML.png" group-title="🇲🇾 Malaysia",My: Astro iQIYI HD
+http://mxonlive.xyz/live/xap/388720.m3u8?e=1781986593&token=49bfaa0d793c31edf7a32b439769ff8b520b31adac9682c20f80d618bbfffe76
+#EXTINF:-1 tvg-name="My: Astro KPLUS HD" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="🇲🇾 Malaysia",My: Astro KPLUS HD
+http://mxonlive.xyz/live/xap/388734.m3u8?e=1781986593&token=9dfaafb67c2c00a47e998a2423fba366324cd95aa9ab72461a2b27718be3841a
+#EXTINF:-1 tvg-name="My: Astro OASIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_oasis.png" group-title="🇲🇾 Malaysia",My: Astro OASIS HD
+http://mxonlive.xyz/live/xap/388724.m3u8?e=1781986593&token=38c4bbf627a80d5f72e75b757947a30fa0297e3f826e072bf38532c01e9dcb67
+#EXTINF:-1 tvg-name="My: Astro Premier HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png" group-title="🇲🇾 Malaysia",My: Astro Premier HD
+http://mxonlive.xyz/live/xap/388733.m3u8?e=1781986593&token=54638051b2a46a9b10482e4e2e67f665ce5235f778a6307d7f8dc4b87cbd358b
+#EXTINF:-1 tvg-name="MY: Astro Prima" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="🇲🇾 Malaysia",MY: Astro Prima
+http://mxonlive.xyz/live/xap/352085.m3u8?e=1781986593&token=27b889720d6c30a6bea86bbc08a6474537d3f13f3b14d457234a55138ae9be94
+#EXTINF:-1 tvg-name="My: Astro Quan Jia HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="🇲🇾 Malaysia",My: Astro Quan Jia HD
+http://mxonlive.xyz/live/xap/388725.m3u8?e=1781986593&token=54df315b8e836435419d55a6cb4f9501d40b64ecb637ab0180789430e8fa4f40
+#EXTINF:-1 tvg-name="My: Astro Rania HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="🇲🇾 Malaysia",My: Astro Rania HD
+http://mxonlive.xyz/live/xap/388739.m3u8?e=1781986593&token=9e1e239906f86db100475886af103965242675a084d1047ae75cfb555a775093
+#EXTINF:-1 tvg-name="My: Astro Ria HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-ria-logo-png.png" group-title="🇲🇾 Malaysia",My: Astro Ria HD
+http://mxonlive.xyz/live/xap/388719.m3u8?e=1781986593&token=978bed0c90bcd136982a7786443ee83fe921ae9ac309b3279c680b3a35a66972
+#EXTINF:-1 tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="🇲🇾 Malaysia - Sports",MY: Astro SuperSport
+http://mxonlive.xyz/live/xap/352087.m3u8?e=1781986593&token=de7db4b2884ff44db092a64c6797eccc3e173238d0ec68aa74fc57e109c6a545
+#EXTINF:-1 tvg-name="My: Astro SuperSport 1 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="🇲🇾 Malaysia - Sports",My: Astro SuperSport 1 HD
+http://mxonlive.xyz/live/xap/388697.m3u8?e=1781986593&token=b3c390111852afbaaa95aba5b1d009b94b01e4838ce197b595a54033b6ffb919
+#EXTINF:-1 tvg-name="My: Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="🇲🇾 Malaysia - Sports",My: Astro SuperSport 2 HD
+http://mxonlive.xyz/live/xap/388698.m3u8?e=1781986593&token=87f6de6d8aa08bf10b87e42ace5b5718729744c9a9898672026dfceecab67759
+#EXTINF:-1 tvg-name="My: Astro SuperSport 3 HD" tvg-logo="https://www.openbinacle.com/openbinacle/tv/astro-supersport-3/image/astrosupersport3.jpg" group-title="🇲🇾 Malaysia - Sports",My: Astro SuperSport 3 HD
+http://mxonlive.xyz/live/xap/388699.m3u8?e=1781986593&token=c2f250b2336e79d386d2f73f8a558dfe93540f202d698a15a62a29a545428585
+#EXTINF:-1 tvg-name="My: Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="🇲🇾 Malaysia - Sports",My: Astro SuperSport 4 HD
+http://mxonlive.xyz/live/xap/388700.m3u8?e=1781986593&token=021a1a6637c298e255c0cf0db25b39a2017911c599718d91241edde8582b35ca
+#EXTINF:-1 tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="🇲🇾 Malaysia - Sports",MY: Astro SuperSport 5
+http://mxonlive.xyz/live/xap/352091.m3u8?e=1781986593&token=685341c1b241acbdf98923fbe0ea865de486b256a82cd2359830f7d6889ee684
+#EXTINF:-1 tvg-name="My: Astro SuperSport Plus HD" tvg-logo="https://e7.pngegg.com/pngimages/692/840/png-clipart-astro-supersport-television-logo-astro-malaysia-holdings-alfalfa-miscellaneous-purple.png" group-title="🇲🇾 Malaysia - Sports",My: Astro SuperSport Plus HD
+http://mxonlive.xyz/live/xap/388701.m3u8?e=1781986593&token=f04a8588de85bfbfa08bd4e6a0924eb06a700f8c50bf701abe5930d09e6ce47d
+#EXTINF:-1 tvg-name="My: Astro Tutor TV" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_tutor_tv_spm.png" group-title="🇲🇾 Malaysia",My: Astro Tutor TV
+http://mxonlive.xyz/live/xap/388731.m3u8?e=1781986593&token=a1f675f6a223287252054d9b2a74c10c288037c521c8d40d25424d306a64541d
+#EXTINF:-1 tvg-name="My: Astro Vaanavil HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_vaanavil.png" group-title="🇲🇾 Malaysia",My: Astro Vaanavil HD
+http://mxonlive.xyz/live/xap/388722.m3u8?e=1781986593&token=1819779676a95f84b115cc6e2a6a9f69ea8f6ea523f23bec6eed87b617cf904e
+#EXTINF:-1 tvg-name="My: Astro Vinmeen HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_vinmeen_hd_my.png" group-title="🇲🇾 Malaysia",My: Astro Vinmeen HD
+http://mxonlive.xyz/live/xap/388721.m3u8?e=1781986593&token=3183d78e30aa4e3855563d1a2429479e9134ac4982c12ad426442d5a8284031c
+#EXTINF:-1 tvg-name="My: Astro Warna HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809" group-title="🇲🇾 Malaysia",My: Astro Warna HD
+http://mxonlive.xyz/live/xap/388713.m3u8?e=1781986593&token=f0ae598218085e0ff7bf27d2cef6a7731aa0a5a167b47f793d5f8e1bfffc6b21
+#EXTINF:-1 tvg-name="My: Astro Xiao Tai Yang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png" group-title="🇲🇾 Malaysia",My: Astro Xiao Tai Yang HD
+http://mxonlive.xyz/live/xap/388729.m3u8?e=1781986593&token=05060ab6ef192592f451981f2c4d1b3097ca945147a7ffe4f31a346e3c03e4f4
+#EXTINF:-1 tvg-name="My: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="🇲🇾 Malaysia",My: AXN HD
+http://mxonlive.xyz/live/xap/388749.m3u8?e=1781986593&token=11bcc0040d2e83bad2d4fd795ab5ad7c593abd18fc7b2825bb9f20be3749cc6b
+#EXTINF:-1 tvg-name="My: BBC Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="🇲🇾 Malaysia",My: BBC Lifestyle
+http://mxonlive.xyz/live/xap/388757.m3u8?e=1781986593&token=3481ac386f899ab77f7e5988c12f999c85d62b39da315265d2f8be669248514c
+#EXTINF:-1 tvg-name="My: Bernama" tvg-logo="https://www.bernama.com/bm/img/bernama.png" group-title="🇲🇾 Malaysia",My: Bernama
+http://mxonlive.xyz/live/xap/388795.m3u8?e=1781986593&token=4534f28f7b5d627fb02cfc2e0e94a1fe62f3286e9d2777ed79133137fdde701d
+#EXTINF:-1 tvg-name="My: CCM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🇲🇾 Malaysia",My: CCM
+http://mxonlive.xyz/live/xap/388772.m3u8?e=1781986593&token=0a8ccc8773ed90e0ab686524c55edfd19c8430254aae08e11d4450ebbc72b2d4
+#EXTINF:-1 tvg-name="MY: Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="🇲🇾 Malaysia - Movies",MY: Celestial Movies
+http://mxonlive.xyz/live/xap/352099.m3u8?e=1781986593&token=60a17085af07b31048c7b594390b75e8c09c425f537ba08a10dc3d88593d5a65
+#EXTINF:-1 tvg-name="My: Chutti TV" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_968/chutti-Small-card-864X640.jpg" group-title="🇲🇾 Malaysia",My: Chutti TV
+http://mxonlive.xyz/live/xap/388776.m3u8?e=1781986593&token=d869c32079f33d139c0fe6cf3337db1d99b8e69ac0ccbfca556cbcde2174d971
+#EXTINF:-1 tvg-name="My: CNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="🇲🇾 Malaysia",My: CNA HD
+http://mxonlive.xyz/live/xap/388774.m3u8?e=1781986593&token=c53b00f1e7218029caa48e2f21710c273f034a64d34898974bff3c855e2a1c6a
+#EXTINF:-1 tvg-name="MY: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="🇲🇾 Malaysia",MY: Crime+ Investigation
+http://mxonlive.xyz/live/xap/352100.m3u8?e=1781986593&token=e7fdc327d0514f458106bb69fa587220cd3a7a02ad65bacfac574761bdb4d818
+#EXTINF:-1 tvg-name="My: DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="🇲🇾 Malaysia",My: DW HD
+http://mxonlive.xyz/live/xap/388789.m3u8?e=1781986593&token=27d3b7bfc53c7f99cdc73d3372b76bdd1fa41c5ab2a299129ac8de4a93b66f44
+#EXTINF:-1 tvg-id="MyHits.ee" tvg-name="My: Hits HD" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="🇲🇾 Malaysia",My: Hits HD
+http://mxonlive.xyz/live/xap/388763.m3u8?e=1781986593&token=04e4421fcd0a5dda5fe9e7a30d7b2458bc7f4fab1deb4ebec6f0724598ff0c08
+#EXTINF:-1 tvg-name="My: Hits Movies HD" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="🇲🇾 Malaysia - Movies",My: Hits Movies HD
+http://mxonlive.xyz/live/xap/388752.m3u8?e=1781986593&token=8a069d2422b3a6cbcedf7e2f2230e70231b6b6cefb29907f8eeda172dd2ab61c
+#EXTINF:-1 tvg-name="My: KBSW HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="🇲🇾 Malaysia",My: KBSW HD
+http://mxonlive.xyz/live/xap/388780.m3u8?e=1781986593&token=dd506f911afe86b4d2bd271aa6f6b29eac561f90420710d3f37a0d124d3f8cb4
+#EXTINF:-1 tvg-name="My: kix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="🇲🇾 Malaysia",My: kix HD
+http://mxonlive.xyz/live/xap/388786.m3u8?e=1781986593&token=93598cafb4e2f421407733f2fcaf1804268834bea0e34bb29810292384b9d75b
+#EXTINF:-1 tvg-name="MY: Local Now Family Flix" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🇲🇾 Malaysia",MY: Local Now Family Flix
+http://mxonlive.xyz/live/xap/352107.m3u8?e=1781986593&token=193a285104e56b22455ff45fca98c720d8047108b200b2adf969d4f69432f166
+#EXTINF:-1 tvg-name="My: Naura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" group-title="🇲🇾 Malaysia",My: Naura
+http://mxonlive.xyz/live/xap/388796.m3u8?e=1781986593&token=16cc175e2779232ac923f8b0d0fc6b1a05ea57a9b28bd70774509101466d1cf8
+#EXTINF:-1 tvg-name="My: Okey HD" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="🇲🇾 Malaysia",My: Okey HD
+http://mxonlive.xyz/live/xap/388781.m3u8?e=1781986593&token=eb6faecc1539deaf9f9698d3becab48e9508fbaf94f86be1a662d49977859aff
+#EXTINF:-1 tvg-name="My: Prima HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="🇲🇾 Malaysia",My: Prima HD
+http://mxonlive.xyz/live/xap/388777.m3u8?e=1781986593&token=a48116b0af2115c1749631fae88aabc0c6e4fa7c754c3a33540d6d427ab20ca7
+#EXTINF:-1 tvg-name="My: Primetime HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="🇲🇾 Malaysia",My: Primetime HD
+http://mxonlive.xyz/live/xap/388748.m3u8?e=1781986593&token=13dc7040214553f5ae93863a40de4c6cdf4b4c8f28456bb3beada2bffa6ebcff
+#EXTINF:-1 tvg-name="MY: RTM TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="🇲🇾 Malaysia",MY: RTM TV 1
+http://mxonlive.xyz/live/xap/352110.m3u8?e=1781986593&token=19cf7fd26c7787a99ff3d75225be962dd2e5c86e6616aa6fd059280d569a9300
+#EXTINF:-1 tvg-name="MY: RTM TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="🇲🇾 Malaysia",MY: RTM TV 2
+http://mxonlive.xyz/live/xap/352111.m3u8?e=1781986593&token=2f7f402c27614e71be77cd29c2b8e5ac97e19d5c533ab2d66f3f8e5246a5bb43
+#EXTINF:-1 tvg-name="My: Shuang Xing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg" group-title="🇲🇾 Malaysia",My: Shuang Xing HD
+http://mxonlive.xyz/live/xap/388791.m3u8?e=1781986593&token=e0cc76ff0a5613b0ad4f88db32ee81652113c2845cd1536583eb59fbc4cab16c
+#EXTINF:-1 tvg-name="My: SPOTV 2" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="🇲🇾 Malaysia",My: SPOTV 2
+http://mxonlive.xyz/live/xap/388703.m3u8?e=1781986593&token=9aa9015b95665de76cbdb75bb9541117713cf1966ab284042a937b1174ac5c24
+#EXTINF:-1 tvg-name="My: SPOTV HD" tvg-logo="https://www.kyungmin.ac.kr/DATA/board/640/16002360975161AA2TZ.jpg" group-title="🇲🇾 Malaysia",My: SPOTV HD
+http://mxonlive.xyz/live/xap/388702.m3u8?e=1781986593&token=ef96da4743de0b015bd3802f09819b773a76b0762c959f03b7496e8ee1cb0ef3
+#EXTINF:-1 tvg-name="My: TA-DAA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/TA-DAA.png" group-title="🇲🇾 Malaysia",My: TA-DAA
+http://mxonlive.xyz/live/xap/388798.m3u8?e=1781986593&token=c7501d4f5139245440e94fc71f5635f2158042ff083d2d7bef6cd4317d89d74f
+#EXTINF:-1 tvg-name="My: Tutor TV PT3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/602_300.png" group-title="🇲🇾 Malaysia",My: Tutor TV PT3
+http://mxonlive.xyz/live/xap/388784.m3u8?e=1781986593&token=29cbe28180f285a21b2160e5c1809dcee8284415774069118e457a9cc4977123
+#EXTINF:-1 tvg-name="MY: TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="🇲🇾 Malaysia",MY: TV 3
+http://mxonlive.xyz/live/xap/352112.m3u8?e=1781986593&token=e5a699a91007179c37aa6565569074a18339dae4fcceb53256db6b153973e94e
+#EXTINF:-1 tvg-name="MY: TV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="🇲🇾 Malaysia",MY: TV 9
+http://mxonlive.xyz/live/xap/352113.m3u8?e=1781986593&token=d504ff82fb6df31f6abf74167acd1459047314c331e6da6894f2ae6d08514aa1
+#EXTINF:-1 tvg-name="My: TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="🇲🇾 Malaysia",My: TV Alhijrah
+http://mxonlive.xyz/live/xap/388771.m3u8?e=1781986593&token=e6fe116b44fcadfe9d8be1e9f0dc0f76cdc8fa6b10c45cc2a3131db39e37b7da
+#EXTINF:-1 tvg-name="My: TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="🇲🇾 Malaysia",My: TV1
+http://mxonlive.xyz/live/xap/388812.m3u8?e=1781986593&token=4ac570c883e811e75cee2e1220a8cc190aa2cc40e0371dc8aa730f2512191af9
+#EXTINF:-1 tvg-name="My: TV2" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotv2.jpg" group-title="🇲🇾 Malaysia",My: TV2
+http://mxonlive.xyz/live/xap/388813.m3u8?e=1781986593&token=f8141c098fd42620215614c5d5a415352e9679dbe17cc64ead82c75d884015dd
+#EXTINF:-1 tvg-name="My: TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/150px-NewlogoTV9_%28Malaysia%29.png" group-title="🇲🇾 Malaysia",My: TV9
+http://mxonlive.xyz/live/xap/388782.m3u8?e=1781986593&token=5ceb566b00502e88c0d138a7f828ea405f97b5e78f7ae80b809e9dc96133426f
+#EXTINF:-1 tvg-name="My: TVB Classic" tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/e/e2/TVB_Logo_%28Hong_Kong%29.png" group-title="🇲🇾 Malaysia",My: TVB Classic
+http://mxonlive.xyz/live/xap/388788.m3u8?e=1781986593&token=144a188db9eeaf0558c9d2b35dbded0cf8ff0277704b6cf4afe0cf4da73932cc
+#EXTINF:-1 tvg-name="My: TVB E-News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" group-title="🇲🇾 Malaysia - News",My: TVB E-News
+http://mxonlive.xyz/live/xap/388807.m3u8?e=1781986593&token=c07097d6fdfa2a949b15caa3aff5ecfe5765616041b56cedc87df27376ed8ff0
+#EXTINF:-1 tvg-name="My: TVB Xing HE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="🇲🇾 Malaysia",My: TVB Xing HE HD
+http://mxonlive.xyz/live/xap/388792.m3u8?e=1781986593&token=4511ba62f0aa89f2e6903951f30ccc765dec43b7aa94e4e17907edc13fe6026f
+#EXTINF:-1 tvg-name="My: TVBS Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png" group-title="🇲🇾 Malaysia",My: TVBS Asia HD
+http://mxonlive.xyz/live/xap/388794.m3u8?e=1781986593&token=ee1db4528579d4e918dc914860edfab425b0e381e23897402eae9e2c9e2579b5
+#EXTINF:-1 tvg-name="My: Unifi Sport 1 HD" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/b/5ab5b54de4ce700793d6f2e5cb3ba8f3_icon.png" group-title="🇲🇾 Malaysia - Sports",My: Unifi Sport 1 HD
+http://mxonlive.xyz/live/xap/388704.m3u8?e=1781986593&token=404588b532c1a81b7f61809141b88a659d51023ff377502ff8ba58ef364c4e88
+#EXTINF:-1 tvg-name="My: Unifi Sport 2 HD" tvg-logo="https://cdn6.aptoide.com/imgs/5/a/b/5ab5b54de4ce700793d6f2e5cb3ba8f3_icon.png" group-title="🇲🇾 Malaysia - Sports",My: Unifi Sport 2 HD
+http://mxonlive.xyz/live/xap/388705.m3u8?e=1781986593&token=918eca60da1ca237980724eb55b52fdafa7597d549dc992a4b072ec0a8037c22
+#EXTINF:-1 tvg-name="My: Warner TV HD" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/WB-Channel.png" group-title="🇲🇾 Malaysia",My: Warner TV HD
+http://mxonlive.xyz/live/xap/388758.m3u8?e=1781986593&token=d9047af1268be42436ea85d6083dd37d25009a522bf982090ec9072dc0087e77
+#EXTINF:-1 tvg-name="My: WLT JADE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/da/TVBJ_Sat.png/220px-TVBJ_Sat.png" group-title="🇲🇾 Malaysia",My: WLT JADE
+http://mxonlive.xyz/live/xap/388793.m3u8?e=1781986593&token=7eda3894eed05cf801c6cc853ba1098d7e5ff431404ec3a33d663962e0aaba59
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇲🇾 Malaysia",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/352079.m3u8?e=1781986593&token=daf0b47b863cbb4138b8608def2487dd70511f8d45d4a5c3d5e9be463b6e63fa

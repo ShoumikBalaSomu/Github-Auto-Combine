@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CL: VTV Valle de Aconcagua" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dee5608bf0ce360a62de5b7daa4305f.png" group-title="🇻🇪 Venezuela",CL: VTV Valle de Aconcagua
 http://mxonlive.xyz/live/xap/349116.m3u8?e=1781986593&token=7d91c9e6d3cf10b228b1b31beac99b113bef9a0843ebe463d59093b9eefb94b5
-#EXTINF:-1 group-title="🇻🇪 Venezuela - News" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Cookie=hdntl=exp=1779527844~acl=%2fbpk-tv%2firdeto_com_Channel_821%2foutput%2f*~id=9441230843~data=hdntl~hmac=66b49778a0c278de97704313cf11464114df500a0bd392da606c4614a263665b" EXTVLCOPT="http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11912-j9l58n8w-v2/imageContent-11912-j9l58n8w-m4.png" group-title="TPlay 3 (IND IP)",VTV News
-https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd
 #EXTINF:-1 tvg-name="HN: VTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3bc2b020f72a08fa84094a024efce3aa.png" group-title="🇻🇪 Venezuela",HN: VTV
 http://mxonlive.xyz/live/xap/350769.m3u8?e=1781986593&token=fdbd4a2359d3207e5ad460dc9a98d390d43e138fdc36fbe69e983b20e5cd5a3c
 #EXTINF:-1 tvg-name="IN-GUJ | VTV NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/VTV-News.png" group-title="🇻🇪 Venezuela - News",IN-GUJ | VTV NEWS
@@ -27,7 +25,3 @@ http://mxonlive.xyz/live/xap/355177.m3u8?e=1781986593&token=ab9e7942f90bb856b8eb
 http://mxonlive.xyz/live/xap/355178.m3u8?e=1781986593&token=ed8a4299310af62d4ebe85667b2d07dd4907cfb5e092d7b7fdafccd74f4d7b28
 #EXTINF:-1 tvg-name="VN: VTV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0ffd98187ea351db7fa5fde48f647f21.png" group-title="🇻🇪 Venezuela",VN: VTV 9
 http://mxonlive.xyz/live/xap/355179.m3u8?e=1781986593&token=11480f8da8640ed724afde2c8ff0c91bc0dcaf09484cff6e734334e66fa007f0
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="🇻🇪 Venezuela",VTV Gujarati
-https://alex4528.site/jplus/oiOL1o1ilOOLoiI1lOio/manifest.mpd
-#EXTINF:-1 tvg-id="497" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg" group-title="🇻🇪 Venezuela - News",VTV News
-https://sflex07.fun/Sflex-Artl/497.m3u8

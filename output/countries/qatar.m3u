@@ -1,23 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="🇶🇦 Qatar - News",Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera2.qa@HD" tvg-logo="https://i.imgur.com/miq8O1Q.png" group-title="🇶🇦 Qatar - News",Al Jazeera 2 (1080p)
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="🇶🇦 Qatar - News",Al Jazeera Documentary (1080p) [Geo-blocked]
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/news/aljazeeraeng.jpg?raw=true" group-title="🇶🇦 Qatar - News",Al Jazeera English
-https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="🇶🇦 Qatar - News",Al Jazeera Mubasher (1080p)
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa@SD" tvg-logo="https://i.imgur.com/LMCcIZ2.png" group-title="🇶🇦 Qatar - News",Al Jazeera Mubasher 24 (1080p)
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa@SD" tvg-logo="https://i.imgur.com/nJmi6G6.png" group-title="🇶🇦 Qatar - News",Al Jazeera Mubasher Broadcast 2 (1080p)
-https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="🇶🇦 Qatar - News",AlJazeera
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="🇶🇦 Qatar - News",Aljazeera HD Backup 🛜v
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beINSports2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="🇶🇦 Qatar",beINSports2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beINSports3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="🇶🇦 Qatar",beINSports3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTINF:-1 tvg-name="Af | DSTV: Al Jazeera*" tvg-logo="http://vod-logo.net/photos/4f52ab535a7279c03045c19fd9e969d2.png" group-title="🇶🇦 Qatar - News",Af | DSTV: Al Jazeera*
+http://mxonlive.xyz/live/xap/238512.m3u8?e=1781986593&token=64b52eb1111c60b3fba97a9722000349f78d581693d4a6c6484331712ccd27b2
+#EXTINF:-1 tvg-name="AF: Al Jazeera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6552c28de22b49d991343456004c7d92.png" group-title="🇶🇦 Qatar - News",AF: Al Jazeera
+http://mxonlive.xyz/live/xap/419352.m3u8?e=1781986593&token=e16f48e0f10d37f739ea6048ed0ca56989182d6a30bb4f893594932e6bf4fdb1
+#EXTINF:-1 tvg-name="BIH: AlJazeera Balkans" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3ddda942a2d1ecd91f529ba781ec2ebe.png" group-title="🇶🇦 Qatar - News",BIH: AlJazeera Balkans
+http://mxonlive.xyz/live/xap/348406.m3u8?e=1781986593&token=1638fb72620aa048b8e34c940febe338f0400736e6633172fac703a5b8ffcd48
+#EXTINF:-1 tvg-name="MK: AlJazeera Balkans" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a3ba71dbf26ab3f049f0088f645c776c.png" group-title="🇶🇦 Qatar - News",MK: AlJazeera Balkans
+http://mxonlive.xyz/live/xap/352029.m3u8?e=1781986593&token=e476793b75bae9735dade96e1768f83163a309d9f72cc99a7a5a6c8b4302d948
+#EXTINF:-1 tvg-name="QA: Al Rayyan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/29d0f32601ab29c9e075fbaa0a8ba60a.png" group-title="🇶🇦 Qatar",QA: Al Rayyan
+http://mxonlive.xyz/live/xap/352981.m3u8?e=1781986593&token=87dbe8034c083216ba3c1308540fcd755c2a4da82143ea7e6b4c46c4f94314d1
+#EXTINF:-1 tvg-name="QA: Al Rayyan Al Qadeem" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/6b6f96b5d36d1049e8f0ac2c4967e255.png" group-title="🇶🇦 Qatar",QA: Al Rayyan Al Qadeem
+http://mxonlive.xyz/live/xap/352982.m3u8?e=1781986593&token=3d593034b8cff00e1e3f9a7bd251c1fa44f9c8d585fa5dd436674315ba9b3813
+#EXTINF:-1 tvg-name="QA: AlJazeera" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0e8db73c9828afbb4c1e10c6b403d946.png" group-title="🇶🇦 Qatar - News",QA: AlJazeera
+http://mxonlive.xyz/live/xap/353004.m3u8?e=1781986593&token=17b7a12142e850b657533b7300b158cebfaeb0fb8b2b4944dac017679b679094
+#EXTINF:-1 tvg-name="QA: Aljazeera Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/39a582ae47a82b73e5541bdbb4f823a5.png" group-title="🇶🇦 Qatar - News",QA: Aljazeera Documentary
+http://mxonlive.xyz/live/xap/352969.m3u8?e=1781986593&token=054ad40dac3b0cffefe5e2801c9d072b819af628873380219f26fefeab33b908
+#EXTINF:-1 tvg-name="QA: Aljazeera English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/51c11b909dcaabd37a51d3c6acbfb9b6.png" group-title="🇶🇦 Qatar - News",QA: Aljazeera English
+http://mxonlive.xyz/live/xap/353005.m3u8?e=1781986593&token=a38a449003ec32125c749d2ac0fda10941614d5c955060137837922412ab3c00
+#EXTINF:-1 tvg-name="QA: Aljazeera Mubasher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/07b2d3121d532b5b498cd07c0aae273f.png" group-title="🇶🇦 Qatar - News",QA: Aljazeera Mubasher
+http://mxonlive.xyz/live/xap/353006.m3u8?e=1781986593&token=5d47b76e15b618563a142ba571683c97e8e0bc97a601e0b6059d824c68e72a66
+#EXTINF:-1 tvg-name="QA: Qatar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/c00e9e1f74939216fcaeb4aef2d618bb.png" group-title="🇶🇦 Qatar",QA: Qatar TV
+http://mxonlive.xyz/live/xap/352986.m3u8?e=1781986593&token=ec3a09f3dca7d07f8364cd5be31e9d6786b6a0cfd7199f5e1606242a62b79d29
+#EXTINF:-1 tvg-name="QA: Qatar TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/59fd89d0ba11220af065f5e0f7a7f1c8.jpg" group-title="🇶🇦 Qatar",QA: Qatar TV 2
+http://mxonlive.xyz/live/xap/352987.m3u8?e=1781986593&token=828c36a117f133dfcfe941906b222ef39fe7a00040339d487a41a8cf1afed835
+#EXTINF:-1 tvg-name="RS: AlJazeera Balkans" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cc50bb4cd2ce5f80b0ad055114401913.png" group-title="🇶🇦 Qatar - News",RS: AlJazeera Balkans
+http://mxonlive.xyz/live/xap/353708.m3u8?e=1781986593&token=e7b1169386479fc58ac60c7938c502821c57bb0746215f1aa584970cbb5b9876
+#EXTINF:-1 tvg-name="UK: Aljazeera English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/400ea32d496aa897658c7f1bc0fd3ef5.png" group-title="🇶🇦 Qatar - News",UK: Aljazeera English
+http://mxonlive.xyz/live/xap/346359.m3u8?e=1781986593&token=165a026515a49137c236e72cafce7018c02a979be3b056e18d79e7083cfd040a

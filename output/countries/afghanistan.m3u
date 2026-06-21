@@ -1,7 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HindiKhabar.in" tvg-logo="https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a" group-title="🇦🇫 Afghanistan - News",Hindi Khabar
-https://tvsen7.aynaott.com/HindiKhabar/index.m3u8?e=1781708096&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=adf2ec3733313101c3a4a7d0802ad05b
-#EXTINF:-1 tvg-id="160" tvg-name="hindi-khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png" group-title="🇦🇫 Afghanistan - News" tvg-chno="13",hindi-khabar
-https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8?hdnts=st%3D1781978244~exp%3D1781999844~acl%3D%21%2A%2Ffta%2Fhindikhabar%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_145.132.103.66_yuppfast_2_channel_160_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_145.132.103.66_yuppfast_2_channel_160_-1~hmac%3Dae421d4d9cd83abac7f8051b18f5045bed1ba693308a430c02f117fbbc26a3a0
-#EXTINF:-1 tvg-name="India A vs Afghanistan A Shamshad TV" group-title="🇦🇫 Afghanistan",India A vs Afghanistan A Shamshad TV
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-name="AFG: 1 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="🇦🇫 Afghanistan",AFG: 1 TV
+http://mxonlive.xyz/live/xap/347388.m3u8?e=1781986593&token=1e67ea6a9d04f8e5fa31ef9b29fa2dcc7cfe287d69c4379cc9d59b678280e5ab
+#EXTINF:-1 tvg-name="AFG: Afghan Javan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/760e1366daa96ee520d6d9c64781a7af.jpeg" group-title="🇦🇫 Afghanistan",AFG: Afghan Javan
+http://mxonlive.xyz/live/xap/347389.m3u8?e=1781986593&token=ce1f3d876bf87b1bc735015f0defda166241a36741fb99a1f6c08a9b7ffae5c5
+#EXTINF:-1 tvg-name="AFG: Afghan Time" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2f6e4028202ff967dbbc69145101f848.jpeg" group-title="🇦🇫 Afghanistan",AFG: Afghan Time
+http://mxonlive.xyz/live/xap/347390.m3u8?e=1781986593&token=dd6cb4c5dfe30d45d6845822a856f295e43232c2803dfef98d17e3b6398d257f
+#EXTINF:-1 tvg-name="AFG: Afghanistan International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2baace0f27a0393c415a09c0b1634240.png" group-title="🇦🇫 Afghanistan",AFG: Afghanistan International
+http://mxonlive.xyz/live/xap/347391.m3u8?e=1781986593&token=ab8eeeac5d219a81eb3ba0062d5c706b8d488d6bdd9cd06df8842482315e4d77
+#EXTINF:-1 tvg-name="AFG: Afghanistan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/56ee38d81e7627ae3b2b015f8f259f15.png" group-title="🇦🇫 Afghanistan",AFG: Afghanistan TV
+http://mxonlive.xyz/live/xap/347392.m3u8?e=1781986593&token=6faaed7fa44312ca1d70844d6497cc5045843f4f1954e645c6df8c6cc757b935
+#EXTINF:-1 tvg-name="AFG: Arezo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/66c74090d67ea4254ca0cd0a3a05f69c.png" group-title="🇦🇫 Afghanistan",AFG: Arezo TV
+http://mxonlive.xyz/live/xap/347393.m3u8?e=1781986593&token=1e48013031e7c56141de137f087918f6cecd15e10479f385203ca2ae435ea5e2
+#EXTINF:-1 tvg-name="AFG: Ariana TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/873721cdaec9640667fd6dceb409d5e9.jpeg" group-title="🇦🇫 Afghanistan",AFG: Ariana TV
+http://mxonlive.xyz/live/xap/347394.m3u8?e=1781986593&token=e17a81d121e4d1e82f68acd054d67be48738a5431f50ca437de7d9eed1d433c3
+#EXTINF:-1 tvg-name="AFG: ATN International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d53f8f2324aa5732aa7a53dbe9c3483e.jpeg" group-title="🇦🇫 Afghanistan",AFG: ATN International
+http://mxonlive.xyz/live/xap/347395.m3u8?e=1781986593&token=0b18f2627d13eb073b0e987ceecf89cdfbec48a37c8f89240ec238d541df638c
+#EXTINF:-1 tvg-name="AFG: ATN Jahani" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6fff0ce686aa45a5a4f9d0119dea1218.jpeg" group-title="🇦🇫 Afghanistan",AFG: ATN Jahani
+http://mxonlive.xyz/live/xap/347396.m3u8?e=1781986593&token=a141db6957c08b58b77f930dc72f81996f5e1e33b7f337ba2f11f818cf9ca517
+#EXTINF:-1 tvg-name="AFG: ATN Jahani News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ab5ae688accf9c624dbf21c18c0bded8.jpeg" group-title="🇦🇫 Afghanistan - News",AFG: ATN Jahani News
+http://mxonlive.xyz/live/xap/347397.m3u8?e=1781986593&token=ebc282c45283a9d1527faf41a8b17f8bf1d693b3fe440a52dd1f6d663873f12e
+#EXTINF:-1 tvg-name="AFG: ATN News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/283aaffd8c2493332ce4993d67d1f777.png" group-title="🇦🇫 Afghanistan - News",AFG: ATN News
+http://mxonlive.xyz/live/xap/347398.m3u8?e=1781986593&token=984f1f7ffd08f3168a21222b4e64472671e20bac148e8966d0a39c861439e19b
+#EXTINF:-1 tvg-name="AFG: Bahar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/17a041ac94cb6c88fb37d6d69157f69d.jpeg" group-title="🇦🇫 Afghanistan",AFG: Bahar TV
+http://mxonlive.xyz/live/xap/347399.m3u8?e=1781986593&token=dc7b8872b0991824c3fc37ac4f1f0214fab52e34288013d1fcbf80ad7d11291c
+#EXTINF:-1 tvg-name="AFG: Barya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8ccb162d53b0c3216d4f66209a31892e.png" group-title="🇦🇫 Afghanistan",AFG: Barya TV
+http://mxonlive.xyz/live/xap/347400.m3u8?e=1781986593&token=f71a340f16e5d79c960bbaa066e75581ac90bdcce5c214c91210581cb369dc2a
+#EXTINF:-1 tvg-name="AFG: Dunya Naw" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e12444d15a34879861b8f8137b351f5.png" group-title="🇦🇫 Afghanistan",AFG: Dunya Naw
+http://mxonlive.xyz/live/xap/347401.m3u8?e=1781986593&token=f7760880ac75b78e7ca0296150d96969ebba5ff1db430e2dd8a6f862e8d13b05
+#EXTINF:-1 tvg-name="AFG: Hasti TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/57a4e4fe517cbbfd7cb2f0de48a61b14.png" group-title="🇦🇫 Afghanistan",AFG: Hasti TV
+http://mxonlive.xyz/live/xap/347402.m3u8?e=1781986593&token=6bea2fdb83b372768f211031429f032fc441b02de5c956daddec6f35e6a1067d
+#EXTINF:-1 tvg-name="AFG: Iman TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c87bc0447f454091fb85a8b75b51d4b2.png" group-title="🇦🇫 Afghanistan",AFG: Iman TV
+http://mxonlive.xyz/live/xap/347403.m3u8?e=1781986593&token=875c4e74ca11d63fabed8d068b20b5f7bb581976095b13ca618ddcfe53536863
+#EXTINF:-1 tvg-name="AFG: Kayhan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5f6a2ab112aecf266f99113c3d6951e1.jpg" group-title="🇦🇫 Afghanistan",AFG: Kayhan
+http://mxonlive.xyz/live/xap/347404.m3u8?e=1781986593&token=7e340f8e8cfa2e3355afc094198032499532beabb6a23aceaa0a5f94129b6c27
+#EXTINF:-1 tvg-name="AFG: Lemar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/711fca337a94cd8f8425c4abbedfb024.png" group-title="🇦🇫 Afghanistan",AFG: Lemar TV
+http://mxonlive.xyz/live/xap/347405.m3u8?e=1781986593&token=08f519f4aab38b580352f4a8b6b2440c41587f7f495cfec012dac242c975a784
+#EXTINF:-1 tvg-name="AFG: Noor TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/be7f8c118f28cf61967beb31b50e8277.png" group-title="🇦🇫 Afghanistan",AFG: Noor TV
+http://mxonlive.xyz/live/xap/347406.m3u8?e=1781986593&token=896d55bf338d1d3c245edb3752460a936561e7ff835eab29f86ce915bf7b3864
+#EXTINF:-1 tvg-name="AFG: Pamir TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e1a92d683956f487dd1ed5f484cf3be.jpg" group-title="🇦🇫 Afghanistan",AFG: Pamir TV
+http://mxonlive.xyz/live/xap/347407.m3u8?e=1781986593&token=f31ed1d3b4ef207b32a9c16b307adb5375cc7a0839315fd7808a2108626a9906
+#EXTINF:-1 tvg-name="AFG: Payam e Afghan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0689306db7d682c676c3e9122c379b2e.png" group-title="🇦🇫 Afghanistan",AFG: Payam e Afghan TV
+http://mxonlive.xyz/live/xap/347408.m3u8?e=1781986593&token=dfba182df4055e0e61d7a3cab246fa306a7f9f84e57106ed9105c82b0048ebe4
+#EXTINF:-1 tvg-name="AFG: RTA Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a0d00b163fb3c77ae033d10950b00b33.png" group-title="🇦🇫 Afghanistan - Sports",AFG: RTA Sport
+http://mxonlive.xyz/live/xap/347409.m3u8?e=1781986593&token=377aa5e33dc38aa69cf9e94e5b92d5f1ad58417abce58c9dbc5e43a7cab07a67
+#EXTINF:-1 tvg-name="AFG: Shamshad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" group-title="🇦🇫 Afghanistan",AFG: Shamshad TV
+http://mxonlive.xyz/live/xap/347410.m3u8?e=1781986593&token=84745f0070dab847433c42d5493ba3ab34863537685173a73991ddfaa4e1213e
+#EXTINF:-1 tvg-name="AFG: Solh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f8e187f8e2851c68c864dbfa9ccdec14.png" group-title="🇦🇫 Afghanistan",AFG: Solh TV
+http://mxonlive.xyz/live/xap/347411.m3u8?e=1781986593&token=45f02db4a12708f3565d31da99d74336aa0ac1aeede0d03e692243a234357dbe
+#EXTINF:-1 tvg-name="AFG: Tamadon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" group-title="🇦🇫 Afghanistan",AFG: Tamadon TV
+http://mxonlive.xyz/live/xap/347412.m3u8?e=1781986593&token=ed15ea2f9e8bb39dde2b0e7d711fb336230fd3552827396fd60ad95bb3fcbad2
+#EXTINF:-1 tvg-name="AFG: Tolo News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" group-title="🇦🇫 Afghanistan - News",AFG: Tolo News
+http://mxonlive.xyz/live/xap/347413.m3u8?e=1781986593&token=8da13e4cbcbea811aa6d304edebf235f6dd89c9d165883eab667270efb9c5958
+#EXTINF:-1 tvg-name="AFG: Tolo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" group-title="🇦🇫 Afghanistan",AFG: Tolo TV
+http://mxonlive.xyz/live/xap/347414.m3u8?e=1781986593&token=e4264d45a82df949c5024aa13cecddda3303dc31bec8bbcf7980a86992f84cba
+#EXTINF:-1 tvg-name="AFG: Zarin TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8091aed99e2d0a7b99c82e2a27d5e89f.png" group-title="🇦🇫 Afghanistan",AFG: Zarin TV
+http://mxonlive.xyz/live/xap/347415.m3u8?e=1781986593&token=8da28706e6d4fd38699227845001b8b430c038c5d9f52c02d9b53f57468a48b6
+#EXTINF:-1 tvg-name="AFG: Zhwandoon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/80b161a8f0a50131795595980c269f23.png" group-title="🇦🇫 Afghanistan",AFG: Zhwandoon TV
+http://mxonlive.xyz/live/xap/347416.m3u8?e=1781986593&token=97bf597f3e9b755f2bc77b377f12a30ca742d9bbe241916f6803719fe7c5e70e
+#EXTINF:-1 tvg-name="IND: Assamese: Pratham Khabar 24x7" group-title="🇦🇫 Afghanistan - News",IND: Assamese: Pratham Khabar 24x7
+http://mxonlive.xyz/live/xap/244835.m3u8?e=1781986593&token=964de858a9ee7bb296b8440fec590e9f9c50b560d0d1884f0b94c35ee572b05d
+#EXTINF:-1 tvg-name="KZ: Khabar 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/5b8813ddc6c12d76409b69a67a9c22d9.png" group-title="🇦🇫 Afghanistan - News",KZ: Khabar 24
+http://mxonlive.xyz/live/xap/351715.m3u8?e=1781986593&token=e1e8732933d9a095e10907d13d2fbd098dc26c43f43ca27dd3b15f4d8f266d97
+#EXTINF:-1 tvg-name="SY: Al Khabar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/10b84129e8eb020d2858f5c6c32ba5dc.png" group-title="🇦🇫 Afghanistan - News",SY: Al Khabar
+http://mxonlive.xyz/live/xap/354510.m3u8?e=1781986593&token=a826de79d6b107c9a620958a509552df701172290d0bfbf1287728e58adb9665
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇦🇫 Afghanistan",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/347387.m3u8?e=1781986593&token=55bab37dc4d7538ff6a811418492805f5d7f754d1fbc89cffdf63790742b8abf

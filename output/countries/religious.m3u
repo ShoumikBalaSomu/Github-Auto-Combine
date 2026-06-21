@@ -1,53 +1,211 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AL EKHBARIA" group-title="🕌 Religious",AL EKHBARIA
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-name="AL ISTIQAMA" group-title="🕌 Religious",AL ISTIQAMA
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-name="AL QAMAR" group-title="🕌 Religious",AL QAMAR
-https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1 tvg-name="AL SUNNAH TV" group-title="🕌 Religious - Religious",AL SUNNAH TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-name="ALMASIRA MUBASHER" group-title="🕌 Religious",ALMASIRA MUBASHER
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="BAHRAIN QURAN" group-title="🕌 Religious - Religious",BAHRAIN QURAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="🕌 Religious",CGNTV Chinese (1080p)
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="🕌 Religious" http-referrer="http://japan.cgntv.net/HD_player_jp.html",CGNTV Japan (1080p)
-https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="CGNTVSouthKorea.kr@SD" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="🕌 Religious",CGNTV South Korea (1080p)
-https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-logo="https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7" group-title="🕌 Religious",Channel Win
-https://cdn-4.pishow.tv/live/229/master.m3u8
-#EXTINF:-1 tvg-id="DeenTV.uk" tvg-logo="https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e" group-title="🕌 Religious",Deen TV
-https://tvsen7.aynaott.com/deen/index.m3u8?e=1781708101&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=284b699256361f47679e790e85c57a94
-#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-logo="https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce" group-title="🕌 Religious",Eman Channel
-https://tvsen6.aynaott.com/eman/index.m3u8?e=1781708101&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=b0c9dcc8842f6d5b600939e8f61ca49d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" group-title="🕌 Religious - Religious",Islam bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🕌 Religious - Religious",Islamic TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
-#EXTINF:-1 tvg-id="MadaniTV.id" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039" group-title="🕌 Religious",MADANI TV
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1781708101&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=289cda274bd60cd2237b216b7aa6d297
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="🕌 Religious",Madina Live
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae@SD" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="🕌 Religious - Religious",Peace TV Bangla (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="Peace Tv English" group-title="🕌 Religious - Religious",Peace Tv English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-logo="https://s3.aynaott.com/storage/5442b2655aca6398b26ba539f396565a" group-title="🕌 Religious - Religious",Peace TV Urdu HD
-https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1781708101&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=86ff0314eb413e8801741d62b5a8e29c
-#EXTINF:-1 tvg-name="QURAN" group-title="🕌 Religious - Religious",QURAN
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-name="QURAN RADIOTV SMC" group-title="🕌 Religious - Religious",QURAN RADIOTV SMC
-https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-#EXTINF:-1 tvg-name="Saudi Quran" group-title="🕌 Religious - Religious",Saudi Quran
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 tvg-name="Sunnah Tv" group-title="🕌 Religious - Religious",Sunnah Tv
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5" group-title="🕌 Religious",TAQBEER
-https://tvsen7.aynaott.com/takbeer/index.m3u8?e=1781708101&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=9d1ccb6ad80299411615b0786997daca
-#EXTINF:-1 group-title="🕌 Religious",Unknown Channel
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="🕌 Religious",WiseHumanTv (1080p)
-https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-name="01 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",01 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/310906.m3u8?e=1781986593&token=3e609b570938f291d6b660296d55d080ab6d4f4b20f2111096dcb11b3df543e0
+#EXTINF:-1 tvg-name="01 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title="🕌 Religious - News",01 QURAN MAJEED TALAWAT 24/7
+http://mxonlive.xyz/live/xap/251592.m3u8?e=1781986593&token=cfeef976850cae2aa6370f2d60dd427475da6da5b32a16bb80508d6cccea2de2
+#EXTINF:-1 tvg-name="02 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",02 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/310907.m3u8?e=1781986593&token=06fac9e08d689d2795f0e8eb605d94bc70281c0e64154a9421fbef611ac2c769
+#EXTINF:-1 tvg-name="02 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title="🕌 Religious - News",02 QURAN MAJEED TALAWAT 24/7
+http://mxonlive.xyz/live/xap/251593.m3u8?e=1781986593&token=a5ec69a6ab5e6b1f514afbc00e910c7823149625abcf4772d8e166e056cf7665
+#EXTINF:-1 tvg-name="03 NAATS FARHAN ALI QADRI 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",03 NAATS FARHAN ALI QADRI 24/7
+http://mxonlive.xyz/live/xap/311020.m3u8?e=1781986593&token=0400a3f074afc7cf087c8561960630faebfaec9912cd59b7751c24637529fcc7
+#EXTINF:-1 tvg-name="03 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title="🕌 Religious - News",03 QURAN MAJEED TALAWAT 24/7
+http://mxonlive.xyz/live/xap/251594.m3u8?e=1781986593&token=39c3eeb5b500a8e923b16e63419e3a237f27185b3cad328a18c0136b4065876b
+#EXTINF:-1 tvg-name="04 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",04 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/311356.m3u8?e=1781986593&token=07f2ff4ec5f947024bd20815c2ec441bba4a41a7dbf5c287a015ebba1d3ce3e4
+#EXTINF:-1 tvg-name="05 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",05 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/323763.m3u8?e=1781986593&token=4910ec1c923598d2747d57c9f094e109a8e645238584c0a8b945320114eaf5af
+#EXTINF:-1 tvg-name="06 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",06 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/323764.m3u8?e=1781986593&token=c5bc84c375958dba50a7049b6230b78271218fa14b6c3091577bc5f749cbd8e7
+#EXTINF:-1 tvg-name="07 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",07 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/323765.m3u8?e=1781986593&token=469ea9f356b06e8080a0a9a03b92c22acace2011de852df86928876439ef955e
+#EXTINF:-1 tvg-name="08 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",08 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/328788.m3u8?e=1781986593&token=a6b9e490fcc06a3e4da3b5a6dbb4451b81747cd1233322f9cb6c04af9622b2ad
+#EXTINF:-1 tvg-name="09 NAATS SHARIF 24/7" tvg-logo="http://logo.opplextv.com/logo/NAATLOGO.jpg" group-title="🕌 Religious - News",09 NAATS SHARIF 24/7
+http://mxonlive.xyz/live/xap/328789.m3u8?e=1781986593&token=b7d8c9c43b2d05507ad0d2896a3dbaeb4a6edfe647d7ba50262ecb7331076e31
+#EXTINF:-1 tvg-id="AhlebaitTV.uk" tvg-name="Ahlebait TV" group-title="🕌 Religious",Ahlebait TV
+http://mxonlive.xyz/live/xap/444407.m3u8?e=1781986593&token=ac3c490a6eebf02f6edb2433b7d5be6bb6bbeee03b7c5e48639db1084b5b3564
+#EXTINF:-1 tvg-name="Al Ehsan" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ehsaan-tv-pk.png" group-title="🕌 Religious",Al Ehsan
+http://mxonlive.xyz/live/xap/444408.m3u8?e=1781986593&token=122d71e752c39bec16dcf3cde92b7f2a803d43f044d27f02ca138b953210741f
+#EXTINF:-1 tvg-name="Al Majd Quran" tvg-logo="http://starsat123.com:8080/images/e70611883d2760c8bbafb4acb29e3446.png" group-title="🕌 Religious - Religious",Al Majd Quran
+http://mxonlive.xyz/live/xap/103657.m3u8?e=1781986593&token=154ac1f334380875873a6f5487b6c9bcc0b782917fed997a3b528f9b12ada7d5
+#EXTINF:-1 tvg-id="AlZahraTV.ir" tvg-name="Al Zahra Tv" group-title="🕌 Religious",Al Zahra Tv
+http://mxonlive.xyz/live/xap/26035.m3u8?e=1781986593&token=d09cc2deafc1ffd02e90734bcc47f6f3b123701342b87266aace3153f75b4e6f
+#EXTINF:-1 tvg-name="AL-QURAN AL-KAREEM" tvg-logo="https://server4ip.ath.cx/logo/logoTV-Arabic/SAUDI%20QUARAN.png" group-title="🕌 Religious - Religious",AL-QURAN AL-KAREEM
+http://mxonlive.xyz/live/xap/4.m3u8?e=1781986593&token=1352f707d49e75bbaf3904ae76445c44a4bc68b970936d10504e5cfe3858ea23
+#EXTINF:-1 tvg-name="AL-SUNNAH" group-title="🕌 Religious - Religious",AL-SUNNAH
+http://mxonlive.xyz/live/xap/57.m3u8?e=1781986593&token=d92ddd1113deac819b9bcafd16c05a3400b6746ebe5aab4c4475f7403a122b8f
+#EXTINF:-1 tvg-name="ALBAYAT TV" group-title="🕌 Religious",ALBAYAT TV
+http://mxonlive.xyz/live/xap/9.m3u8?e=1781986593&token=49227333f6c3b6580d32dccb82513700ec4dae59a62c68a22764c0707a4e5c65
+#EXTINF:-1 tvg-name="AR: Zahra TV" group-title="🕌 Religious",AR: Zahra TV
+http://mxonlive.xyz/live/xap/444404.m3u8?e=1781986593&token=d25416e0a066430b37efc0b9929609bb5e2f332247432c305698c2f69002a61b
+#EXTINF:-1 tvg-id="DuaTV.iq" tvg-name="DUA TV" group-title="🕌 Religious",DUA TV
+http://mxonlive.xyz/live/xap/380145.m3u8?e=1781986593&token=0cac8a3de527765ef7eaf798e64b70fdb35cddfd357c3209338ea75eaf1cd88e
+#EXTINF:-1 tvg-name="Hadees Rasool Pak (SAW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Dark_vignette_Al-Masjid_AL-Nabawi_Door800x600x300_%28cropped%29.jpg" group-title="🕌 Religious",Hadees Rasool Pak (SAW)
+http://mxonlive.xyz/live/xap/328790.m3u8?e=1781986593&token=6046b21782cebeba9133caffc4c8a36ad2545984255be66e85b17c7098c3ca44
+#EXTINF:-1 tvg-id="HadiTV.uk" tvg-name="HADI TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadi_tv_pk.png" group-title="🕌 Religious",HADI TV
+http://mxonlive.xyz/live/xap/7.m3u8?e=1781986593&token=243bbbafe6ba86ff973714c07e4e43a224f0d0aeda8247f28489014021b42fb2
+#EXTINF:-1 tvg-id="HidayatTV.uk" tvg-name="Hidayat TV" group-title="🕌 Religious",Hidayat TV
+http://mxonlive.xyz/live/xap/26017.m3u8?e=1781986593&token=dad2cf474f9f27b46f6ebfda7f0969ab62bb2977e4bdf3530636c4baf4de42f2
+#EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="HYDER TV" tvg-logo="https://play-lh.googleusercontent.com/aUMPjFrK1cXQryrdSqCQ6C-5ECJyL8EGAhnVcraCu2GUmjt5u4vp64L3qAH0-MKu4Q_j" group-title="🕌 Religious",HYDER TV
+http://mxonlive.xyz/live/xap/379934.m3u8?e=1781986593&token=e738b5caf1cfa69f4a2c6968ba03a843c504e4907fb0e2c613ea0e8ae4867c55
+#EXTINF:-1 tvg-id="ImamAliTV.iq" tvg-name="Imam Ali TV" group-title="🕌 Religious",Imam Ali TV
+http://mxonlive.xyz/live/xap/380269.m3u8?e=1781986593&token=69e75a3f892820561085d58908babd05e549da28549441d60179c147368125c8
+#EXTINF:-1 tvg-name="IMAM HUSSAIN 3 TV" tvg-logo="https://imamhusseintv.com/assets/images/ch3.webp" group-title="🕌 Religious",IMAM HUSSAIN 3 TV
+http://mxonlive.xyz/live/xap/6.m3u8?e=1781986593&token=bbcd3284ecbcc28ccda05118448f86e4ebafd793ffbd580f8749a74d1eadb8f7
+#EXTINF:-1 tvg-name="IMAM HUSSAIN TV 1" tvg-logo="https://imamhusseintv.com/assets/images/ch1.webp" group-title="🕌 Religious",IMAM HUSSAIN TV 1
+http://mxonlive.xyz/live/xap/380267.m3u8?e=1781986593&token=7505ffc8e643fead1d1037e4f5f2ee57e731d7ea17167932c15b55c1a9613c54
+#EXTINF:-1 tvg-name="IMAM HUSSAIN TV 2" tvg-logo="https://imamhusseintv.com/assets/images/ch2.webp" group-title="🕌 Religious",IMAM HUSSAIN TV 2
+http://mxonlive.xyz/live/xap/380268.m3u8?e=1781986593&token=523ddb82205599d2dcc23cd9761400baf485f7ea944675b49b5d15772c2c976b
+#EXTINF:-1 tvg-name="IMAM HUSSAIN TV 4 URDU" tvg-logo="https://imamhusseintv.com/assets/images/ch4.webp" group-title="🕌 Religious",IMAM HUSSAIN TV 4 URDU
+http://mxonlive.xyz/live/xap/5.m3u8?e=1781986593&token=5333eae7682f16e9969bd49a4416d10d4531cd58d5867e49f25f30648db86c9b
+#EXTINF:-1 tvg-name="IND-regional: 7SMUSIC" group-title="🕌 Religious",IND-regional: 7SMUSIC
+http://mxonlive.xyz/live/xap/246165.m3u8?e=1781986593&token=6266e587c6317504d6038689bf4963cd5b16cc77b7b8c1eb0e7fbbb94dd48aa2
+#EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="IND-regional: ANDHRA_JYOTI" group-title="🕌 Religious",IND-regional: ANDHRA_JYOTI
+http://mxonlive.xyz/live/xap/246167.m3u8?e=1781986593&token=bd3ff4bb1651abacc8a3aa141325e5691ddab28c63829ba1cd792f3f40299651
+#EXTINF:-1 tvg-name="IND-regional: AP_24X7" group-title="🕌 Religious",IND-regional: AP_24X7
+http://mxonlive.xyz/live/xap/246168.m3u8?e=1781986593&token=7add7a3c0363236a021706f6c7df8cf4d6a302920df2966552be2d141ce268a0
+#EXTINF:-1 tvg-id="atetv.in" tvg-name="IND-regional: ATE_TV" group-title="🕌 Religious",IND-regional: ATE_TV
+http://mxonlive.xyz/live/xap/246169.m3u8?e=1781986593&token=119a058a47dcdc41868e06ddef47ec299e4d9301522afdb20433da023c2a603c
+#EXTINF:-1 tvg-name="IND-regional: CALVARY_TV" group-title="🕌 Religious",IND-regional: CALVARY_TV
+http://mxonlive.xyz/live/xap/246170.m3u8?e=1781986593&token=fa8828972e3aee9c4369d851925a5ed1c06e5b2d7b5a5bc376615a2dfc53efa9
+#EXTINF:-1 tvg-name="IND-regional: CAPTAIN_TV" group-title="🕌 Religious",IND-regional: CAPTAIN_TV
+http://mxonlive.xyz/live/xap/246171.m3u8?e=1781986593&token=4fc05f48398797bed8b71ff8ce15efd67e0112b076a8c8cb64d100564bcc47d5
+#EXTINF:-1 tvg-id="cvrnews.in" tvg-name="IND-regional: CVR_NEWS" group-title="🕌 Religious",IND-regional: CVR_NEWS
+http://mxonlive.xyz/live/xap/246172.m3u8?e=1781986593&token=a79cd1b1df185698475cc2849b6d9b57d8c74e64c2df6832736a5da5ec922900
+#EXTINF:-1 tvg-name="IND-regional: Darshana_Tv" group-title="🕌 Religious",IND-regional: Darshana_Tv
+http://mxonlive.xyz/live/xap/246174.m3u8?e=1781986593&token=f6722d6c52c849bb1072450ce055c27ec3ecd9adaef9127287941a7d9e737454
+#EXTINF:-1 tvg-name="IND-regional: Dheeran_TV" group-title="🕌 Religious",IND-regional: Dheeran_TV
+http://mxonlive.xyz/live/xap/246175.m3u8?e=1781986593&token=aa1c0bbf23024f6e1c88ac5b7a3b896176abdc425086d2db79ed0ca06ad8603b
+#EXTINF:-1 tvg-name="IND-regional: I_NEWS" group-title="🕌 Religious",IND-regional: I_NEWS
+http://mxonlive.xyz/live/xap/246177.m3u8?e=1781986593&token=edb2bea0eb8b43b349212ee046c850108d03c3817feb0bf796dbba25184ba704
+#EXTINF:-1 tvg-name="IND-regional: IMAYAM_TV" group-title="🕌 Religious",IND-regional: IMAYAM_TV
+http://mxonlive.xyz/live/xap/246178.m3u8?e=1781986593&token=e406b35a2640fe38b86a40290075ab48f79be7fa78536edb6abd761d8c327d45
+#EXTINF:-1 tvg-id="jaihindtv.in" tvg-name="IND-regional: Jaihind" group-title="🕌 Religious",IND-regional: Jaihind
+http://mxonlive.xyz/live/xap/246224.m3u8?e=1781986593&token=851862f73806742f90f23b4eedaf94c96dc1b04dc374609276dbe43b8bb5242b
+#EXTINF:-1 tvg-id="jeevantv.in" tvg-name="IND-regional: Jeevan" group-title="🕌 Religious",IND-regional: Jeevan
+http://mxonlive.xyz/live/xap/246223.m3u8?e=1781986593&token=6daf4dd5d8b28f16416f58bae74147cb87f60c84dff92f1b18d6201e1beb67d2
+#EXTINF:-1 tvg-name="IND-regional: KAIRALI_ARABIA" group-title="🕌 Religious",IND-regional: KAIRALI_ARABIA
+http://mxonlive.xyz/live/xap/246180.m3u8?e=1781986593&token=57a1a8585e9aa06752b7d0fadda9411578c571712d01fae160e923bdaebebe8e
+#EXTINF:-1 tvg-name="IND-regional: KAIRALI_NEWS" group-title="🕌 Religious",IND-regional: KAIRALI_NEWS
+http://mxonlive.xyz/live/xap/246181.m3u8?e=1781986593&token=2f31d231eb2609f867f8dd356dd8316aa719ae5d5bed93cf34b3e1a58b1e2d8a
+#EXTINF:-1 tvg-name="IND-regional: KALAIGNAR_CHITHIRAM" group-title="🕌 Religious",IND-regional: KALAIGNAR_CHITHIRAM
+http://mxonlive.xyz/live/xap/246182.m3u8?e=1781986593&token=4dc2539c5e1f7bf964d0008b1be4f1dfa2bc197ff442acac59041a6a65bf1350
+#EXTINF:-1 tvg-name="IND-regional: KALAIGNAR_ISAI_ARUVI" group-title="🕌 Religious",IND-regional: KALAIGNAR_ISAI_ARUVI
+http://mxonlive.xyz/live/xap/246183.m3u8?e=1781986593&token=db65b20e692fc70ed6ccb126022ce5fdfbddd755eedaa6c68bafaeffdd79ee6f
+#EXTINF:-1 tvg-name="IND-regional: KALAIGNAR_MURASU" group-title="🕌 Religious",IND-regional: KALAIGNAR_MURASU
+http://mxonlive.xyz/live/xap/246184.m3u8?e=1781986593&token=910facf9039685c9e4edf2b67c39f40c98fb90fa43bb4b76d68e2bd6eea26beb
+#EXTINF:-1 tvg-name="IND-regional: KALAIGNAR_SEITHIGAL" group-title="🕌 Religious",IND-regional: KALAIGNAR_SEITHIGAL
+http://mxonlive.xyz/live/xap/246185.m3u8?e=1781986593&token=bed5cb5ab286dea5d77cb5adc8b4830b728e98509fc8a8ea2610a146e5b6b339
+#EXTINF:-1 tvg-name="IND-regional: KALAIGNAR_SIRIPPOLI" group-title="🕌 Religious",IND-regional: KALAIGNAR_SIRIPPOLI
+http://mxonlive.xyz/live/xap/246186.m3u8?e=1781986593&token=63b1497469d4640a1a47910348ec70abae284cefe0c2fa47f2fb652708d08809
+#EXTINF:-1 tvg-name="IND-regional: KALAIGNAR_TV" group-title="🕌 Religious",IND-regional: KALAIGNAR_TV
+http://mxonlive.xyz/live/xap/246187.m3u8?e=1781986593&token=6d64bc403e887bdf72b39783293b1c94d28a8c285926944343e39319fbe888f4
+#EXTINF:-1 tvg-id="kalingatv.in" tvg-name="IND-regional: KALINGA_TV" group-title="🕌 Religious",IND-regional: KALINGA_TV
+http://mxonlive.xyz/live/xap/246188.m3u8?e=1781986593&token=f816fb704612680630a8f6e44972f97c7604c35530e30b92acb069600f87c4c8
+#EXTINF:-1 tvg-name="IND-regional: Kerala_Vision" group-title="🕌 Religious",IND-regional: Kerala_Vision
+http://mxonlive.xyz/live/xap/246189.m3u8?e=1781986593&token=63c3e1c4b01e66fa6c008096d8044d4ba855b7a9b850f7cd791ca5dd77d1f1ba
+#EXTINF:-1 tvg-id="madhatv.in" tvg-name="IND-regional: MADHA_TV" group-title="🕌 Religious",IND-regional: MADHA_TV
+http://mxonlive.xyz/live/xap/246190.m3u8?e=1781986593&token=79034be80e045eb87ad5612250e71295cb979966e6e83762de954295b3f6ce31
+#EXTINF:-1 tvg-id="makkaltv.in" tvg-name="IND-regional: MAKKAL_TV" group-title="🕌 Religious",IND-regional: MAKKAL_TV
+http://mxonlive.xyz/live/xap/246191.m3u8?e=1781986593&token=5566c3d2b99ad03713a1aa54da8150427ff685ee4ea3c52f09d2d71a677eb044
+#EXTINF:-1 tvg-name="IND-regional: MALAI_MURASU_SEITHIKAL" group-title="🕌 Religious",IND-regional: MALAI_MURASU_SEITHIKAL
+http://mxonlive.xyz/live/xap/246192.m3u8?e=1781986593&token=a38e4469cc56449a9f954cb2016d8d71e6d3d0136db51f57710d8f43b253d84f
+#EXTINF:-1 tvg-name="IND-regional: MANGALAM_TV" group-title="🕌 Religious",IND-regional: MANGALAM_TV
+http://mxonlive.xyz/live/xap/246193.m3u8?e=1781986593&token=191a8e3281f45b32a5e7e746715f96c18f79472607f6c1a5184377185f9632d6
+#EXTINF:-1 tvg-id="manoramanews.in" tvg-name="IND-regional: Manorama_News_Central" group-title="🕌 Religious",IND-regional: Manorama_News_Central
+http://mxonlive.xyz/live/xap/246194.m3u8?e=1781986593&token=34a9af75eecfa6006aef34aabf67784fb0d3ba6390812dd53d4dfe65e867d386
+#EXTINF:-1 tvg-name="IND-regional: Manorama_News_North" group-title="🕌 Religious",IND-regional: Manorama_News_North
+http://mxonlive.xyz/live/xap/246195.m3u8?e=1781986593&token=e25d3e53702430c8d835319dac07a2c046f5698134437057cb09de7383861700
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="IND-regional: Mazhavil_HD" group-title="🕌 Religious",IND-regional: Mazhavil_HD
+http://mxonlive.xyz/live/xap/246196.m3u8?e=1781986593&token=4ac6d5fa1442845c4c19e502afe5c7cc6e72be3622da26be920014deed580fb7
+#EXTINF:-1 tvg-name="IND-regional: MBC_TV" group-title="🕌 Religious",IND-regional: MBC_TV
+http://mxonlive.xyz/live/xap/246197.m3u8?e=1781986593&token=ab9d0fbad8e98cf6623f077c2d55453e6b4cb33ca21465b8d39526bb0ae139be
+#EXTINF:-1 tvg-name="IND-regional: MH_ONE_MUSIC" group-title="🕌 Religious",IND-regional: MH_ONE_MUSIC
+http://mxonlive.xyz/live/xap/246199.m3u8?e=1781986593&token=96b7035891b6ee8bc598a00df292316d86d03523a9484ad6590babc7007a4243
+#EXTINF:-1 tvg-name="IND-regional: MH_ONE_NEWS" group-title="🕌 Religious",IND-regional: MH_ONE_NEWS
+http://mxonlive.xyz/live/xap/246200.m3u8?e=1781986593&token=5513bfbd86c54ade76c53fbaee8e4ece70f5abaab77d580c960790cf0f9a8dbf
+#EXTINF:-1 tvg-name="IND-regional: MK_SIX" group-title="🕌 Religious",IND-regional: MK_SIX
+http://mxonlive.xyz/live/xap/246201.m3u8?e=1781986593&token=8323a82df100bb536849f7b6590f8da94f7c5403168f4b936dd723672ec2debb
+#EXTINF:-1 tvg-name="IND-regional: MK_TELEVISION" group-title="🕌 Religious",IND-regional: MK_TELEVISION
+http://mxonlive.xyz/live/xap/246202.m3u8?e=1781986593&token=6e545ea4906710de5d57f7232e4161def4b1cf7fa7707ca2f6ed328e2a8311c3
+#EXTINF:-1 tvg-name="IND-regional: MK_TUNES" group-title="🕌 Religious",IND-regional: MK_TUNES
+http://mxonlive.xyz/live/xap/246203.m3u8?e=1781986593&token=daf1c706d481ef506f42c35ef0c66bfd467c4045f19db38ca14342c697b6ece1
+#EXTINF:-1 tvg-name="IND-regional: MOON_TV" group-title="🕌 Religious",IND-regional: MOON_TV
+http://mxonlive.xyz/live/xap/246204.m3u8?e=1781986593&token=84e6a133a2a160654c945dde62a1716aced09c0e032a9843ab3c8958ac6ce477
+#EXTINF:-1 tvg-name="IND-regional: ORANGE_TV" group-title="🕌 Religious",IND-regional: ORANGE_TV
+http://mxonlive.xyz/live/xap/246205.m3u8?e=1781986593&token=4dce2b2f1fdc1750a060c05a2df30b9baf808df16cb472a1d21b2091d1c763da
+#EXTINF:-1 tvg-name="IND-regional: POWER_VISION" group-title="🕌 Religious",IND-regional: POWER_VISION
+http://mxonlive.xyz/live/xap/246207.m3u8?e=1781986593&token=0feb5fe6153714ea4cadd4efc528cb983ee7a3b8e1f6cb41fb73b8070412c099
+#EXTINF:-1 tvg-name="IND-regional: PUBLIC_MOVIES" group-title="🕌 Religious",IND-regional: PUBLIC_MOVIES
+http://mxonlive.xyz/live/xap/246208.m3u8?e=1781986593&token=1ead644374e619a90116f38578dde8feede54d1390eb76ee1ddb579c4da08bd7
+#EXTINF:-1 tvg-name="IND-regional: PUBLIC_MUSIC" group-title="🕌 Religious",IND-regional: PUBLIC_MUSIC
+http://mxonlive.xyz/live/xap/246209.m3u8?e=1781986593&token=33ea312e5cfb37efd218a3e5866a7bb0b4207e85dcb551395aee587d2e20d87a
+#EXTINF:-1 tvg-name="IND-regional: PUBLIC_TV" group-title="🕌 Religious",IND-regional: PUBLIC_TV
+http://mxonlive.xyz/live/xap/246210.m3u8?e=1781986593&token=106346af3661ee98b08463b591ec83b0972a33a6c586cc6cbf2ac872bdd4db6b
+#EXTINF:-1 tvg-name="IND-regional: R_TV" group-title="🕌 Religious",IND-regional: R_TV
+http://mxonlive.xyz/live/xap/246211.m3u8?e=1781986593&token=8e7e5d16dc4b3fc04fcf3e2e2bc5bf2dceeeaff781c811a6604918ddfcf52116
+#EXTINF:-1 tvg-name="IND-regional: RM_RUJUMARGAM_TV" group-title="🕌 Religious",IND-regional: RM_RUJUMARGAM_TV
+http://mxonlive.xyz/live/xap/246212.m3u8?e=1781986593&token=11227a1f2dff3e9e64b63e92b8c4411533e3c1552195c8adb2896dc4fddacf50
+#EXTINF:-1 tvg-id="sadhnanews.in" tvg-name="IND-regional: Sadhna_Prime_News" group-title="🕌 Religious",IND-regional: Sadhna_Prime_News
+http://mxonlive.xyz/live/xap/246213.m3u8?e=1781986593&token=244eef0c484bd315a870d5eee598b7f10c4cc84f14ffdce6bfd281bd409435b6
+#EXTINF:-1 tvg-name="IND-regional: SATHIYAM_TV" group-title="🕌 Religious",IND-regional: SATHIYAM_TV
+http://mxonlive.xyz/live/xap/246214.m3u8?e=1781986593&token=434f79897eac741375fafc3676ca5347627d220a0f9355dceedf1f815801a648
+#EXTINF:-1 tvg-name="IND-regional: SHEMAROO_MARATHIBANA" group-title="🕌 Religious",IND-regional: SHEMAROO_MARATHIBANA
+http://mxonlive.xyz/live/xap/246215.m3u8?e=1781986593&token=a21e916995385e3be0957ef71827056b88aa22a597e08881a96aa01f43734d6a
+#EXTINF:-1 tvg-id="srisankaratv.in" tvg-name="IND-regional: SRI_SANKARA" group-title="🕌 Religious",IND-regional: SRI_SANKARA
+http://mxonlive.xyz/live/xap/246216.m3u8?e=1781986593&token=d67b18d4641347dc6470801af8d171024a0b0db18bb3ca8a2081beeaf96d3342
+#EXTINF:-1 tvg-name="IND-regional: Studio_One" group-title="🕌 Religious",IND-regional: Studio_One
+http://mxonlive.xyz/live/xap/246217.m3u8?e=1781986593&token=099db0569355df89e1d45cbd58c6d7bf4f65f609748e1885dde9d1440826a956
+#EXTINF:-1 tvg-name="IND-regional: Survana_news" group-title="🕌 Religious",IND-regional: Survana_news
+http://mxonlive.xyz/live/xap/246226.m3u8?e=1781986593&token=162e01a8d17a9bd9d909aa2b05c47fb9502f76e34413b5aea88b0012da19ca79
+#EXTINF:-1 tvg-name="IND-regional: TAMILAN_TELEVISION" group-title="🕌 Religious",IND-regional: TAMILAN_TELEVISION
+http://mxonlive.xyz/live/xap/246219.m3u8?e=1781986593&token=98c911ecb8c72cf82d558f4e2383ffb75b85251e927c0d5fe49eb420adf61220
+#EXTINF:-1 tvg-id="tv5kannada.in" tvg-name="IND-regional: TV5_KANNADA" group-title="🕌 Religious",IND-regional: TV5_KANNADA
+http://mxonlive.xyz/live/xap/246221.m3u8?e=1781986593&token=f19ffe2e7dfbac7fb889ec1f3b526b0126b3d50b9a5dad49f8cf664ba8d89bf0
+#EXTINF:-1 tvg-name="IND-regional: WIN_TV" tvg-logo="http://openboxv8s.com/india/win_tv_in.jpg" group-title="🕌 Religious",IND-regional: WIN_TV
+http://mxonlive.xyz/live/xap/246228.m3u8?e=1781986593&token=f47927b25f073e552b82476c664c4c8420d74f91a63ac2f89f3a291560ced953
+#EXTINF:-1 tvg-name="IND-regional: YONETV" group-title="🕌 Religious",IND-regional: YONETV
+http://mxonlive.xyz/live/xap/246229.m3u8?e=1781986593&token=63d93d8934e9d85f79e28e54f36929bd386bcbcac3552dcb6f9e04e4a16471ca
+#EXTINF:-1 tvg-name="IQ: Al Zahra TV" group-title="🕌 Religious",IQ: Al Zahra TV
+http://mxonlive.xyz/live/xap/444403.m3u8?e=1781986593&token=2e069a596ba2423b4adb8e0d8eed10477809d148c664949350c50e30aeff88a8
+#EXTINF:-1 tvg-name="IQRA Bangla TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🕌 Religious",IQRA Bangla TV
+http://mxonlive.xyz/live/xap/103661.m3u8?e=1781986593&token=34086aa844625d613d2b0b59aed5ad29594e36dfa553d0fd3429795eafd29f45
+#EXTINF:-1 tvg-name="ISL | Imam Hussein TV 5 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch5.webp" group-title="🕌 Religious",ISL | Imam Hussein TV 5 FHD
+http://mxonlive.xyz/live/xap/444405.m3u8?e=1781986593&token=7c541be27c84d367d11ce5515c685427efe2b860a9f458574e86f66419bba0ea
+#EXTINF:-1 tvg-name="ISL | Imam Hussein TV 6 FHD" tvg-logo="https://imamhusseintv.com/assets/images/ch6.webp" group-title="🕌 Religious",ISL | Imam Hussein TV 6 FHD
+http://mxonlive.xyz/live/xap/444406.m3u8?e=1781986593&token=890e1ffea6a0e5a38cac4959a1261fe46d70bf85e591c54c4667925170fdc8d5
+#EXTINF:-1 tvg-name="ISLAMIC STORY" group-title="🕌 Religious - Religious",ISLAMIC STORY
+http://mxonlive.xyz/live/xap/388460.m3u8?e=1781986593&token=f6602daf1239641ee84b7a20f454427a5259aa8109caf9b2f3874e935cf2c222
+#EXTINF:-1 tvg-name="MADINA LIVE*" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="🕌 Religious",MADINA LIVE*
+http://mxonlive.xyz/live/xap/26.m3u8?e=1781986593&token=c9430b421d3fc34ec92da0bfc127e340be766af3b838f206c2476dd9ce83ecba
+#EXTINF:-1 tvg-name="MADNI TV" tvg-logo="http://logo.opplextv.com/logo/MADNITV.jpg" group-title="🕌 Religious",MADNI TV
+http://mxonlive.xyz/live/xap/2.m3u8?e=1781986593&token=e71118b70ae85210666d110c94f3096e2bbd12baffb8150e14d5cd9a576ffe0c
+#EXTINF:-1 tvg-name="MAKKA TV LIVE*" group-title="🕌 Religious",MAKKA TV LIVE*
+http://mxonlive.xyz/live/xap/10.m3u8?e=1781986593&token=290fd8335f050d1bdc1acfa9b1f08b113e62f69378b0a9db41f51787db88f051
+#EXTINF:-1 tvg-name="PAIGHAM URDU" group-title="🕌 Religious",PAIGHAM URDU
+http://mxonlive.xyz/live/xap/8.m3u8?e=1781986593&token=abf5b50244b8ffd86d6db72d24277f2ec312c2e9eab5cecdb93a96644d9271a6
+#EXTINF:-1 tvg-name="Pak: PEACE TV (ENGLISH)" group-title="🕌 Religious - Religious",Pak: PEACE TV (ENGLISH)
+http://mxonlive.xyz/live/xap/167878.m3u8?e=1781986593&token=3302466d6292526b5c82c2fb2bb193b2ccbdd81cc5af6ddd5803e35142e6fbd1
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="PEACE TV URDU" group-title="🕌 Religious - Religious",PEACE TV URDU
+http://mxonlive.xyz/live/xap/11.m3u8?e=1781986593&token=f41aba064c9ef13b9d945514641b176437d30fcdc3e06e9993e52381602cb1dd
+#EXTINF:-1 tvg-name="PK | KARBALA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/Karbala-TV.png" group-title="🕌 Religious",PK | KARBALA TV
+http://mxonlive.xyz/live/xap/13.m3u8?e=1781986593&token=18d69945640a59f3793452fdd2823dfba70f60d0b663691038df0c26cca3bc4c
+#EXTINF:-1 tvg-name="PK | Muntazir TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muntazar-tv-pk.png" group-title="🕌 Religious",PK | Muntazir TV
+http://mxonlive.xyz/live/xap/110052.m3u8?e=1781986593&token=500e22ac102d24bc8a9a546c24d91cbae76f550424829ed6df427167a3b062a9
+#EXTINF:-1 tvg-name="PK | Paigam Pushto" group-title="🕌 Religious",PK | Paigam Pushto
+http://mxonlive.xyz/live/xap/103644.m3u8?e=1781986593&token=43061c08454331158a878d5eddea45706324a3e423e9d38dc65b520b88a784cf
+#EXTINF:-1 tvg-name="PK: BARKAT TV" group-title="🕌 Religious",PK: BARKAT TV
+http://mxonlive.xyz/live/xap/110046.m3u8?e=1781986593&token=446ca201c2c1f3f7a40d0dee784d5dfdae6c9f29e4dc07652c187810e63d1600
+#EXTINF:-1 tvg-name="PK: Minhaj TV HD*" group-title="🕌 Religious",PK: Minhaj TV HD*
+http://mxonlive.xyz/live/xap/110047.m3u8?e=1781986593&token=953b93628af4778ff7c9cf2c0da37d180cae82fc5786382fccf45a3726131fc9
+#EXTINF:-1 tvg-name="PK: NOOR TV" group-title="🕌 Religious",PK: NOOR TV
+http://mxonlive.xyz/live/xap/92.m3u8?e=1781986593&token=7ff3e0a48aec3708465f9849dea6dad751f6813c6d27ba22db6aff02970c6f5a
+#EXTINF:-1 tvg-name="PK: Raham Tv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🕌 Religious",PK: Raham Tv
+http://mxonlive.xyz/live/xap/103658.m3u8?e=1781986593&token=4a27bc95e643d090bd301fb60b85326a6d13d1daebc2bb7ad306370c777581e0
+#EXTINF:-1 tvg-name="PK: Takbeer TV" group-title="🕌 Religious",PK: Takbeer TV
+http://mxonlive.xyz/live/xap/54961.m3u8?e=1781986593&token=37ff4d64cd8125c5994c8f08759039d076f627669bd29fe011e26ee4d19fb09b
+#EXTINF:-1 tvg-name="PkInd-regional: AAHOMUSIC" group-title="🕌 Religious",PkInd-regional: AAHOMUSIC
+http://mxonlive.xyz/live/xap/246166.m3u8?e=1781986593&token=6d2857c0f1a87066284572107b4ee69ea2cd4da4111c2a45982e4624e10c59dc
+#EXTINF:-1 tvg-name="Qaim TV HD" group-title="🕌 Religious",Qaim TV HD
+http://mxonlive.xyz/live/xap/444409.m3u8?e=1781986593&token=20b9cc0eb062ca940a31f7c331cd8bd1e8af9c41bfd08becb1d2cc96d2d8fbe5

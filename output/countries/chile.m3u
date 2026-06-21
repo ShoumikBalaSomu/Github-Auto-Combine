@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL5mpdPg/24h-es.png" group-title="🇨🇱 Chile - News",24 HORAS ESPAÑA
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/24HRSSD/default.mpd
 #EXTINF:-1 tvg-name="CL: 24 Horas" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d03f92f5fdc2107d32e3e6f00a0dd6ba.png" group-title="🇨🇱 Chile - News",CL: 24 Horas
 http://mxonlive.xyz/live/xap/349078.m3u8?e=1781986593&token=7f2778ff5ed050db19653f19bfc96d4d437ecd857bbd2c93b7d667ab13379496
 #EXTINF:-1 tvg-name="CL: ChileVision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/5fd29cb69e62e4eb3ad7cdf1ef1356b4.png" group-title="🇨🇱 Chile",CL: ChileVision

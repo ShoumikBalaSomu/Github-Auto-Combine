@@ -1,3 +1,453 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="🇿🇦 South Africa - Sports",M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-name="Af | DSTV: 1 KZN" tvg-logo="http://vod-logo.net/photos/698f6461fd143d2be5edf7156b543198.jpg" group-title="🇿🇦 South Africa",Af | DSTV: 1 KZN
+http://mxonlive.xyz/live/xap/238617.m3u8?e=1781986593&token=afeecd89ff4d48d70d181782dedf8884dc90c0abc2746b3ae5999371e7b6fb5c
+#EXTINF:-1 tvg-id="1magic.za" tvg-name="Af | DSTV: 1 Magic" tvg-logo="http://vod-logo.net/photos/00cd9d325755d0ca77695cbd08cc6bee.png" group-title="🇿🇦 South Africa",Af | DSTV: 1 Magic
+http://mxonlive.xyz/live/xap/238583.m3u8?e=1781986593&token=a19fc687cf6659d189ade7865a665079f520375b65291bfea197cfdcb1d1fc8e
+#EXTINF:-1 tvg-name="Af | DSTV: Africa Magic Family" tvg-logo="http://vod-logo.net/photos/6ae24f98e4e8a62a5262ddfada7a5911.png" group-title="🇿🇦 South Africa",Af | DSTV: Africa Magic Family
+http://mxonlive.xyz/live/xap/238600.m3u8?e=1781986593&token=dccecfec66133c9e027ae1f2a6811c4587d100cd72607c54c6907085115773bf
+#EXTINF:-1 tvg-name="Af | DSTV: Africa Magic Hausa*" group-title="🇿🇦 South Africa",Af | DSTV: Africa Magic Hausa*
+http://mxonlive.xyz/live/xap/238599.m3u8?e=1781986593&token=30c977f06b83d94bbcc55ab4932cd12de3b6969d0a06d127657642fe5e78926b
+#EXTINF:-1 tvg-name="Af | DSTV: Africa Magic lgbo" group-title="🇿🇦 South Africa",Af | DSTV: Africa Magic lgbo
+http://mxonlive.xyz/live/xap/238596.m3u8?e=1781986593&token=4caee773873888ad70d4087293ee1f513e35b1fb50a3670686435497811c1da1
+#EXTINF:-1 tvg-id="africamagicurban.za" tvg-name="Af | DSTV: Africa Magic Urban" tvg-logo="http://vod-logo.net/photos/bba84ff7c721b10508ec95b527b0b62c.png" group-title="🇿🇦 South Africa",Af | DSTV: Africa Magic Urban
+http://mxonlive.xyz/live/xap/238595.m3u8?e=1781986593&token=59e2835ddaa71c730f4cf82fdf1be2279c3a288b20db205e3ad4baa6553b1d40
+#EXTINF:-1 tvg-name="Af | DSTV: Africa Magic Yoruba" group-title="🇿🇦 South Africa",Af | DSTV: Africa Magic Yoruba
+http://mxonlive.xyz/live/xap/238601.m3u8?e=1781986593&token=1530b4f051e15c1214e5409d99011befd1a46f50de34ac6d234085f7b05a2076
+#EXTINF:-1 tvg-name="Af | DSTV: Africa News*" tvg-logo="http://vod-logo.net/photos/e4428889b68815ee3d818a294e4842b4.jpg" group-title="🇿🇦 South Africa - News",Af | DSTV: Africa News*
+http://mxonlive.xyz/live/xap/238521.m3u8?e=1781986593&token=287fde98f5f4ee99ad0272dfdc9097074af66c18769b62c08c207b2a584bf703
+#EXTINF:-1 tvg-name="Af | DSTV: BBC Life Style" tvg-logo="http://vod-logo.net/photos/24eb58612b1ba6e7688c8c92f6c9ac64.png" group-title="🇿🇦 South Africa",Af | DSTV: BBC Life Style
+http://mxonlive.xyz/live/xap/238555.m3u8?e=1781986593&token=6cd7628b0d9362156a37f74d73c35252773e293c490f304d2ab9a1c218958650
+#EXTINF:-1 tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="🇿🇦 South Africa - News",Af | DSTV: BBC World News
+http://mxonlive.xyz/live/xap/238506.m3u8?e=1781986593&token=3d493a76b0241882152168540f38124643bf24b31ae5e4c2927ae402a6bad683
+#EXTINF:-1 tvg-name="Af | DSTV: Big Brother Naija" group-title="🇿🇦 South Africa",Af | DSTV: Big Brother Naija
+http://mxonlive.xyz/live/xap/238613.m3u8?e=1781986593&token=8fe502f6e3cecd24e1426b54c5067ad55431ef14d8fa3e08a9a0faa82fd71dbe
+#EXTINF:-1 tvg-id="businessdaytv.za" tvg-name="Af | DSTV: Business Day TV" tvg-logo="http://vod-logo.net/photos/78492df948ed008f6a6d6fa70bd4e567.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Business Day TV
+http://mxonlive.xyz/live/xap/238518.m3u8?e=1781986593&token=1b4ab42cdf67053ca9616840d8c73d18c272af08b91ab04066210f9e719b5648
+#EXTINF:-1 tvg-name="Af | DSTV: Cape Town TV" tvg-logo="http://vod-logo.net/photos/36f88975199c43ecc3277c38f1e070f6.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Cape Town TV
+http://mxonlive.xyz/live/xap/238619.m3u8?e=1781986593&token=6ac5d34c04d74d231c250c05a08863911c028da39f2b7604b2cbe9ebc89038ae
+#EXTINF:-1 tvg-name="Af | DSTV: Channel O" tvg-logo="http://vod-logo.net/photos/01302e16b5850b55eb8f5c59f7237c9f.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Channel O
+http://mxonlive.xyz/live/xap/238635.m3u8?e=1781986593&token=11a015442638da70ce235478bd4d52732bd8b741fea232c5f32cd611337b6ac2
+#EXTINF:-1 tvg-id="curiositystream.za" tvg-name="Af | DSTV: Curiosity Stream HD" tvg-logo="http://vod-logo.net/photos/10777c410e07e1b8949c400de9b27e66.png" group-title="🇿🇦 South Africa",Af | DSTV: Curiosity Stream HD
+http://mxonlive.xyz/live/xap/238549.m3u8?e=1781986593&token=22fd024d5a8b7978d4442c46908005e28b94b26076ba0ee7f3bdeae7f57658f7
+#EXTINF:-1 tvg-name="Af | DSTV: Da Vinci" tvg-logo="http://vod-logo.net/photos/3b25db8168d1262652e118563e985ac2.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Da Vinci
+http://mxonlive.xyz/live/xap/238536.m3u8?e=1781986593&token=0591a22834dc21367233a5c5c96a1ae7b3366d62d4827406b879857d57cb60cd
+#EXTINF:-1 tvg-name="Af | DSTV: Day Star" tvg-logo="http://vod-logo.net/photos/bd78f8860a29ac0cb8a689a0bc5ed83d.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Day Star
+http://mxonlive.xyz/live/xap/238564.m3u8?e=1781986593&token=7fffd69ac16bca570a671ef37d5b40c12dea02f8c8f10c4c8e27cb1fa4a39494
+#EXTINF:-1 tvg-id="deutsche.welle.za" tvg-name="Af | DSTV: Deutsche Welle*" group-title="🇿🇦 South Africa",Af | DSTV: Deutsche Welle*
+http://mxonlive.xyz/live/xap/238523.m3u8?e=1781986593&token=59118a5716963fc97a5d89e46aa2a0aa2ea081275999862c2cb9fb352bc22b0b
+#EXTINF:-1 tvg-id="dumisa.za" tvg-name="Af | DSTV: Dumisa" tvg-logo="http://vod-logo.net/photos/fb1ab533875951cc24b305df08449589.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Dumisa
+http://mxonlive.xyz/live/xap/238562.m3u8?e=1781986593&token=fa5eb45ec1d4c82f45c40eab1f789be5a08ef7e81ba27ad1d3bd6db5b769fa4e
+#EXTINF:-1 tvg-id="eentertainment.za" tvg-name="Af | DSTV: E!" tvg-logo="http://www.vod-logo.net/photos/6aa7dc9c2e3aac3fafd36027cd8a8046.jpg" group-title="🇿🇦 South Africa",Af | DSTV: E!
+http://mxonlive.xyz/live/xap/238552.m3u8?e=1781986593&token=1bd5483e080ce5f578157ac05123d65b5b6b83cf69f989c4b500004802c9545b
+#EXTINF:-1 tvg-id="etv.za" tvg-name="Af | DSTV: E.TV" tvg-logo="http://vod-logo.net/photos/4adeba9653b516e7db19bbc7c0af1904.png" group-title="🇿🇦 South Africa",Af | DSTV: E.TV
+http://mxonlive.xyz/live/xap/238611.m3u8?e=1781986593&token=10aaf0de96b6b692acdb7a0e8a6ad37237e44c641c9aa03df8c02f7dfad24644
+#EXTINF:-1 tvg-id="emmanueltv.za" tvg-name="Af | DSTV: Emmanuel TV" tvg-logo="http://vod-logo.net/photos/5639ffbbe54e91f4f4ab79a1a0068d78.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Emmanuel TV
+http://mxonlive.xyz/live/xap/238567.m3u8?e=1781986593&token=35b57bcd2584a9bae9d72fb1dc09fae8e45fa752cca1ddb88e3304688e405404
+#EXTINF:-1 tvg-id="emovies.za" tvg-name="Af | DSTV: eMovies" tvg-logo="http://vod-logo.net/photos/e7a2ddd17906fcc18c9c2709ba037c21.png" group-title="🇿🇦 South Africa",Af | DSTV: eMovies
+http://mxonlive.xyz/live/xap/238588.m3u8?e=1781986593&token=56996f4c0599c2d27bd37df666d5fa497f21e02387aebaa7b44e7b247bf32fb6
+#EXTINF:-1 tvg-id="emovies.extra.za" tvg-name="Af | DSTV: eMovies Extra" tvg-logo="http://vod-logo.net/photos/e553f373bbff68133d5eede38dcd4969.jpg" group-title="🇿🇦 South Africa",Af | DSTV: eMovies Extra
+http://mxonlive.xyz/live/xap/238589.m3u8?e=1781986593&token=981c9768e25f149eb3f77534f01687f7525ae3c19382222586b5cc4adfee6ddf
+#EXTINF:-1 tvg-name="Af | DSTV: eNCA" tvg-logo="http://vod-logo.net/photos/1c0a697e99cfd8010795a0d50aaeda9d.png" group-title="🇿🇦 South Africa",Af | DSTV: eNCA
+http://mxonlive.xyz/live/xap/238509.m3u8?e=1781986593&token=9d18badfc6ca96ea36911b20b5bb1cae1e86ec7312b102c3e8f5a6aff1d83db6
+#EXTINF:-1 tvg-name="Af | DSTV: eToonz" tvg-logo="http://vod-logo.net/photos/1e9265b75de4df4649e1041a3fe7e664.png" group-title="🇿🇦 South Africa",Af | DSTV: eToonz
+http://mxonlive.xyz/live/xap/238534.m3u8?e=1781986593&token=cf386f24d7f5406ac9f493226ac3e899d17f4e4cb79a86300727ab1dc8ac9914
+#EXTINF:-1 tvg-name="Af | DSTV: EuroNews HD*" tvg-logo="http://vod-logo.net/photos/846b1e8e8fc954f45f69f444ff8320e0.jpg" group-title="🇿🇦 South Africa",Af | DSTV: EuroNews HD*
+http://mxonlive.xyz/live/xap/238520.m3u8?e=1781986593&token=91da668c1175bb5ee087e03d2c3f7668b8c67f4a77f34323d8d8228dddc1ce36
+#EXTINF:-1 tvg-id="faith.za" tvg-name="Af | DSTV: Faith" tvg-logo="http://vod-logo.net/photos/67e0b90e75de055abdbe87a5a1a6e4f5.png" group-title="🇿🇦 South Africa",Af | DSTV: Faith
+http://mxonlive.xyz/live/xap/238563.m3u8?e=1781986593&token=725605859506970ff5f568f1f36e980f821f6d2e66628af985debd285f1b8dfd
+#EXTINF:-1 tvg-name="Af | DSTV: Gau TV" tvg-logo="http://vod-logo.net/photos/87a06f71eb2ac4b3edd004f7db806aaa.png" group-title="🇿🇦 South Africa",Af | DSTV: Gau TV
+http://mxonlive.xyz/live/xap/238620.m3u8?e=1781986593&token=1b6cee15837da8986453d6fa1a537d79fec1452f519947166749326b2c43a087
+#EXTINF:-1 tvg-id="honey.za" tvg-name="Af | DSTV: Honey*" group-title="🇿🇦 South Africa",Af | DSTV: Honey*
+http://mxonlive.xyz/live/xap/238554.m3u8?e=1781986593&token=9e3896b9ef1cd478e768245b33c731aa407e25f0c48f9f6cd88d5d14aeb58a68
+#EXTINF:-1 tvg-id="ignition.za" tvg-name="Af | DSTV: Ignition" tvg-logo="http://vod-logo.net/photos/21f85c22e354e72285b42519e35ea14b.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Ignition
+http://mxonlive.xyz/live/xap/238550.m3u8?e=1781986593&token=5c763af35c0dcc9b95ba4e5f2fd72d9dcf2b8df1a5f4c57251b251620b9d7612
+#EXTINF:-1 tvg-id="jimjam.za" tvg-name="Af | DSTV: JimJam" tvg-logo="http://vod-logo.net/photos/2d118c5a6885d8157a033b30ae6a5c9c.png" group-title="🇿🇦 South Africa",Af | DSTV: JimJam
+http://mxonlive.xyz/live/xap/238533.m3u8?e=1781986593&token=50563144b381bbe065572576b1355c1026abb79738d80f4eb76d8b536160737a
+#EXTINF:-1 tvg-name="Af | DSTV: KIX *" group-title="🇿🇦 South Africa",Af | DSTV: KIX *
+http://mxonlive.xyz/live/xap/238577.m3u8?e=1781986593&token=46979a42c6cbb119871f66fc6b9679030e2b9e3206debe79cee1f441cc9874f7
+#EXTINF:-1 tvg-id="kyknet.za" tvg-name="Af | DSTV: kyk NET" tvg-logo="http://vod-logo.net/photos/ab7f10dc855ce3c68688fb0851609cd4.jpg" group-title="🇿🇦 South Africa",Af | DSTV: kyk NET
+http://mxonlive.xyz/live/xap/238592.m3u8?e=1781986593&token=f90318e790523eab5cbaba8d51e9156a13e74093fe002c741cc41ab7f701e16a
+#EXTINF:-1 tvg-id="kyknetkie.za" tvg-name="Af | DSTV: kyk NET & Kie" tvg-logo="http://vod-logo.net/photos/216e5a0f30e114692c08ab52fb7e7301.png" group-title="🇿🇦 South Africa",Af | DSTV: kyk NET & Kie
+http://mxonlive.xyz/live/xap/238593.m3u8?e=1781986593&token=2c2b3b1517b922f564bbdfebaf745469ef1abb4ce87255862f727390e8deb4f5
+#EXTINF:-1 tvg-id="kyknetnou.za" tvg-name="Af | DSTV: kyk NET Nou!" tvg-logo="http://vod-logo.net/photos/e5a9f9eb6a601899f63972888cd6a71f.jpg" group-title="🇿🇦 South Africa",Af | DSTV: kyk NET Nou!
+http://mxonlive.xyz/live/xap/238634.m3u8?e=1781986593&token=6f87a8147223fc37dfd39f75d422d13624668a90d710081a91e05ea718073330
+#EXTINF:-1 tvg-name="Af | DSTV: Lesotho TV" tvg-logo="http://vod-logo.net/photos/b2cb37a93fbd5dc31e3a659e38f77b28.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Lesotho TV
+http://mxonlive.xyz/live/xap/238621.m3u8?e=1781986593&token=c26b65ae993072358ee7c061f082af91154a6955e280cdb023d116bb4db58175
+#EXTINF:-1 tvg-id="mnetcity.za" tvg-name="Af | DSTV: M-Net City" tvg-logo="http://vod-logo.net/photos/5a5a1ae280444781b3dbc3a9071f7b84.jpg" group-title="🇿🇦 South Africa",Af | DSTV: M-Net City
+http://mxonlive.xyz/live/xap/238628.m3u8?e=1781986593&token=469b173223ea17d8d179242f9515014b3045108524c235cefa22fe954a30d807
+#EXTINF:-1 tvg-name="Af | DSTV: M-Net HD" tvg-logo="http://vod-logo.net/photos/434afffd5a3425a2d763a7906bebdfe3.jpg" group-title="🇿🇦 South Africa",Af | DSTV: M-Net HD
+http://mxonlive.xyz/live/xap/238569.m3u8?e=1781986593&token=7a5107a2b6e7c0cf1a98227f59a53393ea50746e46dd4eb0fd3299d23967814b
+#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="Af | DSTV: M-Net Movies 1 HD" group-title="🇿🇦 South Africa - Movies",Af | DSTV: M-Net Movies 1 HD
+http://mxonlive.xyz/live/xap/238570.m3u8?e=1781986593&token=c02c6858e3a0ddfcdb39ec39d591461631016d9fd3a2a962afa8432760517afc
+#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="Af | DSTV: M-Net Movies 2 HD" group-title="🇿🇦 South Africa - Movies",Af | DSTV: M-Net Movies 2 HD
+http://mxonlive.xyz/live/xap/238571.m3u8?e=1781986593&token=9b6206a4bcc11c2024ca02fecd7e0957085871cd6bea1f7f6ae5224ea6601815
+#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="Af | DSTV: M-Net Movies 3 HD" group-title="🇿🇦 South Africa - Movies",Af | DSTV: M-Net Movies 3 HD
+http://mxonlive.xyz/live/xap/238572.m3u8?e=1781986593&token=2134a5d1fd4e5a5309d117138518b2a53a41c86de78c33c56c17d518c25da6d7
+#EXTINF:-1 tvg-id="mmovies4.za" tvg-name="Af | DSTV: M-Net Movies 4 HD" group-title="🇿🇦 South Africa - Movies",Af | DSTV: M-Net Movies 4 HD
+http://mxonlive.xyz/live/xap/238573.m3u8?e=1781986593&token=a43ba46a183676834043fc8a92ead3504812ecd1c2641691130815ea2ee768e3
+#EXTINF:-1 tvg-id="maisha.magic.movies.za" tvg-name="Af | DSTV: Maisha Magic Movies *" group-title="🇿🇦 South Africa - Movies",Af | DSTV: Maisha Magic Movies *
+http://mxonlive.xyz/live/xap/238597.m3u8?e=1781986593&token=a52a859afd5c3bc95c4574bed491862dabc32ca66edef3345ec3b36ab854a2d3
+#EXTINF:-1 tvg-id="me.za" tvg-name="Af | DSTV: Me HD*" group-title="🇿🇦 South Africa",Af | DSTV: Me HD*
+http://mxonlive.xyz/live/xap/238578.m3u8?e=1781986593&token=5b4b39a09419a6185a8d931b94d53bfb01d3af78cef343471a4e3980e52baff8
+#EXTINF:-1 tvg-name="Af | DSTV: Mindset Learn" tvg-logo="http://vod-logo.net/photos/3ba9233f5a1d41471fef39e850eb0fb8.png" group-title="🇿🇦 South Africa",Af | DSTV: Mindset Learn
+http://mxonlive.xyz/live/xap/238537.m3u8?e=1781986593&token=9ab1a21f2b2e6e82c346a5f824336a6040683445c28f9d5683e9e5cb9135a2e2
+#EXTINF:-1 tvg-id="mojalove.za" tvg-name="Af | DSTV: Moja Love*" tvg-logo="http://vod-logo.net/photos/838becb8ef56b43226c18572165e0e7d.png" group-title="🇿🇦 South Africa",Af | DSTV: Moja Love*
+http://mxonlive.xyz/live/xap/238627.m3u8?e=1781986593&token=e804c524782e2f09e35eb9acdd8682d83bf3a5e65f8dd56a34955d943e856c04
+#EXTINF:-1 tvg-id="mpuma.kapa.za" tvg-name="Af | DSTV: Mpuma Kapa TV*" group-title="🇿🇦 South Africa",Af | DSTV: Mpuma Kapa TV*
+http://mxonlive.xyz/live/xap/238616.m3u8?e=1781986593&token=8429974bebfe9e4fbe6963596d046a16dd8cf0b1ee414a238b24ac5345d1b8ce
+#EXTINF:-1 tvg-name="Af | DSTV: Mzansi Bioskop" tvg-logo="http://vod-logo.net/photos/911df55b0ec7f3588a667f169efc5769.png" group-title="🇿🇦 South Africa",Af | DSTV: Mzansi Bioskop
+http://mxonlive.xyz/live/xap/238603.m3u8?e=1781986593&token=b23ef8b8972a22a82053563479f68e110578880701123631a28c4d8467cc4599
+#EXTINF:-1 tvg-name="Af | DSTV: Mzansi Magic HD" tvg-logo="https://cdn.24.co.za/files/Cms/General/d/464/450c0d636a0c45deb8a078e36bd1bef3.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Mzansi Magic HD
+http://mxonlive.xyz/live/xap/383059.m3u8?e=1781986593&token=0707e1a01d92daf77e35f89de8fd533ac1403ba248f299db377e16cc7d39664c
+#EXTINF:-1 tvg-name="Af | DSTV: Mzansi Magic Music" tvg-logo="https://www.4rfv.com/4rfv_news_images/screenafrica_scripts/O3KBCJHLYFT5_0.jpg" group-title="🇿🇦 South Africa - Music",Af | DSTV: Mzansi Magic Music
+http://mxonlive.xyz/live/xap/238636.m3u8?e=1781986593&token=61ba649f6764bd161649d332f3b8681165d0bafe5aa80cb871f5734c7b826349
+#EXTINF:-1 tvg-name="Af | DSTV: Mzansi Wethu" group-title="🇿🇦 South Africa",Af | DSTV: Mzansi Wethu
+http://mxonlive.xyz/live/xap/238614.m3u8?e=1781986593&token=0d38e97c717fb84b7ac4fb6cfc4231361588686ffc9273f8fe2621edb98bf8a7
+#EXTINF:-1 tvg-name="Af | DSTV: Newzroom Afrika" tvg-logo="http://vod-logo.net/photos/2446945ef624259b0569fc5cde989f6b.png" group-title="🇿🇦 South Africa",Af | DSTV: Newzroom Afrika
+http://mxonlive.xyz/live/xap/238511.m3u8?e=1781986593&token=68d10925f37244a4c7be5abbaedcf614fd97147d8784fed09f916f0f15a4eee0
+#EXTINF:-1 tvg-name="Af | DSTV: NickToons HD" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" group-title="🇿🇦 South Africa",Af | DSTV: NickToons HD
+http://mxonlive.xyz/live/xap/238530.m3u8?e=1781986593&token=5e054b60b8c41b6389bcde4f1640d9432292d62e7f448b87fae7fabcd0ade775
+#EXTINF:-1 tvg-id="tlnovelas.za" tvg-name="Af | DSTV: Novela Magic*" group-title="🇿🇦 South Africa",Af | DSTV: Novela Magic*
+http://mxonlive.xyz/live/xap/238604.m3u8?e=1781986593&token=d4555af4df88c51af0b8166f75c84ba5fc8dee02d181279fc1cd3f76a75c2007
+#EXTINF:-1 tvg-name="Af | DSTV: Parliamentary Service" tvg-logo="http://vod-logo.net/photos/5945dd2366734df9bac2323a210d6db4.png" group-title="🇿🇦 South Africa",Af | DSTV: Parliamentary Service
+http://mxonlive.xyz/live/xap/238514.m3u8?e=1781986593&token=dfad506b1b2f6b0a16cad2e22f5fddbe6a35ec3ae3cae7ae792edddcc7c7c87e
+#EXTINF:-1 tvg-name="Af | DSTV: People Weather" group-title="🇿🇦 South Africa",Af | DSTV: People Weather
+http://mxonlive.xyz/live/xap/238548.m3u8?e=1781986593&token=377ac0acb9d3994240260b6cd75d355dab9d2f72dd24820ae5a63498faf423ca
+#EXTINF:-1 tvg-name="Af | DSTV: Real Time*" tvg-logo="http://vod-logo.net/photos/e4fdb86ac48c6043587f7682fd479688.png" group-title="🇿🇦 South Africa",Af | DSTV: Real Time*
+http://mxonlive.xyz/live/xap/238626.m3u8?e=1781986593&token=3524b491e7d8719f772a99783b7f2967b0f070a77c9e9034aacd86457dc87587
+#EXTINF:-1 tvg-name="Af | DSTV: ROK" tvg-logo="http://vod-logo.net/photos/914d373c2e92f585242cde572acba905.png" group-title="🇿🇦 South Africa",Af | DSTV: ROK
+http://mxonlive.xyz/live/xap/238607.m3u8?e=1781986593&token=280f6212e9484ee9544cda903e5a29d5eb1f4209281bf92c464ae8b76367556d
+#EXTINF:-1 tvg-name="Af | DSTV: SABC 1" tvg-logo="http://vod-logo.net/photos/5cf641f254f828c781ebad0fb873a615.jpg" group-title="🇿🇦 South Africa",Af | DSTV: SABC 1
+http://mxonlive.xyz/live/xap/238608.m3u8?e=1781986593&token=66e9c7bb9b5afbf5b2dcd09c494d78f440a5231126ede5a5dcbf1f2d472bc46b
+#EXTINF:-1 tvg-name="Af | DSTV: SABC 2" tvg-logo="http://vod-logo.net/photos/b7752374a2031d881db62edd5e42da86.jpg" group-title="🇿🇦 South Africa",Af | DSTV: SABC 2
+http://mxonlive.xyz/live/xap/238609.m3u8?e=1781986593&token=31b2ddaf4b83f425adc34cbd07766af1a0fbc29b9fd25fc95d0356aaab2f9a58
+#EXTINF:-1 tvg-id="sabc3.za" tvg-name="Af | DSTV: SABC 3" tvg-logo="http://vod-logo.net/photos/8e6750e0e6fafc0299cdc0a51a68e51c.png" group-title="🇿🇦 South Africa",Af | DSTV: SABC 3
+http://mxonlive.xyz/live/xap/238610.m3u8?e=1781986593&token=6f50b6870cbd174a07e82efc7a17711b583748776d1f5ffc1131a5e4ca6a66d6
+#EXTINF:-1 tvg-id="sabcnews.za" tvg-name="Af | DSTV: SABC News" tvg-logo="http://vod-logo.net/photos/8207d9a756d883b6119d1c43eed3cfe1.jpg" group-title="🇿🇦 South Africa - News",Af | DSTV: SABC News
+http://mxonlive.xyz/live/xap/238510.m3u8?e=1781986593&token=111e522047a39bd0f0cb721e4626993d9118a8f8e2756621fc858768a947d360
+#EXTINF:-1 tvg-name="Af | DSTV: Sound City" tvg-logo="http://vod-logo.net/photos/e5bf7d1f76acaaf5fc4400175e8bf31a.png" group-title="🇿🇦 South Africa",Af | DSTV: Sound City
+http://mxonlive.xyz/live/xap/238643.m3u8?e=1781986593&token=d4cf82449eb011a793e7503fe4b07e12d6bb533fa65effa31c09c49f583b5694
+#EXTINF:-1 tvg-name="Af | DSTV: Soweto TV" tvg-logo="http://vod-logo.net/photos/aaca76d54bbcc3ffb078467b8683e4d5.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Soweto TV
+http://mxonlive.xyz/live/xap/238615.m3u8?e=1781986593&token=86dfa8dae054ba73a21a4bfcf0a4d2f01611210d4a3b0dfe3a9c7530b58e6680
+#EXTINF:-1 tvg-id="spicetv.za" tvg-name="Af | DSTV: Spice TV" tvg-logo="http://vod-logo.net/photos/20f4f8d9811a4a5adc90f3704534f3ea.png" group-title="🇿🇦 South Africa",Af | DSTV: Spice TV
+http://mxonlive.xyz/live/xap/238560.m3u8?e=1781986593&token=98ba47c876a306bf81858d8e6d171a8a36874f9013cf1787508c2361ba14d6a1
+#EXTINF:-1 tvg-id="star.life.za" tvg-name="Af | DSTV: Star Life" tvg-logo="http://vod-logo.net/photos/137dccb8f6ae5eada43d6fc1d2545622.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Star Life
+http://mxonlive.xyz/live/xap/238606.m3u8?e=1781986593&token=24f8f07589e14cce7b51c13d8cf78a3e59fc43cd59a17d7cdd13044f1f6b3c57
+#EXTINF:-1 tvg-id="studiouniversal.za" tvg-name="Af | DSTV: Studio Universal" tvg-logo="http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png" group-title="🇿🇦 South Africa",Af | DSTV: Studio Universal
+http://mxonlive.xyz/live/xap/238576.m3u8?e=1781986593&token=6d76ed5cc73ac0e5a05d56bef10ba097c19dcab0d61c0cc960ed9187f833acd7
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="Af | DSTV: Super Sports Action" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Action
+http://mxonlive.xyz/live/xap/238485.m3u8?e=1781986593&token=7bffd4e74bac2c8042d879a68d7926a014aab132813524fb88d916520cf7c049
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="Af | DSTV: Super Sports Blitz" tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Blitz
+http://mxonlive.xyz/live/xap/238487.m3u8?e=1781986593&token=5c07da12af5536d6cc959d6d10e4b8c61c5d7a17205922db544db6494fa28385
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="Af | DSTV: Super Sports Cricket" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Cricket
+http://mxonlive.xyz/live/xap/238475.m3u8?e=1781986593&token=bf06952a667f69a6606b50c6ffa3414d563258e9faee6c37a12c57caa1821997
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="Af | DSTV: Super Sports Football" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Football
+http://mxonlive.xyz/live/xap/238480.m3u8?e=1781986593&token=ead3b3fe4a599d0cac66f961f6a59972517dcb1e0a688edc3f5942b471779f7b
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="Af | DSTV: Super Sports Golf" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Golf
+http://mxonlive.xyz/live/xap/238488.m3u8?e=1781986593&token=ac29f2fbcb73b6dde024afb40d8ba2795ca947526b0ad27156f9bdf7c0baeec5
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="Af | DSTV: Super Sports Grand Stand" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Grand Stand
+http://mxonlive.xyz/live/xap/238476.m3u8?e=1781986593&token=b3f80be8aa2e376b815b71f1ff87b44f8a2556f384cb6884e91588fa7f5b4347
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports La Liga
+http://mxonlive.xyz/live/xap/238479.m3u8?e=1781986593&token=26d9317d0f7ef10b349b1fbebb6ab3942446f7f896483391006f3506ba056ba0
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="Af | DSTV: Super Sports MotorSports" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports MotorSports
+http://mxonlive.xyz/live/xap/238490.m3u8?e=1781986593&token=c55855e4b61e0a7822a758fa108f8ca05d57d529026de111a53d4243d41c5ef9
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Premier League
+http://mxonlive.xyz/live/xap/238478.m3u8?e=1781986593&token=f23ae653b024942b5a2482caac112ebb75288a8c0000579751b2c9a85a09c60a
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="Af | DSTV: Super Sports Rugby" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Rugby
+http://mxonlive.xyz/live/xap/238486.m3u8?e=1781986593&token=a1c85d3a19673f65450163f87016e08fef285c929f74723a75f642fe2777e38e
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="Af | DSTV: Super Sports Tennis" tvg-logo="http://vod-logo.net/photos/581f4c3bf17495aed6fe7df81e478a86.jpg" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Tennis
+http://mxonlive.xyz/live/xap/238489.m3u8?e=1781986593&token=21f56d2e67d6a6776741059393e38ca9bc74eecbd5f00d2e063489887c0823e1
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="Af | DSTV: Super Sports Variety 1" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Variety 1
+http://mxonlive.xyz/live/xap/238481.m3u8?e=1781986593&token=4574773f6625feb9d11a37fe90c2bfcaaeb505b2568d9b90e23a091d9b729447
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="Af | DSTV: Super Sports Variety 2" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Variety 2
+http://mxonlive.xyz/live/xap/238482.m3u8?e=1781986593&token=9bef1c27618328fc4b755a8add540423cf2e59a167bf17dd9018b43f0275d403
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="Af | DSTV: Super Sports Variety 3" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Variety 3
+http://mxonlive.xyz/live/xap/238483.m3u8?e=1781986593&token=587f96f9631987c3bfe1aedaca208cf573cea98acd264ea07453136c09aa694e
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="Af | DSTV: Super Sports Variety 4" tvg-logo="http://vod-logo.net/photos/ba7b6c2a20cad542fcd0e712cbe9fc08.jpg" group-title="🇿🇦 South Africa - Sports",Af | DSTV: Super Sports Variety 4
+http://mxonlive.xyz/live/xap/238484.m3u8?e=1781986593&token=2e024aee84526d838819f63703b70533d6b78185dd4165775b0db9a60932581d
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="Af | DSTV: SuperSport Maximo 1" tvg-logo="http://vod-logo.net/photos/0156bdbd85cb9e551f0afb40a246a8c0.jpg" group-title="🇿🇦 South Africa - Sports",Af | DSTV: SuperSport Maximo 1
+http://mxonlive.xyz/live/xap/238493.m3u8?e=1781986593&token=030fac082f0e249a69b2bc6eb15b78a260940a14d8503f953d846c42c2b39663
+#EXTINF:-1 tvg-id="tbn.za" tvg-name="Af | DSTV: TBN Africa" tvg-logo="http://vod-logo.net/photos/3413dded0f550fd03756604fee6722b4.jpg" group-title="🇿🇦 South Africa",Af | DSTV: TBN Africa
+http://mxonlive.xyz/live/xap/238565.m3u8?e=1781986593&token=65136e815ec42e7af59c5db52cb8c53fda396504e0c82a71b1f37f389db8b32f
+#EXTINF:-1 tvg-id="telemundo.za" tvg-name="Af | DSTV: Telemundo*" tvg-logo="http://vod-logo.net/photos/809866eda5da5edbb8404d43badd1aa8.png" group-title="🇿🇦 South Africa",Af | DSTV: Telemundo*
+http://mxonlive.xyz/live/xap/238580.m3u8?e=1781986593&token=c455dda187dd72a5ca51efe50295cfa7cd0ad6f6e623fbf38c0421b495791288
+#EXTINF:-1 tvg-id="thehomechannel.za" tvg-name="Af | DSTV: The Home Channel" tvg-logo="http://vod-logo.net/photos/6b08c2fbdf47781a81c85bc02d69eedd.jpg" group-title="🇿🇦 South Africa",Af | DSTV: The Home Channel
+http://mxonlive.xyz/live/xap/238557.m3u8?e=1781986593&token=bab136cdd4e67a8cfb25b7149c44d7c9017ed44c3f7e156d130a08cc315b928f
+#EXTINF:-1 tvg-id="1kzn.za" tvg-name="Af | DSTV: TLNovelas*" group-title="🇿🇦 South Africa",Af | DSTV: TLNovelas*
+http://mxonlive.xyz/live/xap/238586.m3u8?e=1781986593&token=f6e405b622f7fdc457b8d93b9771b3a2fcb1152b1f9fa3cea4de4526325e5c1b
+#EXTINF:-1 tvg-name="Af | DSTV: Trace Africa*" tvg-logo="http://vod-logo.net/photos/d27711c47bae340da370a666371e723a.JPG" group-title="🇿🇦 South Africa - Music",Af | DSTV: Trace Africa*
+http://mxonlive.xyz/live/xap/238640.m3u8?e=1781986593&token=28c4b86d873bf8677fc15574884a6e8efac2ae33d1fb261d1d1475ea0e40027a
+#EXTINF:-1 tvg-id="trace.gospel.za" tvg-name="Af | DSTV: Trace Gospel*" tvg-logo="http://vod-logo.net/photos/5df4c07b2b191460bf431d3383963fb5.JPG" group-title="🇿🇦 South Africa - Music",Af | DSTV: Trace Gospel*
+http://mxonlive.xyz/live/xap/238641.m3u8?e=1781986593&token=0661dad14a69af95a6dd3355e99172b9bfa515de71a60e44a8eeae0106dd2568
+#EXTINF:-1 tvg-name="Af | DSTV: Trace Urban*" tvg-logo="http://www.vod-logo.net/photos/3954377f44bff1dde14365ee3358e505.JPG" group-title="🇿🇦 South Africa - Music",Af | DSTV: Trace Urban*
+http://mxonlive.xyz/live/xap/238642.m3u8?e=1781986593&token=b0e14c6c82d900c3fb9507bebe2c95f47518677ab48621fab3f8497485caf75b
+#EXTINF:-1 tvg-name="Af | DSTV: Tshwane TV" tvg-logo="http://vod-logo.net/photos/18f364f9b8b46109f5241039c374b3a6.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Tshwane TV
+http://mxonlive.xyz/live/xap/238618.m3u8?e=1781986593&token=bf9ae24db3348572baf73709445c41f065eadd7809563db3fc9c19b30c5c0785
+#EXTINF:-1 tvg-id="universalchannel.za" tvg-name="Af | DSTV: Universal TV HD" tvg-logo="http://vod-logo.net/photos/d9034bab2e748b3317f7e47a9ed3c75d.png" group-title="🇿🇦 South Africa",Af | DSTV: Universal TV HD
+http://mxonlive.xyz/live/xap/238579.m3u8?e=1781986593&token=cdfacb904335d97456ab482966cead1caff024bb5a5eb0fe1cfd89294420800e
+#EXTINF:-1 tvg-name="Af | DSTV: VIA" group-title="🇿🇦 South Africa",Af | DSTV: VIA
+http://mxonlive.xyz/live/xap/238553.m3u8?e=1781986593&token=5231e5dd24ea87306c79fa856ab5b80f1f102224adb9e12716ce3c35ab9a1c3e
+#EXTINF:-1 tvg-id="natgeowild.za" tvg-name="Af | DSTV: Wild Earth*" group-title="🇿🇦 South Africa",Af | DSTV: Wild Earth*
+http://mxonlive.xyz/live/xap/238545.m3u8?e=1781986593&token=552549409703530f5d000a0ed115b9e6bd860f605b9f596a27c8a545a87d678f
+#EXTINF:-1 tvg-name="Af | DSTV: Zee World" tvg-logo="http://vod-logo.net/photos/11bd2de00ea89eadae739ea2dd518d99.jpg" group-title="🇿🇦 South Africa",Af | DSTV: Zee World
+http://mxonlive.xyz/live/xap/238605.m3u8?e=1781986593&token=f83ee52048373868eca76c1a4adaeadac84d1743f5a4df5bb8a5156d0540fcfb
+#EXTINF:-1 tvg-name="AL: SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd40a0c54e5a3acb0ffce128dc90de94.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 1
+http://mxonlive.xyz/live/xap/347814.m3u8?e=1781986593&token=18449b118238ad996037bfd7efabcfb0da66980b03d1a45eaea9e858cd4ba286
+#EXTINF:-1 tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 2
+http://mxonlive.xyz/live/xap/347815.m3u8?e=1781986593&token=8baa8016666acb3559c3989edac88747bf312f562a1198c2b0b9d87cfbd0795b
+#EXTINF:-1 tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 3
+http://mxonlive.xyz/live/xap/347816.m3u8?e=1781986593&token=97e0729242ff25f7203b2038c0360150ded6a98c202dc6f97143a5341f29c538
+#EXTINF:-1 tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 4
+http://mxonlive.xyz/live/xap/347817.m3u8?e=1781986593&token=c67f4d2ee26d4a6f88dfae9082c68878710a0af4b0f81a0c9dd9fd9459aeb977
+#EXTINF:-1 tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 5
+http://mxonlive.xyz/live/xap/347818.m3u8?e=1781986593&token=6d319e80b7da707044dda95391f046682e480108070685fa3ced448a54e66141
+#EXTINF:-1 tvg-name="AL: SuperSport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 6
+http://mxonlive.xyz/live/xap/347819.m3u8?e=1781986593&token=146d4b9e16151898064f4f7a9fa641fc4605b5603c4bd1e4523792ad94366e00
+#EXTINF:-1 tvg-name="AL: SuperSport 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" group-title="🇿🇦 South Africa - Sports",AL: SuperSport 7
+http://mxonlive.xyz/live/xap/347820.m3u8?e=1781986593&token=28e48943d66212cc1a4395daba1412333504cf2d22744eef2fc639216478a834
+#EXTINF:-1 tvg-name="AL: SuperSport News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/aefe50d9ab73b8233ce7f0bf3c44880b.png" group-title="🇿🇦 South Africa - News",AL: SuperSport News
+http://mxonlive.xyz/live/xap/347821.m3u8?e=1781986593&token=055a720b081ac25c55e419a2802121aed866524ed33363210884feea98b2343c
+#EXTINF:-1 tvg-name="BG: DSTV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/87019fb03395073b010fb99852d4ab89.png" group-title="🇿🇦 South Africa",BG: DSTV
+http://mxonlive.xyz/live/xap/348833.m3u8?e=1781986593&token=294c8787cbb21cbfcda91616924d70ed69a99891ea9ed2d4d69a26c8023b1e6b
+#EXTINF:-1 tvg-name="BG: MNet Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/4b98d1a65614ceeda2c05958e1629dad.jpeg" group-title="🇿🇦 South Africa - Sports",BG: MNet Sport
+http://mxonlive.xyz/live/xap/348836.m3u8?e=1781986593&token=3697562b43ff6781951a6113868ba5eed4cf0707b2a5b2dd4a7d6120dfaa2a2e
+#EXTINF:-1 tvg-name="DSTV: Super Sports Golf" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="🇿🇦 South Africa - Sports",DSTV: Super Sports Golf
+http://mxonlive.xyz/live/xap/244980.m3u8?e=1781986593&token=074db05278b847f2e6dd048eb504a66a8a7868ef24bebf82021d537c5f7ca987
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: Super Sports PSL" tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="🇿🇦 South Africa - Sports",DSTV: Super Sports PSL
+http://mxonlive.xyz/live/xap/238477.m3u8?e=1781986593&token=d196f315921a0bfe8986b501b09256441bc318bc483741a35fe3023da3885d43
+#EXTINF:-1 tvg-name="DSTV: Super Sports Tennis" group-title="🇿🇦 South Africa - Sports",DSTV: Super Sports Tennis
+http://mxonlive.xyz/live/xap/245016.m3u8?e=1781986593&token=a8cfb94d9f7601e2d911499a0d86e63a2b59ee9f3777ca21fc5c9632867a7604
+#EXTINF:-1 tvg-id="SupersportPlayAfrica.ke" tvg-name="DSTV: SuperSport Play" tvg-logo="https://angorussia.com/wp-content/uploads/2020/08/supersport.png" group-title="🇿🇦 South Africa - Sports",DSTV: SuperSport Play
+http://mxonlive.xyz/live/xap/222370.m3u8?e=1781986593&token=2df3f404c64ad72614a2b68f25e96c1534abb0d1f5d525916c2d8a4a5a27136c
+#EXTINF:-1 tvg-name="FR: TRACE Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/207f9c97e6e7727b4750652cb2c6a395.png" group-title="🇿🇦 South Africa - Music",FR: TRACE Africa
+http://mxonlive.xyz/live/xap/350042.m3u8?e=1781986593&token=9bab13f9db457e383870406ab7ea9a35645c0d209968fa9c051e56d33eff047d
+#EXTINF:-1 tvg-name="MK: MNet Gourmet" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇿🇦 South Africa",MK: MNet Gourmet
+http://mxonlive.xyz/live/xap/352054.m3u8?e=1781986593&token=8346cd1838a72288c8cc62394b283a491f84d4619c7b87717806354468c5a0c4
+#EXTINF:-1 tvg-name="MK: MNet Info" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/bfe2acbe457fde2696c4c382a5251f68.webp" group-title="🇿🇦 South Africa - News",MK: MNet Info
+http://mxonlive.xyz/live/xap/352055.m3u8?e=1781986593&token=8fbf7a1a1f183bbb1bec068a9003c018ed9a49c031355e9d4dbb68325e7b4154
+#EXTINF:-1 tvg-name="MK: MNet Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dae22977ee2eed7179fb5fdc1637cfae.png" group-title="🇿🇦 South Africa - Kids",MK: MNet Kids
+http://mxonlive.xyz/live/xap/352056.m3u8?e=1781986593&token=78ce1f9c904c7bc280137ca7557db03e8b58c3b774c7fac63752ce3452038e19
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="http://logo.opplextv.com/logo/SuperSportCricket.png" group-title="🇿🇦 South Africa - Sports",SuperSport Cricket
+http://mxonlive.xyz/live/xap/167592.m3u8?e=1781986593&token=bc2e6301766ac5c79fcf5223a3d559c39417b3397ae191682062eeb62e252466
+#EXTINF:-1 tvg-name="ZA: 1 Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/864b1c51e5dacc8086d5d6afcf69fcab.png" group-title="🇿🇦 South Africa",ZA: 1 Magic
+http://mxonlive.xyz/live/xap/353837.m3u8?e=1781986593&token=ac043ef1a05e9b8109bc068a735b1769e3b4e704e3c53c9929e292fb7d38e21c
+#EXTINF:-1 tvg-name="ZA: 1KZN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d4ed9a2feafef8f170ae323fc27e4b54.png" group-title="🇿🇦 South Africa",ZA: 1KZN TV
+http://mxonlive.xyz/live/xap/353838.m3u8?e=1781986593&token=109adc57a4824309ceba94d5ca141c188885b85997370f7abf84e64b0e05f324
+#EXTINF:-1 tvg-name="ZA: A12 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9824243c2eb4377c60fb27fa282f12b9.png" group-title="🇿🇦 South Africa",ZA: A12 TV
+http://mxonlive.xyz/live/xap/353839.m3u8?e=1781986593&token=163b51465eb263318ce698fad34edc9248b17afe7e09fcf9d7675639aa010183
+#EXTINF:-1 tvg-name="ZA: Africa Magic Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/81b8d8be1f349847314b6790d2d2b541.png" group-title="🇿🇦 South Africa",ZA: Africa Magic Family
+http://mxonlive.xyz/live/xap/353841.m3u8?e=1781986593&token=35f0e78dc52c00a820b2daf8c6771c9a066506f41ffb494847d6b2d84ede673b
+#EXTINF:-1 tvg-name="ZA: Africa Magic Hausa" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/0abe87c8420a994fbd1c26a94ef96254.jpg" group-title="🇿🇦 South Africa",ZA: Africa Magic Hausa
+http://mxonlive.xyz/live/xap/353842.m3u8?e=1781986593&token=435e6752472cbeda8ab70dc938a242c2c9270bae0da0102da347f42d30c723e8
+#EXTINF:-1 tvg-name="ZA: Africa Magic Igbo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/9539216f12772641e28c2dc8ca93cf7c.png" group-title="🇿🇦 South Africa",ZA: Africa Magic Igbo
+http://mxonlive.xyz/live/xap/353843.m3u8?e=1781986593&token=bd3e729e715ddb0fbb445e0ef01e1c735bd24c141b40cada9d445d1c9585fb05
+#EXTINF:-1 tvg-name="ZA: Africa Magic URBAN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/38a1c8eacde498cdbde101ef3cc2a011.png" group-title="🇿🇦 South Africa",ZA: Africa Magic URBAN
+http://mxonlive.xyz/live/xap/353845.m3u8?e=1781986593&token=c7f55fd588ec9eb7df820c63fb31fd2cc4ab323ef9d48d4c71038d8e2911f48d
+#EXTINF:-1 tvg-name="ZA: Africa Magic Yoruba" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0efcae6944fc84d6b81b377240976bfe.png" group-title="🇿🇦 South Africa",ZA: Africa Magic Yoruba
+http://mxonlive.xyz/live/xap/353846.m3u8?e=1781986593&token=04959c3906feefb3f3ee07dacba8f446b6317c957ba0b500246e2971ae55d050
+#EXTINF:-1 tvg-name="ZA: BBC First" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/16153335467e14f4922281b059c9aa2c.png" group-title="🇿🇦 South Africa",ZA: BBC First
+http://mxonlive.xyz/live/xap/353850.m3u8?e=1781986593&token=3251386404ce1cb2a6eb34efc72072b17f14470b64e2c87f1ebae85e28f1b32b
+#EXTINF:-1 tvg-name="ZA: BBC Lifestyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c7696023d51c36b147859ec997db948a.png" group-title="🇿🇦 South Africa",ZA: BBC Lifestyle
+http://mxonlive.xyz/live/xap/353851.m3u8?e=1781986593&token=6fe7a9eb6174d07f6a8d4f83cdb363005d3ff2b1c8cd2b7f62eb4d4be5ab07c2
+#EXTINF:-1 tvg-name="ZA: Business Day TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04f0ca8f0f1a63218f0be001e19ebe85.png" group-title="🇿🇦 South Africa",ZA: Business Day TV
+http://mxonlive.xyz/live/xap/353854.m3u8?e=1781986593&token=0c9575eeb073746e8c935385b22e141a736be50afdd30b51837d94a53efe788a
+#EXTINF:-1 tvg-name="ZA: Canal+ Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/14322a63056b0682864f44bc28a0dad1.png" group-title="🇿🇦 South Africa",ZA: Canal+ Action
+http://mxonlive.xyz/live/xap/353855.m3u8?e=1781986593&token=7f401add45846e5d3d61ea6b6096ad6f144e176f669008ac64171ed1856c7119
+#EXTINF:-1 tvg-name="ZA: Canal+ Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/736aff3a7b371468c4dd1df88a8b99af.png" group-title="🇿🇦 South Africa - Movies",ZA: Canal+ Cinema
+http://mxonlive.xyz/live/xap/353856.m3u8?e=1781986593&token=582c304bea62fcb057b16281ab164b6d73ed5e8edf7cbbe44fb3c81d961fd836
+#EXTINF:-1 tvg-name="ZA: Canal+ Elles" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2f4a40e4a57bcf3b63868760f38ef075.png" group-title="🇿🇦 South Africa",ZA: Canal+ Elles
+http://mxonlive.xyz/live/xap/353857.m3u8?e=1781986593&token=b2b92d16f83a6c354fa2c87ef78e3aa30dd32dd92ad84ddcfa3c7e89ec71e993
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="ZA: CANAL+ Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6a8462aec273df1fb331fa2134ee8353.png" group-title="🇿🇦 South Africa",ZA: CANAL+ Family
+http://mxonlive.xyz/live/xap/353858.m3u8?e=1781986593&token=ba42a0d6427ea9896e5341b770c6d38eca0949ac00a0e4f174f7513720507a3c
+#EXTINF:-1 tvg-name="ZA: Canal+ Foot" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1ef307d2ff7e452d2d95f3d340717ed9.png" group-title="🇿🇦 South Africa",ZA: Canal+ Foot
+http://mxonlive.xyz/live/xap/353859.m3u8?e=1781986593&token=b04d7b53bfc38eefeeb0bd8720420387f185d970041a531790f965e1b07d327a
+#EXTINF:-1 tvg-name="ZA: CANAL+ Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇿🇦 South Africa - Kids",ZA: CANAL+ Kids
+http://mxonlive.xyz/live/xap/353860.m3u8?e=1781986593&token=4a3d0a57459ef2520259ff21e048b42786e4f976c8167f07853d7b55c1ecf47b
+#EXTINF:-1 tvg-name="ZA: Canal+ MotoGP" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce0a68330a0fe567809cf0c405457c68.png" group-title="🇿🇦 South Africa",ZA: Canal+ MotoGP
+http://mxonlive.xyz/live/xap/353861.m3u8?e=1781986593&token=fd3fdafcb839a3921a46cc2c15153a1c766cb000dcb4ac27940322eb937a8356
+#EXTINF:-1 tvg-name="ZA: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png" group-title="🇿🇦 South Africa",ZA: CANAL+ Premier League
+http://mxonlive.xyz/live/xap/353863.m3u8?e=1781986593&token=8ecdc5a27b06caec9b10182dbec60a43389b455ec53c416cc5a1b02e14181cf0
+#EXTINF:-1 tvg-name="ZA: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/1cd470ab600d9ad1f4a648294fd06a41.png" group-title="🇿🇦 South Africa - Sports",ZA: CANAL+ Sport 1
+http://mxonlive.xyz/live/xap/353864.m3u8?e=1781986593&token=1382ea3e62743c711f41d60907e5003bf5f1e4768ebb1b68f3258fdbbc97845a
+#EXTINF:-1 tvg-name="ZA: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c90064fe9ad60a5ff8265f8b98a0d507.png" group-title="🇿🇦 South Africa - Sports",ZA: CANAL+ Sport 2
+http://mxonlive.xyz/live/xap/353865.m3u8?e=1781986593&token=58de68ad8bf6a89f38622afe15b93053f39fde1f20a5da0a8d1cfacb81d0b9ed
+#EXTINF:-1 tvg-name="ZA: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b1fb6c251cc8552a7e273b30f6f42581.png" group-title="🇿🇦 South Africa - Sports",ZA: CANAL+ Sport 3
+http://mxonlive.xyz/live/xap/353866.m3u8?e=1781986593&token=dae1d829aed7a330bf702da6aec3072952665a544c9c7d33e57d5378589f754a
+#EXTINF:-1 tvg-name="ZA: Canal+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/72ce68d0cf533451413b2e196e0e9eec.png" group-title="🇿🇦 South Africa - Sports",ZA: Canal+ Sport 4
+http://mxonlive.xyz/live/xap/353867.m3u8?e=1781986593&token=6ba178d791c5a435026aed47f7bbcf4c4508e4a219e55a0d5293c1227ae50064
+#EXTINF:-1 tvg-name="ZA: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/08b1fa390c5f6b51d8ce98a8787b7595.png" group-title="🇿🇦 South Africa - Sports",ZA: CANAL+ Sport 5
+http://mxonlive.xyz/live/xap/353868.m3u8?e=1781986593&token=f8ba258322e44a53efb9104d12781ee20ee8095c75f0f89705a4a3e257f89f5b
+#EXTINF:-1 tvg-name="ZA: Cape Town TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3da28f7c97768d4c35af584d9a9152d4.png" group-title="🇿🇦 South Africa",ZA: Cape Town TV
+http://mxonlive.xyz/live/xap/353870.m3u8?e=1781986593&token=939c979781a077899e5b208763ce6a7b3b30790583e38290b2b0c804a0e7c088
+#EXTINF:-1 tvg-name="ZA: Channel O" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2268d9781a5242221a7a7c7d02786fb7.png" group-title="🇿🇦 South Africa",ZA: Channel O
+http://mxonlive.xyz/live/xap/353874.m3u8?e=1781986593&token=702b2989d9d61b6d52a13da0fc4e18f03dc8a34c2fe6ab6272a673f50278370d
+#EXTINF:-1 tvg-name="ZA: Crime District" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4dfdb569985c1b55afe2ffcf11cb74d8.png" group-title="🇿🇦 South Africa",ZA: Crime District
+http://mxonlive.xyz/live/xap/353877.m3u8?e=1781986593&token=0666609660b943a6bf251f343b1220d63b395af7ea0fce81e4b81ad884ae8771
+#EXTINF:-1 tvg-name="ZA: Da Vinci Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/a23abaa742d512f83c02493867adef93.png" group-title="🇿🇦 South Africa - Kids",ZA: Da Vinci Kids
+http://mxonlive.xyz/live/xap/353878.m3u8?e=1781986593&token=98b56c83abd2c01c1fbef06fc65a57362924ba4203218c9d2b77f8d0d7a38ce2
+#EXTINF:-1 tvg-name="ZA: Dumisa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10a1fbddf79aa90625cf77b75e978d53.png" group-title="🇿🇦 South Africa",ZA: Dumisa TV
+http://mxonlive.xyz/live/xap/353884.m3u8?e=1781986593&token=9b2ae01e01ca506809b855fdc7eb49c4bb698a595fc6348e6269e7f31e0d06d6
+#EXTINF:-1 tvg-name="ZA: E Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f394e8d339b4431b060ff682802fcf2b.png" group-title="🇿🇦 South Africa - Movies",ZA: E Movies
+http://mxonlive.xyz/live/xap/353885.m3u8?e=1781986593&token=9770d87e91f88842b93f0bb1b9a944f0a5d47ff976da97a43ec1e18c75bd38a3
+#EXTINF:-1 tvg-name="ZA: E Movies Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/baecdd19768be68de46003f579e87573.png" group-title="🇿🇦 South Africa - Movies",ZA: E Movies Extra
+http://mxonlive.xyz/live/xap/353886.m3u8?e=1781986593&token=ddde555350bd2f47fb690a013c5ee03aebef0886fa121cfffe49e0c265294368
+#EXTINF:-1 tvg-name="ZA: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/390b6422355132f25230123be2c4d728.png" group-title="🇿🇦 South Africa",ZA: E!
+http://mxonlive.xyz/live/xap/353887.m3u8?e=1781986593&token=c9b0c2ec154c469f888782e6df5d8976e02731c2788c2592a2651e21e9c86f01
+#EXTINF:-1 tvg-name="ZA: eNCA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/60005a9ed438a827195cce5aea4c2cd2.png" group-title="🇿🇦 South Africa",ZA: eNCA
+http://mxonlive.xyz/live/xap/353888.m3u8?e=1781986593&token=6b16c9414fb130b1a76c782b5e06ebfa2c1981fc986401c3535bdb75223884cc
+#EXTINF:-1 tvg-name="ZA: Evasion" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4ab2046afaf1b9950451c56abe625411.png" group-title="🇿🇦 South Africa",ZA: Evasion
+http://mxonlive.xyz/live/xap/353890.m3u8?e=1781986593&token=b29df45dfae22faaac6218c5094703679f0553f24c3c662c68a6db94ac81255f
+#EXTINF:-1 tvg-name="ZA: Gau TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/71bd02b543a587d27ad4159d164079a9.png" group-title="🇿🇦 South Africa",ZA: Gau TV
+http://mxonlive.xyz/live/xap/353891.m3u8?e=1781986593&token=0ab1007ee5d49f454067a527998fbd1f61f3d79df0af7f8c886586022a48bae7
+#EXTINF:-1 tvg-name="ZA: Hilaal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8a59b5fdd4876ffe36001ac9e337afe0.png" group-title="🇿🇦 South Africa",ZA: Hilaal TV
+http://mxonlive.xyz/live/xap/353893.m3u8?e=1781986593&token=72143325a4161fad9234c397cdef1131c297525d2e360761629ad3d4db23a992
+#EXTINF:-1 tvg-name="ZA: Honey" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8ee2f7eecb4f69d284005b12d5158c62.png" group-title="🇿🇦 South Africa",ZA: Honey
+http://mxonlive.xyz/live/xap/353895.m3u8?e=1781986593&token=44fc2b750d6884fe1cb39a62fcd67431e660cc0508890a1f02572ebb4ca9b6cd
+#EXTINF:-1 tvg-name="ZA: Ignition" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f179d158bdf42656fdd712466381da3a.png" group-title="🇿🇦 South Africa",ZA: Ignition
+http://mxonlive.xyz/live/xap/353896.m3u8?e=1781986593&token=bb79e9a8ffe6451d71dd0f1312ecf865e2e05b5dac00a2da4c5a0abd9e2e1cc5
+#EXTINF:-1 tvg-name="ZA: Impact TV Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4c9cdb10f96fbf37b9806fd4fc25a423.png" group-title="🇿🇦 South Africa",ZA: Impact TV Network
+http://mxonlive.xyz/live/xap/353897.m3u8?e=1781986593&token=5f156dcc6e9edbd8bb5b864f00010fe818ade65668590c271a0cdc2ba13956e7
+#EXTINF:-1 tvg-name="ZA: KIX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c7ff8ee44975005ce1d1ce2081663c42.png" group-title="🇿🇦 South Africa",ZA: KIX
+http://mxonlive.xyz/live/xap/353900.m3u8?e=1781986593&token=b0570f96ae943daa41e0824f3fae40f9c75a79603312bc7b6700a3b4e3cf4681
+#EXTINF:-1 tvg-name="ZA: Kruiskyk TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/93672f77ca1f3dafe3c320e7073b7591.png" group-title="🇿🇦 South Africa",ZA: Kruiskyk TV
+http://mxonlive.xyz/live/xap/353901.m3u8?e=1781986593&token=f6e879cf4f3a121b6e6c75d201d3a9dfb3d912a9a64099393f07c1caf8d0230b
+#EXTINF:-1 tvg-name="ZA: KykNet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c9ddf9aa48b8aa1d24b496389d32fd06.png" group-title="🇿🇦 South Africa",ZA: KykNet
+http://mxonlive.xyz/live/xap/353902.m3u8?e=1781986593&token=315a29096cbcfeea24d1a464d64b32788ac66bb35ad8da1c7f73872e707eb197
+#EXTINF:-1 tvg-name="ZA: KykNet & Kie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/153b89f4184a6f7b4fc5bd13a4b4935c.png" group-title="🇿🇦 South Africa",ZA: KykNet & Kie
+http://mxonlive.xyz/live/xap/353903.m3u8?e=1781986593&token=d675b2540ac22c83dc8bde8ce266d2deef4f1d8008523eec1cdb180da5a9c6ca
+#EXTINF:-1 tvg-name="ZA: KykNet Nou" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39763fbde596fc1a3227c2c0ee927cb9.png" group-title="🇿🇦 South Africa",ZA: KykNet Nou
+http://mxonlive.xyz/live/xap/353904.m3u8?e=1781986593&token=3516f0141cdb54e6270cc7cb31ee3c81971f1b8b978baeee48566ac2646accda
+#EXTINF:-1 tvg-name="ZA: Lol" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/456ac74a6c1c3dae12b48ba97d670fe3.png" group-title="🇿🇦 South Africa",ZA: Lol
+http://mxonlive.xyz/live/xap/353905.m3u8?e=1781986593&token=c20a7402115aca4b42ea73881d9ef3a9abd375842e1574fd745e5057acaae85b
+#EXTINF:-1 tvg-name="ZA: Love Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66d1f6bc433f9c3939572349bfa0460d.png" group-title="🇿🇦 South Africa - Documentary",ZA: Love Nature
+http://mxonlive.xyz/live/xap/353906.m3u8?e=1781986593&token=8424f24177384efcc26b78055e7b342be524c3347e63403562e94f261515a31d
+#EXTINF:-1 tvg-name="ZA: LoveWorld Sat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1d2f45c4473337cbcf587093cad195d5.png" group-title="🇿🇦 South Africa",ZA: LoveWorld Sat
+http://mxonlive.xyz/live/xap/353907.m3u8?e=1781986593&token=beea0ab6a104e96e59daff3d45e9d45182071fce877314cde355df7f6055a4b3
+#EXTINF:-1 tvg-name="ZA: Ludikids" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/38f24c7f15d35130d672ffe072404e73.png" group-title="🇿🇦 South Africa",ZA: Ludikids
+http://mxonlive.xyz/live/xap/353908.m3u8?e=1781986593&token=5ede8477ee4f48c23b18f1d37d47ac999509ade942bc44166d23e677290126f4
+#EXTINF:-1 tvg-name="ZA: M-Net" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e16799d18cc19753f18b10d745e4063c.png" group-title="🇿🇦 South Africa",ZA: M-Net
+http://mxonlive.xyz/live/xap/353909.m3u8?e=1781986593&token=7fb5988838936618b83b272f008f26c8ab3f939efec0a061e888809ea3bbbf6c
+#EXTINF:-1 tvg-name="ZA: M-Net Movies 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/739bdaf1d13b2c9beb5faf1ce29c5173.jpg" group-title="🇿🇦 South Africa - Movies",ZA: M-Net Movies 1
+http://mxonlive.xyz/live/xap/353910.m3u8?e=1781986593&token=b84c4af3ee58a729b5e1fd2e70a49915c1f6f342db52175ca7a84142d2381d90
+#EXTINF:-1 tvg-name="ZA: M-Net Movies 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/174502bcec0def9e77692f2fd9fcd93a.png" group-title="🇿🇦 South Africa - Movies",ZA: M-Net Movies 2
+http://mxonlive.xyz/live/xap/353911.m3u8?e=1781986593&token=ed5281ba083099a0f3495fd661ed8e7d29951098cd0843974b301382097a64fa
+#EXTINF:-1 tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="🇿🇦 South Africa - Movies",ZA: M-Net Movies 3
+http://mxonlive.xyz/live/xap/353912.m3u8?e=1781986593&token=29e6e5999938f5e128301701dd1ab02dd58a372da430a572ef24eba263b02f26
+#EXTINF:-1 tvg-name="ZA: M-Net Movies 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c68b9ceec790a1422737c2e0fab9587e.png" group-title="🇿🇦 South Africa - Movies",ZA: M-Net Movies 4
+http://mxonlive.xyz/live/xap/353913.m3u8?e=1781986593&token=7fd87d06bb87cf84278528b22aeadbfdaeacac2e10dd1dec123ccf04ed5d991c
+#EXTINF:-1 tvg-name="ZA: M-Net Terrestrial" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d656e88a6519d6d6769670a73c868374.png" group-title="🇿🇦 South Africa",ZA: M-Net Terrestrial
+http://mxonlive.xyz/live/xap/353914.m3u8?e=1781986593&token=55e3685e4c2fd238ab97e6bda1b6925675cea29a75660a6058d1ecba712f436c
+#EXTINF:-1 tvg-name="ZA: Maisha Magic Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f87f095cf73d98d492e927503249468a.png" group-title="🇿🇦 South Africa - Movies",ZA: Maisha Magic Movies
+http://mxonlive.xyz/live/xap/353915.m3u8?e=1781986593&token=3380b2c83edfdae46a07a862048d448db36ec60578f5cf16e55d2a5e88319169
+#EXTINF:-1 tvg-name="ZA: Me" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🇿🇦 South Africa",ZA: Me
+http://mxonlive.xyz/live/xap/353916.m3u8?e=1781986593&token=c1c23a43c614b0bf9a073bc70f49ac9196b362b78571cc596f38e3b57aab3dd4
+#EXTINF:-1 tvg-name="ZA: Mindset Learn" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f5f2badf1c2451368bd4cf53694d8b32.png" group-title="🇿🇦 South Africa",ZA: Mindset Learn
+http://mxonlive.xyz/live/xap/353917.m3u8?e=1781986593&token=d6f27331fa2d68eb139a568e0bafa43a51c2377e7878620de015756a960da3a0
+#EXTINF:-1 tvg-name="ZA: Moja Love" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0a4f1d7790bc5c4ba62f9ad7f8da6897.png" group-title="🇿🇦 South Africa",ZA: Moja Love
+http://mxonlive.xyz/live/xap/353918.m3u8?e=1781986593&token=aac498aca23234102236203e7d1e9b691e5de6bda5df18bdfa863b6698862193
+#EXTINF:-1 tvg-name="ZA: Mpuma Kapa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/a8d3d997a496674151d0ec037410abd0.png" group-title="🇿🇦 South Africa",ZA: Mpuma Kapa TV
+http://mxonlive.xyz/live/xap/353919.m3u8?e=1781986593&token=66d7dd3e6e0ee304a6b144d38e5a1268a5c031d60043a72945a6884345391e7a
+#EXTINF:-1 tvg-name="ZA: Mzansi Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/bb14193d9cdc32caeeb0c1cf4836f249.png" group-title="🇿🇦 South Africa",ZA: Mzansi Bioskop
+http://mxonlive.xyz/live/xap/353921.m3u8?e=1781986593&token=f8f3cd3488716156656426a72e54fd6ed107cc5700f5e727e8f2f1ce874d3f9a
+#EXTINF:-1 tvg-name="ZA: Mzansi Magic Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b3159a422b648571b9ead5cf9c3c3ba1.png" group-title="🇿🇦 South Africa - Music",ZA: Mzansi Magic Music
+http://mxonlive.xyz/live/xap/353922.m3u8?e=1781986593&token=fb53e619a7586b6ebdb7467a555c006e4631467b96801958e43e9f0501130720
+#EXTINF:-1 tvg-name="ZA: Mzansi Wethu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1165e1d2f7bffd4614461c411d5ccdaa.png" group-title="🇿🇦 South Africa",ZA: Mzansi Wethu
+http://mxonlive.xyz/live/xap/353923.m3u8?e=1781986593&token=c74d1ff4c4ab383862317581b6fa43ea1407b705546d8724135c509034cc5f87
+#EXTINF:-1 tvg-name="ZA: Newzroom Afrika" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3d3ade62833d125f99b964a7d811769.png" group-title="🇿🇦 South Africa",ZA: Newzroom Afrika
+http://mxonlive.xyz/live/xap/353927.m3u8?e=1781986593&token=ba9ceae6b7e03777946571b6d036a9e1df6d4e8edcc96c92125a2413b8237816
+#EXTINF:-1 tvg-name="ZA: NickToons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/8b546d0061e50cfe6196f4cf5035abcf.png" group-title="🇿🇦 South Africa",ZA: NickToons
+http://mxonlive.xyz/live/xap/353930.m3u8?e=1781986593&token=987bf9b76fdb7479a670de79c869635d0af0be8d80b87d4634c0157111e8d49f
+#EXTINF:-1 tvg-name="ZA: Novela Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/49d86aa81012ca2dce1624f7c93c7b01.png" group-title="🇿🇦 South Africa",ZA: Novela Magic
+http://mxonlive.xyz/live/xap/353931.m3u8?e=1781986593&token=e30258804132ed389294e099b9d27358b46dabc7bbad2e65a72576d7a68b19e8
+#EXTINF:-1 tvg-name="ZA: Novelas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/8c3c213082ec761e2e21323e16e4f278.png" group-title="🇿🇦 South Africa",ZA: Novelas TV
+http://mxonlive.xyz/live/xap/353932.m3u8?e=1781986593&token=3084c024b60f8c634c42984e78d29306ca6bafa7b44b79f7b783aaf0a5c605b0
+#EXTINF:-1 tvg-name="ZA: Parliamentary Service" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4f72d5f0f5b09149bae9b05c37ff5bed.png" group-title="🇿🇦 South Africa",ZA: Parliamentary Service
+http://mxonlive.xyz/live/xap/353934.m3u8?e=1781986593&token=a7155e7ec1bcf677ed880428484bae996d1cfd5e46c645f989d53caedcbbfc03
+#EXTINF:-1 tvg-name="ZA: Peoples Weather" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/58756663657963edca58b1d6179f6452.png" group-title="🇿🇦 South Africa",ZA: Peoples Weather
+http://mxonlive.xyz/live/xap/353936.m3u8?e=1781986593&token=2ee152751eb221b302fb3fed7e128f38234dd9727b7bfa362f7ffeee25edc79a
+#EXTINF:-1 tvg-name="ZA: Redemption TV Ministry" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/29c72c36c1d82f1100c0b34421dcd249.png" group-title="🇿🇦 South Africa",ZA: Redemption TV Ministry
+http://mxonlive.xyz/live/xap/353937.m3u8?e=1781986593&token=53fdcefa5e8b4aecf48e16e49eb95fd878cc1d78ece6bd0f18b9b27bdc842037
+#EXTINF:-1 tvg-name="ZA: SABC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/603d9c1a0cbd2a9d1fba97aacfc583f2.png" group-title="🇿🇦 South Africa",ZA: SABC 1
+http://mxonlive.xyz/live/xap/353938.m3u8?e=1781986593&token=3e7df38f1b20ca94eb2d5a80e7780b0c3c5ec19643a7c38575bc5d83de7a26cc
+#EXTINF:-1 tvg-name="ZA: SABC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/17d448043513f7e6615ba7f99b3b8527.jpg" group-title="🇿🇦 South Africa",ZA: SABC 2
+http://mxonlive.xyz/live/xap/353939.m3u8?e=1781986593&token=5907a5701771e9479ed7976c331b081572db1844e716e4d4fbb8303d38547b34
+#EXTINF:-1 tvg-name="ZA: SABC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4885ae1057a1c8e5498e39d67f317d61.jpg" group-title="🇿🇦 South Africa",ZA: SABC 3
+http://mxonlive.xyz/live/xap/353940.m3u8?e=1781986593&token=d6c2c1288fe76f9678bfa8650a270f260c0ff2ee2816938794743ef559404591
+#EXTINF:-1 tvg-name="ZA: SABC News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/af31ff9d97a5070bd60752213eb00465.png" group-title="🇿🇦 South Africa - News",ZA: SABC News
+http://mxonlive.xyz/live/xap/353941.m3u8?e=1781986593&token=acca1d6587c0926f6393e12d5a86ec264b9caf9e49d8323edbdfbf48dd38a13a
+#EXTINF:-1 tvg-name="ZA: Soweto TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3f4bc24b140944213bef28bb24c77f0a.png" group-title="🇿🇦 South Africa",ZA: Soweto TV
+http://mxonlive.xyz/live/xap/353943.m3u8?e=1781986593&token=3d2361427276899251bd0d2cf30dfd7f09892443ed2041ef97146cffb17bd132
+#EXTINF:-1 tvg-name="ZA: Spice" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6363ce02f02bc2a89908f5e780f62a7d.png" group-title="🇿🇦 South Africa",ZA: Spice
+http://mxonlive.xyz/live/xap/353944.m3u8?e=1781986593&token=8503725cd0d0d645ae3cfd4d6732ab727bdbaa36ff25558ae2c7831664c6911b
+#EXTINF:-1 tvg-name="ZA: Star Life" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0c416f13764f1723025abb077c129d1e.png" group-title="🇿🇦 South Africa",ZA: Star Life
+http://mxonlive.xyz/live/xap/353945.m3u8?e=1781986593&token=21bd79b84a1c5d9e52a19e1cd3eb8f684c462189a85e96368a60043d97322d55
+#EXTINF:-1 tvg-name="ZA: Studio Universal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6890d7c5ffbe00386c6ecbbad20eecda.png" group-title="🇿🇦 South Africa",ZA: Studio Universal
+http://mxonlive.xyz/live/xap/353946.m3u8?e=1781986593&token=72835102e2c380fab519af4e4a067bc86eed3f6a6da69300135ac71b49802dc0
+#EXTINF:-1 tvg-name="ZA: SuperSport Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Action
+http://mxonlive.xyz/live/xap/353947.m3u8?e=1781986593&token=d6d488739195c59422ad7d3359383eec46f5811bfc0554a4dc16eb9b656c1a78
+#EXTINF:-1 tvg-name="ZA: SuperSport Blitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Blitz
+http://mxonlive.xyz/live/xap/353948.m3u8?e=1781986593&token=bbaa248d6be55de02cd612162ba9a1b364522dac66d131682b531b832a7e9d28
+#EXTINF:-1 tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Cricket
+http://mxonlive.xyz/live/xap/353949.m3u8?e=1781986593&token=6ee27e47e277fe33c85f1ca3721d281568a0728cedaa13b6e202ca72556e37f1
+#EXTINF:-1 tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Football
+http://mxonlive.xyz/live/xap/353950.m3u8?e=1781986593&token=dd09fea9d59a0a9b6f2d1e306232c171f4cadae99b6f543a278031dc3ef3c03b
+#EXTINF:-1 tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Golf
+http://mxonlive.xyz/live/xap/353951.m3u8?e=1781986593&token=14e6d219074328b1827b1f1e7295653d48c65d1ae4410f9d90ea1cd978663c26
+#EXTINF:-1 tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Grandstand
+http://mxonlive.xyz/live/xap/353952.m3u8?e=1781986593&token=2b06616877f72fcfc27f5a08a4b199a6e65b2641693f4fb079e284db4eaa88b1
+#EXTINF:-1 tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport LaLiga
+http://mxonlive.xyz/live/xap/353953.m3u8?e=1781986593&token=638bc8ddbda36ad6019cec6ad69a0333f75424c9370d5ddf6f8f7ed266030334
+#EXTINF:-1 tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Maximo 1
+http://mxonlive.xyz/live/xap/353954.m3u8?e=1781986593&token=d41fdabfc4c1305638e8a81825a66048b5962ac18e650b42d9cd3c894d36efe4
+#EXTINF:-1 tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Motorsport
+http://mxonlive.xyz/live/xap/353955.m3u8?e=1781986593&token=5cef26818e8f5806c86816839d0ea84d43336398b19552a3ee08dd5660022b4d
+#EXTINF:-1 tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Premier League
+http://mxonlive.xyz/live/xap/353956.m3u8?e=1781986593&token=46caac118636f46826cdfa3f0fe216e58b5782ab4f1d4b79f54f7bae02f3c2c9
+#EXTINF:-1 tvg-name="ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport PSL
+http://mxonlive.xyz/live/xap/353957.m3u8?e=1781986593&token=336f855e0a74b64c8aa27f24a6e17c97b9f9807a7a1fef865ca685bbbfd56a78
+#EXTINF:-1 tvg-name="ZA: SuperSport Rugby" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Rugby
+http://mxonlive.xyz/live/xap/353958.m3u8?e=1781986593&token=a2d841bcb082fe07d728d079b0d0b5981195565e8d8f7127cf64ff33bac6c108
+#EXTINF:-1 tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Tennis
+http://mxonlive.xyz/live/xap/353959.m3u8?e=1781986593&token=c2c700a0f2bb739a8568ce35bfd227a96f813771127c9234304259d3e793acb1
+#EXTINF:-1 tvg-name="ZA: SuperSport Variety 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Variety 1
+http://mxonlive.xyz/live/xap/353960.m3u8?e=1781986593&token=118de8af1bc351b6ed7b4c514adb2c38cd1cf264069843792a1668caf3fe60ca
+#EXTINF:-1 tvg-name="ZA: SuperSport Variety 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Variety 2
+http://mxonlive.xyz/live/xap/353961.m3u8?e=1781986593&token=a00827be95f2f3478aac56ee1fa414f1ca96fa911f554cd6d2240e0872cfd7cc
+#EXTINF:-1 tvg-name="ZA: SuperSport Variety 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Variety 3
+http://mxonlive.xyz/live/xap/353962.m3u8?e=1781986593&token=9b99df1518271d61c263ae3e30605d2895fe8b170f19a91ce3996b568bd77956
+#EXTINF:-1 tvg-name="ZA: SuperSport Variety 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="🇿🇦 South Africa - Sports",ZA: SuperSport Variety 4
+http://mxonlive.xyz/live/xap/353963.m3u8?e=1781986593&token=92936a3087229dfd799d1f729e7729d81c017bf514c74a35b185b7c9068d6aca
+#EXTINF:-1 tvg-name="ZA: TRACE Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2e6e3eff4ccf58273136f35782f634a9.png" group-title="🇿🇦 South Africa - Music",ZA: TRACE Africa
+http://mxonlive.xyz/live/xap/353965.m3u8?e=1781986593&token=4767b50d29de922165d500c7704da5e141d021a3c933d5ffb9198931737a7e02
+#EXTINF:-1 tvg-name="ZA: TRACE Gospel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/0f6375025e11cd0813c7b81c0ea4e4be.png" group-title="🇿🇦 South Africa - Music",ZA: TRACE Gospel
+http://mxonlive.xyz/live/xap/353966.m3u8?e=1781986593&token=9fd5947627eb56f9039d8bb5dae584e2276f8c6e61f0a2b69d6a85bbb6f6496f
+#EXTINF:-1 tvg-name="ZA: TRACE Kitoko" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/cad23ea423fc400b2c9758aae363cbbc.png" group-title="🇿🇦 South Africa - Music",ZA: TRACE Kitoko
+http://mxonlive.xyz/live/xap/353967.m3u8?e=1781986593&token=c35fe9c012b2128f65ed785be31de8ed077d0e98526de43eb954bfd16b6f9eee
+#EXTINF:-1 tvg-name="ZA: Trace Teranga" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/092dfc6a4f232411c1296aae9f266705.png" group-title="🇿🇦 South Africa - Music",ZA: Trace Teranga
+http://mxonlive.xyz/live/xap/353969.m3u8?e=1781986593&token=1afd42e4b44dd77828ee8f434332860b32f6080066dc4163646eb7bcd93291ba
+#EXTINF:-1 tvg-name="ZA: TRACE Toca" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/63ec951aff9b941fc17c1180a0252499.png" group-title="🇿🇦 South Africa - Music",ZA: TRACE Toca
+http://mxonlive.xyz/live/xap/353970.m3u8?e=1781986593&token=039ba6cef2c2ac4d3d5ac2961e5fffba5e23284ea9020875d8f2137020d99e1c
+#EXTINF:-1 tvg-name="ZA: Tshwane TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c22548c174e49e8f231b0bdc91a59ec6.png" group-title="🇿🇦 South Africa",ZA: Tshwane TV
+http://mxonlive.xyz/live/xap/353973.m3u8?e=1781986593&token=33d130a7591bb41cc2ac42ee80d42a83088073cf365e1f8ba52dd7ab53c2a1f9
+#EXTINF:-1 tvg-name="ZA: Universal TV Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/236302e46bbee60446d316e34a451e44.png" group-title="🇿🇦 South Africa",ZA: Universal TV Africa
+http://mxonlive.xyz/live/xap/353975.m3u8?e=1781986593&token=ae8d601be378975a9543e404e2c3afe972be4bf40eee4b30a958120a620476d9
+#EXTINF:-1 tvg-name="ZA: Via" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/2e11dbf891701a9eac9cfec2f8d9fa62.png" group-title="🇿🇦 South Africa",ZA: Via
+http://mxonlive.xyz/live/xap/353976.m3u8?e=1781986593&token=dbdf8706832b27a983ec846ba61c1b4156dc25e54b957f4e3b185dc9968ac684
+#EXTINF:-1 tvg-name="ZA: Wataaa" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/b28b85a072310a2d3b1e6d79b60cfa50.png" group-title="🇿🇦 South Africa",ZA: Wataaa
+http://mxonlive.xyz/live/xap/353977.m3u8?e=1781986593&token=1a966c2e02dab56320a7356bbc472250097708c7490f5546d44259d46389934a
+#EXTINF:-1 tvg-name="ZA: WildEarth" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/597329ca6d46a2cd7db4e897d0b75e40.png" group-title="🇿🇦 South Africa",ZA: WildEarth
+http://mxonlive.xyz/live/xap/353978.m3u8?e=1781986593&token=0667d3622b75d59c46e4772c83c0734811a4e8d85f8b72020a7ec557a2eac804
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: Documentary ✦●✦" group-title="🇿🇦 South Africa - Documentary",✦●✦ Af | DSTV: Documentary ✦●✦
+http://mxonlive.xyz/live/xap/238538.m3u8?e=1781986593&token=24d4e1cffafb4da585b657b60168e62b43ae99e9d27340f3f86268031c5b601f
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: Entertaintment ✦●✦" group-title="🇿🇦 South Africa",✦●✦ Af | DSTV: Entertaintment ✦●✦
+http://mxonlive.xyz/live/xap/238568.m3u8?e=1781986593&token=483201f650360865ef5804579784ddd7b97461b5637f96effba1adc4ea565ac0
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: Kids ✦●✦" group-title="🇿🇦 South Africa - Kids",✦●✦ Af | DSTV: Kids ✦●✦
+http://mxonlive.xyz/live/xap/238524.m3u8?e=1781986593&token=77f4d635fe0e38fbd4954062eb1c60a49680f5e9ce500a4c44fbaa8981c2d887
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: Lifestyle & Culture ✦●✦" group-title="🇿🇦 South Africa",✦●✦ Af | DSTV: Lifestyle & Culture ✦●✦
+http://mxonlive.xyz/live/xap/238551.m3u8?e=1781986593&token=a79d05a6c9afb93b0aa23a4a276941bc25564e3500d62f1954733a3dd5de9bd8
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: Music ✦●✦" group-title="🇿🇦 South Africa - Music",✦●✦ Af | DSTV: Music ✦●✦
+http://mxonlive.xyz/live/xap/238633.m3u8?e=1781986593&token=854e4388c58435a297501bbfd01b4a4cff89e5b0321eb9b82f9f68880a9782f7
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: News ✦●✦" group-title="🇿🇦 South Africa - News",✦●✦ Af | DSTV: News ✦●✦
+http://mxonlive.xyz/live/xap/238505.m3u8?e=1781986593&token=e0d848c21b2d4ebae7d3c99d96b75a5dc6aedb5c184f68785a85b9c0e0b47c91
+#EXTINF:-1 tvg-name="✦●✦ Af | DSTV: Religion ✦●✦" group-title="🇿🇦 South Africa",✦●✦ Af | DSTV: Religion ✦●✦
+http://mxonlive.xyz/live/xap/238561.m3u8?e=1781986593&token=793854ffa7b15e0ea88f03b901c4c302f9d147c046821b495785d3e3426a3dfc

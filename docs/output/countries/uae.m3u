@@ -1,13 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="🇦🇪 UAE - Sports",Dubai Sports 1 (1080p)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="🇦🇪 UAE - Sports",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="🇦🇪 UAE - Sports",Dubai Sports 2.ae
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="🇦🇪 UAE - Sports",Dubai Sports 3 (1080p)
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="🇦🇪 UAE - Sports",Dubai Sports 3.ar
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae@SD" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="🇦🇪 UAE - Sports",Sharjah Sports (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AE: Abu Dhabi Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1251e175cc39adad228a8ea9a180ae12.png" group-title="🇦🇪 UAE - Sports",AE: Abu Dhabi Sports 1
+http://mxonlive.xyz/live/xap/354997.m3u8?e=1781986593&token=05f516ea0a63ce3ec597f2e4f3223b973f26dc36526f90803467e22bf0acc8b4
+#EXTINF:-1 tvg-name="AE: Abu Dhabi Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a35d5aa933df9c7198e9bcaf798352e.png" group-title="🇦🇪 UAE - Sports",AE: Abu Dhabi Sports 2
+http://mxonlive.xyz/live/xap/354998.m3u8?e=1781986593&token=7ae98b7190a4a0a68afdbe31781f97a068c7cd2fa7e00f82626ceefb1cbda0ab
+#EXTINF:-1 tvg-name="AE: Abu Dhabi Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/fdc98038cef740d81b17b6d939bb9e1f.jpeg" group-title="🇦🇪 UAE - Sports",AE: Abu Dhabi Sports Premium 1
+http://mxonlive.xyz/live/xap/354999.m3u8?e=1781986593&token=ddc8a5039595ef1d67a898c2329351b86f3cd4a5c2bdf6588a697044defdf5ba
+#EXTINF:-1 tvg-name="AE: Abu Dhabi Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/0052adee9541d5e80b7a12d30d92e50c.png" group-title="🇦🇪 UAE - Sports",AE: Abu Dhabi Sports Premium 2
+http://mxonlive.xyz/live/xap/355000.m3u8?e=1781986593&token=bc88dfde63e361529dcbd83c4fa13caa26e88d6faa3b28c1497d0a39b84bf081
+#EXTINF:-1 tvg-name="AE: Abu Dhabi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6dd0f1e4e7b433401b7368a6ec1bd6d3.png" group-title="🇦🇪 UAE",AE: Abu Dhabi TV
+http://mxonlive.xyz/live/xap/354915.m3u8?e=1781986593&token=893ce7fa3d6d04571b7c98234991b2734d63437dddf2fc79dccd009bff128f45
+#EXTINF:-1 tvg-name="AE: Ajman TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-02/85d04fc48b540fbf5a56373ea16fbfca.png" group-title="🇦🇪 UAE",AE: Ajman TV
+http://mxonlive.xyz/live/xap/354916.m3u8?e=1781986593&token=5e41da7c79a4fc2b52b9b8a7bdb602e44a8f55f0573975b0ebb4cfdddedcc6f7
+#EXTINF:-1 tvg-name="AE: Dubai Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/20a2d5d9109e385232b268e365b0521e.png" group-title="🇦🇪 UAE",AE: Dubai Racing
+http://mxonlive.xyz/live/xap/355001.m3u8?e=1781986593&token=03dfbaa95932fb6e7b6059018d904242f21af209a4256c40c309ec8efd673005
+#EXTINF:-1 tvg-name="AE: Dubai Racing 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fda96054c8d62788105af65c1c5bf6c2.png" group-title="🇦🇪 UAE",AE: Dubai Racing 2
+http://mxonlive.xyz/live/xap/355002.m3u8?e=1781986593&token=c2fdd3a9ccda26439443d7fb66a25d905b32cf430b034d4b354ad61af7eac4e7
+#EXTINF:-1 tvg-name="AE: Dubai Racing 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/69ccaa509a44ba6a838b3764afe30a3b.png" group-title="🇦🇪 UAE",AE: Dubai Racing 3
+http://mxonlive.xyz/live/xap/355003.m3u8?e=1781986593&token=a0af0a333f47f767480443ce3a064c1f8f1698a3aaa5e7bb760060dc77a42b24
+#EXTINF:-1 tvg-name="AE: Dubai Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3516ee44cc079a5c4a690fc5209ec1d0.png" group-title="🇦🇪 UAE - Sports",AE: Dubai Sports
+http://mxonlive.xyz/live/xap/355004.m3u8?e=1781986593&token=9387f664d77290d86c1ce525800ada58a8458ee05c5f5daeb670ccea1df0551a
+#EXTINF:-1 tvg-name="AE: Dubai Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bb40583054de3e5f72a05ec225cd01b4.png" group-title="🇦🇪 UAE - Sports",AE: Dubai Sports 2
+http://mxonlive.xyz/live/xap/355005.m3u8?e=1781986593&token=ffc5b96da830b26c491e6011d2903bcef173a445b96684dc55deae52f5cc727b
+#EXTINF:-1 tvg-name="AE: Dubai Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/44eb5bdc864ad1abbc323c8cfa7be6d2.png" group-title="🇦🇪 UAE - Sports",AE: Dubai Sports 3
+http://mxonlive.xyz/live/xap/355006.m3u8?e=1781986593&token=168c00f0064008609d329c5d2c9d36d1865d3e43e7fc34fb2571794a04e57cde
+#EXTINF:-1 tvg-name="AE: Dubai TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5631aad8f18f125448c8a6d3ef8221e0.png" group-title="🇦🇪 UAE",AE: Dubai TV
+http://mxonlive.xyz/live/xap/354925.m3u8?e=1781986593&token=34d067a87093010e69e7da174a78904150dc5b0ffd2395109924768bccd0ae28
+#EXTINF:-1 tvg-name="AE: Sama Dubai" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d32fd846456511f45609d0b6d050e01b.png" group-title="🇦🇪 UAE",AE: Sama Dubai
+http://mxonlive.xyz/live/xap/354938.m3u8?e=1781986593&token=f6ca3f92d5e52bac36a481687a1e36650579c63b798f0edd89ed1f78895a6274
+#EXTINF:-1 tvg-name="AE: Sharjah 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/95aded08d1e33a9a3a4fe090c34dbb8e.jpg" group-title="🇦🇪 UAE",AE: Sharjah 2
+http://mxonlive.xyz/live/xap/354939.m3u8?e=1781986593&token=04a7a90c2c8b6ce3bec1a541a79d3ea1db235a62cc893c693415993d4a6ae866
+#EXTINF:-1 tvg-name="AE: Sharjah Sports TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3b1c866c0f331e63458d52f79b1f1c6.jpg" group-title="🇦🇪 UAE - Sports",AE: Sharjah Sports TV
+http://mxonlive.xyz/live/xap/355007.m3u8?e=1781986593&token=04ae05d82130ba12a8aa104b2bd6c27a961caef20e309a1ac576193f3b04883e
+#EXTINF:-1 tvg-name="AE: Sharjah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6aabb9f64f77a899245b5831f74fce39.png" group-title="🇦🇪 UAE",AE: Sharjah TV
+http://mxonlive.xyz/live/xap/354940.m3u8?e=1781986593&token=c9cbe2146ca4b0601f60f81aab9a5cc92fade0c4f6e983d52381bec0c2aa6878
+#EXTINF:-1 tvg-name="Dubai Racing 1" group-title="🇦🇪 UAE",Dubai Racing 1
+http://mxonlive.xyz/live/xap/171445.m3u8?e=1781986593&token=c933db8021190eed7551b9ac918665622ed1201fdf79b7808b128bf5cf9585fc
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-name="Dubai Racing 2" group-title="🇦🇪 UAE",Dubai Racing 2
+http://mxonlive.xyz/live/xap/171446.m3u8?e=1781986593&token=71a6e9285d89a89c6eac4713f1a5613959d054b4ce9923e9e15e3a09d36d03a9
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-name="Dubai Racing 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDqdyi-FCeSJnHXzFrlJXHjUPHfBtsFuQtQ&usqp=CAU" group-title="🇦🇪 UAE",Dubai Racing 3
+http://mxonlive.xyz/live/xap/171447.m3u8?e=1781986593&token=18c26349ca1742467e0303c82c3cfe639fa177ae84e7ab81ea29f9206e684df3

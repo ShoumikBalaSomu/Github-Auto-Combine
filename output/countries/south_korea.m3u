@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AF: OCN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/cc977a5d47bf29177cb9b75c09a7f57a.jpg" group-title="🇰🇷 South Korea",AF: OCN TV
 http://mxonlive.xyz/live/xap/419442.m3u8?e=1781986593&token=f8fc034ee767c80dd5e23510b3d330fdb6e36a0a452a2a7f1f527afef7940a64
-#EXTINF:-1 tvg-id="47961" tvg-logo="https://core.freetvindia.com/media/channels/arirang.png" group-title="🇰🇷 South Korea" tvg-lang="BLOODY_SWEET",Arirang
-https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-name="BE: EbS+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bfce80bbc4ae43f2d9bd7661496225a2.png" group-title="🇰🇷 South Korea",BE: EbS+
 http://mxonlive.xyz/live/xap/348332.m3u8?e=1781986593&token=71621933af3b9e2589fc9057b9db5d2b5e4c84e4b0e9c0d692d2e7df02724089
 #EXTINF:-1 tvg-name="CL: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2314bf5a61edc01dc4d31f777acc5470.svg" group-title="🇰🇷 South Korea",CL: TVN

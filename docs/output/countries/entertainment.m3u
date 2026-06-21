@@ -1,23 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="🎭 Entertainment",Aamar Bangla (720p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Digital Fashion" group-title="🎭 Entertainment",Digital Fashion
-http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="🎭 Entertainment - News",Enterr 10 Bangla (720p) [Not 24/7]
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="jehEA54BIxFjn23xAmdw" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="🎭 Entertainment - Religious",Islamic TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png" group-title="🎭 Entertainment",Khushboo Bangla (720p)
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in@SD" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="🎭 Entertainment",MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="🎭 Entertainment",Rupasi Bangla (720p)
-https://cdn-4.pishow.tv/live/1039/master.m3u8
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="🎭 Entertainment",Sony Entertainment Television HD (1080p)
-http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega
-#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="🎭 Entertainment",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeDilSe.in@HD" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="🎭 Entertainment",Zee Dil Se (1080p)
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="🎭 Entertainment",Zee Horror Nights (1080p)
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-name="AR: BeIN Baraem" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Bareem.png" group-title="🎭 Entertainment - Sports",AR: BeIN Baraem
+http://mxonlive.xyz/live/xap/381389.m3u8?e=1781986593&token=865d601cfe89b83c166cd97cddb4dfbcbbc751e70448ec86640428c9b11ad979
+#EXTINF:-1 tvg-name="AR: BeIN Dkids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/DKids_logo.png" group-title="🎭 Entertainment - Sports",AR: BeIN Dkids
+http://mxonlive.xyz/live/xap/381384.m3u8?e=1781986593&token=5fd2457b5b0abf1fef2bbd2c3b9d8dc07f23ceffcc9d96a055d0349de518ae6b
+#EXTINF:-1 tvg-name="AR: BeIN DreamWorks HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_DreamWorks_Channel.png" group-title="🎭 Entertainment - Sports",AR: BeIN DreamWorks HD
+http://mxonlive.xyz/live/xap/381387.m3u8?e=1781986593&token=d808244c5cd05475f3d8a831ed076a9a5ab4c37e75d7fec367643b9d05eaec40
+#EXTINF:-1 tvg-name="AR: BeIN DTX" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_DTX_Discovery.png" group-title="🎭 Entertainment - Sports",AR: BeIN DTX
+http://mxonlive.xyz/live/xap/381382.m3u8?e=1781986593&token=dac95bb68367d586135774ed0671c5bb8bb6e8888c570684bc8c9113b95013ef
+#EXTINF:-1 tvg-name="AR: BeIN Fatafeat HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fatafeat.png" group-title="🎭 Entertainment - Sports",AR: BeIN Fatafeat HD
+http://mxonlive.xyz/live/xap/381376.m3u8?e=1781986593&token=4614f0550ca429cb3b6d1a7645e01664289a49a25bf0e551872ff294907b469f
+#EXTINF:-1 tvg-name="AR: BeIN Gourmet HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Gourmet.png" group-title="🎭 Entertainment - Sports",AR: BeIN Gourmet HD
+http://mxonlive.xyz/live/xap/381375.m3u8?e=1781986593&token=202f71829477250138ee7ef07a466fbfc6a9a5e7d092e756e6a4d436477f4ebc
+#EXTINF:-1 tvg-name="AR: BeIN Jeem HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Jeem.png" group-title="🎭 Entertainment - Sports",AR: BeIN Jeem HD
+http://mxonlive.xyz/live/xap/381388.m3u8?e=1781986593&token=19e0a77fefce3e0c2c6429166b5fdf824a89ee7c2250888b298c6ef8a93664ad
+#EXTINF:-1 tvg-name="AR: BeIN Junior HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_junior.jpg" group-title="🎭 Entertainment - Sports",AR: BeIN Junior HD
+http://mxonlive.xyz/live/xap/381383.m3u8?e=1781986593&token=7db4728800b5685d8190e4f37318555a30d0800169af58564da6f76c73cc54e0
+#EXTINF:-1 tvg-name="AR: BeIN Movies HD 2 Action" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Movie_action.png" group-title="🎭 Entertainment - Sports",AR: BeIN Movies HD 2 Action
+http://mxonlive.xyz/live/xap/381365.m3u8?e=1781986593&token=87748b2c7a4ae6e9241258cb0671e62d162c763e802608ccaf03fc6931db0108
+#EXTINF:-1 tvg-name="AR: BeIN Movies HD 4 Family" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Movie_Family.png" group-title="🎭 Entertainment - Sports",AR: BeIN Movies HD 4 Family
+http://mxonlive.xyz/live/xap/381367.m3u8?e=1781986593&token=4684313a8eebce0c96956dc44e44f13e0322ce18ae434b888c73e97d770f7b15
+#EXTINF:-1 tvg-name="AR: BeIN Outdoor HD" tvg-logo="http://109.238.11.8:25461/logo/tv/oo/outdoor_channel_international.png" group-title="🎭 Entertainment - Sports",AR: BeIN Outdoor HD
+http://mxonlive.xyz/live/xap/381378.m3u8?e=1781986593&token=840d2387e1a2dfa7f9d8c641f85f72281cca486f9684bd724911acdaae2c1c5b
+#EXTINF:-1 tvg-name="AR: BeIN Series 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Series1.png" group-title="🎭 Entertainment - Sports",AR: BeIN Series 1 HD
+http://mxonlive.xyz/live/xap/381369.m3u8?e=1781986593&token=99fb0b902d5717f7a781565d3a6a3d77390a056a15a04f2ec59d7031e743feb3
+#EXTINF:-1 tvg-name="AR: BeIN Series 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Series2.png" group-title="🎭 Entertainment - Sports",AR: BeIN Series 2 HD
+http://mxonlive.xyz/live/xap/381370.m3u8?e=1781986593&token=b2229058725175808564eabffac31f173bcda6bc7d42c80768427a12be6c9de9
+#EXTINF:-1 tvg-name="•●★--- BeIN Factual ----★●•" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/beIN-MEDIA-GROUP.png" group-title="🎭 Entertainment - Sports",•●★--- BeIN Factual ----★●•
+http://mxonlive.xyz/live/xap/381381.m3u8?e=1781986593&token=e241887cc10f78327a1fd71c0984fde97a79dc01e9722a42db813cd1a3edd166
+#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" group-title="🎭 Entertainment",•●★--- Welcome ----★●•
+http://mxonlive.xyz/live/xap/222375.m3u8?e=1781986593&token=4dd402de96846377ab14c8c54a1c6a5203813ae115e30d76c995913e7b2462d9
