@@ -1,13 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AdventureEarth.de" tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="📚 Documentary",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="AL: Explorer Histori" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f9e77d5547d8e675d2793fd8b2f99747.png" group-title="📚 Documentary",AL: Explorer Histori
-http://mxonlive.xyz/live/xap/347643.m3u8?e=1781986593&token=79d39577bdc65d47ae332d672863869dbe611db4dfbdabe9e69810244186c173
-#EXTINF:-1 tvg-name="AL: Tring Planet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/afc0149ae70eca0a72841295dbb499ea.png" group-title="📚 Documentary",AL: Tring Planet
-http://mxonlive.xyz/live/xap/347647.m3u8?e=1781986593&token=b39f721fbd3bff3501dd37ca57601efcfbac67a402994b287f2d4aac45b8e76a
 #EXTINF:-1 tvg-id="InsaytTV.ru" tvg-name="Insight" group-title="📚 Documentary",Insight
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="📚 Documentary - Documentary",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love nature" group-title="📚 Documentary - Documentary",Love nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MagellanTVNow.us@SD" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="📚 Documentary",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
@@ -17,5 +13,3 @@ https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg" group-title="📚 Documentary",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="📚 Documentary",•●★--- Welcome ----★●•
-http://mxonlive.xyz/live/xap/354895.m3u8?e=1781986593&token=04bba4996ad237a6b4180971b1fbc62d4fae2757f1b99a4113202923512d70ca

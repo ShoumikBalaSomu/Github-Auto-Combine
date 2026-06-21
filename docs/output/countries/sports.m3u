@@ -1,460 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** WellCome ***" group-title="⚽ Sports",*** WellCome ***
-http://mxonlive.xyz/live/xap/26014.m3u8?e=1781986593&token=6c0cde3668f58f468a284211cf0964fae0590d329995fc8c712298887647ea5c
-#EXTINF:-1 tvg-name="24/7 WWE" tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="⚽ Sports - News",24/7 WWE
-http://mxonlive.xyz/live/xap/388817.m3u8?e=1781986593&token=e51521d365299a1e0731c8a8c0177db4d095a04bd0eabdd003d6a45bf89cb586
-#EXTINF:-1 tvg-name="24/7: Biography - WWE Legends" tvg-logo="https://e7.pngegg.com/pngimages/107/693/png-clipart-service-decal-marketing-undercover-prodigy-computer-icons-24-7-service-company-text.png" group-title="⚽ Sports - News",24/7: Biography - WWE Legends
-http://mxonlive.xyz/live/xap/417282.m3u8?e=1781986593&token=e23d91ff6980f8a709f2facc0370f8d18cdf35164d3e708efbb2546348f962d3
-#EXTINF:-1 tvg-name="24/7: Formula 1 - Drive to Survive" tvg-logo="https://e7.pngegg.com/pngimages/107/693/png-clipart-service-decal-marketing-undercover-prodigy-computer-icons-24-7-service-company-text.png" group-title="⚽ Sports - News",24/7: Formula 1 - Drive to Survive
-http://mxonlive.xyz/live/xap/417229.m3u8?e=1781986593&token=374220094d9561b5603ba34bf549059cc461f316d7c3c09848c310769209e7e4
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports - Sports",616 Sports 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[Fighting] WWE NXT (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="⚽ Sports - Sports" tvg-chno="34",[Fighting] WWE NXT (ROXIE)
+https://601.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR" group-title="⚽ Sports",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="⚽ Sports - Sports",A sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=293e066ddcc5211c1c82168ff1edc939
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="⚽ Sports - Sports",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-name="AE: StarzPlay Criclife 1" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="⚽ Sports",AE: StarzPlay Criclife 1
-http://mxonlive.xyz/live/xap/355008.m3u8?e=1781986593&token=fe93bb7f90449943ef3e3bb2ae4f84c4acae60f284087e11872eb84c422ecc19
-#EXTINF:-1 tvg-name="AE: StarzPlay Criclife 2" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="⚽ Sports",AE: StarzPlay Criclife 2
-http://mxonlive.xyz/live/xap/355009.m3u8?e=1781986593&token=2f9a07d847dac1dd1bfe8226c9422479860803b1c535222499b00c4b198d96b6
-#EXTINF:-1 tvg-name="AE: StarzPlay Criclife 3" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="⚽ Sports",AE: StarzPlay Criclife 3
-http://mxonlive.xyz/live/xap/355010.m3u8?e=1781986593&token=b76c920dd75464fee570ebbed87e26bec9893e63fe2cde68e58c979b2fc00620
-#EXTINF:-1 tvg-name="AE: Yas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/92a0bf96d4ab9376e8d1e8750326186a.png" group-title="⚽ Sports",AE: Yas TV
-http://mxonlive.xyz/live/xap/355011.m3u8?e=1781986593&token=5d8ac05c6b9fd16b0b52d19fc359ddcc6834b1aed98930a2a38c3f38ddd393cc
-#EXTINF:-1 tvg-name="AF: WWE Superslam" group-title="⚽ Sports - Sports",AF: WWE Superslam
-http://mxonlive.xyz/live/xap/383060.m3u8?e=1781986593&token=9c96e2402efd2c6556f2fff7c3359d0dc275c6759fd514906db1313561c21773
-#EXTINF:-1 tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="⚽ Sports - Sports",AFG: RTA SPORTS
-http://mxonlive.xyz/live/xap/167591.m3u8?e=1781986593&token=c1ba491c9463f667fbe452b60c2f5a65de163ece21c3a2b8169d3102749459d4
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="⚽ Sports - News",Africa 24 Sport (1080p)
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="⚽ Sports - Sports",Al Iraqia Sport (720p)
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-#EXTINF:-1 tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="⚽ Sports - Sports",AL: Arena Sport 1
-http://mxonlive.xyz/live/xap/347792.m3u8?e=1781986593&token=2af67846bccef59525012c0df671cf3d7de2ba2eed4fc16251ed792b4e7b020a
-#EXTINF:-1 tvg-name="AL: Arena Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" group-title="⚽ Sports - Sports",AL: Arena Sport 2
-http://mxonlive.xyz/live/xap/347793.m3u8?e=1781986593&token=7f7e34e2153cc544d4c5dd0f19aa34b520128f48844df5567405223c6b55a6c9
-#EXTINF:-1 tvg-name="AL: Arena Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" group-title="⚽ Sports - Sports",AL: Arena Sport 4
-http://mxonlive.xyz/live/xap/347794.m3u8?e=1781986593&token=183d3f94e71a37a978993927fa1198a18bc574bf976a3d3eb9923fb2ac42d905
-#EXTINF:-1 tvg-name="AL: Arena Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" group-title="⚽ Sports - Sports",AL: Arena Sport 5
-http://mxonlive.xyz/live/xap/347795.m3u8?e=1781986593&token=10b25e8df016d0495065ad529389ac2bf43d59ba48282c550251f1a9fa2396a7
-#EXTINF:-1 tvg-name="AL: ART Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" group-title="⚽ Sports - Sports",AL: ART Sport 1
-http://mxonlive.xyz/live/xap/347796.m3u8?e=1781986593&token=a7a231ffa4bceefce3c9e781804b09973b0b31dfdecddb68f6e79e6405570722
-#EXTINF:-1 tvg-name="AL: ART Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" group-title="⚽ Sports - Sports",AL: ART Sport 2
-http://mxonlive.xyz/live/xap/347797.m3u8?e=1781986593&token=336df5fcc9702d1be7dd88a85a0a35c0909407b97a48cfe071b09459cb78a98f
-#EXTINF:-1 tvg-name="AL: ART Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7977d0e43fed7b4efd627df97b1a4e29.png" group-title="⚽ Sports - Sports",AL: ART Sport 3
-http://mxonlive.xyz/live/xap/347798.m3u8?e=1781986593&token=8ba70dee60fb53f79100a0466d2ef8b97f3c9a2fcc3dc3e9ecf1224e7566c9fb
-#EXTINF:-1 tvg-name="AL: ART Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/29bd2d194a584b18ac79234629e0e7d3.png" group-title="⚽ Sports - Sports",AL: ART Sport 4
-http://mxonlive.xyz/live/xap/347799.m3u8?e=1781986593&token=018ecbf8ccc4972f9e50ec0d6dfd48374c533e7df6a56a0fef4ef3eacbe524da
-#EXTINF:-1 tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" group-title="⚽ Sports - Sports",AL: ART Sport 5
-http://mxonlive.xyz/live/xap/347800.m3u8?e=1781986593&token=046c9950f70f43e0456584d022d9eb2957c5fea613da088836ccc26936dc5eb9
-#EXTINF:-1 tvg-name="AL: ART Sport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f1601e8f1df9decd8a254b34fad96173.png" group-title="⚽ Sports - Sports",AL: ART Sport 6
-http://mxonlive.xyz/live/xap/347801.m3u8?e=1781986593&token=4f34ba8c81336d99f724a2d1741a9a9d994e0bf6df665dd54c5d68e52bc1839e
-#EXTINF:-1 tvg-name="AL: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f1cecaaf5d587858aabdde39a3a50e15.png" group-title="⚽ Sports",AL: EUROSPORT 1
-http://mxonlive.xyz/live/xap/347802.m3u8?e=1781986593&token=1bb3cf1e54edee92e0d799719b3c85dcd9c5d57b4fa29965aaea48325d217c38
-#EXTINF:-1 tvg-name="AL: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58c261282f835c1c845666c27004ad9c.png" group-title="⚽ Sports",AL: EUROSPORT 2
-http://mxonlive.xyz/live/xap/347803.m3u8?e=1781986593&token=bfcc4d40aa0f94a92554c0b1bc504ddd388d3d2aa01c56b9197b26aefb6e4f01
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b4d3d4bcb7f01fc9d9d633995198bff.jpg" group-title="⚽ Sports - Sports",AL: Kujtesa Sport 1
-http://mxonlive.xyz/live/xap/347804.m3u8?e=1781986593&token=bda6bf2c47a62c9a56e5d4aae07ce578dbac63836d7c46af0d6f7bb7e177afd6
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" group-title="⚽ Sports - Sports",AL: Kujtesa Sport 2
-http://mxonlive.xyz/live/xap/347805.m3u8?e=1781986593&token=9face69f9d3a0f1b671dad045fac6c726d26805cb7cb20e455db4005e9d10296
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" group-title="⚽ Sports - Sports",AL: Kujtesa Sport 3
-http://mxonlive.xyz/live/xap/347806.m3u8?e=1781986593&token=969c852640c23bc9cf8be5410055513665b0f6e30c37eed6975b3a71abc61000
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" group-title="⚽ Sports - Sports",AL: Kujtesa Sport 4
-http://mxonlive.xyz/live/xap/347807.m3u8?e=1781986593&token=deff4ac0f22f84f15afd24187a87e58d96732be13f8ae714f72f0ecbea5f99e7
-#EXTINF:-1 tvg-name="AL: Oversport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ef8213f5e236a12fb644eb2bcff28ce5.jpeg" group-title="⚽ Sports",AL: Oversport 1
-http://mxonlive.xyz/live/xap/347808.m3u8?e=1781986593&token=eff0afe19066b5d5abd82335e79e9fa7e15c6e3ea8c256d2864c68592549d34e
-#EXTINF:-1 tvg-name="AL: Oversport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9c8bee846533b2c299d57bddf3d7f0a3.jpeg" group-title="⚽ Sports",AL: Oversport 2
-http://mxonlive.xyz/live/xap/347809.m3u8?e=1781986593&token=4bbfdec189f728d5294849aca99d53d9ff9903806a424f18abb965c19f690d92
-#EXTINF:-1 tvg-name="AL: Oversport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/744027c660655a915f50a71f59896a89.jpeg" group-title="⚽ Sports",AL: Oversport 3
-http://mxonlive.xyz/live/xap/347810.m3u8?e=1781986593&token=62d08cc0ce8f21be1b389ef19897ac79ab69cd23152b416e5fe292059bd1c2de
-#EXTINF:-1 tvg-name="AL: Oversport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/2aefeb7ccb3619b0172a1e49c72fb74f.jpeg" group-title="⚽ Sports",AL: Oversport 4
-http://mxonlive.xyz/live/xap/347811.m3u8?e=1781986593&token=1aaa0181aa26aa3ee464803005dac5b1905b0918815096f77c20175e6bede23d
-#EXTINF:-1 tvg-name="AL: Oversport News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/2e4a07ad9510fe419531945ecbcb34a2.jpeg" group-title="⚽ Sports - News",AL: Oversport News
-http://mxonlive.xyz/live/xap/347812.m3u8?e=1781986593&token=57dad3c5298df9cef3a869e9efa9c75c2ef2ae19f9628bf5b270c266cf6b0061
-#EXTINF:-1 tvg-name="AL: RTSH Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bf23238a743c9feae86249cae1e285d3.svg" group-title="⚽ Sports - Sports",AL: RTSH Sport
-http://mxonlive.xyz/live/xap/347813.m3u8?e=1781986593&token=769c37c93f6a4afbf57802376f68b3ae5bd76faaa23208c5da670264cee968da
-#EXTINF:-1 tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="⚽ Sports - Sports",AL: Tring Sport 1
-http://mxonlive.xyz/live/xap/347822.m3u8?e=1781986593&token=0a37de4e7525d8054cf523e58ec005c63761af4282e47a09ee43b171afabab80
-#EXTINF:-1 tvg-name="AL: Tring Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" group-title="⚽ Sports - Sports",AL: Tring Sport 2
-http://mxonlive.xyz/live/xap/347823.m3u8?e=1781986593&token=666dc1b4d776e9ddde283e84192cb802509d62b6802dbb42fe027482d084afa3
-#EXTINF:-1 tvg-name="AL: Tring Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" group-title="⚽ Sports - Sports",AL: Tring Sport 3
-http://mxonlive.xyz/live/xap/347824.m3u8?e=1781986593&token=fc2e22f3b85bd8afc642a0c064c61942f5b0412b92874a9969714a8c18464ae0
-#EXTINF:-1 tvg-name="AL: Tring Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" group-title="⚽ Sports - Sports",AL: Tring Sport 4
-http://mxonlive.xyz/live/xap/347825.m3u8?e=1781986593&token=3c0a7b144e727d1686851cdff0fa5f5d0929f0ee70908881edf85c159cd065a9
 #EXTINF:-1 tvg-id="AlfaSport.cy@SD" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="⚽ Sports - News",Alfa Sport (1080p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-id="1629493413" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ANDY_MURRAY_ARENA_HSBC_Championships.jpg" group-title="⚽ Sports",ANDY MURRAY ARENA - HSBC Championships [17]
-https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=41bb018bfd7c1ffaae52f84cfe2648240231d4bd&x-sign=b3cdaf1634d8b4c12c084040b661fb2d&x-time=1781973000
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="⚽ Sports - News",AntenaSport (1280p) [Not 24/7]
 https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
-#EXTINF:-1 tvg-name="AR: BeIN 4K" tvg-logo="https://img.kooora.com/?i=katkotati%2F4k.gif" group-title="⚽ Sports - Sports",AR: BeIN 4K
-http://mxonlive.xyz/live/xap/381328.m3u8?e=1781986593&token=2988508aa6684cb61d700a54bb0c4fe9bfb35e9c84dbd989acf05c22c5335af0
-#EXTINF:-1 tvg-name="AR: OSN WWE Network HD" tvg-logo="http://content.osn.com/logo/channel/cropped/WWE.png" group-title="⚽ Sports - Sports",AR: OSN WWE Network HD
-http://mxonlive.xyz/live/xap/383063.m3u8?e=1781986593&token=09cd30766055b07d30d4edc99c254fd77d87c197183f917adb3025787c6893c9
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="⚽ Sports - Sports",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/04/asterix-and-obelix-the-big-fight.jpg" group-title="⚽ Sports",Asterix & Obelix The Big Fight (2025) S01 [Hindi-English] 1080p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/04/[Fibwatch.Com]Asterix.&.Obelix.The.Big.Fight.(2025).S01.[Hindi-English].1080p.mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv@SD" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="⚽ Sports - News",Awapa Sports TV (1080p) [Not 24/7]
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="⚽ Sports - News",Bahrain Sports 1 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="⚽ Sports - News",Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SportyStuff.uk" tvg-name="BE: Eleven Sports 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",BE: Eleven Sports 1 HD
-http://mxonlive.xyz/live/xap/233085.m3u8?e=1781986593&token=eb4082dfe3f4760d524f2f27f39be76cc3fa369098e896429b2d543104684457
-#EXTINF:-1 tvg-name="BE: Eleven Sports 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",BE: Eleven Sports 2 HD
-http://mxonlive.xyz/live/xap/233086.m3u8?e=1781986593&token=51295f1415620fd92bc5c605ec387b97a84382891dea96ee9b359f2f4cf021b2
-#EXTINF:-1 tvg-name="BE: Eleven Sports 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",BE: Eleven Sports 3 HD
-http://mxonlive.xyz/live/xap/233087.m3u8?e=1781986593&token=349983dd05cd37a46ca1c0473500b4c3f09f1b0d3c7124ff78d23c7ddb85c08a
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg" group-title="⚽ Sports",Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142968_english.m3u8
 #EXTINF:-1 tvg-id="BEKSports.us@West" tvg-logo="https://i.imgur.com/1l3t5jd.png" group-title="⚽ Sports - Sports",BEK TV Sports West (720p)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="eurosport1.bg" tvg-name="BG: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9062adb13596cbbf1d3fb9b1ef7ebbb9.png" group-title="⚽ Sports",BG: EUROSPORT 1
-http://mxonlive.xyz/live/xap/348827.m3u8?e=1781986593&token=8fa0dc31e6e482b6f8c60f240c1bf72ff6643bf8e1d4158e65a84867eab5e8ba
-#EXTINF:-1 tvg-id="eurosport2.bg" tvg-name="BG: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e95e437e427ab9a0ff25505049a57c29.png" group-title="⚽ Sports",BG: EUROSPORT 2
-http://mxonlive.xyz/live/xap/348828.m3u8?e=1781986593&token=8fee9ef035943faf8ee0f3cde1785641187f903f84180219274fecdd09561374
-#EXTINF:-1 tvg-name="BIH: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7080764e6e3bb36c4c2cf7018076670a.png" group-title="⚽ Sports - Sports",BIH: Arena Sport 1
-http://mxonlive.xyz/live/xap/348408.m3u8?e=1781986593&token=f2637475bb27511d98038fb2e7b99198780280fd1d2421df180ad6c6b17c662f
-#EXTINF:-1 tvg-name="BIH: Arena Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/137d2079bbf49782da7a364c8bb879fb.png" group-title="⚽ Sports - Sports",BIH: Arena Sport 3
-http://mxonlive.xyz/live/xap/348409.m3u8?e=1781986593&token=cb380ad084b61ba12290fe12174d37d3c224023162325159288b8160a9c03a6d
-#EXTINF:-1 tvg-name="BIH: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e9ce5d90aee489e36c94ae3f591e12f7.png" group-title="⚽ Sports",BIH: EUROSPORT 2
-http://mxonlive.xyz/live/xap/348421.m3u8?e=1781986593&token=21015c27efb6f553e1767cabaee1f044c3fa5ceca0d70cc0bb116491d4cf2213
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022399/143089_CASACARDS_SPORTY_APP.png" group-title="⚽ Sports",Bhopal Leopards Vs Malwa Stallions | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bhopal_leopards_vs_malwa_stallions_143089_english.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928" group-title="⚽ Sports",Bleav Football
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="⚽ Sports - Sports",BT Sports 2
 https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=465da6e3c852ea7f5d71b77b32038ef8
-#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="CA: FIGHT Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0acf73a8d84e27437ea2ec13b3576666.png" group-title="⚽ Sports",CA: FIGHT Network
-http://mxonlive.xyz/live/xap/348999.m3u8?e=1781986593&token=53c86bf0c6959b1a12948b9b572e7405f54c498e4b8627e22f46b9395ff8d247
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="⚽ Sports - Sports",Canal+ Sport (1080p)
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",Caze Tv 🇧🇷 Brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="teleclubsport1.ch" tvg-name="CH: Blue Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1e3a6ebd017afb3fc7373b14067d6c51.png" group-title="⚽ Sports - Sports",CH: Blue Sport 1
-http://mxonlive.xyz/live/xap/354485.m3u8?e=1781986593&token=106773ed80bae63f88b28fd0968de5815a538e6acc3b8918a347a85ddaf069c8
-#EXTINF:-1 tvg-name="CH: Blue Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/100d55fd9acdc34aeb54e4df82f87b1a.png" group-title="⚽ Sports - Sports",CH: Blue Sport 2
-http://mxonlive.xyz/live/xap/354486.m3u8?e=1781986593&token=2552dfb6b8ed75862c7e4598a7c2f34bb836fdf4e0d999fa2882b002585aa24d
-#EXTINF:-1 tvg-id="teleclubemotion.ch" tvg-name="CH: Blue Zoom D" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/450e5190888f692e5fb4a7ee86400be8.png" group-title="⚽ Sports",CH: Blue Zoom D
-http://mxonlive.xyz/live/xap/354487.m3u8?e=1781986593&token=3063a039e094da2c0fd8fd54a837a3820be0f3cea8365b6fb87fec5ef5282a7e
-#EXTINF:-1 tvg-name="CH: MySports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9da1168f90f62c51581db76c46519503.png" group-title="⚽ Sports",CH: MySports 1
-http://mxonlive.xyz/live/xap/354488.m3u8?e=1781986593&token=21823c41e1fd36cd136b4a21b386eea98895b2054f3a8dabf79dab88d5447140
-#EXTINF:-1 tvg-id="mysports2.ch" tvg-name="CH: MySports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/67d636b0a5f449fd413c51ba188b3fb3.png" group-title="⚽ Sports",CH: MySports 2
-http://mxonlive.xyz/live/xap/354489.m3u8?e=1781986593&token=594e3229f2016417596ffc3e70b9c4bc2ed68ff6139f59aa4f7db6fdd5e4bf9e
-#EXTINF:-1 tvg-name="CH: MySports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3e40e700bbc67d8977b90681588e669a.png" group-title="⚽ Sports",CH: MySports 3
-http://mxonlive.xyz/live/xap/354490.m3u8?e=1781986593&token=4e24cde8312cf6ba0aa7f2892ba78b9ecfac019d6c441eb87ef8bd76a6d53eb2
-#EXTINF:-1 tvg-name="CH: MySports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/154688010fd429c30997af27ef4a7e92.png" group-title="⚽ Sports",CH: MySports 4
-http://mxonlive.xyz/live/xap/354491.m3u8?e=1781986593&token=74e4ff74b072a04e03f83c2940b93d5c2f89f0338c89a874179dea8193367ef0
-#EXTINF:-1 tvg-name="CH: MySports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c2afd899876b86dfd5216bc85ab0e2a6.png" group-title="⚽ Sports",CH: MySports 5
-http://mxonlive.xyz/live/xap/354492.m3u8?e=1781986593&token=42686f5c97ed70861ceb01a6cc7a6637f221c4f976a538219d6d1a6512373698
-#EXTINF:-1 tvg-name="CH: MySports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/060db78d6cef8728f844991cf695c6cb.png" group-title="⚽ Sports",CH: MySports 6
-http://mxonlive.xyz/live/xap/354493.m3u8?e=1781986593&token=cc0e68da2ed03e44f0734594face6babaadc53b6ba771754b1ec8e22b9da8312
-#EXTINF:-1 tvg-name="CH: MySports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7e4698387844e469175e8214d75dd5a9.png" group-title="⚽ Sports",CH: MySports 7
-http://mxonlive.xyz/live/xap/354494.m3u8?e=1781986593&token=7e7c96f4231a9cfcc477f8b85918f92c160230e22626cc3a304256e1aa63db46
-#EXTINF:-1 tvg-name="CH: MySports 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/236003a9f4f2078c02e5578884caaaef.png" group-title="⚽ Sports",CH: MySports 8
-http://mxonlive.xyz/live/xap/354495.m3u8?e=1781986593&token=139ad80a00adf5c0874a73df4ae47925eeae14801b3b9ebb5ecfb2c680f21e3d
-#EXTINF:-1 tvg-name="CH: MySports 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/57635904fa763c7237e69c8f8490e286.png" group-title="⚽ Sports",CH: MySports 9
-http://mxonlive.xyz/live/xap/354496.m3u8?e=1781986593&token=7f33037c2b8380de33ea2cb90b3445b2a20dca2af59e048099f74c569530b2d9
-#EXTINF:-1 tvg-name="CH: V Sport Live 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/5e23feca6c940eaf37b220fa1b72c6ad.svg" group-title="⚽ Sports - Sports",CH: V Sport Live 1
-http://mxonlive.xyz/live/xap/354497.m3u8?e=1781986593&token=0eb9299ecc700acae0ea126b136f7b2caea2858839486c7782f7b89ae92b711a
-#EXTINF:-1 tvg-name="CH: V Sport Live 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/7bf45d40c056aa6b15197a8943a66dc5.svg" group-title="⚽ Sports - Sports",CH: V Sport Live 2
-http://mxonlive.xyz/live/xap/354498.m3u8?e=1781986593&token=571896b2f30e8925732ce50ab36b021a6543f3ff651a6b86f8cd4be2342fb0b3
-#EXTINF:-1 tvg-name="CH: V Sport Live 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/234c10d0bce714eea649c0fba2f4d4e7.svg" group-title="⚽ Sports - Sports",CH: V Sport Live 3
-http://mxonlive.xyz/live/xap/354499.m3u8?e=1781986593&token=06ed9fd6d81cf17f7fd692dc654835606c663b08f8ef03a3b3af274681ae7cfc
-#EXTINF:-1 tvg-name="CH: V Sport Live 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/43552e4171c79db7dfffc8273fa0a28e.png" group-title="⚽ Sports - Sports",CH: V Sport Live 4
-http://mxonlive.xyz/live/xap/354500.m3u8?e=1781986593&token=fae57650628da2b61a8cf948d185cc96055ce4e45abf23b1804a23d8d0f66f2a
-#EXTINF:-1 tvg-name="CH: V Sport Live 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/432ba1633e47ef37b0c5bde35ec70874.png" group-title="⚽ Sports - Sports",CH: V Sport Live 5
-http://mxonlive.xyz/live/xap/354501.m3u8?e=1781986593&token=f9d24590a0393100b660d1d59c631073cb9a10c3d088dc9f42bc80df25b6e858
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="⚽ Sports - Sports" http-referrer="https://www.clarosports.com/",Claro Sports (720p)
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="⚽ Sports",Cowboy tv
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-name="CZ: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0589290db30dac66d9220f7d49e76fb3.png" group-title="⚽ Sports",CZ: EUROSPORT 1
-http://mxonlive.xyz/live/xap/349436.m3u8?e=1781986593&token=abf2d869ca150c1e83218b4e583e4f654fa3b07ca711020c5b3ea1ab7affa7d4
-#EXTINF:-1 tvg-name="CZ: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/623a7a0059e9979506a3ffbd79e2d7ba.png" group-title="⚽ Sports",CZ: EUROSPORT 2
-http://mxonlive.xyz/live/xap/349437.m3u8?e=1781986593&token=dd373ec21354472a463ec3099749cbc6e9bac6afc0e66084420de0f6aa788a2b
+#EXTINF:-1 tvg-id="244000" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="⚽ Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports - Sports",D Sports
 http://190.108.83.69:8000/play/a05w/72644547.m3u8
-#EXTINF:-1 tvg-id="1629493411" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_6_Berlin_Open_Berlin_Open.jpg" group-title="⚽ Sports",Day 6: Berlin Open - Unknown League [143070]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=41bb018bfd7c1ffaae52f84cfe2648240231d4bd&x-sign=a432330e2628538c04798f1a0b9810b6&x-time=1781973000
-#EXTINF:-1 tvg-id="1629495247" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_8_Halle_Germany_Terra_Wortmann_Open.jpg" group-title="⚽ Sports",Day 8: Halle Germany - Terra Wortmann Open [147445]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=41bb018bfd7c1ffaae52f84cfe2648240231d4bd&x-sign=30009a64570efa6c4112d2f2f29b425c&x-time=1781973000
 #EXTINF:-1 tvg-id="DAZN1.uk" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="⚽ Sports - Sports",DAZN 1
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-name="DAZN CA | 14" group-title="⚽ Sports - Sports",DAZN CA | 14
-http://mxonlive.xyz/live/xap/371149.m3u8?e=1781986593&token=afd70e557d2a6e712b0e6afc4d0d685335a8031cac9d9d60260841a436dac3b7
-#EXTINF:-1 tvg-name="DAZN CA | 15" group-title="⚽ Sports - Sports",DAZN CA | 15
-http://mxonlive.xyz/live/xap/371150.m3u8?e=1781986593&token=634e1cee1164d80b068e29b99f3d8f58a7cf85c7a78285d7d16f973d8ddf92e0
-#EXTINF:-1 tvg-name="DAZN CA | 16" group-title="⚽ Sports - Sports",DAZN CA | 16
-http://mxonlive.xyz/live/xap/371151.m3u8?e=1781986593&token=bd6e134fcfa6af728a553cf800841debeca1901c58194f8826f42319a7d74678
-#EXTINF:-1 tvg-name="DAZN CA | 17" group-title="⚽ Sports - Sports",DAZN CA | 17
-http://mxonlive.xyz/live/xap/371152.m3u8?e=1781986593&token=b98b84a2819a21117f9c032695415a53bdd3066aae18b8cf6a57c01222e91deb
-#EXTINF:-1 tvg-name="DAZN CA | 18" group-title="⚽ Sports - Sports",DAZN CA | 18
-http://mxonlive.xyz/live/xap/371153.m3u8?e=1781986593&token=420c056e54dfd9154bde28ecf9a34cdd4946f146e7627b64fb5f3487eabc1a54
-#EXTINF:-1 tvg-name="DAZN CA | 19" group-title="⚽ Sports - Sports",DAZN CA | 19
-http://mxonlive.xyz/live/xap/371154.m3u8?e=1781986593&token=55871e14b16db5919729f2aabe475611bed42054d0cc5d4c442ab5b4ce2126d2
-#EXTINF:-1 tvg-name="DAZN CA | 20" group-title="⚽ Sports - Sports",DAZN CA | 20
-http://mxonlive.xyz/live/xap/371155.m3u8?e=1781986593&token=9891d61b6b3dba1c3a6a145609c6da7ce30dd5fc30e0a0828889192088a39143
-#EXTINF:-1 tvg-name="DAZN CA | 21" group-title="⚽ Sports - Sports",DAZN CA | 21
-http://mxonlive.xyz/live/xap/371156.m3u8?e=1781986593&token=72fbc740b6a715c6da1a35da53db1c5027b3d952b25d72709dc10e556a95103b
-#EXTINF:-1 tvg-name="DAZN CA | 22" group-title="⚽ Sports - Sports",DAZN CA | 22
-http://mxonlive.xyz/live/xap/371157.m3u8?e=1781986593&token=b2b755b924d3549bb0ca9b5f3331b3bfb29acc0bd15d9b821ac0bf6e426c88a8
-#EXTINF:-1 tvg-name="DAZN CA | 23" group-title="⚽ Sports - Sports",DAZN CA | 23
-http://mxonlive.xyz/live/xap/371158.m3u8?e=1781986593&token=745ef73ecc13755df011308524205b33f0812386b37e9a9de25f96c5ff6095e9
-#EXTINF:-1 tvg-name="DAZN CA | 24" group-title="⚽ Sports - News",DAZN CA | 24
-http://mxonlive.xyz/live/xap/371159.m3u8?e=1781986593&token=537d1b7a50269bbc3f3a925f0b667e7f4d3465abe2bbb8f081ff9bb86c904023
-#EXTINF:-1 tvg-name="DAZN CA | 25" group-title="⚽ Sports - Sports",DAZN CA | 25
-http://mxonlive.xyz/live/xap/371160.m3u8?e=1781986593&token=2e6e970fe4b751966bedef9c646d44116ddc2ccee0764b8e035e3c981825e11d
-#EXTINF:-1 tvg-name="DAZN CA | 26" group-title="⚽ Sports - Sports",DAZN CA | 26
-http://mxonlive.xyz/live/xap/371161.m3u8?e=1781986593&token=e03e632caec9e7251548b90f34f9b6617beee35a093feacbe40291ad210f628e
-#EXTINF:-1 tvg-name="DAZN CA | 27" group-title="⚽ Sports - Sports",DAZN CA | 27
-http://mxonlive.xyz/live/xap/371162.m3u8?e=1781986593&token=1a86a833abaef42aefca8f48955d7491e5f737e0858675946964067d5e22bafc
-#EXTINF:-1 tvg-name="DAZN CA | 28" group-title="⚽ Sports - Sports",DAZN CA | 28
-http://mxonlive.xyz/live/xap/371163.m3u8?e=1781986593&token=c08177b6bcd1d96f4fb588838d60dde7f7c0ba1726f2af7a06e6f2ac11ebced0
-#EXTINF:-1 tvg-name="DAZN CA | 29" group-title="⚽ Sports - Sports",DAZN CA | 29
-http://mxonlive.xyz/live/xap/371164.m3u8?e=1781986593&token=df8b148b5f076816f9b64e86767204a796c269b058860bc911a7e292505100d4
-#EXTINF:-1 tvg-name="DAZN CA | 30" group-title="⚽ Sports - Sports",DAZN CA | 30
-http://mxonlive.xyz/live/xap/371165.m3u8?e=1781986593&token=f579b2f4c6e66ffc33cedbee3c278760c530c679f7a354f52c0491742e6e33a6
 #EXTINF:-1 tvg-logo="https://dizplai.com/wp-content/uploads/2025/10/DAZN_Logo_Chalk.svg-800x800.png" group-title="⚽ Sports - Sports",DAZN HDR
 https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8
-#EXTINF:-1 tvg-name="DE: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="⚽ Sports - Sports",DE: DAZN 1
-http://mxonlive.xyz/live/xap/350444.m3u8?e=1781986593&token=90195f61310ddb99a4b6bdd40aea96c119a1865fda617c3fc7410c3a64db2344
-#EXTINF:-1 tvg-name="DE: DAZN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="⚽ Sports - Sports",DE: DAZN 2
-http://mxonlive.xyz/live/xap/350445.m3u8?e=1781986593&token=8c28e9f874d5c26c0d3dfe946b215867cda5fb85d1eeaa8e99a625dabe95219b
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5cfaf6528fef14945280363aaf81efcf.png" group-title="⚽ Sports",DE: EUROSPORT 1
-http://mxonlive.xyz/live/xap/350446.m3u8?e=1781986593&token=fdb43f15e03b083922114bf753fe71cfe749e7f4ceb2b6c35cdb2a3dc197224a
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="⚽ Sports",DE: EUROSPORT 2
-http://mxonlive.xyz/live/xap/350447.m3u8?e=1781986593&token=764766400b3953fe392cae159018d049b2a6ce42dd3e05b3ae4542d6855b9514
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="⚽ Sports - Sports",DirecTV Sports (1080p)
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-#EXTINF:-1 tvg-id="eurosport1.dk" tvg-name="DK: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f4e7fe6e3dd4746682ce7ec160fe5407.png" group-title="⚽ Sports",DK: EUROSPORT 1
-http://mxonlive.xyz/live/xap/349577.m3u8?e=1781986593&token=c7a6bb49c85cb99f34904a6573f8cd4a96e5e46e7913df1c92dfe502560d4590
-#EXTINF:-1 tvg-id="eurosport2.dk" tvg-name="DK: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10cacd4c577133045ce5d39ba0178f87.png" group-title="⚽ Sports",DK: EUROSPORT 2
-http://mxonlive.xyz/live/xap/349578.m3u8?e=1781986593&token=a6832158ac481e54d358ed9995bd813f949956985e922b84dc4e3b8d140312a5
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",El Heddaf
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/7731.ts
 #EXTINF:-1 tvg-id="ERTSports1.gr@HD" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="⚽ Sports - Sports",ERT Sports 1 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-id="ERTSports2.gr@HD" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="⚽ Sports - Sports",ERT Sports 2 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 tvg-name="ES: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="⚽ Sports - Sports",ES: DAZN 1
-http://mxonlive.xyz/live/xap/354029.m3u8?e=1781986593&token=77d3030693c93eaa5125528901cce5493991ce18040d49bab90b62d513867ed5
-#EXTINF:-1 tvg-name="ES: DAZN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="⚽ Sports - Sports",ES: DAZN 2
-http://mxonlive.xyz/live/xap/354030.m3u8?e=1781986593&token=06c096703eb4beea0ebc9c44a13cd40b0063612612cbaddab7e98a7aae294b7b
-#EXTINF:-1 tvg-name="ES: DAZN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="⚽ Sports - Sports",ES: DAZN 3
-http://mxonlive.xyz/live/xap/354031.m3u8?e=1781986593&token=d6fc2666d805ea0db135ebd412ce94452ad6b53c48cab366f625e1b922076afa
-#EXTINF:-1 tvg-name="ES: DAZN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="⚽ Sports - Sports",ES: DAZN 4
-http://mxonlive.xyz/live/xap/354032.m3u8?e=1781986593&token=72234d4767123b16f3ca0c087df7d0764901e08d1d64206c9c04a70a1b053ee5
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: DAZN F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png" group-title="⚽ Sports - Sports",ES: DAZN F1
-http://mxonlive.xyz/live/xap/354195.m3u8?e=1781986593&token=efbc1d2696db4fd9e8b90dc72641c67f8c1ebce06962ebdc7609a0e1bbd63191
-#EXTINF:-1 tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="⚽ Sports - Sports",ES: DAZN LaLiga
-http://mxonlive.xyz/live/xap/354228.m3u8?e=1781986593&token=1cd1451b623a9801273454295bf82fe97b9df5b1833f278598dfe256236f9797
-#EXTINF:-1 tvg-name="ES: DAZN LaLiga 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/4c44f8e1726a04ccabb219f60f174ebc.png" group-title="⚽ Sports - Sports",ES: DAZN LaLiga 2
-http://mxonlive.xyz/live/xap/354033.m3u8?e=1781986593&token=f47aa409d15c20382bc97e4d765c094e42a439eb96b74cd92d19efab042a8d57
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="⚽ Sports",ES: EUROSPORT 1
-http://mxonlive.xyz/live/xap/354203.m3u8?e=1781986593&token=518c61f572106c4c2c726bfe2602634bf6b48be926056336ab847937c687b83a
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png" group-title="⚽ Sports",ES: EUROSPORT 2
-http://mxonlive.xyz/live/xap/354204.m3u8?e=1781986593&token=d6fc611bd6cf2d74d9c452fb7b5511f6403592e49254108250fb36f43d3790bc
 #EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="⚽ Sports",Esport3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="1294" tvg-name="Eurosport" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" tvg-language="English" group-title="⚽ Sports" tvg-type="Sports",Eurosport
-https://m3uplay.com/leo/live.m3u8?id=1294&e=.m3u8|referer=https://m3uplay.com/
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/eurosports.jpg?raw=true" group-title="⚽ Sports",Eurosport
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="⚽ Sports",Eurosports HD
 http://103.161.153.165:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-name="Event DAZN CA 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 1 HD
-http://mxonlive.xyz/live/xap/371136.m3u8?e=1781986593&token=48467535b0cec48c717bbb52b7f72771baed4c3c4805914e40cd8b26ec656b8e
-#EXTINF:-1 tvg-name="Event DAZN CA 10 HD" group-title="⚽ Sports - Sports",Event DAZN CA 10 HD
-http://mxonlive.xyz/live/xap/371145.m3u8?e=1781986593&token=74540101cc1da053b3c66790b48243f8029caa87f19689af0dd50418ae9c7f89
-#EXTINF:-1 tvg-name="Event DAZN CA 11 HD" group-title="⚽ Sports - Sports",Event DAZN CA 11 HD
-http://mxonlive.xyz/live/xap/371146.m3u8?e=1781986593&token=28e21b6f8b8722802a037f870da408e63481bf3643fcde81325423104a8e5ba3
-#EXTINF:-1 tvg-name="Event DAZN CA 12 HD" group-title="⚽ Sports - Sports",Event DAZN CA 12 HD
-http://mxonlive.xyz/live/xap/371147.m3u8?e=1781986593&token=9cfd98a0642afea9951a7e70c7f845761390ead326606e475ff858b11202353e
-#EXTINF:-1 tvg-name="Event DAZN CA 13 HD" group-title="⚽ Sports - Sports",Event DAZN CA 13 HD
-http://mxonlive.xyz/live/xap/371148.m3u8?e=1781986593&token=18e553e120c3c26cfe1fc4b948c4fc96e4b5f180a19b23448d6ae765ba3e9042
-#EXTINF:-1 tvg-name="Event DAZN CA 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 2 HD
-http://mxonlive.xyz/live/xap/371137.m3u8?e=1781986593&token=c1514b18130874ae1676902522db4b12215c2af9fcc4a4c13977a73d7e7b0149
-#EXTINF:-1 tvg-name="Event DAZN CA 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 3 HD
-http://mxonlive.xyz/live/xap/371138.m3u8?e=1781986593&token=6774e4a49bbc840993492385dd12514d674f7353e42456161830a65ca404fc21
-#EXTINF:-1 tvg-name="Event DAZN CA 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 4 HD
-http://mxonlive.xyz/live/xap/371139.m3u8?e=1781986593&token=d4ab7727e9dca2d422b8fc2e36fd6b708eef1405934371cea4ecb3ac5865175e
-#EXTINF:-1 tvg-name="Event DAZN CA 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 5 HD
-http://mxonlive.xyz/live/xap/371140.m3u8?e=1781986593&token=15f96e9e03fa43334f225ac43777c775475e6ed20c9317e81cdb713486c0b896
-#EXTINF:-1 tvg-name="Event DAZN CA 6 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 6 HD
-http://mxonlive.xyz/live/xap/371141.m3u8?e=1781986593&token=fcecd1ad61c9e1c8035bec58ba1796d938d3455ddcade33ba62537d5265a4a51
-#EXTINF:-1 tvg-name="Event DAZN CA 7 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 7 HD
-http://mxonlive.xyz/live/xap/371142.m3u8?e=1781986593&token=d11f5f76af623e72cbd4d7f174c59ce8d7cce6d05606465bd9ea376a721ff786
-#EXTINF:-1 tvg-name="Event DAZN CA 8 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 8 HD
-http://mxonlive.xyz/live/xap/371143.m3u8?e=1781986593&token=8fb4e715cfb7c5279529c9481c583cac482472ec7b9390744eb0290dd3b8a57a
-#EXTINF:-1 tvg-name="Event DAZN CA 9 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dazn.png" group-title="⚽ Sports - Sports",Event DAZN CA 9 HD
-http://mxonlive.xyz/live/xap/371144.m3u8?e=1781986593&token=e76f63743d34705ecc655bc5b8ccf5c29f42cb9a0bda551ac7e15f5a2147f97e
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/06/F1.The.Movie.(2025).jpg" group-title="⚽ Sports - Sports",F1 The Movie (2025) WEB-DL [Hindi-English] iT 1080p ESub
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/08/[Fibwatch.Com]F1.The.Movie.(2025).WEB-DL.[Hindi-English].iT.1080p.ESub.mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",FIFA Live - Bangla A 🇮🇳
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",FIFA Live - Bangla B 🇮🇳
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2024/06/GmHakSNuhorpOfPbotS6_22_3ba90b0c663e1cfda38453675f5014d5_image.jpeg" group-title="⚽ Sports",Fight 1 1 2011 1080p
-https://vfgtyy.b-cdn.net/upload/videos/2024/06/[Fibwatch.Com]Fight.1.1.2011.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2024/01/xJm15xO3EfJDpZIQFFsF_27_e2a0f4dd637dce00e99a6123f25d7a04_image.jpg" group-title="⚽ Sports",Fight Club (2023) Dual 1080p
-https://vfgtyy.b-cdn.net/upload/videos/2024/01/[Fibwatch.Com]Fight.Club.(2023).Dual.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2024/06/SRxAxlBoBU6sfgKto7yQ_06_9188ce85faea1ebf9ffd9ee0529e9a98_image.jpg" group-title="⚽ Sports",Fight Club 1999 BluRay REMASTERED Hindi English 1080p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/04/[Fibwatch.Com]Fight.Club.1999.BluRay.REMASTERED.Hindi.English.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2023/11/ncAWNqTGKPPQHY4JRklI_24_68c43d382b644193bef3e4d7f05c09fe_image.jpg" group-title="⚽ Sports",Fight For Justice (2023) Punjabi CHTV 1080p
-https://vfgtyy.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Fight.For.Justice.(2023).Punjabi.CHTV.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2024/09/172718725466f2c9366ab16.jpg" group-title="⚽ Sports",Fight Night The Million Dollar Heist (2024) S01 Dual 1080p
-https://vfgtyy.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Fight.Night.The.Million.Dollar.Heist.(2024).S01.Dual.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/04/Fight.or.Flight.(2025).jpg" group-title="⚽ Sports",Fight or Flight 2025 Dual Audio Hindi English 1080p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/04/[Fibwatch.Com]Fight.or.Flight.2025.Dual.Audio.Hindi.English.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 group-title="⚽ Sports" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Cookie=hdntl=exp=1779527739~acl=%2fbpk-tv%2firdeto_com_Channel_935%2foutput%2f*~id=9441230843~data=hdntl~hmac=9b06229be6e32f44c7ef7af322afe4cb026085c6a1103b898d4fd491be27df42" EXTVLCOPT="http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" group-title="TPlay 3 (IND IP)",Eurosport
-https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
+#EXTINF:-1 tvg-id="219000" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="⚽ Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143037_6095_FFA_MMO_fc-app.jpg" group-title="⚽ Sports",Firozpur Falcons Vs Moga Mongoose | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/firozpur_falcons_vs_moga_mongoose_143037_english.m3u8
+#EXTINF:-1 tvg-id="206000" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="⚽ Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
 #EXTINF:-1 tvg-name="FM Radio" group-title="⚽ Sports",FM Radio
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-name="Football Events 01:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 01:
-http://mxonlive.xyz/live/xap/381764.m3u8?e=1781986593&token=da436f269bab430bcfaf02b669931dcd0bf5a6d0c953641d4e54d2e380a8dcbf
-#EXTINF:-1 tvg-name="Football Events 02:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 02:
-http://mxonlive.xyz/live/xap/381765.m3u8?e=1781986593&token=e93afdccbcab2c5f9bfdf53faa7bce6691badd39478a101d634134caa85f0ea4
-#EXTINF:-1 tvg-name="Football Events 03:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 03:
-http://mxonlive.xyz/live/xap/381766.m3u8?e=1781986593&token=e9041d75e3bfba99b91582e304de1f2b9143859fb9bbff966a3dd6ec8bfc6f46
-#EXTINF:-1 tvg-name="Football Events 04:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 04:
-http://mxonlive.xyz/live/xap/381767.m3u8?e=1781986593&token=f0639c9213681cbf4b8cf1db04f4d2a11d33da28bfb0298e6231e48a5f424dd3
-#EXTINF:-1 tvg-name="Football Events 05:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 05:
-http://mxonlive.xyz/live/xap/381768.m3u8?e=1781986593&token=07f69bc582f1067771e2ac448e969fb8055d037f7178e564df58a606477e3239
-#EXTINF:-1 tvg-name="Football Events 06:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 06:
-http://mxonlive.xyz/live/xap/381769.m3u8?e=1781986593&token=99db6582cf2656a16e28cf8714fd5269228dc575db4d713a7336c1c4cc764f37
-#EXTINF:-1 tvg-name="Football Events 07:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 07:
-http://mxonlive.xyz/live/xap/381770.m3u8?e=1781986593&token=43c59fa9a02cfb833c04a6f0b27ff7b5a875c4e77859296ce83389ff0ed2fa74
-#EXTINF:-1 tvg-name="Football Events 08:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 08:
-http://mxonlive.xyz/live/xap/381771.m3u8?e=1781986593&token=d679b586ae94fe93569d686427149973ff8259579cbe488900edf46cd2a6db86
-#EXTINF:-1 tvg-name="Football Events 09:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 09:
-http://mxonlive.xyz/live/xap/381772.m3u8?e=1781986593&token=10217b96c2f829566bdf38a14593d51627b0c05133982757effe6c106cab0140
-#EXTINF:-1 tvg-name="Football Events 10:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 10:
-http://mxonlive.xyz/live/xap/381773.m3u8?e=1781986593&token=1d6806529c47fe3d27917f68738c7b6dfd01c380107cf32dfa4d3a8e25033230
-#EXTINF:-1 tvg-name="Football Events 11:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 11:
-http://mxonlive.xyz/live/xap/381774.m3u8?e=1781986593&token=2f5e42d598953bb605b5c4bcff2c028d3f9ddee4202d1404c4b40074a6953588
-#EXTINF:-1 tvg-name="Football Events 12:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 12:
-http://mxonlive.xyz/live/xap/381775.m3u8?e=1781986593&token=145cd23ea48019458559f9e9b91aa30474924e59c7ddeea15c25b87481546b6a
-#EXTINF:-1 tvg-name="Football Events 13:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 13:
-http://mxonlive.xyz/live/xap/381776.m3u8?e=1781986593&token=ed2464c346deca80923fffd195b9b1afc211b37d3dc3dd59feeccd9bfb02d63c
-#EXTINF:-1 tvg-name="Football Events 14:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 14:
-http://mxonlive.xyz/live/xap/381777.m3u8?e=1781986593&token=9be370e15289b9383e58066323c076c45908e165add9de75f2f01612a1647064
-#EXTINF:-1 tvg-name="Football Events 15:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 15:
-http://mxonlive.xyz/live/xap/381778.m3u8?e=1781986593&token=7d60df691575963edc3c800f9d62ba9c05fb120d5f612a213783008dbeca8aa6
-#EXTINF:-1 tvg-name="Football Events 16:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 16:
-http://mxonlive.xyz/live/xap/381779.m3u8?e=1781986593&token=6736de42f7a8469a3886f0240d3de95d7c1e05ab5b1307ce49c19268fe902102
-#EXTINF:-1 tvg-name="Football Events 17:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 17:
-http://mxonlive.xyz/live/xap/381780.m3u8?e=1781986593&token=3bd448f350dca0c86728dff68d903af271f301dfad4a9f3c233974dda81a9340
-#EXTINF:-1 tvg-name="Football Events 18:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 18:
-http://mxonlive.xyz/live/xap/381781.m3u8?e=1781986593&token=ea00ff9b4154c123b6086bc6257e0ed2f113220ec673d98528c346c77afd1d0d
-#EXTINF:-1 tvg-name="Football Events 19:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 19:
-http://mxonlive.xyz/live/xap/381782.m3u8?e=1781986593&token=b3251bdcdc1538d817e7269c2045a43ebfa5ee2e74fd5362985e940817b7d65e
-#EXTINF:-1 tvg-name="Football Events 20:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 20:
-http://mxonlive.xyz/live/xap/381783.m3u8?e=1781986593&token=29a6fd478f336e25b3fa1a6ceb675565a9a6ab9b68f9baa26b821df5ec3a3ded
-#EXTINF:-1 tvg-name="Football Events 21:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 21:
-http://mxonlive.xyz/live/xap/381784.m3u8?e=1781986593&token=4c230a1780bbe0a9df44964f6948aaaacafac721e1020661c5d96d2513854ffb
-#EXTINF:-1 tvg-name="Football Events 22:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 22:
-http://mxonlive.xyz/live/xap/381785.m3u8?e=1781986593&token=fe253626a59822f811a53514c00d496a6bfdda3f0c2472b0124030b22ecf7af6
-#EXTINF:-1 tvg-name="Football Events 23:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 23:
-http://mxonlive.xyz/live/xap/381786.m3u8?e=1781986593&token=0c22d424ec75a0f0aac2693f487ac15e5e324b1aab3b4415d6203e73cf743d68
-#EXTINF:-1 tvg-name="Football Events 24:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports - News",Football Events 24:
-http://mxonlive.xyz/live/xap/381787.m3u8?e=1781986593&token=b68df8fd8d9c1d3fac1fe320a63f4f90ae88df73cb27e13ca0b530aa55f80e14
-#EXTINF:-1 tvg-name="Football Events 25:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 25:
-http://mxonlive.xyz/live/xap/381788.m3u8?e=1781986593&token=7055e34ba1c00cb10c81479a2d825965b0a3a4d22e3da088507c8c51ccddc749
-#EXTINF:-1 tvg-name="Football Events 26:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 26:
-http://mxonlive.xyz/live/xap/381789.m3u8?e=1781986593&token=8dd19702b224163cdb3577b290843cdee6d254f87313f02ba1d0840cfa49e8de
-#EXTINF:-1 tvg-name="Football Events 27:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 27:
-http://mxonlive.xyz/live/xap/381790.m3u8?e=1781986593&token=a70f0f3c6e47e959c25cfbb7955d4583c6f00b9683fef529c10f8adf6b158fc4
-#EXTINF:-1 tvg-name="Football Events 28:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 28:
-http://mxonlive.xyz/live/xap/381791.m3u8?e=1781986593&token=d367a649ef1f15b1ff0da8a27c958a4c9f414390f89a4f02e89eb2ed133a7aea
-#EXTINF:-1 tvg-name="Football Events 29:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 29:
-http://mxonlive.xyz/live/xap/381792.m3u8?e=1781986593&token=0337c6fce72b8becfc90da199dd9ba4d820a45cae28ba96739271b37b5bb4189
-#EXTINF:-1 tvg-name="Football Events 30:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 30:
-http://mxonlive.xyz/live/xap/381793.m3u8?e=1781986593&token=79c42cb26194931a1552c50a831754bedac617fa8f09d47da6dd3dc3c9ef94be
-#EXTINF:-1 tvg-name="Football Events 31:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 31:
-http://mxonlive.xyz/live/xap/381794.m3u8?e=1781986593&token=f513dbe1b1bfbb65da78ab222af53aca10b72c052d8957bf12f855fa519db38f
-#EXTINF:-1 tvg-name="Football Events 32:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 32:
-http://mxonlive.xyz/live/xap/381795.m3u8?e=1781986593&token=7be82242b74bbd103883ec0fdad1ab4e2a9600186f55540d2c005695024de4c1
-#EXTINF:-1 tvg-name="Football Events 33:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 33:
-http://mxonlive.xyz/live/xap/381796.m3u8?e=1781986593&token=7a8be949533a5f08a3c9fe16638f35812475f9ad51baa308f603edefb3d9177d
-#EXTINF:-1 tvg-name="Football Events 34:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 34:
-http://mxonlive.xyz/live/xap/381797.m3u8?e=1781986593&token=0587bba12531aea31f8c8ff776f5c515083103933288226a76a5c01b7a41db7f
-#EXTINF:-1 tvg-name="Football Events 35:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 35:
-http://mxonlive.xyz/live/xap/381798.m3u8?e=1781986593&token=5c52284b15d5d4786d2c067dd23ebdf975a664da77537c507ad904a6e793fbbb
-#EXTINF:-1 tvg-name="Football Events 36:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 36:
-http://mxonlive.xyz/live/xap/381799.m3u8?e=1781986593&token=f4aa6e0243eb9b6d6be62124e06c06d116b32c25155196de94d49f946d819b8b
-#EXTINF:-1 tvg-name="Football Events 37:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 37:
-http://mxonlive.xyz/live/xap/381800.m3u8?e=1781986593&token=b1f243d4425b9909cedfbdde83de60f986162678202ea5d77b17c9cc32dbc057
-#EXTINF:-1 tvg-name="Football Events 38:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 38:
-http://mxonlive.xyz/live/xap/381801.m3u8?e=1781986593&token=4a5e713451642b62faa35dba6aba0223d429ed3d45e6c4199b7ef3b4e5bb109b
-#EXTINF:-1 tvg-name="Football Events 39:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 39:
-http://mxonlive.xyz/live/xap/381802.m3u8?e=1781986593&token=2c64cfacf0e3e7badb0c623922fae1612f6dd3a6a350d346326b030614e7b089
-#EXTINF:-1 tvg-name="Football Events 40:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 40:
-http://mxonlive.xyz/live/xap/381803.m3u8?e=1781986593&token=1a003d67e4c734623942a92ad8238f9fab0450589bc8d9bac291d8005b1cc2e6
-#EXTINF:-1 tvg-name="Football Events 41:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 41:
-http://mxonlive.xyz/live/xap/381804.m3u8?e=1781986593&token=ef97d6c50e4e87cf7d190d6c2029671df33981db4202e1c132199ea6765d38c5
-#EXTINF:-1 tvg-name="Football Events 42:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 42:
-http://mxonlive.xyz/live/xap/381805.m3u8?e=1781986593&token=4c6c6d31e49b408d97efe013ca5dc676b51113470da7ea4b3187d3a34ee574a5
-#EXTINF:-1 tvg-name="Football Events 43:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 43:
-http://mxonlive.xyz/live/xap/381806.m3u8?e=1781986593&token=201f3b4b4f70a56e60a1cd5e04b1fd16df00515a419c98dee6df1b8f0b789b1f
-#EXTINF:-1 tvg-name="Football Events 44:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 44:
-http://mxonlive.xyz/live/xap/381807.m3u8?e=1781986593&token=f312042d9c4b98f67745f0545501c7d9713571d0dc33231e6d22b86b86456d62
-#EXTINF:-1 tvg-name="Football Events 45:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 45:
-http://mxonlive.xyz/live/xap/381808.m3u8?e=1781986593&token=8705021e80da5cab78ca8331369ac3c064f1e7d930ef66052480756be979c88a
-#EXTINF:-1 tvg-name="Football Events 46:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 46:
-http://mxonlive.xyz/live/xap/381809.m3u8?e=1781986593&token=153f03f546a9b849b87104002b19848f97d22081dd047366c2070ec150db624b
-#EXTINF:-1 tvg-name="Football Events 47:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 47:
-http://mxonlive.xyz/live/xap/381810.m3u8?e=1781986593&token=86233179c5a3dca03a51a4d37732f0dcefec81d69ff67908633602dfd8a80b1a
-#EXTINF:-1 tvg-name="Football Events 48:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 48:
-http://mxonlive.xyz/live/xap/381811.m3u8?e=1781986593&token=797663f074a9501ff8168d525dfbc5a6599713d4a95db95d2a32f7016a744ce1
-#EXTINF:-1 tvg-name="Football Events 49:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 49:
-http://mxonlive.xyz/live/xap/381812.m3u8?e=1781986593&token=a3221f3e8ca3b0832ab9b18f9ee09fe5475b2bfbf79453b116bcb5cc346ad7a1
-#EXTINF:-1 tvg-name="Football Events 50:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 50:
-http://mxonlive.xyz/live/xap/381813.m3u8?e=1781986593&token=a547edd15ffc371dbaf399338f75cdb0738bedd3dcabd494747388eaa5f1a584
-#EXTINF:-1 tvg-name="Football Events 51:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 51:
-http://mxonlive.xyz/live/xap/381814.m3u8?e=1781986593&token=b06125bc8dc8e8b49ed7f75f7a031cebecd47da39a289d5fb4a4cd41b9f890a7
-#EXTINF:-1 tvg-name="Football Events 52:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 52:
-http://mxonlive.xyz/live/xap/381815.m3u8?e=1781986593&token=dbd3fb40cb7bd5f076102f69a6369418185dbe6765f2e9e4bfebe76831b4e392
-#EXTINF:-1 tvg-name="Football Events 53:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 53:
-http://mxonlive.xyz/live/xap/381816.m3u8?e=1781986593&token=741d78db9dd89ad9b650ca1a9f18d1a17992ed9593eae106c110a03346c96d0c
-#EXTINF:-1 tvg-name="Football Events 54:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 54:
-http://mxonlive.xyz/live/xap/381817.m3u8?e=1781986593&token=8dcdddbb37a60470654bf598a2004d28d9abcab30d03991cfe9de40f76f836e9
-#EXTINF:-1 tvg-name="Football Events 55:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 55:
-http://mxonlive.xyz/live/xap/381818.m3u8?e=1781986593&token=63021360598d3fb6f9c4a323c0c97ff383244743b287dc2639d0fd78e7900dd5
-#EXTINF:-1 tvg-name="Football Events 56:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 56:
-http://mxonlive.xyz/live/xap/381819.m3u8?e=1781986593&token=f57298ab2750a2bf3993ec02c848740d9de6b9234f270a49ee23385bd19d809f
-#EXTINF:-1 tvg-name="Football Events 57:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 57:
-http://mxonlive.xyz/live/xap/381820.m3u8?e=1781986593&token=8c632d9364192acae9b71b77ba1584f57a88c8a37ce3c1031d287fb6dc9c9cec
-#EXTINF:-1 tvg-name="Football Events 58:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 58:
-http://mxonlive.xyz/live/xap/381821.m3u8?e=1781986593&token=8ece5b09f36a7d313e5cb940bda4a3284c3fb075f2a2ac1541b33a39389e0be1
-#EXTINF:-1 tvg-name="Football Events 59:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 59:
-http://mxonlive.xyz/live/xap/381822.m3u8?e=1781986593&token=728f48d129306dddc992b3ece48f9b321add6037185c4037d3a7e094d21ab14c
-#EXTINF:-1 tvg-name="Football Events 60:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 60:
-http://mxonlive.xyz/live/xap/381823.m3u8?e=1781986593&token=f121b59a29593acf0814060f750e1fb679262ff3263bc61a8bc4b490ce87a8b1
-#EXTINF:-1 tvg-name="Football Events 61:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 61:
-http://mxonlive.xyz/live/xap/381824.m3u8?e=1781986593&token=7969c6773c8a05a900c8f97a65da90bc42c7ec75fb1fd84a5a7cfc80ab3acb54
-#EXTINF:-1 tvg-name="Football Events 62:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 62:
-http://mxonlive.xyz/live/xap/381825.m3u8?e=1781986593&token=79ca9df65ed7a4860ccdf3276f6556847f4d82503633515df9a71ccb5354989d
-#EXTINF:-1 tvg-name="Football Events 63:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 63:
-http://mxonlive.xyz/live/xap/381826.m3u8?e=1781986593&token=6546b1a0baf135a7fe1b52ac9de0fc33fbe6eb34eb4ca75a2dc21b4855bd8d4d
-#EXTINF:-1 tvg-name="Football Events 64:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 64:
-http://mxonlive.xyz/live/xap/381827.m3u8?e=1781986593&token=f5ec7ae6235f0910ff4dc0f4407f4e2b96c1f0c4f0bb4508af449d8761fa245f
-#EXTINF:-1 tvg-name="Football Events 65:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 65:
-http://mxonlive.xyz/live/xap/381828.m3u8?e=1781986593&token=070e7d5616d38fafa1d11b409ab5a9cd536f7395b134e23f6debbaabf78345b0
-#EXTINF:-1 tvg-name="Football Events 66:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 66:
-http://mxonlive.xyz/live/xap/381829.m3u8?e=1781986593&token=aaa9ea1ac2ec74f925fa84fbafadf7db762692ae2916080faf318a925089a6d6
-#EXTINF:-1 tvg-name="Football Events 67:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 67:
-http://mxonlive.xyz/live/xap/381830.m3u8?e=1781986593&token=f1809f7654e58f9c309f4daa68a02ca12496acd39dd588b11bc0fda06adedab3
-#EXTINF:-1 tvg-name="Football Events 68:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 68:
-http://mxonlive.xyz/live/xap/381831.m3u8?e=1781986593&token=edd1359ea05fbb79a923ecef512ba7aaff6bd72a87b8eafcbd97fb1162cfe5a4
-#EXTINF:-1 tvg-name="Football Events 69:" tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="⚽ Sports",Football Events 69:
-http://mxonlive.xyz/live/xap/381832.m3u8?e=1781986593&token=653c8d3b7eff844a9b2ca1006612cc5db69e8008afeba289230c096126735cb9
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="⚽ Sports",Football World Cup 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-#EXTINF:-1 tvg-name="FR: CANAL+ Formula 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/023d2b998cbf030c0e554eb18c6eb546.jpg" group-title="⚽ Sports",FR: CANAL+ Formula 1
-http://mxonlive.xyz/live/xap/350115.m3u8?e=1781986593&token=adc00aa31ce52ebcf5eb25b605b1e05f283296fedd851452f39d9eabfa454fdb
-#EXTINF:-1 tvg-name="FR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="⚽ Sports",FR: EUROSPORT 1
-http://mxonlive.xyz/live/xap/350086.m3u8?e=1781986593&token=e51c8eb6b5b13e5fb86d4ee378dd45617445f04d244c640964331bbec524fd02
-#EXTINF:-1 tvg-name="FR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bcd6a910facfc361db274a32e5207ffd.png" group-title="⚽ Sports",FR: EUROSPORT 2
-http://mxonlive.xyz/live/xap/350087.m3u8?e=1781986593&token=a2b4a64e32ef97ad4433274390c59579488d5b4d83ecb4978c88bfd5b22fbd93
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="⚽ Sports - Sports",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="⚽ Sports - Sports",fubo Sports Network (1080p)
@@ -463,58 +87,8 @@ https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",Fussball Tv B
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 tvg-name="GE: Formula" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d60cf7f413f96fee5072e9e1ddcdd0e7.png" group-title="⚽ Sports",GE: Formula
-http://mxonlive.xyz/live/xap/350233.m3u8?e=1781986593&token=abe17dfcbdaf337f6867b28a91c4982853dbf93ea8e179b2e8a0f233afe67151
-#EXTINF:-1 tvg-name="GR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76dfe401eac1e58160dde438691d1d4a.png" group-title="⚽ Sports",GR: EUROSPORT 1
-http://mxonlive.xyz/live/xap/350683.m3u8?e=1781986593&token=6c6e8cee8152abc29b500ba30d84bf7118acbc92a700fe1f050cfa74e6142470
-#EXTINF:-1 tvg-id="eurosport2.gr" tvg-name="GR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eead215977c00f89242f31aeb35f44eb.png" group-title="⚽ Sports",GR: EUROSPORT 2
-http://mxonlive.xyz/live/xap/350684.m3u8?e=1781986593&token=edd3532975a744c2294d068ee70e034de61bdee7668baee27fe5bf19e947d693
-#EXTINF:-1 tvg-name="HU: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cc0d96b84f5aa8244f0eb6d07b6611aa.png" group-title="⚽ Sports",HU: EUROSPORT 1
-http://mxonlive.xyz/live/xap/350842.m3u8?e=1781986593&token=81617cb682e4a5d60b9b4b30e6bfe8e21f9b0a40a9116dd84633bc1053fbd2fa
-#EXTINF:-1 tvg-name="HU: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a603ea841ae6af5a023beeff010d2a40.png" group-title="⚽ Sports",HU: EUROSPORT 2
-http://mxonlive.xyz/live/xap/350843.m3u8?e=1781986593&token=f81eeffe937eb9a62d5cb09ecef7630ba9e9ada48481e921cd5b96ee722aacde
-#EXTINF:-1 tvg-name="ID: Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="⚽ Sports - Sports",ID: Fight Sport
-http://mxonlive.xyz/live/xap/350946.m3u8?e=1781986593&token=e3df8ce161fafa1930dcbd9e9cc526a65cf120ad083d0e48ce3e0ae1d2bb81ca
-#EXTINF:-1 tvg-name="IL: Eurosport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/32c8de00f96c5fe52e565aca650ac460.png" group-title="⚽ Sports",IL: Eurosport 2
-http://mxonlive.xyz/live/xap/351315.m3u8?e=1781986593&token=a0841bdde26eee1bc1276762cb91506b28457f0a96aab2fb4f62d820a52c930e
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="⚽ Sports - Sports",IN | Star Sports 1 HD
-http://mxonlive.xyz/live/xap/167575.m3u8?e=1781986593&token=9a359a14ad8c3c1a6946003ba5d4a85e384e4ba7bd40a3c16c5fbcfabf5bedd4
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="⚽ Sports - Sports",IN | Star Sports 2 HD
-http://mxonlive.xyz/live/xap/167576.m3u8?e=1781986593&token=7f7d8ade7364eff829f46ce4cda02e6ee6b408a7c9e5072581ab909658ff69e5
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="⚽ Sports - Sports",IN | Star Sports 3 HD
-http://mxonlive.xyz/live/xap/167577.m3u8?e=1781986593&token=65cf2de848f3a11d3d5a001bfbb98662d4b67444ec07f6605df9ac82134a5960
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="⚽ Sports - Sports",IN | STAR SPORTS SELECT 1
-http://mxonlive.xyz/live/xap/167578.m3u8?e=1781986593&token=182fd74874ed9acd4fbfa49b26219ae60f78f0b4a77e0beb2913e5e750866f57
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="⚽ Sports - Sports",IN | STAR SPORTS SELECT 2
-http://mxonlive.xyz/live/xap/167579.m3u8?e=1781986593&token=826178a4dd6f672280c4f9a201edec27cf75ca63e949e08d07d13c75a024b333
-#EXTINF:-1 tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="⚽ Sports",IN | Willow Xtra
-http://mxonlive.xyz/live/xap/167582.m3u8?e=1781986593&token=15d5deeca960267de75b6bd079137a1c2e944031f27d071a4cde978de4f5841f
-#EXTINF:-1 tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="⚽ Sports",IN: 1SPORTS
-http://mxonlive.xyz/live/xap/167586.m3u8?e=1781986593&token=557525d4caa2c445b81d9843a990b819fa8fe2896788bfc84de2911db52db231
-#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="⚽ Sports",IN: EUROSPORT HD
-http://mxonlive.xyz/live/xap/167585.m3u8?e=1781986593&token=527f31bcd06c059ed4bb1666b3b077219abed31f225d43ecbe3990aa3edc2fb8
-#EXTINF:-1 tvg-name="IN: Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="⚽ Sports - Sports",IN: Sports 18 (4K)
-http://mxonlive.xyz/live/xap/382205.m3u8?e=1781986593&token=2dc1f6197f719db1ad9555ceaaa4594bb86cace4078812718c166c6a1f6be089
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="⚽ Sports - Sports",IN: STAR SPORTS 1 Hindi
-http://mxonlive.xyz/live/xap/167573.m3u8?e=1781986593&token=a0ac53650ea67b1e2797d20b378884851f8ad102fd5625c49a43cc39869f2f4f
-#EXTINF:-1 tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="⚽ Sports - Sports",IN: Star Sports tamil 1
-http://mxonlive.xyz/live/xap/392965.m3u8?e=1781986593&token=1d70ba1d7c8e9e1956efab694f7f6abe30b0cad4709a298915874f5d44ebc466
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="⚽ Sports",IN: Willow Cricket HD
-http://mxonlive.xyz/live/xap/167583.m3u8?e=1781986593&token=04708eee4a48e3940a61f147d7062cca375328605a1e8dfb179a9cdb57261887
-#EXTINF:-1 tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="⚽ Sports",IND: jio Cricket
-http://mxonlive.xyz/live/xap/206297.m3u8?e=1781986593&token=20ae47673587a564aba8b6f4d458dceccc69edb7044cd83535de06fc400027a8
-#EXTINF:-1 tvg-name="IND: Star Sports 2 Hindi HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="⚽ Sports - Sports",IND: Star Sports 2 Hindi HD
-http://mxonlive.xyz/live/xap/167574.m3u8?e=1781986593&token=645734ef1d0a65fd7f9364aea98fad7b9e5d7a45874704b1339400c8109f37f2
-#EXTINF:-1 tvg-name="IT: ACI Sport TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="⚽ Sports - Sports",IT: ACI Sport TV
-http://mxonlive.xyz/live/xap/351371.m3u8?e=1781986593&token=363fea1924214628e5f6376a596184cd13c2b254c5d56064c19fcddb34e575af
-#EXTINF:-1 tvg-name="IT: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baa66dbafc4be9ec7a5a6a232996a468.jpg" group-title="⚽ Sports - Sports",IT: DAZN 1
-http://mxonlive.xyz/live/xap/351413.m3u8?e=1781986593&token=1b9ba4bcc0e148b2bf60cab0ddfba3c5981e872089bd3d5fb47bfb9338370919
-#EXTINF:-1 tvg-name="IT: DAZN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13f7be80a31515955c38a5834584d138.jpg" group-title="⚽ Sports - Sports",IT: DAZN 2
-http://mxonlive.xyz/live/xap/351414.m3u8?e=1781986593&token=6f01338db9520091854079412ef861412f7448b79809b10857d53a7aafb1da0e
-#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="⚽ Sports",IT: EUROSPORT 1
-http://mxonlive.xyz/live/xap/351432.m3u8?e=1781986593&token=1c6c48a875f2c3ecc150b83c0263ab33105a9c1200a651bd6fd2e915390ed09c
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="⚽ Sports",IT: EUROSPORT 2
-http://mxonlive.xyz/live/xap/351433.m3u8?e=1781986593&token=b087b412e6d601a60ce3736d0aca419a54fe9458f6d6dc6329eb053fc2237e21
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports - Sports",Go Live Sports
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo@SD" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="⚽ Sports - Sports",Jordan Sport (1080p)
 http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="KSASports1.sa@SD" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="⚽ Sports - Sports",KSA Sports 1 (1080p)
@@ -523,600 +97,42 @@ https://aloula-redirect.vercel.app/9/playlist.m3u8
 https://aloula-redirect.vercel.app/10/playlist.m3u8
 #EXTINF:-1 tvg-id="KSASports3.sa@SD" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="⚽ Sports - Sports",KSA Sports 3 (1080p)
 https://aloula-redirect.vercel.app/16/playlist.m3u8
-#EXTINF:-1 tvg-name="LA: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/490c0209efdc5ecd7dfea8c5b1402279.png" group-title="⚽ Sports - Sports",LA: DAZN 1
-http://mxonlive.xyz/live/xap/351829.m3u8?e=1781986593&token=999efc35b6a45d79303c0ba4d3cecf4dedcb771872128bfdea4c1bf03ce63558
-#EXTINF:-1 tvg-name="LA: Eurosport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/d961ab72b0b18daff2d982b6b7856f8d.jpg" group-title="⚽ Sports",LA: Eurosport 2
-http://mxonlive.xyz/live/xap/351852.m3u8?e=1781986593&token=4f5432f9524b6b1ea4e2a54e6eeabbef4ac7599278f055e66537c75447e6a1f9
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="⚽ Sports" EXTVLCOPT="http-origin=https://executeandship.com",LaLiGA
-https://cdn2.zohanayaan.com:1686/hls/laligauk.m3u8?md5=295D84WZya5WCfHCbhGZgQ&expires=1781974816
+https://cdn10.zohanayaan.com:1686/hls/laligauk.m3u8?md5=vDc1kWUtbAAMXeFBl4AhXw&expires=1782003615
 #EXTINF:-1 tvg-name="Live Quran TV" group-title="⚽ Sports - Religious",Live Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="⚽ Sports - Sports",Live Sports
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 tvg-name="LY: Libya Sport TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e063f8090c95b837f0c4f1160a5c028c.png" group-title="⚽ Sports - Sports",LY: Libya Sport TV
-http://mxonlive.xyz/live/xap/352015.m3u8?e=1781986593&token=e59289ba0740a5e0217a750b410a255db5dc87c722734b9324deffc8a0b02421
-#EXTINF:-1 tvg-name="LY: Libya Sport TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/510d9846e8168903e9d7f988d56f4675.png" group-title="⚽ Sports - Sports",LY: Libya Sport TV 2
-http://mxonlive.xyz/live/xap/352016.m3u8?e=1781986593&token=2b7232e23eea9c27e3859efa2bdf137728be328f25382fb8deff194d43f6e364
+#EXTINF:-1 tvg-name="Live Sports-3" group-title="⚽ Sports - Sports",Live Sports-3
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 tvg-name="Live Sports-6" group-title="⚽ Sports - Sports",Live Sports-6
+https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
 #EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502" group-title="⚽ Sports - Sports",Marquee Sports Network
 https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=fe24106cc5583e06f0f3a55575805cfb
 #EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="⚽ Sports - Sports",MNB Sport (1080p)
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="1629493421" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza_-_Race_2_Porsche_Carrera_Cup_Italy.jpg" group-title="⚽ Sports",Monza - Race 2 - Italian Formula 4 Championship [27]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=41bb018bfd7c1ffaae52f84cfe2648240231d4bd&x-sign=a3bec87d2e7863624e7937675a68d946&x-time=1781973060
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="⚽ Sports - Sports",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motor Vision" group-title="⚽ Sports",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-name="MTR Sports-1" group-title="⚽ Sports - Sports",MTR Sports-1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="⚽ Sports - News",Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-name="My: Eurosport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Eurosport_hd.png" group-title="⚽ Sports",My: Eurosport HD
-http://mxonlive.xyz/live/xap/388714.m3u8?e=1781986593&token=b8a579a0a6b3a4ed58eacf447f16f6590daf18ef13005c59846f723f4d506ff5
-#EXTINF:-1 tvg-name="My: WWE Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/150px-WWE_Network_logo.svg.png" group-title="⚽ Sports - Sports",My: WWE Network HD
-http://mxonlive.xyz/live/xap/383065.m3u8?e=1781986593&token=43e716f455846bc78b614e19bdbbe90e1e14976c712de57f6d51626224904471
-#EXTINF:-1 tvg-name="NBA 01" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 01
-http://mxonlive.xyz/live/xap/356229.m3u8?e=1781986593&token=19c7530259d572598a69d58d6cc8da0eb60ee9ff0e7d2a2989a68aa0aaa8bee7
-#EXTINF:-1 tvg-name="NBA 02" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 02
-http://mxonlive.xyz/live/xap/356230.m3u8?e=1781986593&token=22d3c8abd00e99a92b1c561a26d5108f833968c166d204b3f4c9ea2b3e0e04df
-#EXTINF:-1 tvg-name="NBA 03" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 03
-http://mxonlive.xyz/live/xap/356231.m3u8?e=1781986593&token=7b35e1acdfa3f3a321b84761b8d7d76d61804d7a57da34c52fe9fd4c3a886661
-#EXTINF:-1 tvg-name="NBA 04" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 04
-http://mxonlive.xyz/live/xap/356232.m3u8?e=1781986593&token=6b83683b88370f0d2fc31cd0160a2b605f91965b36acd55bb7b1bfd4e1360f36
-#EXTINF:-1 tvg-name="NBA 05" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 05
-http://mxonlive.xyz/live/xap/356233.m3u8?e=1781986593&token=e5872693401f5e66926623927fec8084b653811538a2a242cab9328de51d7151
-#EXTINF:-1 tvg-name="NBA 06" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 06
-http://mxonlive.xyz/live/xap/356234.m3u8?e=1781986593&token=65563d81bae22cde51a8ddbfa6a3a2536b3f08c4343d6c2008eb0b2ab52a4c2c
-#EXTINF:-1 tvg-name="NBA 07" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 07
-http://mxonlive.xyz/live/xap/356235.m3u8?e=1781986593&token=5d387d5874d5a77ae54c09d65a8548aeea9a20982e1a66a2563a5ef58b4f6d52
-#EXTINF:-1 tvg-name="NBA 08" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 08
-http://mxonlive.xyz/live/xap/356236.m3u8?e=1781986593&token=9f55a8eb72c89ba36b90d63ddfe4f3904d011899949df7c6bf7b5654fbd873c0
-#EXTINF:-1 tvg-name="NBA 09" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 09
-http://mxonlive.xyz/live/xap/356237.m3u8?e=1781986593&token=ebca09902136c54357c11e7cefc008fb98e6e39ba4575434b3421983bc5ee782
-#EXTINF:-1 tvg-name="NBA 10" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 10
-http://mxonlive.xyz/live/xap/356238.m3u8?e=1781986593&token=335695cea6fa03ce7e22f73369f6ca7b681d4b704229e1594ef6945c51b1e655
-#EXTINF:-1 tvg-name="NBA 11" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 11
-http://mxonlive.xyz/live/xap/356239.m3u8?e=1781986593&token=f3502f9f5725ad086d5bae35c9700caa8241e7d3f553180ecf20d326bb6b4bdf
-#EXTINF:-1 tvg-name="NBA 12" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 12
-http://mxonlive.xyz/live/xap/356240.m3u8?e=1781986593&token=e77e55b6b0f31105b1ac5cf600651b0a5787ef4f618a342696e12067da66db5c
-#EXTINF:-1 tvg-name="NBA 13" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 13
-http://mxonlive.xyz/live/xap/356241.m3u8?e=1781986593&token=2068389948439507bf82374e09cc23e46dc3438ab972fe2993f5ec2cf8b65424
-#EXTINF:-1 tvg-name="NBA 14" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 14
-http://mxonlive.xyz/live/xap/356242.m3u8?e=1781986593&token=a09c222ba953649ab4c98a0500324cd00d62e7811a871aa5a351b3ade8ae2c7e
-#EXTINF:-1 tvg-name="NBA 15" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nba_league_pass_us.png" group-title="⚽ Sports - Sports",NBA 15
-http://mxonlive.xyz/live/xap/356243.m3u8?e=1781986593&token=e242dfe7703ed7588a189a3f0a2cef966434095a104a734a464eff61b978993c
-#EXTINF:-1 tvg-name="NBA Team: Atlanta Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fd/Hawks7295.png" group-title="⚽ Sports - Sports",NBA Team: Atlanta Hawks
-http://mxonlive.xyz/live/xap/356198.m3u8?e=1781986593&token=d2762e6b55c3547d630a81439923c638896f12c901dfb3d95d8393c589da185a
-#EXTINF:-1 tvg-name="NBA Team: Boston Celtics" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1200px-Celtics_de_Boston_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Boston Celtics
-http://mxonlive.xyz/live/xap/356199.m3u8?e=1781986593&token=63a6e8eda4ae158524db7691c9edc4adc4e9f41a48299a341cf46dbd2afc83d2
-#EXTINF:-1 tvg-name="NBA Team: Brooklyn Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1200px-Brooklyn_Nets_newlogo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Brooklyn Nets
-http://mxonlive.xyz/live/xap/356200.m3u8?e=1781986593&token=59f07ee7f47bb9344a7e0fa26d36502c78025e9e6a0b0898d54bf9a3366412eb
-#EXTINF:-1 tvg-name="NBA Team: Charlotte Hornets" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Charlotte Hornets
-http://mxonlive.xyz/live/xap/356201.m3u8?e=1781986593&token=ae5713b197d508e40d926b5bee8c3d65a7e58f84e66f95cfbee0e9e774f9cf87
-#EXTINF:-1 tvg-name="NBA Team: Chicago Bulls" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Chicago Bulls
-http://mxonlive.xyz/live/xap/356202.m3u8?e=1781986593&token=fb40e482caa6125b00873b82d371a6bd6c5c4a257b2ab7646e83a663e7fbb97b
-#EXTINF:-1 tvg-name="NBA Team: Cleveland Cavaliers" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/06/Cavs_de_Cleveland_logo_2017.png" group-title="⚽ Sports - Sports",NBA Team: Cleveland Cavaliers
-http://mxonlive.xyz/live/xap/356203.m3u8?e=1781986593&token=7f69e4e18915530fa0b11549c97a74e1ed82a912457056145f48ff7b04e79d83
-#EXTINF:-1 tvg-name="NBA Team: Dallas Mavericks" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/1200px-Mavericks_de_Dallas_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Dallas Mavericks
-http://mxonlive.xyz/live/xap/356204.m3u8?e=1781986593&token=7f73fdc0fbc46dbfdfb17474635b8719aab952c1d70504b02f4a05bb9591df68
-#EXTINF:-1 tvg-name="NBA Team: Denver Nuggets" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/35/Nuggets_de_Denver_2018.png" group-title="⚽ Sports - Sports",NBA Team: Denver Nuggets
-http://mxonlive.xyz/live/xap/356205.m3u8?e=1781986593&token=af278f2d34215fbc7dba206d543cc769b058be3b9d2bbfa195e060d936a7288c
-#EXTINF:-1 tvg-name="NBA Team: Detroit Pistons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Detroit_Pistons_primary_logo_2017.png" group-title="⚽ Sports - Sports",NBA Team: Detroit Pistons
-http://mxonlive.xyz/live/xap/356206.m3u8?e=1781986593&token=727e99b47315aef0e42626b3fbc165a88453abc4a863b13f7afdc1f6f1bb03f4
-#EXTINF:-1 tvg-name="NBA Team: Golden State Warriors" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/07/Warriors_de_Golden_State_logo_2019.png" group-title="⚽ Sports - Sports",NBA Team: Golden State Warriors
-http://mxonlive.xyz/live/xap/356207.m3u8?e=1781986593&token=d25ef97025e5a3c1a36469ccecc670476c8ef7520a612037c8ce130b48c5fb9e
-#EXTINF:-1 tvg-name="NBA Team: Houston Rockets" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/Houston_Rockets_logo_2019.png" group-title="⚽ Sports - Sports",NBA Team: Houston Rockets
-http://mxonlive.xyz/live/xap/356208.m3u8?e=1781986593&token=2bb6cb6ad00d60c26a91a0a984445151e878cbf7995d17c1ec0d3ae223a9c6e2
-#EXTINF:-1 tvg-name="NBA Team: Indiana Pacers" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/48/Pacers_de_l%27Indiana_2017.png" group-title="⚽ Sports - Sports",NBA Team: Indiana Pacers
-http://mxonlive.xyz/live/xap/356209.m3u8?e=1781986593&token=b36b32d7e6acdf684b4cb57264a39f3f2ddd9c1622f5f02e11eeef5ce4dd13b6
-#EXTINF:-1 tvg-name="NBA Team: Los Angeles Clippers" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Clippers_de_Los_Angeles_logo.svg/1200px-Clippers_de_Los_Angeles_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Los Angeles Clippers
-http://mxonlive.xyz/live/xap/356210.m3u8?e=1781986593&token=9f3a5252ab2e5d1c8b3cfc0829b573baa0c9d4a128fb3ca5f7f0f83303cb1649
-#EXTINF:-1 tvg-name="NBA Team: Los Angeles Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Los Angeles Lakers
-http://mxonlive.xyz/live/xap/356211.m3u8?e=1781986593&token=2043e3f2179e91351661d3d4e762e564d2d929667801e34bba3c04f30b69df91
-#EXTINF:-1 tvg-name="NBA Team: Memphis Grizzlies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png" group-title="⚽ Sports - Sports",NBA Team: Memphis Grizzlies
-http://mxonlive.xyz/live/xap/356212.m3u8?e=1781986593&token=4ddc59c6310152b17279f06a158ad082321964cb5d1dcc0c123aea40aee79df7
-#EXTINF:-1 tvg-name="NBA Team: Miami Heat" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Miami Heat
-http://mxonlive.xyz/live/xap/356213.m3u8?e=1781986593&token=ee4f7c6bd59fe0bc6b59aa020b018ef0c712c844618bd941227bb5cc8e1e4f72
-#EXTINF:-1 tvg-name="NBA Team: Milwaukee Bucks" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png" group-title="⚽ Sports - Sports",NBA Team: Milwaukee Bucks
-http://mxonlive.xyz/live/xap/356214.m3u8?e=1781986593&token=0beac86473993cf799bf25786532e159aa056cfff64862dc021d013b72b41559
-#EXTINF:-1 tvg-name="NBA Team: Minnesota Timberwolves" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Timberwolves_du_Minnesota_logo_2017.png" group-title="⚽ Sports - Sports",NBA Team: Minnesota Timberwolves
-http://mxonlive.xyz/live/xap/356215.m3u8?e=1781986593&token=16745c727e58b2ee8ecabac924d38451c95c987e52fc813c6c47fd68c44362eb
-#EXTINF:-1 tvg-name="NBA Team: New Orleans Pelicans" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/21/New_Orleans_Pelicans.png" group-title="⚽ Sports - Sports",NBA Team: New Orleans Pelicans
-http://mxonlive.xyz/live/xap/356216.m3u8?e=1781986593&token=f1bf81bf0bf141bde9c627b0cf6c94a154b8b92564c9c42ad7e7de0bdd896332
-#EXTINF:-1 tvg-name="NBA Team: New York Knicks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: New York Knicks
-http://mxonlive.xyz/live/xap/356217.m3u8?e=1781986593&token=e5d92851acc5ffac4e26798714dece9e00b531a557a1bc1e1f51e6cce3f6430b
-#EXTINF:-1 tvg-name="NBA Team: Oklahoma City Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Oklahoma City Thunder
-http://mxonlive.xyz/live/xap/356218.m3u8?e=1781986593&token=e71a21a94c67266682e82d9b04f7dd823a9fcc30fba46f58063a64299ba05791
-#EXTINF:-1 tvg-name="NBA Team: Orlando Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png" group-title="⚽ Sports - Sports",NBA Team: Orlando Magic
-http://mxonlive.xyz/live/xap/356219.m3u8?e=1781986593&token=9ca0319ca6dd1bdb37d5bcedbf91180d7a26413deec18e2744f232de84cbb20a
-#EXTINF:-1 tvg-name="NBA Team: Philadelphia 76ers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Philadelphia 76ers
-http://mxonlive.xyz/live/xap/356220.m3u8?e=1781986593&token=97df6515bc9e84a06b3b4cfa940dc39aa99d064302306fe3a90f39aed2ba16e7
-#EXTINF:-1 tvg-name="NBA Team: Portland Trail Blazers" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/Trail_Blazers_de_Portland_2017.png" group-title="⚽ Sports - Sports",NBA Team: Portland Trail Blazers
-http://mxonlive.xyz/live/xap/356222.m3u8?e=1781986593&token=abc81243f22567cff1fddf235166c6465e8d586a3311f518be6dd6cf302ecda9
-#EXTINF:-1 tvg-name="NBA Team: Sacramento Kings" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Sacramento Kings
-http://mxonlive.xyz/live/xap/356223.m3u8?e=1781986593&token=07ff1d0e7eb8eec47a6b9d22e101f4e41a8cce95fee69818c8dc1584b58df225
-#EXTINF:-1 tvg-name="NBA Team: San Antonio Spurs" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png" group-title="⚽ Sports - Sports",NBA Team: San Antonio Spurs
-http://mxonlive.xyz/live/xap/356224.m3u8?e=1781986593&token=b96ecdc20ee3695e8f8f05fc38e6ff1af41499fdbe2b46e7fc2f45ae5e0175b8
-#EXTINF:-1 tvg-name="NBA Team: Toronto Raptors" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bd/Toronto_Raptors_current_logo.gif" group-title="⚽ Sports - Sports",NBA Team: Toronto Raptors
-http://mxonlive.xyz/live/xap/356225.m3u8?e=1781986593&token=60ffe33208ad074db5d721e109b562256ee25585ce401123b8d8dc980070c471
-#EXTINF:-1 tvg-name="NBA Team: Utah Jazz" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png" group-title="⚽ Sports - Sports",NBA Team: Utah Jazz
-http://mxonlive.xyz/live/xap/356226.m3u8?e=1781986593&token=91c26b5ea62390270259770b217d0295669928533ced6c17651429bde5097e99
-#EXTINF:-1 tvg-name="NBA Team: Washington Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png" group-title="⚽ Sports - Sports",NBA Team: Washington Wizards
-http://mxonlive.xyz/live/xap/356227.m3u8?e=1781986593&token=fc2094be4130a32bfc18e42b7b68d735a20d340079acd6d885f517ee0531888f
-#EXTINF:-1 tvg-name="NCAAF 01: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 01: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232873.m3u8?e=1781986593&token=7dc4147606a3b0090aac2106640f4c9e5cae67b2b08d0c0b4671fcc3cfadc141
-#EXTINF:-1 tvg-name="NCAAF 02: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 02: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232874.m3u8?e=1781986593&token=6798a82de1bcfce0c35e1a1643260af50090d7f332b3c04d3791ed307c88e414
-#EXTINF:-1 tvg-name="NCAAF 03: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 03: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232875.m3u8?e=1781986593&token=ce319f25596ec35483e447918cf53dbebec201d1ba23135d89ca1c1440f2a987
-#EXTINF:-1 tvg-name="NCAAF 04: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 04: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232876.m3u8?e=1781986593&token=ef90d25ae968b9135f5cf132c99ce6acc00334383a542408d06e862416bef119
-#EXTINF:-1 tvg-name="NCAAF 05: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 05: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232877.m3u8?e=1781986593&token=8d800a253ea00886d73ebccde7eb730a583ee8240a615f8917d909a97848525d
-#EXTINF:-1 tvg-name="NCAAF 06: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 06: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232878.m3u8?e=1781986593&token=9a702a334a76bab207c2a0fda055feb331f8ffe08cc7263af8ddd93382c0e486
-#EXTINF:-1 tvg-name="NCAAF 07: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 07: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232879.m3u8?e=1781986593&token=82e4c6c639d2d4926465cee078da722b425d3f4be69fdd51e747afe367e759fb
-#EXTINF:-1 tvg-name="NCAAF 08: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 08: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232880.m3u8?e=1781986593&token=97d866da7d39fa5832a1581f1605fa61696a4282edfdcc87187d9d35d985fefe
-#EXTINF:-1 tvg-name="NCAAF 09: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 09: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232881.m3u8?e=1781986593&token=f0e769dea6465ac6739df6efe7d7926a09ab1102a49007058ff9271a994772e8
-#EXTINF:-1 tvg-name="NCAAF 100: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 100: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232972.m3u8?e=1781986593&token=b211da774615a822e9a4887608858a171337200cd8656609ac206173bafc5f9d
-#EXTINF:-1 tvg-name="NCAAF 101: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 101: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232973.m3u8?e=1781986593&token=defb579f364fb3d3da17cae75cd99e6bf7f6dfc162a8869c8b263b18f9376acb
-#EXTINF:-1 tvg-name="NCAAF 102: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 102: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232974.m3u8?e=1781986593&token=9846019ce55cd3f8713560f8cdf03d49dc671a11cb84b29d7617e82cd251766f
-#EXTINF:-1 tvg-name="NCAAF 103: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 103: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232975.m3u8?e=1781986593&token=5b6872d322172a594802e38cec652a8a2bdf70126114474fad06359d1780bc6e
-#EXTINF:-1 tvg-name="NCAAF 104: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 104: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232976.m3u8?e=1781986593&token=86b112e1b88e10c1262966b7a3e91451761e6ab4ca9ce35170ed5f04efcd31c9
-#EXTINF:-1 tvg-name="NCAAF 105: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 105: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232977.m3u8?e=1781986593&token=17c11cf3f71792f781e2c97ea17c1bc5f8e6be8e219c0bd9eeca57166625ee6a
-#EXTINF:-1 tvg-name="NCAAF 106: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 106: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232978.m3u8?e=1781986593&token=9715afad60f274ea7da8b3c8251f9d4ed5572e3098608fcd36088fe65cda313a
-#EXTINF:-1 tvg-name="NCAAF 107: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 107: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232979.m3u8?e=1781986593&token=8b0be4cbac0b23e2da41571c7dbbfbd4ab01ea9e8654ebcb3ca0a0f803585575
-#EXTINF:-1 tvg-name="NCAAF 108: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 108: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232980.m3u8?e=1781986593&token=fb9735a07b59919b03f9bd61823e8c993d3452edf8c0a4ff493c16db60280695
-#EXTINF:-1 tvg-name="NCAAF 109: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 109: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232981.m3u8?e=1781986593&token=628e3b9572b249365819bd20ea0dfe9a5bada93e6b7762b7a25323aafa54ff47
-#EXTINF:-1 tvg-name="NCAAF 10: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 10: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232882.m3u8?e=1781986593&token=59d63f2f86106765b5a6889c7a1c8502568977dcd75bd0ee7d2ba3b0109e3545
-#EXTINF:-1 tvg-name="NCAAF 110: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 110: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232982.m3u8?e=1781986593&token=6808bebb1cfa03638f687c54483efb9bf28e5315505fa5accbb71f736ad98469
-#EXTINF:-1 tvg-name="NCAAF 111: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 111: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232983.m3u8?e=1781986593&token=c6e9b15f29d39f7c08efefd83606de1e84890dd5a7bb73349dce8b2f1b86ba0c
-#EXTINF:-1 tvg-name="NCAAF 11: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 11: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232883.m3u8?e=1781986593&token=a4156e1eabac3cb3a8ce3533d34ad5bcc09a33e6fcc203c26df6007fb8225078
-#EXTINF:-1 tvg-name="NCAAF 12: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 12: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232884.m3u8?e=1781986593&token=56c7a768cd006b06577751446ffcec1b7c32a4405ac07bf7129ab6499aa9a845
-#EXTINF:-1 tvg-name="NCAAF 13: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 13: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232885.m3u8?e=1781986593&token=c5ff74c30b249069b93347f4a80af1aaaa10805560bd170403a4da59e3d2a2c7
-#EXTINF:-1 tvg-name="NCAAF 14: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 14: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232886.m3u8?e=1781986593&token=286ce649f41f80ac274fecc25f77bf647663c4f3710180992ed57dee40bf961b
-#EXTINF:-1 tvg-name="NCAAF 15: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 15: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232887.m3u8?e=1781986593&token=2e1212080e4d59a68c3de6e8e86c2da827915b1ff84e7b98db4a0cf2968813bb
-#EXTINF:-1 tvg-name="NCAAF 16: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 16: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232888.m3u8?e=1781986593&token=5658359eef28d979dcca5123af98329b2536380f607299948c55ef04d5e1c9ed
-#EXTINF:-1 tvg-name="NCAAF 17: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 17: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232889.m3u8?e=1781986593&token=4dbe5d05e67247494328e1e60931e2b43f9468d365bfb6565e2ea488feac02b4
-#EXTINF:-1 tvg-name="NCAAF 18: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 18: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232890.m3u8?e=1781986593&token=f8486ffedc6e212c239ee256bc94f5624158d87412db9b4e476c1d5114745c7d
-#EXTINF:-1 tvg-name="NCAAF 19: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 19: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232891.m3u8?e=1781986593&token=3b253f39d07b5cab86f9213d810cc100372a8796c35eeb71449da9776e53a00d
-#EXTINF:-1 tvg-name="NCAAF 20: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 20: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232892.m3u8?e=1781986593&token=642abc21540b006bc260991bb99f86b63dd1d505400bf10856ce9ed68c203ebf
-#EXTINF:-1 tvg-name="NCAAF 21: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 21: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232893.m3u8?e=1781986593&token=d2dfea7a965cfb4feaf483e2defad17ce763d952a41eb3ae3951a4dc675fac03
-#EXTINF:-1 tvg-name="NCAAF 22: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 22: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232894.m3u8?e=1781986593&token=3e4f35f8636ae6bc85f9d028c0319fad7564686ca970a37dafd2ecd50f20a441
-#EXTINF:-1 tvg-name="NCAAF 23: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 23: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232895.m3u8?e=1781986593&token=eca488dba4f307ca99a064608b5763e3dcd5a7e8be8de7a6c84c8906003b986c
-#EXTINF:-1 tvg-name="NCAAF 24: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports - News",NCAAF 24: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232896.m3u8?e=1781986593&token=df310d163d192d313266870acbfe62312c2886aebb621dc98259a0fa446376e8
-#EXTINF:-1 tvg-name="NCAAF 25: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 25: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232897.m3u8?e=1781986593&token=453f0f1f16700b2df838676020ccc3954282eaa8ee68d87daf19e53442127da9
-#EXTINF:-1 tvg-name="NCAAF 26: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 26: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232898.m3u8?e=1781986593&token=4aa22d78f009e541ec9e96761870589f0606fbf016177a5f344382b357efb55d
-#EXTINF:-1 tvg-name="NCAAF 27: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 27: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232899.m3u8?e=1781986593&token=44c50998b410b9f328a23e8276067adf23635f497b2b4fa195f9475967d9cef8
-#EXTINF:-1 tvg-name="NCAAF 28: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 28: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232900.m3u8?e=1781986593&token=d41a28b523a2b75f8898424fa9e83af36512426d77e71bdb29412b76cefc6f40
-#EXTINF:-1 tvg-name="NCAAF 29: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 29: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232901.m3u8?e=1781986593&token=84e94b813832a427f9a8d788c7090cb122445de3d1a2f77e5b6857acd893f013
-#EXTINF:-1 tvg-name="NCAAF 30: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 30: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232902.m3u8?e=1781986593&token=d20d50d53e1629111ccaa7280909abbedbcab49e44493964951d0e4681501692
-#EXTINF:-1 tvg-name="NCAAF 31: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 31: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232903.m3u8?e=1781986593&token=19fed16271bdaa1c54ac59d86fb74a9d3bb0791b027c102b9aa3bac145367414
-#EXTINF:-1 tvg-name="NCAAF 32: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 32: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232904.m3u8?e=1781986593&token=5cfb4dc1eda7a9a599fefdfbe7fdd970173288b627f626fdac1fb7a302b422b4
-#EXTINF:-1 tvg-name="NCAAF 33: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 33: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232905.m3u8?e=1781986593&token=d7d9f16162f89e16e4b3cbb73faae77233ae8cb6fb02e7fac61389b01b794bd6
-#EXTINF:-1 tvg-name="NCAAF 34: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 34: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232906.m3u8?e=1781986593&token=b18571593a72296241ecbd41f83f04251d679b999353c449bc9e6904237d5d4e
-#EXTINF:-1 tvg-name="NCAAF 35: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 35: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232907.m3u8?e=1781986593&token=87d368996edcebb48d618dcb1e49f4bc710facb25465960aded3858d59a56f62
-#EXTINF:-1 tvg-name="NCAAF 36: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 36: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232908.m3u8?e=1781986593&token=6a7eda63fcd7fbe6e91cebb838d0424f5c6aa399914dbd0af179d2cd6642640e
-#EXTINF:-1 tvg-name="NCAAF 37: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 37: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232909.m3u8?e=1781986593&token=024ab16d76569076ce793b57bc4c6f9401f5357f29446919a3ab0eea91d93ef6
-#EXTINF:-1 tvg-name="NCAAF 38: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 38: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232910.m3u8?e=1781986593&token=d9ce6c8f24bb3ee11155732904044de83a174a4389e73b7a0aa1c46fd11fdef8
-#EXTINF:-1 tvg-name="NCAAF 39: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 39: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232911.m3u8?e=1781986593&token=e1eb1000d68f2c02df6b8b2fd60e3ba77b9acb84bb9fc0aaa01eb751fbe4b2f1
-#EXTINF:-1 tvg-name="NCAAF 40: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 40: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232912.m3u8?e=1781986593&token=6f3aef2c6e48be7a95d4bdd264867ffd5c086486550a1e5487a0548c39ed0c98
-#EXTINF:-1 tvg-name="NCAAF 41: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 41: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232913.m3u8?e=1781986593&token=09af2d2192f3fdb0ecb9c70a67761ca42dba4adc7b8cbc6462328f935b4b2aab
-#EXTINF:-1 tvg-name="NCAAF 42: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 42: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232914.m3u8?e=1781986593&token=5d8edbda7884d55260d3991f663a2e2b996b247fd6663939aea7d71791491dab
-#EXTINF:-1 tvg-name="NCAAF 43: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 43: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232915.m3u8?e=1781986593&token=c219a18b086bb7757f3d261faabdf9a35e6ab70615995b926ccf713b3f7522a7
-#EXTINF:-1 tvg-name="NCAAF 44: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 44: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232916.m3u8?e=1781986593&token=0b3e27172218a0fb0ac1e7c4fe681228ea79af872bbc9092439e2f5e142eaa25
-#EXTINF:-1 tvg-name="NCAAF 45: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 45: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232917.m3u8?e=1781986593&token=9478364b727a26ac4b138f153a6ae36b284cfc4e65d234f59f5e50711f39588c
-#EXTINF:-1 tvg-name="NCAAF 46: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 46: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232918.m3u8?e=1781986593&token=04f30c3d71a6e6f58bc54ac05ca7aa5e6d3bf5ad7f10dd2168dd89a529b803bc
-#EXTINF:-1 tvg-name="NCAAF 47: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 47: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232919.m3u8?e=1781986593&token=c7e10eba93316b84f0b85606d723643bc7999a876046311082cab043f1c09da9
-#EXTINF:-1 tvg-name="NCAAF 48: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 48: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232920.m3u8?e=1781986593&token=b58d0ffbc0e81a05302e0e849dcbc8b2cf407fde0103f746baee9d67f3b496cc
-#EXTINF:-1 tvg-name="NCAAF 49: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 49: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232921.m3u8?e=1781986593&token=94bbe6fba08f708fab0119a86b673bc19313354a1f2411610fe07610c69f5d19
-#EXTINF:-1 tvg-name="NCAAF 50: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 50: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232922.m3u8?e=1781986593&token=b5302d3d883b6589953d4a8606d2e08919137da9e6a12fc79f95df08f1c314cc
-#EXTINF:-1 tvg-name="NCAAF 51: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 51: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232923.m3u8?e=1781986593&token=fa377ad33e921a4bcc94749c6b071b9a157c7a17ad1c18e0ee7084ecd4ff44fb
-#EXTINF:-1 tvg-name="NCAAF 52: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 52: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232924.m3u8?e=1781986593&token=f179e8ee1fcc734a0c20dac5417e94fe93fd4dc5432bd73f0c4e571d188c9253
-#EXTINF:-1 tvg-name="NCAAF 53: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 53: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232925.m3u8?e=1781986593&token=1b1e3f53ac83fa09244d8ebc20c772779980788f6699244f35391f5b799bba47
-#EXTINF:-1 tvg-name="NCAAF 54: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 54: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232926.m3u8?e=1781986593&token=62aa1423bac2111f9a13e460b3783f24892affbf8412e82a02d43df4a872bdd4
-#EXTINF:-1 tvg-name="NCAAF 55: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 55: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232927.m3u8?e=1781986593&token=ffeab7d3eaa423e9875f81d0b55db3c5249bf4c9f6dfd9e9723b1f1e156670bb
-#EXTINF:-1 tvg-name="NCAAF 56: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 56: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232928.m3u8?e=1781986593&token=e42848c0ebf5b26d36cc3efe821b91f583e32df2c33f058bf720fc870e710f98
-#EXTINF:-1 tvg-name="NCAAF 57: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 57: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232929.m3u8?e=1781986593&token=da6d2093d9ca36ecf2455ea92ab4cc17205772f2b5747c318ab681d3b38de518
-#EXTINF:-1 tvg-name="NCAAF 58: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 58: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232930.m3u8?e=1781986593&token=1519bfa5e9c7bee0cd81598d59954ae03f11fec78dae3a4fb0d2093d11888d72
-#EXTINF:-1 tvg-name="NCAAF 59: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 59: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232931.m3u8?e=1781986593&token=c0e9fa719628b2e5c2eb061203a5c81c4233b5d27f7df5e0de11853ddc912b06
-#EXTINF:-1 tvg-name="NCAAF 60: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 60: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232932.m3u8?e=1781986593&token=cc2291f4564b4859cb16b2e657636f0479b8696691541cb97eab71b8d9586207
-#EXTINF:-1 tvg-name="NCAAF 61: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 61: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232933.m3u8?e=1781986593&token=452deb03aaa6a13ab6b341b7d9eef48666a301cc2d87c2d12202227c21f43da1
-#EXTINF:-1 tvg-name="NCAAF 62: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 62: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232934.m3u8?e=1781986593&token=0cf8159d82ca4939f20b567624bc89bcd86fe7fea2665257a553faa35bc0d819
-#EXTINF:-1 tvg-name="NCAAF 63: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 63: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232935.m3u8?e=1781986593&token=57e79b305c97e0bedae621ffdaf4b439465c1d1948a92caa88faf2ad969b83ab
-#EXTINF:-1 tvg-name="NCAAF 64: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 64: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232936.m3u8?e=1781986593&token=fda0b59a53d9999817632067f1300dc807a2eb59d151767f991c2ce3b7b84ecd
-#EXTINF:-1 tvg-name="NCAAF 65: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 65: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232937.m3u8?e=1781986593&token=03e4a12e25a6c619f3c9b672ff5779d9e33b5edcb6c07bb25cae4f496d3253dc
-#EXTINF:-1 tvg-name="NCAAF 66: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 66: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232938.m3u8?e=1781986593&token=be652354baa87e7290d55d5121aece2d296a1887c384e281167314ff61f646fa
-#EXTINF:-1 tvg-name="NCAAF 67: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 67: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232939.m3u8?e=1781986593&token=1d8eab6a7ea6e3291c20867de8f87776971ff0545c158962e41f2d2c4906da06
-#EXTINF:-1 tvg-name="NCAAF 68: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 68: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232940.m3u8?e=1781986593&token=8c5f833747ab405584c0b9b792e7c0c8f8b70fc99eb1ee1c0813250004696ad0
-#EXTINF:-1 tvg-name="NCAAF 69: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 69: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232941.m3u8?e=1781986593&token=e237c8c13a632d44747175bf5fa7995f81607e90e34f88dfcf050f00aa0bff13
-#EXTINF:-1 tvg-name="NCAAF 70: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 70: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232942.m3u8?e=1781986593&token=045ae8aeb571edd3c0b92cc91447b47ed808a53dd2473f0ddf417bd60b56606e
-#EXTINF:-1 tvg-name="NCAAF 71: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 71: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232943.m3u8?e=1781986593&token=68f4b29af9872ed42bca47a1879a85f5a4c50ef2fe25995bac4cc23eb8c46474
-#EXTINF:-1 tvg-name="NCAAF 72: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 72: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232944.m3u8?e=1781986593&token=6e432860cdb61a7e4863a4a83ba5d97d0d53034fa7aacc5788abdc752e095c3d
-#EXTINF:-1 tvg-name="NCAAF 73: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 73: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232945.m3u8?e=1781986593&token=908434ba434d9d646378fb6bc6c256f38825f0513f2d0055b12848aaf1af3527
-#EXTINF:-1 tvg-name="NCAAF 74: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 74: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232946.m3u8?e=1781986593&token=69ec246182078e34e613b3d43a148583e2e209def1da4e8e685201f27140180b
-#EXTINF:-1 tvg-name="NCAAF 75: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 75: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232947.m3u8?e=1781986593&token=d66b6ff284d855ddc01035fcef6dfc8da16475b036cc5ea9003d31dd8af426c2
-#EXTINF:-1 tvg-name="NCAAF 76: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 76: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232948.m3u8?e=1781986593&token=4d4e91985024bf6b25b24495fa9241cdc68dfa88592ffbb2bad376708d1b89d9
-#EXTINF:-1 tvg-name="NCAAF 77: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 77: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232949.m3u8?e=1781986593&token=d6c756bdfc3821414bc1cf1d6c739cbec6991b62ec2c328d41f3a9928071b132
-#EXTINF:-1 tvg-name="NCAAF 78: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 78: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232950.m3u8?e=1781986593&token=071610aba1b7bed2954faf4f3c18b6032378d3357cbe4bfeafb2a973cf1a070f
-#EXTINF:-1 tvg-name="NCAAF 79: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 79: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232951.m3u8?e=1781986593&token=4167a3c8598537da38b08a6daa8c479379f8467696cfebf64f449dccca1091c5
-#EXTINF:-1 tvg-name="NCAAF 80: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 80: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232952.m3u8?e=1781986593&token=ec375b08d80a7189833a1b4d1538aff04d840e659d398bb7dca5a5e942724fa0
-#EXTINF:-1 tvg-name="NCAAF 81: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 81: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232953.m3u8?e=1781986593&token=8e92c5cd63f6526c70d08ff83c415ea15fcb00640bf51ea4e86aa7aff6b9479f
-#EXTINF:-1 tvg-name="NCAAF 82: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 82: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232954.m3u8?e=1781986593&token=00ed37a5d15b7e405351f67a92598eecdb34b1e6a5e3608c2190d506fb273fbb
-#EXTINF:-1 tvg-name="NCAAF 83: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 83: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232955.m3u8?e=1781986593&token=0a3a33f24022c70892f68de0fff9a2c47683e45e3d6897e2d767e60c99d16d06
-#EXTINF:-1 tvg-name="NCAAF 84: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 84: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232956.m3u8?e=1781986593&token=941b79e05a5ef73e3d0de275830eee3ea52e745ded2ba6cf48d9c5519dd5b301
-#EXTINF:-1 tvg-name="NCAAF 85: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 85: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232957.m3u8?e=1781986593&token=f553c76c9a5cf0c2dc56a619eeb35031f067ab7a38db5edb614bf8cffba3e7fa
-#EXTINF:-1 tvg-name="NCAAF 86: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 86: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232958.m3u8?e=1781986593&token=161331b96946832d2faa61abc0fd47b3d15c307e4547b55bad0029cd7fe11cec
-#EXTINF:-1 tvg-name="NCAAF 87: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 87: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232959.m3u8?e=1781986593&token=9eeaa1157e9c17e3c8769fb1728edc515cfea22a68b4369563801fd9faa99d0f
-#EXTINF:-1 tvg-name="NCAAF 88: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 88: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232960.m3u8?e=1781986593&token=4cf56dd063b973313765cd53cf533f991efa24c0964e1b90c70b8c6e4eac6030
-#EXTINF:-1 tvg-name="NCAAF 89: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 89: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232961.m3u8?e=1781986593&token=7151e42f6d79f30dd311d5fc206e57135ed8d2eb64d2014dd05faaeeaa608486
-#EXTINF:-1 tvg-name="NCAAF 90: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 90: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232962.m3u8?e=1781986593&token=9ae7d565ff32390b9c302b141de45ab0491d7d7c6103f25eb4d075fe34bdb208
-#EXTINF:-1 tvg-name="NCAAF 91: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 91: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232963.m3u8?e=1781986593&token=7c140caad28f56948752efcfb9e65dfe163e813b6672d3cca388f0efbf560ff9
-#EXTINF:-1 tvg-name="NCAAF 92: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 92: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232964.m3u8?e=1781986593&token=959e946bd45c77f5f029541e523dfc092fc3112097496b403f12037cca002d61
-#EXTINF:-1 tvg-name="NCAAF 93: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 93: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232965.m3u8?e=1781986593&token=361c454b1c5bd35ef00dbcfe846451af6e4de39facc94fac41599c7fd05a10f7
-#EXTINF:-1 tvg-name="NCAAF 94: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 94: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232966.m3u8?e=1781986593&token=bfb488e9c6c97dfe7eaa9b73023a0da9d5dbd8da689c2e6ee1f981e1f09dc3a6
-#EXTINF:-1 tvg-name="NCAAF 95: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 95: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232967.m3u8?e=1781986593&token=c232f5ca23211dd06204aa882fb082255c08c934d5a3198565da049702038d93
-#EXTINF:-1 tvg-name="NCAAF 96: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 96: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232968.m3u8?e=1781986593&token=0044b593368427e35cf1fcfed3cf09b98f9500c08a7c0dad686f3bab2df57315
-#EXTINF:-1 tvg-name="NCAAF 97: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 97: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232969.m3u8?e=1781986593&token=6b716061117ffd0313d3c262acd4db995b3872dbacfff36a70811107a889be3d
-#EXTINF:-1 tvg-name="NCAAF 98: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 98: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232970.m3u8?e=1781986593&token=ea107bddc6169f303f685a3caf47eb3c30bf7942fec13e48ab194e2193a4fee0
-#EXTINF:-1 tvg-name="NCAAF 99: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/NCAA_Division_I_FBS_independent_schools_logo.png" group-title="⚽ Sports",NCAAF 99: No Scheduled Event.
-http://mxonlive.xyz/live/xap/232971.m3u8?e=1781986593&token=91a70823fc5e6184278c9f7334a5ee8d516da8fb88e633094b55047a15f4a56c
-#EXTINF:-1 tvg-name="NFL 01 | Indianapolis Colts vs Cincinnati Bengals Aug 22 8:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 01 | Indianapolis Colts vs Cincinnati Bengals Aug 22 8:00 PM
-http://mxonlive.xyz/live/xap/381624.m3u8?e=1781986593&token=7c23206228d5895bd7ffe5a9c6adb8ba6b11db0f5f2ec1da7671e87574da6558
-#EXTINF:-1 tvg-name="NFL 02 | Chicago Bears vs Kansas City Chiefs Aug 22 8:20 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 02 | Chicago Bears vs Kansas City Chiefs Aug 22 8:20 PM
-http://mxonlive.xyz/live/xap/381625.m3u8?e=1781986593&token=f828556e8b65319dd174d1c8cb9a0edb45999cf42f45d7d489d36c3b6bec5871
-#EXTINF:-1 tvg-name="NFL 03 | Jacksonville Jaguars vs Atlanta Falcons Aug 23 7:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 03 | Jacksonville Jaguars vs Atlanta Falcons Aug 23 7:00 PM
-http://mxonlive.xyz/live/xap/381626.m3u8?e=1781986593&token=ec91b320df84e8b5486b1ca47066f775d4724fdae5e2d543edebb91722d10243
-#EXTINF:-1 tvg-name="NFL 04 | Miami Dolphins vs Tampa Bay Buccaneers Aug 23 7:30 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 04 | Miami Dolphins vs Tampa Bay Buccaneers Aug 23 7:30 PM
-http://mxonlive.xyz/live/xap/381627.m3u8?e=1781986593&token=42c2d0fa3e6aa5c46d3be1cbe9eda97b62b5b4c3e5c51a66686978c48bb8dc14
-#EXTINF:-1 tvg-name="NFL 05 | San Francisco 49ers vs Las Vegas Raiders Aug 23 10:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 05 | San Francisco 49ers vs Las Vegas Raiders Aug 23 10:00 PM
-http://mxonlive.xyz/live/xap/381628.m3u8?e=1781986593&token=c5ef2a9801614ee1f598b6f3f40d6140a98ff952fb655521cb27aa642df76741
-#EXTINF:-1 tvg-name="NFL 06 | Baltimore Ravens vs Green Bay Packers Aug 24 1:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 06 | Baltimore Ravens vs Green Bay Packers Aug 24 1:00 PM
-http://mxonlive.xyz/live/xap/381629.m3u8?e=1781986593&token=5203b2d096570aa94081d169a5ce816d95fd1f165e67a3232051c0f90b3be240
-#EXTINF:-1 tvg-name="NFL 07 | Carolina Panthers vs Buffalo Bills Aug 24 1:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 07 | Carolina Panthers vs Buffalo Bills Aug 24 1:00 PM
-http://mxonlive.xyz/live/xap/381630.m3u8?e=1781986593&token=24058f47d89c471ff41e9ffad988d47f2e69addd93b6231ee99fb46a4ad39358
-#EXTINF:-1 tvg-name="NFL 08 | Los Angeles Rams vs Houston Texans Aug 24 1:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 08 | Los Angeles Rams vs Houston Texans Aug 24 1:00 PM
-http://mxonlive.xyz/live/xap/381631.m3u8?e=1781986593&token=026e772c5a343ee53928a06b8f299cb570f8969c63491dccd10ef2453d5ce82e
-#EXTINF:-1 tvg-name="NFL 09 | Minnesota Vikings vs Philadelphia Eagles Aug 24 1:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 09 | Minnesota Vikings vs Philadelphia Eagles Aug 24 1:00 PM
-http://mxonlive.xyz/live/xap/381632.m3u8?e=1781986593&token=e37965021261b9fa1f9377665546859501d233869cc117bdf4ecd7a0f04332bb
-#EXTINF:-1 tvg-name="NFL 10 | Pittsburgh Steelers vs Detroit Lions Aug 24 1:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 10 | Pittsburgh Steelers vs Detroit Lions Aug 24 1:00 PM
-http://mxonlive.xyz/live/xap/381633.m3u8?e=1781986593&token=06528d60ab05a6b90a8f5dca6924ceba85524c0ceacd9053315910fa28ae5307
-#EXTINF:-1 tvg-name="NFL 11 | Los Angeles Chargers vs Dallas Cowboys Aug 24 4:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 11 | Los Angeles Chargers vs Dallas Cowboys Aug 24 4:00 PM
-http://mxonlive.xyz/live/xap/381634.m3u8?e=1781986593&token=d27b676adb9300b10ab0a4fdc25b94879f94a848f40ee5d2f05b4b250cf64540
-#EXTINF:-1 tvg-name="NFL 12 | New York Giants vs New York Jets Aug 24 7:30 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 12 | New York Giants vs New York Jets Aug 24 7:30 PM
-http://mxonlive.xyz/live/xap/381635.m3u8?e=1781986593&token=eb13af0416020c0bb4a4a09359211b6d3374fb905c65778e7740ecfaca32a905
-#EXTINF:-1 tvg-name="NFL 13 | Cleveland Browns vs Seattle Seahawks Aug 24 10:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - News",NFL 13 | Cleveland Browns vs Seattle Seahawks Aug 24 10:00 PM
-http://mxonlive.xyz/live/xap/381636.m3u8?e=1781986593&token=1cc9cb40f69472a503aa6a9c1792cdf50d1808207f0c52e487dddc8b0f6fdb08
-#EXTINF:-1 tvg-name="NFL 14 | Tennessee Titans vs New Orleans Saints Aug 25 2:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 14 | Tennessee Titans vs New Orleans Saints Aug 25 2:00 PM
-http://mxonlive.xyz/live/xap/381637.m3u8?e=1781986593&token=4c8201ae40726227bf2e8ba02688b74a257793c72d0de339cddb2656cf03773e
-#EXTINF:-1 tvg-name="NFL 15 | Arizona Cardinals vs Denver Broncos Aug 25 4:30 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 15 | Arizona Cardinals vs Denver Broncos Aug 25 4:30 PM
-http://mxonlive.xyz/live/xap/381638.m3u8?e=1781986593&token=f46f2252d214cbe46d6119d737a358f8c3962d4095054e2bac607154f5a8f7e0
-#EXTINF:-1 tvg-name="NFL 16 | New England Patriots vs Washington Commanders Aug 25 8:00 PM" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 16 | New England Patriots vs Washington Commanders Aug 25 8:00 PM
-http://mxonlive.xyz/live/xap/381639.m3u8?e=1781986593&token=bfbc0c33874c2c2b4ecf7565ae0a062597410da0d392977e04bd41dacb6cf0dc
-#EXTINF:-1 tvg-name="NFL 16: No Scheduled Event." tvg-logo="http://109.238.11.8:25461/logo/tv/nn/NFLsundayticket.png" group-title="⚽ Sports - Sports",NFL 16: No Scheduled Event.
-http://mxonlive.xyz/live/xap/381640.m3u8?e=1781986593&token=a853ad12151035eac2470ed3d455bc5529a586309404a2e873a4680972f32fb1
-#EXTINF:-1 tvg-name="NFL Team: Arizona Cardinals" tvg-logo="https://i.ibb.co/k6tnfGL/arizona-cardinals.png" group-title="⚽ Sports - Sports",NFL Team: Arizona Cardinals
-http://mxonlive.xyz/live/xap/381641.m3u8?e=1781986593&token=0848a15b62c0d903bf2ab0fa4a0187228004ca4aaa8ff710c565e6f7bbb84fc2
-#EXTINF:-1 tvg-name="NFL Team: Atlanta Falcons" tvg-logo="https://i.ibb.co/2d7Xtjr/atlanta-falcons.png" group-title="⚽ Sports - Sports",NFL Team: Atlanta Falcons
-http://mxonlive.xyz/live/xap/381642.m3u8?e=1781986593&token=93b58c07219730cf5accba059b56d16494a6c70d5353db1ca64b8d91c9e61c45
-#EXTINF:-1 tvg-name="NFL Team: Baltimore Ravens" tvg-logo="https://i.ibb.co/N1b7d2d/baltimore-ravens.png" group-title="⚽ Sports - Sports",NFL Team: Baltimore Ravens
-http://mxonlive.xyz/live/xap/381643.m3u8?e=1781986593&token=53a37d9c12cc183e69f98238a99cd4f6f958764215d30dec504fb5ff4b6c21e1
-#EXTINF:-1 tvg-name="NFL Team: Buffalo Bills" tvg-logo="https://i.ibb.co/GQMQNkJ/buffalo-bills.png" group-title="⚽ Sports - Sports",NFL Team: Buffalo Bills
-http://mxonlive.xyz/live/xap/381644.m3u8?e=1781986593&token=37fc7a7242c03a10452f696b002f29af69dc4a040e628f183216c761bc70ea3e
-#EXTINF:-1 tvg-name="NFL Team: Carolina Panthers" tvg-logo="https://i.ibb.co/nBjLRh8/carolina-panthers.png" group-title="⚽ Sports - Sports",NFL Team: Carolina Panthers
-http://mxonlive.xyz/live/xap/381645.m3u8?e=1781986593&token=b5b560ffeb25e98120c746dffce94464f069f241f4a45717d728bfd3723a2005
-#EXTINF:-1 tvg-name="NFL Team: Chicago Bears" tvg-logo="https://i.ibb.co/z6yQSVQ/chicago-bears.png" group-title="⚽ Sports - Sports",NFL Team: Chicago Bears
-http://mxonlive.xyz/live/xap/381646.m3u8?e=1781986593&token=289e85bda38e5d090bcd05448c306abd6cbac75b2460130e397820b18a74282b
-#EXTINF:-1 tvg-name="NFL Team: Cincinnati Bengals" tvg-logo="https://i.ibb.co/RSfbGSs/cincinnati-bengals.png" group-title="⚽ Sports - Sports",NFL Team: Cincinnati Bengals
-http://mxonlive.xyz/live/xap/381647.m3u8?e=1781986593&token=f9db854da4675b25a4942fbd57d4e003410cee23b4a3be2a7f8c7b23ef9fc9e7
-#EXTINF:-1 tvg-name="NFL Team: Cleveland Browns" tvg-logo="https://i.ibb.co/rxXfczT/cleveland-browns.png" group-title="⚽ Sports - Sports",NFL Team: Cleveland Browns
-http://mxonlive.xyz/live/xap/381648.m3u8?e=1781986593&token=27bead9179bc5582052fdc9a17471891c576526dddc73be23afdf701935c7e04
-#EXTINF:-1 tvg-name="NFL Team: Dallas Cowboys" tvg-logo="https://i.ibb.co/GMdQcnL/dallas-cowboys.png" group-title="⚽ Sports - Sports",NFL Team: Dallas Cowboys
-http://mxonlive.xyz/live/xap/381649.m3u8?e=1781986593&token=b04dc771245e32a4b2fe9032815b00b4fc898fe9ab6d87967ec9c36728c07920
-#EXTINF:-1 tvg-name="NFL Team: Denver Broncos" tvg-logo="https://i.ibb.co/7vc6Bc0/denver-broncos.png" group-title="⚽ Sports - Sports",NFL Team: Denver Broncos
-http://mxonlive.xyz/live/xap/381650.m3u8?e=1781986593&token=efba9a08a701d5cbbcb203635107b5beba065611fb0382b23606730b904e2792
-#EXTINF:-1 tvg-name="NFL Team: Detroit Lions" tvg-logo="https://i.ibb.co/jHRTtFJ/detroit-lions.png" group-title="⚽ Sports - Sports",NFL Team: Detroit Lions
-http://mxonlive.xyz/live/xap/381651.m3u8?e=1781986593&token=9488c9b7fec338ad6af06dcc81f25ff5bc789c5853a0db412f0b2d48bb1b0da1
-#EXTINF:-1 tvg-name="NFL Team: Green Bay Packers" tvg-logo="https://i.ibb.co/DCMHK9t/green-bay-packers.png" group-title="⚽ Sports - Sports",NFL Team: Green Bay Packers
-http://mxonlive.xyz/live/xap/381652.m3u8?e=1781986593&token=826505cbf58023199c4a9e7b9b24c552cee14704e98a59319b796db0290e21f9
-#EXTINF:-1 tvg-name="NFL Team: Houston Texans" tvg-logo="https://i.ibb.co/zSfLdP3/houston-texans.png" group-title="⚽ Sports - Sports",NFL Team: Houston Texans
-http://mxonlive.xyz/live/xap/381653.m3u8?e=1781986593&token=d8fcc37ac3e909670290eebcdd64f54041ff1878df3d29617823bdd9956509b0
-#EXTINF:-1 tvg-name="NFL Team: Indianapolis Colts" tvg-logo="https://i.ibb.co/SssRyQb/indianapolis-colts.png" group-title="⚽ Sports - Sports",NFL Team: Indianapolis Colts
-http://mxonlive.xyz/live/xap/381654.m3u8?e=1781986593&token=8efd498eae75b4450fa8c04341ce940b3567c75695cb53d3b388d87a94b1c166
-#EXTINF:-1 tvg-name="NFL Team: Jacksonville Jaguars" tvg-logo="https://i.ibb.co/ypBXFSG/jacksonville-jaguars.png" group-title="⚽ Sports - Sports",NFL Team: Jacksonville Jaguars
-http://mxonlive.xyz/live/xap/381655.m3u8?e=1781986593&token=50ef6fd821b4b0ce1c0bfb4eb91f224527b51cf460c0b7b19f6e4b6247a33514
-#EXTINF:-1 tvg-name="NFL Team: Kansas City Chiefs" tvg-logo="https://i.ibb.co/F8v7Xx3/kansas-city-chiefs.png" group-title="⚽ Sports - Sports",NFL Team: Kansas City Chiefs
-http://mxonlive.xyz/live/xap/381656.m3u8?e=1781986593&token=09d4c4a3dcefae6466f63f5d89884129ebb46233d4ff499df63f8c9f233001d5
-#EXTINF:-1 tvg-name="NFL Team: Las Vegas Raiders" tvg-logo="https://i.ibb.co/BtF2kRq/las-vegas-raiders.png" group-title="⚽ Sports - Sports",NFL Team: Las Vegas Raiders
-http://mxonlive.xyz/live/xap/381657.m3u8?e=1781986593&token=8b4b3d92622b2bc8513d353693b200b54d80f29ee9eb16f9b4aa65358266610a
-#EXTINF:-1 tvg-name="NFL Team: Los Angeles Chargers" tvg-logo="https://i.ibb.co/pWG9WrL/los-angelas-chargers.png" group-title="⚽ Sports - Sports",NFL Team: Los Angeles Chargers
-http://mxonlive.xyz/live/xap/381658.m3u8?e=1781986593&token=8b800f813c24e178f4259824ee95fd0e75cccddee891bfa67aeff7db9464d055
-#EXTINF:-1 tvg-name="NFL Team: Los Angeles Rams" tvg-logo="https://i.ibb.co/gyv4KZw/la-rams.png" group-title="⚽ Sports - Sports",NFL Team: Los Angeles Rams
-http://mxonlive.xyz/live/xap/381659.m3u8?e=1781986593&token=1a3490871a8c0f13fa872cb533b6e8d3c30574466afbcbb608458245be8df279
-#EXTINF:-1 tvg-name="NFL Team: Miami Dolphins" tvg-logo="https://i.ibb.co/BzG7Mxq/miami-dolphins.png" group-title="⚽ Sports - Sports",NFL Team: Miami Dolphins
-http://mxonlive.xyz/live/xap/381660.m3u8?e=1781986593&token=578232fa81fd807e445f9bdb11d3ce44a24102ac474e971ea8eb00d6b55384e1
-#EXTINF:-1 tvg-name="NFL Team: Minnesota Vikings" tvg-logo="https://i.ibb.co/VBGfgmY/minnesota-vikings.png" group-title="⚽ Sports - Sports",NFL Team: Minnesota Vikings
-http://mxonlive.xyz/live/xap/381661.m3u8?e=1781986593&token=5098d4dadf8d3c8daaf82d9a9845d1d316f1b872c0692ffa7bb4ef2f34122bc6
-#EXTINF:-1 tvg-name="NFL Team: New England Patriots" tvg-logo="https://i.ibb.co/5sNrP2J/new-england-patriots.png" group-title="⚽ Sports - Sports",NFL Team: New England Patriots
-http://mxonlive.xyz/live/xap/381662.m3u8?e=1781986593&token=4ff22ea9fc5010be0b025013688f1202e557fcaf2c759895bc7ca8e0d3f58d3b
-#EXTINF:-1 tvg-name="NFL Team: New Orleans Saints" tvg-logo="https://i.ibb.co/jRK4jBF/new-orleans-saints.png" group-title="⚽ Sports - Sports",NFL Team: New Orleans Saints
-http://mxonlive.xyz/live/xap/381663.m3u8?e=1781986593&token=cecf7aa7b8e1fbdc25d9c6bece4564217f8aad2df967aa30b6b971e600842c39
-#EXTINF:-1 tvg-name="NFL Team: New York Giants" tvg-logo="https://i.ibb.co/jT8STqz/new-york-giants.png" group-title="⚽ Sports - Sports",NFL Team: New York Giants
-http://mxonlive.xyz/live/xap/381664.m3u8?e=1781986593&token=12f1cf8e5447d228ee698c85e66f8a2fb67c4fd7c22e52075a6f7a2e31c5a3aa
-#EXTINF:-1 tvg-name="NFL Team: New York Jets" tvg-logo="https://i.ibb.co/7CXW1K3/new-york-jets.png" group-title="⚽ Sports - Sports",NFL Team: New York Jets
-http://mxonlive.xyz/live/xap/381665.m3u8?e=1781986593&token=86213ba58edaa96b7a12258bd5ceaafefa3d6a23c901bd0baddf5aeb60cf1aa9
-#EXTINF:-1 tvg-name="NFL Team: Philadelphia Eagles" tvg-logo="https://i.ibb.co/8mPvqhL/philadelphia-eagles.png" group-title="⚽ Sports - Sports",NFL Team: Philadelphia Eagles
-http://mxonlive.xyz/live/xap/381666.m3u8?e=1781986593&token=b369c80d80cf99910ed9c908d7055c66423eb7a7b69c21a012c3409c4c84b766
-#EXTINF:-1 tvg-name="NFL Team: Pittsburgh Steelers" tvg-logo="https://i.ibb.co/YXbZvxQ/pittsburgh-steelers.png" group-title="⚽ Sports - Sports",NFL Team: Pittsburgh Steelers
-http://mxonlive.xyz/live/xap/381667.m3u8?e=1781986593&token=f90e6f9339f3370271e727e9f7ebc71fec8360987f93d5a3a2a096b36c67e2c5
-#EXTINF:-1 tvg-name="NFL Team: San Fransico 49Ers" tvg-logo="https://i.ibb.co/tp5Sfvx/san-francisco-49ers.png" group-title="⚽ Sports - Sports",NFL Team: San Fransico 49Ers
-http://mxonlive.xyz/live/xap/381668.m3u8?e=1781986593&token=35cc17c5740a76b6739ca4b7f5095c92d4aa986597987351a736beaf5450a9d6
-#EXTINF:-1 tvg-name="NFL Team: Seattle Seahawks" tvg-logo="https://i.ibb.co/m072gR6/seattle-seahawks.png" group-title="⚽ Sports - Sports",NFL Team: Seattle Seahawks
-http://mxonlive.xyz/live/xap/381669.m3u8?e=1781986593&token=eb327990b16752fc6f4062ae1cbee94d425dc4083a21e779cd787be7dbeae230
-#EXTINF:-1 tvg-name="NFL Team: Tampa Bay Buccaneers" tvg-logo="https://i.ibb.co/NS8V7bP/tampa-bay-buccaneers.png" group-title="⚽ Sports - Sports",NFL Team: Tampa Bay Buccaneers
-http://mxonlive.xyz/live/xap/381670.m3u8?e=1781986593&token=a090afb13c220d2b4042703dca082f5682e05e3449ec8d8fa185ae32cf424820
-#EXTINF:-1 tvg-name="NFL Team: Tennessee Titans" tvg-logo="https://i.ibb.co/0MqstHp/tennessee-titans.png" group-title="⚽ Sports - Sports",NFL Team: Tennessee Titans
-http://mxonlive.xyz/live/xap/381671.m3u8?e=1781986593&token=22405fc1f5703eafe015ff35d44c9e416e1ba6b35ffedcf012a10ac3e97878cb
-#EXTINF:-1 tvg-name="NFL Team: Washington Football" tvg-logo="https://i.ibb.co/bQGcdsm/washington-football-team.png" group-title="⚽ Sports - Sports",NFL Team: Washington Football
-http://mxonlive.xyz/live/xap/381672.m3u8?e=1781986593&token=32f1a4039dd84156bc11f0405a8baf90ba1423e28d61dd497cdf5f82d02ae290
-#EXTINF:-1 tvg-id="eurosport1.nl" tvg-name="NL: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="⚽ Sports",NL: EUROSPORT 1
-http://mxonlive.xyz/live/xap/352404.m3u8?e=1781986593&token=0ce77943403966818245035d2e521e43debc941b0cb7f36a7729af59cca798e4
-#EXTINF:-1 tvg-id="eurosport2.nl" tvg-name="NL: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="⚽ Sports",NL: EUROSPORT 2
-http://mxonlive.xyz/live/xap/352405.m3u8?e=1781986593&token=d309f65f2a5af0509c3900994d5e960a8b49c4333722c85f4e8e298a3a243491
-#EXTINF:-1 tvg-name="NO: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/269e4be0a364293346d6c2f4bef0a505.png" group-title="⚽ Sports",NO: EUROSPORT 2
-http://mxonlive.xyz/live/xap/352499.m3u8?e=1781986593&token=e5e1a0b992cb8fcc12178fb02c04087ca3ddbf3c1f1f42dc3080294cd068f066
-#EXTINF:-1 tvg-name="NO: Eurosport Norge" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/32f071224d99b7565bf3e899bc5c45a4.png" group-title="⚽ Sports",NO: Eurosport Norge
-http://mxonlive.xyz/live/xap/352500.m3u8?e=1781986593&token=dc68deac006465cfafc570ea8bfbf31a8efcd976cdf0b622e42fadc793e7928b
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="⚽ Sports - News",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="⚽ Sports",PK | Geo Super HD
-http://mxonlive.xyz/live/xap/167568.m3u8?e=1781986593&token=fe7b01e5a36067047a4056b470075b47499dfae7024cb696f8b4752aed12922a
-#EXTINF:-1 tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="⚽ Sports - Sports",PK: A Sports HD (Server 2)
-http://mxonlive.xyz/live/xap/221417.m3u8?e=1781986593&token=d1c6cfec3c140177a557a304b6290842ea5049adaefbf9f5c47fea9fc267ef9d
-#EXTINF:-1 tvg-name="PK: FAST SPORTS" tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="⚽ Sports - Sports",PK: FAST SPORTS
-http://mxonlive.xyz/live/xap/308225.m3u8?e=1781986593&token=a7e4b93bff3f13487a90cd8519ab09e2a790f5a7d4ee62e857e87215c487d519
-#EXTINF:-1 tvg-name="PK: MAQ TV CRICKET" group-title="⚽ Sports",PK: MAQ TV CRICKET
-http://mxonlive.xyz/live/xap/207190.m3u8?e=1781986593&token=b32f115a32902016f4e886282cec1ecc460e6d00116713f2d3ac6d3cc28b27f3
-#EXTINF:-1 tvg-name="PL: Eleven Sports 1 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PL: Eleven Sports 1 FHD
-http://mxonlive.xyz/live/xap/233068.m3u8?e=1781986593&token=8cf41ff4a381eb12664fe2c5c5329e806bac9e69c5e5820164766a4a0d23bed8
-#EXTINF:-1 tvg-name="PL: Eleven Sports 2 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PL: Eleven Sports 2 FHD
-http://mxonlive.xyz/live/xap/233069.m3u8?e=1781986593&token=de8964029d81df4b5d030bdaa9a8eb980b402208668651379ab2a8c4665f5833
-#EXTINF:-1 tvg-name="PL: Eleven Sports 3 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PL: Eleven Sports 3 FHD
-http://mxonlive.xyz/live/xap/233070.m3u8?e=1781986593&token=497e1da9f1ee59806c7d2045bc2bcf6efb4214c11da2cb87184e603c769ba5a9
-#EXTINF:-1 tvg-name="PL: Eleven Sports 4 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PL: Eleven Sports 4 FHD
-http://mxonlive.xyz/live/xap/233071.m3u8?e=1781986593&token=552344973a4d4e82e8ce8115091272d7c2e680bf1cc70b69ecef8901d39a5dfd
-#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0558215aed968675061b7626e36d357e.png" group-title="⚽ Sports",PL: EUROSPORT 1
-http://mxonlive.xyz/live/xap/352817.m3u8?e=1781986593&token=0ddeaaa336c93df825f8195a50880130972442096aa1969da9732eb33a683081
-#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cc3435593970b51fb9f5ee07e41bf4d8.png" group-title="⚽ Sports",PL: EUROSPORT 2
-http://mxonlive.xyz/live/xap/352818.m3u8?e=1781986593&token=41c8ebd484bdc1c21c022a29b0884b360b148a814ef23cd7f9d79455d17a64ae
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: FIGHT BOX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/94bc6cae7e751f5d7d5bb3bb5d459aff.png" group-title="⚽ Sports",PL: FIGHT BOX
-http://mxonlive.xyz/live/xap/352820.m3u8?e=1781986593&token=3f691de9358fabd8d7164ebf0d8abda61e19bf214a44b7c6e2f8f95dd4523764
-#EXTINF:-1 tvg-id="fightKlub.pl" tvg-name="PL: FIGHT Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/97f3ed75795cf15a6c66a0d8303b6729.png" group-title="⚽ Sports",PL: FIGHT Klub
-http://mxonlive.xyz/live/xap/352821.m3u8?e=1781986593&token=30c0dfe2a51d61cce5d7960aae4f5326afdbc5756347998d614135de941d363c
-#EXTINF:-1 tvg-name="PPV Events 05: WR Revolver Fight Club 2024 8PM SAT" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/ppv.png" group-title="⚽ Sports",PPV Events 05: WR Revolver Fight Club 2024 8PM SAT
-http://mxonlive.xyz/live/xap/381550.m3u8?e=1781986593&token=f5cbd3b187ebd3b139632e79e96c08f6b156f9c4d3d4dcc0ca3aeadfa8bd7740
-#EXTINF:-1 tvg-name="PPV Events 12: UFC CANNONIER VS BORRALHO PRELIMS 12AM SAT/SUN" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/ppv.png" group-title="⚽ Sports - Sports",PPV Events 12: UFC CANNONIER VS BORRALHO PRELIMS 12AM SAT/SUN
-http://mxonlive.xyz/live/xap/381557.m3u8?e=1781986593&token=4c0cb2b13348b18941a43a5e29cb5b68de81936457d12cd5ed61e6187cb1f589
-#EXTINF:-1 tvg-name="PPV Events 13: UFC CANNONIER VS BORRALHO 3AM SAT/SUN" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/ppv.png" group-title="⚽ Sports - Sports",PPV Events 13: UFC CANNONIER VS BORRALHO 3AM SAT/SUN
-http://mxonlive.xyz/live/xap/381558.m3u8?e=1781986593&token=21f2255e6d9538d18b7146cff56a28b4775a5f0ad927b0f7d7ee66f162167815
-#EXTINF:-1 tvg-name="PPV Events 14: UFC CANNONIER VS BORRALHO 3AM SAT/SUN" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/ppv.png" group-title="⚽ Sports - Sports",PPV Events 14: UFC CANNONIER VS BORRALHO 3AM SAT/SUN
-http://mxonlive.xyz/live/xap/381559.m3u8?e=1781986593&token=f858e2b1c5050102ca0af4947e1388a4b1701a040ac83e93f963bf90ff5e96df
-#EXTINF:-1 tvg-name="PPV Events 15: UFC CANNONIER VS BORRALHO 3AM SAT/SUN" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/ppv.png" group-title="⚽ Sports - Sports",PPV Events 15: UFC CANNONIER VS BORRALHO 3AM SAT/SUN
-http://mxonlive.xyz/live/xap/381560.m3u8?e=1781986593&token=dc18b46e716c64d6ff5449b0d723eeb8f75db6b662d3f263f0d4629bfd3e4043
-#EXTINF:-1 tvg-name="PPV Events 17: Fusion Fight League Lights Out at the Dome 7 2AM SAT/SUN" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/ppv.png" group-title="⚽ Sports",PPV Events 17: Fusion Fight League Lights Out at the Dome 7 2AM SAT/SUN
-http://mxonlive.xyz/live/xap/381562.m3u8?e=1781986593&token=6aa97a41a4c6c6ded75f8bf9eb2480a4e65a2f8dce06b9b0285c36684ecd909d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="⚽ Sports",Premier League
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad47832/level_3.m3u8
-#EXTINF:-1 tvg-name="PT: DAZN 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PT: DAZN 1 HD
-http://mxonlive.xyz/live/xap/233072.m3u8?e=1781986593&token=f5cf06f39f5e2ee604c2a98f46282e3d039a30152229e533693f2ed434cfba49
-#EXTINF:-1 tvg-name="PT: DAZN 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PT: DAZN 2 HD
-http://mxonlive.xyz/live/xap/233075.m3u8?e=1781986593&token=716ee6a1626ff25c9896514affbadf5e303fb45b22850c49c9b73fb8c4b12c9f
-#EXTINF:-1 tvg-name="PT: DAZN 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PT: DAZN 3 HD
-http://mxonlive.xyz/live/xap/233078.m3u8?e=1781986593&token=3776d14fc4686ff22fbfbbf56da4a445d37863e0b5813e93078d69c7fdcfef1f
-#EXTINF:-1 tvg-name="PT: DAZN 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PT: DAZN 4 HD
-http://mxonlive.xyz/live/xap/233080.m3u8?e=1781986593&token=b9afc9d49e005cc220356e0037f2d55197aa5ba4ce9d842e7f634cf448d7e530
-#EXTINF:-1 tvg-name="PT: DAZN 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PT: DAZN 5 HD
-http://mxonlive.xyz/live/xap/233082.m3u8?e=1781986593&token=e6ecbd4b06a08782476bba7e315b57c9cf414491fa9b2c8ea9ee5681aae018ea
-#EXTINF:-1 tvg-name="PT: DAZN 6 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="⚽ Sports - Sports",PT: DAZN 6 HD
-http://mxonlive.xyz/live/xap/233084.m3u8?e=1781986593&token=53de2b1030811427098784afae315b01096ae5c1958858548ea335dee065ff7f
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="⚽ Sports",PT: EUROSPORT 1
-http://mxonlive.xyz/live/xap/352924.m3u8?e=1781986593&token=f2cb592f0863ac594becd0b1728d7b027657403c969c85b906acec470b9f3b9c
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="⚽ Sports",PT: EUROSPORT 2
-http://mxonlive.xyz/live/xap/352925.m3u8?e=1781986593&token=139fdd19c70b085db6e87b3794dc3ef57ac7c0f129e20f9dba346626b2674195
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="⚽ Sports - Sports",PT: SPORT TV +
-http://mxonlive.xyz/live/xap/352929.m3u8?e=1781986593&token=afc2c90ac99bfca59ec5152d695d3154f3b4e4c2a6f21bea4b5cbf32a5d59123
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="⚽ Sports - Sports",PT: SPORT TV 1
-http://mxonlive.xyz/live/xap/352930.m3u8?e=1781986593&token=1cec2610f5a3ffa9f6ab79f5fda65d62bbbbf80fe6788b3401d7dcd567433137
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="⚽ Sports - Sports",PT: SPORT TV 2
-http://mxonlive.xyz/live/xap/352931.m3u8?e=1781986593&token=5a5eb965e79bff1403065fa0542821fd51f0b092c4c087f625526fafc8bfdffb
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="⚽ Sports - Sports",PT: SPORT TV 3
-http://mxonlive.xyz/live/xap/352932.m3u8?e=1781986593&token=9babdce1cf51f5a0e294376230d6c9caf4d8c064bc61e82b03c74f778331dda7
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="⚽ Sports - Sports",PT: SPORT TV 4
-http://mxonlive.xyz/live/xap/352933.m3u8?e=1781986593&token=6d319951572db5c2fc313cebbc5d02aeed4687bff80de5ad7809c2871ae474bd
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="⚽ Sports - Sports",PT: SPORT TV 5
-http://mxonlive.xyz/live/xap/352934.m3u8?e=1781986593&token=ae4a5bfb2bde6297e80030b5c896aed60772c1bfa7263c5508cb42e2b5eb3574
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="⚽ Sports - Sports",PT: SPORT TV 6
-http://mxonlive.xyz/live/xap/352935.m3u8?e=1781986593&token=733ba4eb9651a5b166310f3c5e298cb9b9e7cc60f201434186d625f788b531ad
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="⚽ Sports - Sports",PT: SPORT TV NBA
-http://mxonlive.xyz/live/xap/352936.m3u8?e=1781986593&token=5af658fcd3361ae7a4f5045fc21f18984f570721f1f75e539cefcf6d0e7c3951
-#EXTINF:-1 tvg-name="QA: Al Kass Five" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8697f68b3c2bb7262c3e042b8e61355a.png" group-title="⚽ Sports",QA: Al Kass Five
-http://mxonlive.xyz/live/xap/353008.m3u8?e=1781986593&token=e21fc15bb1baee1360549dafc69e638d3cd6b9d80484fa3bb087fd17ea4dcf75
-#EXTINF:-1 tvg-name="QA: Al Kass Four" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b2665cf50ba59a4078dae3d96975e6ae.png" group-title="⚽ Sports",QA: Al Kass Four
-http://mxonlive.xyz/live/xap/353009.m3u8?e=1781986593&token=378981ac4157e35a03db09ba39f4832699cb696b169547f21dd072faf7b6a8a1
-#EXTINF:-1 tvg-name="QA: Al Kass Six" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="⚽ Sports",QA: Al Kass Six
-http://mxonlive.xyz/live/xap/353011.m3u8?e=1781986593&token=f5010bdfc43dff1282b724b133ce39a3c4ad0124515ce02d987095690848f0b1
-#EXTINF:-1 tvg-name="QA: Al Kass Three" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d7c6ec59a8423fdc8f35e00ecbab7264.png" group-title="⚽ Sports",QA: Al Kass Three
-http://mxonlive.xyz/live/xap/353012.m3u8?e=1781986593&token=e701aaa810447dc162ca20c99a41456ae4f2a51e3e1219b0e7a3824184112187
-#EXTINF:-1 tvg-name="QA: Al Kass Two" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/02f766a4f55d02c06bb3387e90100c8c.png" group-title="⚽ Sports",QA: Al Kass Two
-http://mxonlive.xyz/live/xap/353013.m3u8?e=1781986593&token=942791bddd5463505559fd90b07b295675017f66a676842fa0bd364571f73dc5
-#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="RO: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/820299f77efed8d360574e7f51427b03.png" group-title="⚽ Sports",RO: EUROSPORT 1
-http://mxonlive.xyz/live/xap/353130.m3u8?e=1781986593&token=f61ef74a22ca5c8b8f7ad246208e4bc5e4e7a7d65d2226f1f316478d4562b00f
-#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="RO: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fdcc5cd18396240d141cb87caa9f6b06.png" group-title="⚽ Sports",RO: EUROSPORT 2
-http://mxonlive.xyz/live/xap/353131.m3u8?e=1781986593&token=82ffd92fa9d73e40fd761682a3ba00913e1b59af5f5c9fe0dcc3c3371eb3dd31
-#EXTINF:-1 tvg-name="RS: Arena Fight" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/24a3bcf4b80c09121f750ea441d61aad.png" group-title="⚽ Sports",RS: Arena Fight
-http://mxonlive.xyz/live/xap/353721.m3u8?e=1781986593&token=4df9571f7f48ebbc84317cbc9f16c8894dda791453900851022b637fffb29c51
-#EXTINF:-1 tvg-name="RS: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="⚽ Sports - Sports",RS: Arena Sport 1
-http://mxonlive.xyz/live/xap/353725.m3u8?e=1781986593&token=44bc14eecdac91ddcfcf05f4c3de58897565335130675fea57cfc2c39dba26f8
-#EXTINF:-1 tvg-name="RS: Arena Sport 1x2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png" group-title="⚽ Sports - Sports",RS: Arena Sport 1x2
-http://mxonlive.xyz/live/xap/353734.m3u8?e=1781986593&token=b54a57760e717f269d9892269110d0888e11d2da71cea0f678f09ddc74885602
-#EXTINF:-1 tvg-name="RS: Arena Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="⚽ Sports - Sports",RS: Arena Sport 2
-http://mxonlive.xyz/live/xap/353726.m3u8?e=1781986593&token=098b3fd8a116a5003f08485344ef7a73498c9050cbf7ccf6e98e271aa9de8d03
-#EXTINF:-1 tvg-name="RS: Arena Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="⚽ Sports - Sports",RS: Arena Sport 3
-http://mxonlive.xyz/live/xap/353727.m3u8?e=1781986593&token=d0d266869d1ef6b0e19157c36794a7dd11846c9fd6af0b7c27cad6772e57e20d
-#EXTINF:-1 tvg-name="RS: Arena Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="⚽ Sports - Sports",RS: Arena Sport 4
-http://mxonlive.xyz/live/xap/353728.m3u8?e=1781986593&token=f18e40e418cbdd0e226b070a448ec794b5f2be0985e06d4430702a96955bf316
-#EXTINF:-1 tvg-name="RS: Arena Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="⚽ Sports - Sports",RS: Arena Sport 5
-http://mxonlive.xyz/live/xap/353729.m3u8?e=1781986593&token=c2b3617fe05f8a69f4f6a892d3464e735fc6bfdf4f51db6f76bc973e61b247a8
-#EXTINF:-1 tvg-name="RS: Arena Sport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7023fc92e934bffc62766072ad7b0d02.png" group-title="⚽ Sports - Sports",RS: Arena Sport 6
-http://mxonlive.xyz/live/xap/353730.m3u8?e=1781986593&token=d7325ca0be5dd0ca208036cabf47885dd2bd953bddf64b7ad5db170359e8c242
-#EXTINF:-1 tvg-name="RS: Arena Sport 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/322021fc3fa230a288ac966a1b600955.png" group-title="⚽ Sports - Sports",RS: Arena Sport 7
-http://mxonlive.xyz/live/xap/353731.m3u8?e=1781986593&token=5c22a5c42d128a49db40f59fa56830d9d9a646a4ac5b55332475e9d44290e89e
-#EXTINF:-1 tvg-name="RS: Arena Sport 8" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/67e73106daaa942dc325b486aa17d111.png" group-title="⚽ Sports - Sports",RS: Arena Sport 8
-http://mxonlive.xyz/live/xap/353732.m3u8?e=1781986593&token=31c6c6d2ce3213cf08ce778ffa0c868509353a23d51bc9e4cd66c3d420784fee
-#EXTINF:-1 tvg-name="RS: Arena Sport 9" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/da40f0a92fdc53fd567f71858a0aae1d.png" group-title="⚽ Sports - Sports",RS: Arena Sport 9
-http://mxonlive.xyz/live/xap/353733.m3u8?e=1781986593&token=31bb8c6226b3764999fb269edd1d77fc7dbba2e7b091945429d3b8a7ecc47755
-#EXTINF:-1 tvg-name="RS: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f07f831112c0411fb3fc560fec738afa.png" group-title="⚽ Sports",RS: EUROSPORT 1
-http://mxonlive.xyz/live/xap/353735.m3u8?e=1781986593&token=d9c10c838a37ad0e6f0bcf540e06caf29fc436d710f4ebd26b94bd5b6df5161d
-#EXTINF:-1 tvg-name="RS: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5040dc1ab3654feade6e2e37a89f1adf.png" group-title="⚽ Sports",RS: EUROSPORT 2
-http://mxonlive.xyz/live/xap/353736.m3u8?e=1781986593&token=b8ce64ec2bd650c2335d22c7b80fd6cdb9b0037cd074a1246560d40d4295379c
 #EXTINF:-1 group-title="⚽ Sports - Sports",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-id="RTSHSport.al@SD" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="⚽ Sports - Sports",RTSH Sport (1080p)
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1 tvg-name="RU: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/17d276ca2dccc34ee4b96e0a4126c82e.png" group-title="⚽ Sports",RU: EUROSPORT 1
-http://mxonlive.xyz/live/xap/353344.m3u8?e=1781986593&token=026eb4dfc06ba9c69c5fd2e6661b5e4d81f2a3e33538b1414c0a6a29e2c023f7
-#EXTINF:-1 tvg-name="RU: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/af207f16b024cd728da0621f8d81af48.png" group-title="⚽ Sports",RU: EUROSPORT 2
-http://mxonlive.xyz/live/xap/353345.m3u8?e=1781986593&token=d6ae1a4c7e0b61035f99536db8c02b96315684b7993eed4296042b90873b772b
 #EXTINF:-1 tvg-id="SSport.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="⚽ Sports - Sports",S Sport
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="⚽ Sports - Sports",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="Saudia Arabia" group-title="⚽ Sports",Saudia Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-id="eurosport.se" tvg-name="SE: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b8fbe0706a8b398fdb26dd6340e99f89.png" group-title="⚽ Sports",SE: EUROSPORT 1
-http://mxonlive.xyz/live/xap/354373.m3u8?e=1781986593&token=18ff738721f672b085f98361a92e981df95ac667b0e01f0f7333ebaf2e8183ce
-#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="SE: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a34acac821f379ac07de731b14aa288.png" group-title="⚽ Sports",SE: EUROSPORT 2
-http://mxonlive.xyz/live/xap/354374.m3u8?e=1781986593&token=25bc20d0d4e6b7c0145aed13e4f4d1b4aacaa47731855826e3a5a0be018804e0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="⚽ Sports",Sharq Game TV
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
-#EXTINF:-1 tvg-name="SI: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1609aae69ac2fbfdab0fbc5de966a322.png" group-title="⚽ Sports",SI: EUROSPORT 2
-http://mxonlive.xyz/live/xap/353807.m3u8?e=1781986593&token=0554185a840f20296849f8290018d6ffd2fb7a8b23ac108deead976c79bd86de
-#EXTINF:-1 tvg-name="SI: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/85f882164e1d5497fc1810d06fd4cdc1.png" group-title="⚽ Sports - Sports",SI: SPORT TV 1
-http://mxonlive.xyz/live/xap/353828.m3u8?e=1781986593&token=b55e8b1af4ef0a576d1640700abadaa8982653cc6821fe2ca84bfed304b635b1
-#EXTINF:-1 tvg-name="SI: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/55eb3f8575337de6555b01d2b1e4c402.jpg" group-title="⚽ Sports - Sports",SI: SPORT TV 2
-http://mxonlive.xyz/live/xap/353829.m3u8?e=1781986593&token=90eaa14d398baef980526eaa8ffc2da1e177edd172700c85753a0f5ecaf0e908
-#EXTINF:-1 tvg-name="SI: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b66bf39e8b5ab24bb6635b5e5d907f8f.png" group-title="⚽ Sports - Sports",SI: SPORT TV 3
-http://mxonlive.xyz/live/xap/353830.m3u8?e=1781986593&token=549ded609fe8fcc73f157667ecc176769ec20c999338f736bc29a11bde6ce483
-#EXTINF:-1 tvg-name="SK: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0cbb5978c829aecd89ee19dffae6bb33.png" group-title="⚽ Sports - Sports",SK: Arena Sport 1
-http://mxonlive.xyz/live/xap/353766.m3u8?e=1781986593&token=708495b8d9ab2216b1b057f3aefdc941b695aec2855670fedb08aa51e73d7430
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/02/Skal.Fight.for.Survival.jpg" group-title="⚽ Sports",Skal Fight for Survival 2023 1080p Blu Ray DUAL
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/02/[Fibwatch.Com]Skal.Fight.for.Survival.2023.1080p.Blu.Ray.DUAL.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="⚽ Sports" EXTVLCOPT="http-origin=https://executeandship.com",Sony Sports3
-https://cdn4.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=YHGsuUPrnkcD9GiHuVVubA&expires=1781974817
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="⚽ Sports - Sports",speed sports 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SportKlub.pl@SD" tvg-logo="https://i.imgur.com/DpJUrlr.png" group-title="⚽ Sports - News",Sport Klub (1080p) [Not 24/7]
@@ -1135,6 +151,10 @@ https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsCo
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46" group-title="⚽ Sports - Sports",Sports Grid
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=73c563d3a5924c4f38065568438dac01
+#EXTINF:-1 tvg-id="205000" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="⚽ Sports - Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 tvg-id="217000" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="⚽ Sports - Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr@SD" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="⚽ Sports - Sports",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="⚽ Sports",SportTV 1
@@ -1146,7 +166,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="⚽ Sports - Sports",Star Sports 1 HD (1080p)
 http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="⚽ Sports - Sports" EXTVLCOPT="http-origin=https://executeandship.com",Star Sports 1 Hindi
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=UhQGlbFJ6FLMwRA2W4BVCA&expires=1781974813
+https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=0Q5fiSPs1OGKKpF3VHJiBQ&expires=1782003611
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="⚽ Sports - Sports",Star Sports 2 HD (720p)
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="⚽ Sports - Sports",Star Sports 2 Hindi HD (1080p)
@@ -1157,30 +177,20 @@ http://103.182.170.32:8888/play/a04e
 http://103.182.170.32:8888/play/a045
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="⚽ Sports - Sports",Star Sports Select 2
 http://103.182.170.32:8888/play/a047
-#EXTINF:-1 tvg-name="StarzPlay CricLife 1" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="⚽ Sports",StarzPlay CricLife 1
-http://mxonlive.xyz/live/xap/371469.m3u8?e=1781986593&token=537fbf49b5ae2b73226f397952f924630943bbbf1dad05656ef7d69abfe4e837
-#EXTINF:-1 tvg-name="StarzPlay CricLife 2" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="⚽ Sports",StarzPlay CricLife 2
-http://mxonlive.xyz/live/xap/371470.m3u8?e=1781986593&token=cf67944eefb8926dc8f638ac9ddd7e71b116a6c258713bca65d4f45d2eb069ad
-#EXTINF:-1 tvg-name="StarzPlay CricLife 3" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="⚽ Sports",StarzPlay CricLife 3
-http://mxonlive.xyz/live/xap/371471.m3u8?e=1781986593&token=e17ba88e5b57b46ef48ee077c92feb048f8647331cd93eabea5698c98a4831df
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="⚽ Sports" EXTVLCOPT="http-origin=https://executeandship.com",Super Football
-https://cdn7.zohanayaan.com:1686/hls/superfotball.m3u8?md5=E4oYCw-gII-mPsnX-osr1w&expires=1781974817
+https://cdn4.zohanayaan.com:1686/hls/superfotball.m3u8?md5=waUN-JIpJsXq84-txUKdlw&expires=1782003615
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="⚽ Sports" EXTVLCOPT="http-origin=https://executeandship.com",Super Premier League
-https://cdn6.zohanayaan.com:1686/hls/superpremier.m3u8?md5=nIhbHBIgnJvtZPXC8oxByg&expires=1781974817
-#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="⚽ Sports - Sports",T-SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1781986593&token=22c917ffc797b71d75352642626bee9b85b2a9291eb58b6f79bea7da8cb40572
-#EXTINF:-1 tvg-name="T20 WORLD CUP 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="⚽ Sports",T20 WORLD CUP 01
-http://mxonlive.xyz/live/xap/219643.m3u8?e=1781986593&token=3f01c5de235376eb5817f4b85f3197714ac5586db30b64b8ba24c62495c3d2d2
+https://cdn7.zohanayaan.com:1686/hls/superpremier.m3u8?md5=e7Cmla9WXfJl64c674SyfQ&expires=1782003616
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd" group-title="⚽ Sports - Sports",Talk Sport
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=4adbfc499634b7cbc82fee82df1b40c7
 #EXTINF:-1 tvg-id="talkSPORT.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="⚽ Sports",talkSPORT (1080p)
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",Tampad 🇵🇰
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="TDMSports.mo@SD" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="⚽ Sports - Sports",TDM Sports Ch. 93 (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TH: True Vision NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/da43304978d600b414aaef24cd6cd9dc.jfif" group-title="⚽ Sports - Sports",TH: True Vision NBA
-http://mxonlive.xyz/live/xap/354585.m3u8?e=1781986593&token=0568d6a203b48ec5a9a219c3bf6392574e7fa7126b2bd46cafabcfa9dc4433c2
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/01/3af550b0fb.jpg" group-title="⚽ Sports - Sports",The Flintstones And WWE Stone Age Smackdown (2015) Dual Audio Hindi 1080p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/01/[Fibwatch.Com]The.Flintstones.And.WWE.Stone.Age.Smackdown.(2015).Dual.Audio.Hindi.1080p.mkv|Referer=https://fibwatch.art/
+#EXTINF:-1 tvg-id="218000" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="⚽ Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="⚽ Sports - Sports",Tigo Sports (720p)
 https://live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="⚽ Sports - Sports",Tigo Sports TV El Salvador (720p) [Geo-blocked]
@@ -1189,10 +199,6 @@ https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/inde
 https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",Toffee Live
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fec0a4dd7f3e21b20b9f4ff7c9f15ae4.png" group-title="⚽ Sports",TR: EUROSPORT 1
-http://mxonlive.xyz/live/xap/354800.m3u8?e=1781986593&token=599d81d8c4bb9191662f02a1a7cdb0858e460e7e2968410300d405b4ac5b2b82
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/433cdc077ed5826b4fe6489086c52bc9.png" group-title="⚽ Sports",TR: EUROSPORT 2
-http://mxonlive.xyz/live/xap/354801.m3u8?e=1781986593&token=d689ed3c6fd0c98ae2e33e258d4f243baf46b0ae4c32fd7344b11354a011a701
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="⚽ Sports - Sports",Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports - Sports",Tudn Sports B 🇲🇽
@@ -1209,95 +215,37 @@ https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="⚽ Sports - Sports",TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="1629493423" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye_VS_Germany_Nations_League.jpg" group-title="⚽ Sports",Türkiye vs Germany - Unknown League [68897]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782059465-Kv4cPTAAP5YTi-41bb018bfd7c1ffaae52f84cfe2648240231d4bd-52e3de4fc8ebdfcf8e332d3cc4339626
-#EXTINF:-1 tvg-name="UFC Events 00:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 00:
-http://mxonlive.xyz/live/xap/356417.m3u8?e=1781986593&token=78fae602782a64a55d80d44bd348cb25c495007323461840bc677f00479884e1
-#EXTINF:-1 tvg-name="UFC Events 01:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 01:
-http://mxonlive.xyz/live/xap/356418.m3u8?e=1781986593&token=27c481d76e87629290868bdff30513d5aeb11cab4dac14bf1eb1a1607025a9da
-#EXTINF:-1 tvg-name="UFC Events 02:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 02:
-http://mxonlive.xyz/live/xap/356419.m3u8?e=1781986593&token=c73f8c2332fe804570412454388542bd20cb17367c001e5aa9aaf5dddc9f8806
-#EXTINF:-1 tvg-name="UFC Events 03:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 03:
-http://mxonlive.xyz/live/xap/356420.m3u8?e=1781986593&token=1807884f3b09c445530b8ec5f2ec5c71a1756ec5d38d21963589033173341264
-#EXTINF:-1 tvg-name="UFC Events 04:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 04:
-http://mxonlive.xyz/live/xap/356421.m3u8?e=1781986593&token=cc35a07a42c03de01c0b8dc4c1c663af501845de9ef1cef6dfb6d11ab653377d
-#EXTINF:-1 tvg-name="UFC Events 05:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 05:
-http://mxonlive.xyz/live/xap/356422.m3u8?e=1781986593&token=a0d4f1a9632d4ac5ab9b7debd40393840e7f5194b926bab8e80a32034d620b57
-#EXTINF:-1 tvg-name="UFC Events 06:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 06:
-http://mxonlive.xyz/live/xap/356423.m3u8?e=1781986593&token=26e6b0d48c1a5909bad547232009f7d461fd1d9bd1f77d0c742465c1c878f24b
-#EXTINF:-1 tvg-name="UFC Events 07:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 07:
-http://mxonlive.xyz/live/xap/356424.m3u8?e=1781986593&token=0d2b30e00c3d2ea7b0d28dd50bb249e7ed952973b8e9a1b9959cbd3a9c87d3cd
-#EXTINF:-1 tvg-name="UFC Events 08: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 08: No Scheduled Event.
-http://mxonlive.xyz/live/xap/356425.m3u8?e=1781986593&token=c48f6b686f023075612c21b992fc721afe9b64840b88c16ed74b0bb3f94c7a45
-#EXTINF:-1 tvg-name="UFC Events 09: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 09: No Scheduled Event.
-http://mxonlive.xyz/live/xap/356426.m3u8?e=1781986593&token=ea38c3f84c6b44b75bc58553ac745df1879c87148a0c45561df709107dbbde5a
-#EXTINF:-1 tvg-name="UFC Events 10: No Scheduled Event." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽ Sports - Sports",UFC Events 10: No Scheduled Event.
-http://mxonlive.xyz/live/xap/356427.m3u8?e=1781986593&token=cfc0aa5189e4e741d910ba36bedd93e72c429dfb4510c876305458f307ab76e7
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="⚽ Sports",UK: EUROSPORT 1
-http://mxonlive.xyz/live/xap/346388.m3u8?e=1781986593&token=993ab556de74a94efe12764ae9b7f64f21b5be5904d1eb5984797907d18fc73c
-#EXTINF:-1 tvg-name="UK: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="⚽ Sports",UK: EUROSPORT 2
-http://mxonlive.xyz/live/xap/346389.m3u8?e=1781986593&token=bee15e52c88f74a6f3e1e1576b1b77c8f4ac059b004c23a0521b4a63a6c8eea9
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019660/1781677694238911_UFC_Fight_Night_Kape_vs_Horiguchi_landscape_thumbnail.jpg" group-title="⚽ Sports - Sports",UFC Fight Night - Kape vs Horiguchi - 21 Jun 2026 [KAN] -  UFC Fight Night - Kape vs Horiguchi
+https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2006/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782042619~acl=/*~id=96052470630640069082495509113736~hmac=eb7cef045375865a1efe7826dd7f87db8df425452c40d762a5949e61e1db8903
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽ Sports - Sports",Unbeaten Sports Channel (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports - Sports",Unite 8 Sports 1 HD 🇮🇳 Hindi
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports - Sports",Unite 8 Sports 2 HD
 http://202.70.146.135:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports",Unknown
 https://test.movielinkbd.com/storage/relay/test/index.m3u8
-#EXTINF:-1 tvg-name="US: FIGHT BOX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7f4b6b73ae00fc12673c82dcc4891361.png" group-title="⚽ Sports",US: FIGHT BOX
-http://mxonlive.xyz/live/xap/347283.m3u8?e=1781986593&token=512bc5cbc1a8097cf6df3cbce125820762f71402ee1c241e16ae4cd3b959f568
-#EXTINF:-1 tvg-name="US: FIGHT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bb9cc634e4ef4812034bbe9a4ddb655f.png" group-title="⚽ Sports - Sports",US: FIGHT Sports
-http://mxonlive.xyz/live/xap/347284.m3u8?e=1781986593&token=0cf7ee45e2e94fbd1176566576f5784c5389451246f72a07eaade84b43023108
-#EXTINF:-1 tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="⚽ Sports - Sports",US: NBA League Pass 1
-http://mxonlive.xyz/live/xap/347302.m3u8?e=1781986593&token=783ac5f3a70643da81d8311f0b15d07d6c287928f96c39c868c7becf570d0097
-#EXTINF:-1 tvg-name="US: NFL Red Zone FHD (Live Events)" tvg-logo="https://www.skybest.com/images/television/nfl-redzone-logo-20160210.png" group-title="⚽ Sports - Sports",US: NFL Red Zone FHD (Live Events)
-http://mxonlive.xyz/live/xap/381622.m3u8?e=1781986593&token=d96ece771dab721987532b56f3a41c02796b724f1f168961c72f21bb257829e0
-#EXTINF:-1 tvg-name="US: NFL RedZone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d81c09f981e2093eadc0fb2ce34ec05c.png" group-title="⚽ Sports - Sports",US: NFL RedZone
-http://mxonlive.xyz/live/xap/347314.m3u8?e=1781986593&token=5d21d3d04b485e872549f8e8116e49efb4b07b5b91d382134ea393f37aa067e1
-#EXTINF:-1 tvg-name="US: WWE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aa56e010e1692d81998e1d89d270aa2.png" group-title="⚽ Sports - Sports",US: WWE
-http://mxonlive.xyz/live/xap/347336.m3u8?e=1781986593&token=b2586e405d1fc47361cdee0cb87335ad86a8e01a3b6e104bc895e528841524ab
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143181_6109_MLM_VTU_FC-WEB.jpg" group-title="⚽ Sports",Vasteras United Vs Malmo Mavericks | Nordic Smash T20 Cup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_malmo_mavericks_143181_english.m3u8
+#EXTINF:-1 tvg-id="Uy6Q-JQBv9knK3AHcDUQ" group-title="⚽ Sports - Sports",w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" group-title="Sports",Eurosport HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="WAZ TV" group-title="⚽ Sports",WAZ TV
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="⚽ Sports" EXTVLCOPT="http-origin=https://executeandship.com",Willow HD
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=QdMMq-c0RX3j3KPOJKiPJA&expires=1781974813
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=9aPPlCrlrt6eDxQP874spQ&expires=1782003612
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="⚽ Sports" EXTVLCOPT="http-origin=https://executeandship.com",Willow HD 2
-https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=r984Y4yPANBwFjqzdsugzw&expires=1781974814
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=8N0NUXj6MbxTA4g-2EcMfA&expires=1782003612
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="⚽ Sports - Sports",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="⚽ Sports",Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1781708097&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=f89907fe166198fbb9c822c2e9f5500f
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="⚽ Sports - Sports",Win Sports (1080p)
 http://190.60.40.34:8001/play/a0ef
-#EXTINF:-1 tvg-id="1629493410" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s_Series_13_%26_14_-_Wigan_Women%27s_Series.jpg" group-title="⚽ Sports",Women's Series 13 & 14 - Wigan - Women's Series [114414]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=41bb018bfd7c1ffaae52f84cfe2648240231d4bd&x-sign=3ef0ece92d37c1faed8ff170b8e29c98&x-time=1781973000
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",World Cup S1
-https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="⚽ Sports",World Cup S2
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="⚽ Sports",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2026/05/WWE.Backlash.jpg" group-title="⚽ Sports - Sports",WWE Backlash (2026) English 720p
-https://vfgtyy.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]WWE.Backlash.(2026).English.720p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2026/06/WWE.Clash.in.Italy.jpg" group-title="⚽ Sports - Sports",WWE Clash in Italy (2026) Dual 1080p
-https://vfgtyy.b-cdn.net/s3/upload/videos/2026/06/[Fibwatch.Com]WWE.Clash.in.Italy.(2026).Dual.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/09/WWE.Clash.in.Paris.jpg" group-title="⚽ Sports - Sports",WWE Clash In Paris (2025) English 720p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/09/[Fibwatch.Com]WWE.Clash.In.Paris.(2025).English.720p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/08/WWE.SummerSlam.jpg" group-title="⚽ Sports - Sports",Wwe Summerslam 2025 Night2 PPV 720p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/08/[Fibwatch.Com]Wwe.Summerslam.2025.Night2.PPV.720p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/08/WWE.SummerSlam.jpg" group-title="⚽ Sports - Sports",WWE SummerSlam Night 1 (2025) 720p
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/08/[Fibwatch.Com]WWE.SummerSlam.Night.1.(2025).720p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2025/07/WWE.Unreal.S01.jpg" group-title="⚽ Sports - Sports",WWE Unreal (2025) S01 Dual 1080P
-https://vfgtyy.b-cdn.net/s2/upload/videos/2025/07/[Fibwatch.Com]WWE.Unreal.(2025).S01.Dual.1080P.mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927" group-title="⚽ Sports - Sports",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-name="ZA: WWE Superslam" tvg-logo="https://api.time.com/wp-content/uploads/2014/05/world-wrestling-entertainment.jpg" group-title="⚽ Sports - Sports",ZA: WWE Superslam
-http://mxonlive.xyz/live/xap/383061.m3u8?e=1781986593&token=2985aaa720b99fedf835929a4be3233de0ff461bfd6b50bd24793b2f9d2c11c5
 #EXTINF:-1 tvg-id="ZoyTVSports1.bo@SD" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="⚽ Sports - News",Zoy TV Sports 1 (1080p) [Not 24/7]
 https://mio.zoymilton.com/ZoyEventos/index.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="⚽ Sports - Sports",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-name="•●★--- UK EPL 3PM ----★●•" tvg-logo="http://flags.fmcdn.net/data/flags/w580/gb.png" group-title="⚽ Sports",•●★--- UK EPL 3PM ----★●•
-http://mxonlive.xyz/live/xap/223055.m3u8?e=1781986593&token=d353faffcbe3c2695f5dada73fa5f4b7f963d924aa09f01059a5fa866dc1d654
-#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="⚽ Sports",•●★--- Welcome ----★●•
-http://mxonlive.xyz/live/xap/354996.m3u8?e=1781986593&token=f3a829ddb23fc57b4423d25117b958d5784530f5bebeacca56d479d3fea86c4b

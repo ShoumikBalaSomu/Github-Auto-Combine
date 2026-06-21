@@ -1,56 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AE: Al Hadath" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a26c20e7f5fb2d5d6d37ac8c0780219b.png" group-title="📰 News",AE: Al Hadath
-http://mxonlive.xyz/live/xap/354993.m3u8?e=1781986593&token=f340dc4fcf4afe78aaa38ea5c9173299a225e7952d31dcfb2976a4edbe9341fd
-#EXTINF:-1 tvg-name="AE: Asharq News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/32a8b49e0809dd685ff9d9b4ade9f1a3.png" group-title="📰 News - News",AE: Asharq News
-http://mxonlive.xyz/live/xap/354994.m3u8?e=1781986593&token=d0e84f3c1b50182c2ca03351a5f08cb21e2bade928001a5c425f7fb788c3d747
-#EXTINF:-1 tvg-name="AL: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cee60d23cf0e39f75c012c4e67bc1985.png" group-title="📰 News",AL: euronews
-http://mxonlive.xyz/live/xap/347775.m3u8?e=1781986593&token=0fbe49140a36398c63dc4d9a7097dbb767d009ced6dc0a0328a0dfcfc68f0003
-#EXTINF:-1 tvg-name="AL: Fax News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/65259128a7f8d93d9f19f846179231fe.png" group-title="📰 News - News",AL: Fax News
-http://mxonlive.xyz/live/xap/347776.m3u8?e=1781986593&token=3e44cecc23f7ba011c86a1e7d6cab14f1b54629d6bdcac8456710b03dd49a7fa
-#EXTINF:-1 tvg-name="AL: Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c655613efc4c5e1acbb02c59c874c2fb.png" group-title="📰 News",AL: Kanal 10
-http://mxonlive.xyz/live/xap/347777.m3u8?e=1781986593&token=1339c7ccaef18ba41a4afd61d2fdefd4d6ef967261ca08a16f8c922a6fe21585
-#EXTINF:-1 tvg-name="AL: Klan News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png" group-title="📰 News - News",AL: Klan News
-http://mxonlive.xyz/live/xap/347778.m3u8?e=1781986593&token=ebe416a96488fd8fd33906b5a6c51b354362930a09be029b29c2b921832cc8ca
-#EXTINF:-1 tvg-name="AL: MCN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/84328831fa19ad420ea7f1520d33bfa3.png" group-title="📰 News",AL: MCN TV
-http://mxonlive.xyz/live/xap/347779.m3u8?e=1781986593&token=ca64d4ac4ad6ba43610652a3dc3ac3ca056f73892f1f2d7d0d1679530f6577cf
-#EXTINF:-1 tvg-name="AL: Ora News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d4ac2713819e179c78c678ae6c1636bb.png" group-title="📰 News - News",AL: Ora News
-http://mxonlive.xyz/live/xap/347780.m3u8?e=1781986593&token=2aeaaa3185dbd2a47dfa5cd3e9be02eb00d677f47cb68aefb7bdaef2da8f11e8
-#EXTINF:-1 tvg-name="AL: Rozafa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66f956374d354d9bd40704f13010f5c9.jpg" group-title="📰 News",AL: Rozafa
-http://mxonlive.xyz/live/xap/347781.m3u8?e=1781986593&token=b6b089fed42a72ee925f7a82becd316fc3b7587cd3c18637aa12c97d2fd0d86d
-#EXTINF:-1 tvg-name="AL: RTSH 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cdb42292d9c45ae1db8241b4fdcc0dd2.svg" group-title="📰 News - News",AL: RTSH 24
-http://mxonlive.xyz/live/xap/347782.m3u8?e=1781986593&token=571535dd8c6a578d46dd97a751b5f49409c686fb0298a0aa9b1c489e583e4fe9
-#EXTINF:-1 tvg-name="AL: Scan" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f39d0c070d20b6cf58b37d2fc5aad240.png" group-title="📰 News",AL: Scan
-http://mxonlive.xyz/live/xap/347784.m3u8?e=1781986593&token=1e3294241d7c5a6b49e7ce44e5049fe374ce1b56c261c463545e09c31558f24a
-#EXTINF:-1 tvg-name="AL: Syri News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ed3dbf8a740b1bc955155b9711c19b7b.png" group-title="📰 News - News",AL: Syri News
-http://mxonlive.xyz/live/xap/347785.m3u8?e=1781986593&token=9adb90d674defdfc82d737c4caacff3ee404aebae61187ee82c6ad5eb77388f7
-#EXTINF:-1 tvg-name="AL: TOP News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png" group-title="📰 News - News",AL: TOP News
-http://mxonlive.xyz/live/xap/347786.m3u8?e=1781986593&token=1acb36e2cd1d7ba3ff660b0498fd471397553f29a6d83d16c2aeb12040b8c8f2
-#EXTINF:-1 tvg-name="AL: Tring Sport News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d336e84b188eca200534666d82b422c9.png" group-title="📰 News - News",AL: Tring Sport News
-http://mxonlive.xyz/live/xap/347787.m3u8?e=1781986593&token=969034f36f8342917d5a0146820c383528a054dd8bcf36127d751317999897da
-#EXTINF:-1 tvg-name="AL: TV 7 Albania" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e36a597b8116c736e787ea916bc612c4.png" group-title="📰 News",AL: TV 7 Albania
-http://mxonlive.xyz/live/xap/347788.m3u8?e=1781986593&token=8da9766c69f008204e57316e07a97c00299636f6adf2283b98f96f9d7d45ddaf
-#EXTINF:-1 tvg-name="AL: TV Klan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="📰 News",AL: TV Klan
-http://mxonlive.xyz/live/xap/347789.m3u8?e=1781986593&token=068bf372f4e962873d2fa4fe5cfd53cd277e9823004b7f9a4b8fa1d221c8901b
-#EXTINF:-1 tvg-name="AL: Vizion Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81af6d3489034eab2c610279a903cd4f.png" group-title="📰 News",AL: Vizion Plus
-http://mxonlive.xyz/live/xap/347790.m3u8?e=1781986593&token=410dad743b6b049d5c80eca9cfd165c64078e0d582ef1d1cc96cea38d4dd4319
 #EXTINF:-1 tvg-id="ANBNews.in" tvg-logo="https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31" group-title="📰 News - News",ANB News
 https://tvsen6.aynaott.com/ANB_News/index.m3u8?e=1781708096&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=4ff9fedbb02a4e67268c0720a77124cb
-#EXTINF:-1 tvg-id="ATNNews.bd@SD" tvg-logo="https://i.imgur.com/4qZQKjo.png" group-title="📰 News - News",ATN News (1080p)
-https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
+#EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="📰 News - News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2" group-title="📰 News - News",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="📰 News - News",Breaking News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="CH: Telebielingue" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4da6595d04f8fe02bb20b5fcaa65b1a.png" group-title="📰 News",CH: Telebielingue
-http://mxonlive.xyz/live/xap/354483.m3u8?e=1781986593&token=16ed3857c886e7b29b491a55723f1114157d533fab5f88d8758dc2269776235e
-#EXTINF:-1 tvg-name="CH: TeleTicino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0fa08b74afa68f10814ed86826a289f3.png" group-title="📰 News",CH: TeleTicino
-http://mxonlive.xyz/live/xap/354484.m3u8?e=1781986593&token=3d4948e89a1141c676c6320295cea585f0d0520f199fe425aaf76be6946b9534
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="📰 News - News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545" group-title="📰 News - News",DBC News
-https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=530d4625c695dd5ab6fa354207a3e987
-#EXTINF:-1 tvg-name="DW English" group-title="📰 News",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+#EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="📰 News - News",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-name="DW English _" group-title="📰 News",DW English _
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5" group-title="📰 News - News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="EkhonTV.bd" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="📰 News",Ekhon TV
@@ -59,86 +21,6 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1781708095&u=f54c14
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="GlobalNews.ca" tvg-name="Global News (US)" group-title="📰 News - News",Global News (US)
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 tvg-name="IN: Time Now Navbharat" group-title="📰 News",IN: Time Now Navbharat
-http://mxonlive.xyz/live/xap/345354.m3u8?e=1781986593&token=7d0e4c6d775ccdc8079156f8814e0944eae16a3f970a032baaf04ef2b0b9648b
-#EXTINF:-1 tvg-name="IN: Zee Business" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Business.png" group-title="📰 News",IN: Zee Business
-http://mxonlive.xyz/live/xap/341135.m3u8?e=1781986593&token=a69a90daad89a32dcab5076396475492fe34582d0e5d58831c34fb1cff019801
-#EXTINF:-1 tvg-name="IND: A1 TV Rajasthan" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/A1-TV.png" group-title="📰 News",IND: A1 TV Rajasthan
-http://mxonlive.xyz/live/xap/244848.m3u8?e=1781986593&token=6d7030c0c306331bf2030911e7ff32e0586ab99645d7a9dacb6751172c67e1ec
-#EXTINF:-1 tvg-name="IND: AB Star News" group-title="📰 News - News",IND: AB Star News
-http://mxonlive.xyz/live/xap/244829.m3u8?e=1781986593&token=b2c3bbbcdbfab828275bc77898cfc9e78610c23b66b1972a47866ce9e159bdeb
-#EXTINF:-1 tvg-name="IND: APN News" group-title="📰 News - News",IND: APN News
-http://mxonlive.xyz/live/xap/244852.m3u8?e=1781986593&token=7fccb95ad896b2c12727122bdd4d15c2250c4cd10448ffe0ec1269acd203f9f9
-#EXTINF:-1 tvg-name="IND: Assamese: News Live" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-MP.png" group-title="📰 News - News",IND: Assamese: News Live
-http://mxonlive.xyz/live/xap/244826.m3u8?e=1781986593&token=a6943c075266797d3130148b61d5d1d6b06781b13c893520f5bffafbb2b3e6de
-#EXTINF:-1 tvg-name="IND: Assamese: Prag News" group-title="📰 News - News",IND: Assamese: Prag News
-http://mxonlive.xyz/live/xap/244814.m3u8?e=1781986593&token=8d5ac8ead876e0d5d6c9ae4e2bd9c37382251e115d34943cdcdcaeffa455e52a
-#EXTINF:-1 tvg-name="IND: Bansal News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bansal-News.png" group-title="📰 News - News",IND: Bansal News
-http://mxonlive.xyz/live/xap/244849.m3u8?e=1781986593&token=a75fb134b9486fbb9ee21cbf2b85ca606b5191c2cec627eed9326c9b06041837
-#EXTINF:-1 tvg-name="IND: C News Bharat" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/C-News-Bharat.png" group-title="📰 News - News",IND: C News Bharat
-http://mxonlive.xyz/live/xap/244831.m3u8?e=1781986593&token=e9b221905a1a525310f8ba173fc885363243ee44864e225e492fe35d7cfba9c6
-#EXTINF:-1 tvg-name="IND: ENGLIASH: India Today News" group-title="📰 News - News",IND: ENGLIASH: India Today News
-http://mxonlive.xyz/live/xap/244809.m3u8?e=1781986593&token=7cafaf28084adb0fd53ee482eab37627f0cbd294e3b676c4771b70f99d701bf3
-#EXTINF:-1 tvg-name="IND: First India News" group-title="📰 News - News",IND: First India News
-http://mxonlive.xyz/live/xap/244850.m3u8?e=1781986593&token=cbe7da55fd0aedd7b932befc66e79d25ee9738cc126986823ca1175e8310e3ac
-#EXTINF:-1 tvg-name="IND: Good News Today" group-title="📰 News - News",IND: Good News Today
-http://mxonlive.xyz/live/xap/244807.m3u8?e=1781986593&token=c27fe0533f467166426812899aa45dd4add4f423dc105adc3f8ef5a73284d705
-#EXTINF:-1 tvg-name="IND: Gulistan News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gulistan-News.png" group-title="📰 News - News",IND: Gulistan News
-http://mxonlive.xyz/live/xap/244825.m3u8?e=1781986593&token=a6644156735362247065baa526c5a9d6897816db69e05b33b68c091d52554706
-#EXTINF:-1 tvg-name="IND: HINDI_Sudarshan News" group-title="📰 News - News",IND: HINDI_Sudarshan News
-http://mxonlive.xyz/live/xap/244808.m3u8?e=1781986593&token=3433d3dc933c698458ebd26881044a36dae40de94ec79febe1e75b38f074baa7
-#EXTINF:-1 tvg-name="IND: HNN 24x7" group-title="📰 News",IND: HNN 24x7
-http://mxonlive.xyz/live/xap/244832.m3u8?e=1781986593&token=6ff36232b0b8fe7d436b7ec2b13abca32d65d92212b33fff1bc49edac3c50839
-#EXTINF:-1 tvg-name="IND: India News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-1.png" group-title="📰 News - News",IND: India News
-http://mxonlive.xyz/live/xap/244815.m3u8?e=1781986593&token=2e363f19607e10ac03138fb3f642ebc364d1051fc3b1b16f6f0b54f04dd1deaa
-#EXTINF:-1 tvg-name="IND: India News Haryana" group-title="📰 News - News",IND: India News Haryana
-http://mxonlive.xyz/live/xap/244821.m3u8?e=1781986593&token=6abbb314091d7320a6423da988b8e3cc637d8a7ff54ad013ba99fe659b864e14
-#EXTINF:-1 tvg-name="IND: India News MP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Rajasthan-News.png" group-title="📰 News - News",IND: India News MP
-http://mxonlive.xyz/live/xap/244820.m3u8?e=1781986593&token=db7511f47e2dd87d8400e1c6f0011e7cdeb57138b5965090508b74de4124c4a7
-#EXTINF:-1 tvg-name="IND: India News Punjabi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/India-News-Punjab.png" group-title="📰 News - News",IND: India News Punjabi
-http://mxonlive.xyz/live/xap/244817.m3u8?e=1781986593&token=695693d572d71f5cdd6f2cd5e1a7e630bc1c36b4470ddc9c6c1ececf7463d042
-#EXTINF:-1 tvg-name="IND: India News Rajasthan" group-title="📰 News - News",IND: India News Rajasthan
-http://mxonlive.xyz/live/xap/244819.m3u8?e=1781986593&token=40d0353c986630dca6dfe97320127dee8d04bd51a77eb6e3df0bf2ece7e920f4
-#EXTINF:-1 tvg-name="IND: India News UP" group-title="📰 News - News",IND: India News UP
-http://mxonlive.xyz/live/xap/244818.m3u8?e=1781986593&token=f3843b4e2e7367e07a0b38d9c2be9aafadd3f7c029e050d982ad79fb9020c801
-#EXTINF:-1 tvg-name="IND: INH 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/INH-247.png" group-title="📰 News",IND: INH 24x7
-http://mxonlive.xyz/live/xap/244847.m3u8?e=1781986593&token=b2650fde1381d9876245890893675e2a30496a69f54ff81056b2e5073b21d168
-#EXTINF:-1 tvg-name="IND: JK 24x7 News" group-title="📰 News - News",IND: JK 24x7 News
-http://mxonlive.xyz/live/xap/244855.m3u8?e=1781986593&token=d239cacb037c4ef5502621a997c1b0b8fded338757ffbc63726674637709ab7b
-#EXTINF:-1 tvg-name="IND: K News" group-title="📰 News - News",IND: K News
-http://mxonlive.xyz/live/xap/244854.m3u8?e=1781986593&token=af6a7767ab54b6c1d2b1f604646511a52e5e5602ad1e027d1e64e1493066a388
-#EXTINF:-1 tvg-name="IND: Kashish News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kashish-News.png" group-title="📰 News - News",IND: Kashish News
-http://mxonlive.xyz/live/xap/244856.m3u8?e=1781986593&token=3848439854aeb8f8d87a499a5f22bfa2ff3a8f33a3f92c59b205f8c6544e7095
-#EXTINF:-1 tvg-name="IND: News 1 India" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-1.png" group-title="📰 News - News",IND: News 1 India
-http://mxonlive.xyz/live/xap/244853.m3u8?e=1781986593&token=220d278159bccd3610fc4448d29f1bcf7c6cdf7be2ad3aa753ea035d61bfc2d5
-#EXTINF:-1 tvg-name="IND: News 11" group-title="📰 News - News",IND: News 11
-http://mxonlive.xyz/live/xap/244851.m3u8?e=1781986593&token=1b90f54961c38c75b031fc06cb8aec8e7424b33c1dfba837e1ffac6f12b4ca58
-#EXTINF:-1 tvg-name="IND: News 24" group-title="📰 News - News",IND: News 24
-http://mxonlive.xyz/live/xap/244805.m3u8?e=1781986593&token=526ccf286f9442a11ca3c6f4fd48b8f2a9905ddbcbdec5c8a380522a9b1f830b
-#EXTINF:-1 tvg-name="IND: News India 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NEWS-INDIA-24x7-1.png" group-title="📰 News - News",IND: News India 24x7
-http://mxonlive.xyz/live/xap/244846.m3u8?e=1781986593&token=6e8570e73402815238a187e7e958bc3663cd1a8dec39def01ffd756b4a706df4
-#EXTINF:-1 tvg-name="IND: News State up uk" group-title="📰 News - News",IND: News State up uk
-http://mxonlive.xyz/live/xap/244800.m3u8?e=1781986593&token=e68fffffb4bad2bdbd75ab73e000579ea2434c56748d7ddc7491fab2ad1afdca
-#EXTINF:-1 tvg-name="IND: News X" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NewsX.png" group-title="📰 News - News",IND: News X
-http://mxonlive.xyz/live/xap/244816.m3u8?e=1781986593&token=92354399075c876ff8176216bfc94519bdf44336af0ec72a0df853a84ebd8340
-#EXTINF:-1 tvg-name="IND: North East Live" group-title="📰 News",IND: North East Live
-http://mxonlive.xyz/live/xap/244822.m3u8?e=1781986593&token=8b6ed8dbb13d823e79d91392eb8d0a3c0b60870a86e69ca108ebdf60db773a34
-#EXTINF:-1 tvg-name="IND: Rajasthan News" group-title="📰 News - News",IND: Rajasthan News
-http://mxonlive.xyz/live/xap/244806.m3u8?e=1781986593&token=0e5172b52efa9603ad10e13b4268a6c1bba5c7ef4bc1d51cdc52a4edf7b32693
-#EXTINF:-1 tvg-name="IND: Sadhna News Plus" group-title="📰 News - News",IND: Sadhna News Plus
-http://mxonlive.xyz/live/xap/244842.m3u8?e=1781986593&token=03b782e901d4b973e85c7f58a6815fd7fe10a40d7c35c0fc8950b157af965714
-#EXTINF:-1 tvg-name="IND: Sadhna Plus News" group-title="📰 News - News",IND: Sadhna Plus News
-http://mxonlive.xyz/live/xap/244812.m3u8?e=1781986593&token=6bbd34b09720e278b5227550e0ef11dadfaead41e6b1b9d9a060f54243103566
-#EXTINF:-1 tvg-name="IND: Surya Samachar News" group-title="📰 News - News",IND: Surya Samachar News
-http://mxonlive.xyz/live/xap/244804.m3u8?e=1781986593&token=0cf95fac9f793d997ebc1aefaf189f9b31f34348aecf11390f52c974995ce4dc
-#EXTINF:-1 tvg-name="IND: Swadesh News" group-title="📰 News - News",IND: Swadesh News
-http://mxonlive.xyz/live/xap/244844.m3u8?e=1781986593&token=fb324cf3559c80ed8698210d71746a7511e35e6d239f872a9657f2bf1a84614e
-#EXTINF:-1 tvg-name="IND: URDU: ANN News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ANN-News.png" group-title="📰 News - News",IND: URDU: ANN News
-http://mxonlive.xyz/live/xap/244834.m3u8?e=1781986593&token=74c198147ebe1060a802ab9b69f28b629777d02f1badc5fa7aae75472d46a42f
-#EXTINF:-1 tvg-name="IND: Zee Madhya Pradesh Chhattisgarh News" group-title="📰 News - News",IND: Zee Madhya Pradesh Chhattisgarh News
-http://mxonlive.xyz/live/xap/244801.m3u8?e=1781986593&token=2a478a567351de339e86254bf895b1094526a7332a97aefe9962f44f4c16c465
-#EXTINF:-1 tvg-name="IND: Zee Rajasthan News" group-title="📰 News - News",IND: Zee Rajasthan News
-http://mxonlive.xyz/live/xap/244802.m3u8?e=1781986593&token=46dfbcec2fbb205897ff935d974cd4f817ee918d6fb2fc9a7f8726e541cc47ac
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://s3.aynaott.com/storage/49b496bca6d7c67d53431e9238f83397" group-title="📰 News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="News1India.in" tvg-logo="https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88" group-title="📰 News - News",News 1 India
@@ -159,8 +41,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e" group-title="📰 News - News",Sadhna Prime News
 https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8?e=1781708096&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=9618a03230f89ad9bf9a16d22035feac
-#EXTINF:-1 tvg-id="StarNews.bd" tvg-logo="https://s3.aynaott.com/storage/b3564688d9964a0da7cee6174fda39ef" group-title="📰 News - News",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
+#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="📰 News - News",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-name="T Global News (Canada)" group-title="📰 News - News",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="Times Of India" group-title="📰 News",Times Of India
@@ -185,5 +67,3 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="📰 News",Zee Uttar Pradesh/Uttarakhand (720p)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="📰 News",•●★--- Welcome ----★●•
-http://mxonlive.xyz/live/xap/354989.m3u8?e=1781986593&token=a25c3c79057397e6279a90cfb759d70b4d99f67cb2fc81f18f9ddf184d7181ce

@@ -1,265 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP ANANDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="🇧🇩 Bangladesh",ABP ANANDA
-http://mxonlive.xyz/live/xap/245991.m3u8?e=1781986593&token=e3c8d0403308d95ae1fbfc9c32ae8fa9739184b6bf3cce6d53ec9991a525e917
-#EXTINF:-1 tvg-name="AF: GTV SPORTS (GHANA)" tvg-logo="http://www.ghanatvlive.net/images/gtv.gif" group-title="🇧🇩 Bangladesh - Sports",AF: GTV SPORTS (GHANA)
-http://mxonlive.xyz/live/xap/419292.m3u8?e=1781986593&token=863e9ca7097379f6c06b89de8817d0062ef61cb25fc494282303572230acf306
-#EXTINF:-1 tvg-name="AF: RTV (RWANDA)" tvg-logo="http://ulango.tv/uploads/channels/3781669/logo_rtv.png" group-title="🇧🇩 Bangladesh",AF: RTV (RWANDA)
-http://mxonlive.xyz/live/xap/419314.m3u8?e=1781986593&token=56f042bade80ca9d88d7a5a258119a6524309b33b56d2105a055f266b5bc5fe1
-#EXTINF:-1 tvg-name="AF: RTV NEWS" group-title="🇧🇩 Bangladesh - News",AF: RTV NEWS
-http://mxonlive.xyz/live/xap/419315.m3u8?e=1781986593&token=21931c9ed16b1921bcd73abfd8883e1a13dea8e00ec34841271c24d9e34cc2c9
-#EXTINF:-1 tvg-name="AL: RTV 21" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2c4f7f62b27a589f916baedaacdd3882.png" group-title="🇧🇩 Bangladesh",AL: RTV 21
-http://mxonlive.xyz/live/xap/347917.m3u8?e=1781986593&token=cbc00e7930f05c1cf6ef001ffe315ef3517379f549ae7c54db4f34891e4d9597
-#EXTINF:-1 tvg-name="AL: RTV 21 Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9ab1585b7bfce829faff255183eaadd3.png" group-title="🇧🇩 Bangladesh",AL: RTV 21 Junior
-http://mxonlive.xyz/live/xap/347655.m3u8?e=1781986593&token=a7c5c844672d627bb836fa2b733f3e0c4dc8547bdb16ac857e5e47e0c860d2f6
-#EXTINF:-1 tvg-name="AL: RTV 21 Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/950f993e563b9f14c58e8a4db540ed37.png" group-title="🇧🇩 Bangladesh",AL: RTV 21 Mix
-http://mxonlive.xyz/live/xap/347918.m3u8?e=1781986593&token=3595ccc0ab80d28da3b6bfc8abf9ecb32ee4bc48bdd4dbe6d92bb93bbfdcf428
-#EXTINF:-1 tvg-name="AL: RTV 21 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b4040b73ebd15c45debb44748c4bf59.png" group-title="🇧🇩 Bangladesh",AL: RTV 21 Plus
-http://mxonlive.xyz/live/xap/347919.m3u8?e=1781986593&token=e0e68a7279dd2292fec2ece63b4850b445fc4166392aa180533e037bb084d54c
-#EXTINF:-1 tvg-name="AL: RTV 21 Popullore" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7eb2ffd0462211537a78abc809bd6ab7.png" group-title="🇧🇩 Bangladesh",AL: RTV 21 Popullore
-http://mxonlive.xyz/live/xap/347920.m3u8?e=1781986593&token=b51b6c4a298c2e2f02bd27daad7ff6240d83a407533af018e4b5bfdb6de68c4c
-#EXTINF:-1 tvg-name="AL: RTV Ahireti" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f14ac6e2b1edff82cf279ef52136aa6f.jpg" group-title="🇧🇩 Bangladesh",AL: RTV Ahireti
-http://mxonlive.xyz/live/xap/347921.m3u8?e=1781986593&token=53f37fa3df15f433117fd0f2605723fd511b158e157f555bffeab70aea79f31c
-#EXTINF:-1 tvg-name="AL: RTV Aldi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bc6b8959410664716dbb33192c145747.png" group-title="🇧🇩 Bangladesh",AL: RTV Aldi
-http://mxonlive.xyz/live/xap/347922.m3u8?e=1781986593&token=208c5a1b3f6da1c877077b0f6c0dc0ff1f7ed64333efb914e4e8b1e493f98628
-#EXTINF:-1 tvg-name="AL: RTV Dukagjini" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fa3c38ea620be6656c37ec59faa83bdd.png" group-title="🇧🇩 Bangladesh",AL: RTV Dukagjini
-http://mxonlive.xyz/live/xap/347783.m3u8?e=1781986593&token=67a15063f35ea09d5cc20ffe60536efcf88a1b94d3c08b0fc4e527169c776ecf
-#EXTINF:-1 tvg-name="AL: RTV Fontana" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a67d5e2f46845ce13255e8d6dc631677.jpg" group-title="🇧🇩 Bangladesh",AL: RTV Fontana
-http://mxonlive.xyz/live/xap/347923.m3u8?e=1781986593&token=108449add1bf53a94d827373eeb4ca5b79fe18ff707957f72dd310bf192d3cdf
-#EXTINF:-1 tvg-name="AL: RTV Ilirida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6dbb3fa26ac9c531519d1af5c128a2dc.jpg" group-title="🇧🇩 Bangladesh",AL: RTV Ilirida
-http://mxonlive.xyz/live/xap/347924.m3u8?e=1781986593&token=cb94fe7a5d64a591bcb700448f83a3ed74038769df4dbf2398ec803af31cca7c
-#EXTINF:-1 tvg-name="AL: RTV Islam" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/21baa2e87813273da6e0bb0f6df6b094.png" group-title="🇧🇩 Bangladesh - Religious",AL: RTV Islam
-http://mxonlive.xyz/live/xap/347925.m3u8?e=1781986593&token=2f9f02ae31a442007266bfa0521716e60941b6cc184f5bd5646229c4b4b4a232
-#EXTINF:-1 tvg-name="AL: RTV Pendimi" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/14255559c4385fc106e11b98863b41b5.png" group-title="🇧🇩 Bangladesh",AL: RTV Pendimi
-http://mxonlive.xyz/live/xap/347926.m3u8?e=1781986593&token=03f7a58a871919981442bc98206c31eef6b8468e381f9aee58aa3d3b25da2524
-#EXTINF:-1 tvg-id="AnandaBarta.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="🇧🇩 Bangladesh",Ananda Barta
-http://103.180.212.191:3500/live/1796.m3u8
-#EXTINF:-1 tvg-id="ananda-tv" tvg-name="Ananda TV" tvg-logo="https://otapp.store/uploads/tv_image/ananda-tv.png" group-title="🇧🇩 Bangladesh",Ananda TV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2&format=.m3u8
-#EXTINF:-1 tvg-name="ARG: 5 RTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d780ee45b019e3b33b31ea5425b87873.png" group-title="🇧🇩 Bangladesh",ARG: 5 RTV
-http://mxonlive.xyz/live/xap/348064.m3u8?e=1781986593&token=fa22f253dc7a0db5b962b52b255a9c7c271c6d8f3aa7b32893b83fecc8011639
-#EXTINF:-1 tvg-name="AT: RTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e2c7ee1456eafbb32211dfa67d71fac2.jfif" group-title="🇧🇩 Bangladesh",AT: RTV
-http://mxonlive.xyz/live/xap/348264.m3u8?e=1781986593&token=4999e30cf6a3ecf23e1a4f634dd7cfacdbea6918f1ed641f8fd314e0daa57abc
-#EXTINF:-1 tvg-id="100" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="🇧🇩 Bangladesh",Bangla Vision
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="🇧🇩 Bangladesh",ABP Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/1e4516fa-023a-4807-8e3d-479b346b4a62/2.m3u8
+#EXTINF:-1 tvg-id="anandatv" tvg-name="Ananda TV" tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="🇧🇩 Bangladesh",Ananda TV
+https://sm-monirul.top/toffee/play/anandatv.m3u8
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="🇧🇩 Bangladesh",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="🇧🇩 Bangladesh",Banglavision
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="BD | BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="🇧🇩 Bangladesh",BD | BANGLA VISION
-http://mxonlive.xyz/live/xap/245957.m3u8?e=1781986593&token=f6f087a2f5c893db9e525ae0119ddffa7e70baf02309fb3042e7e732f89978b5
-#EXTINF:-1 tvg-name="BD | BOISHAKHI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="🇧🇩 Bangladesh",BD | BOISHAKHI TV HD
-http://mxonlive.xyz/live/xap/245923.m3u8?e=1781986593&token=b665fe199cc35a9394a8204dffc33d8b88c83fe46c70f2f2c3bbd9134f293c17
-#EXTINF:-1 tvg-name="BD | DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="🇧🇩 Bangladesh",BD | DURONTO TV
-http://mxonlive.xyz/live/xap/245955.m3u8?e=1781986593&token=1bef22024e9ba398dfddd5bbfb6d05908c762202308e847f47c177b48fc6f2fd
-#EXTINF:-1 tvg-name="BD | EKATTOR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="🇧🇩 Bangladesh",BD | EKATTOR TV HD
-http://mxonlive.xyz/live/xap/245915.m3u8?e=1781986593&token=0e8abec475814865bf9013f2300999354f304a53a69214f53278d0c84027785d
-#EXTINF:-1 tvg-name="BD | MY TV" tvg-logo="https://i.pinimg.com/474x/58/a9/73/58a97334970cc43ef4a9a558c3c4f806.jpg" group-title="🇧🇩 Bangladesh",BD | MY TV
-http://mxonlive.xyz/live/xap/245964.m3u8?e=1781986593&token=1eab949d9fa80f89d58aa5d723d2a7df732e5412b3ebfd8cde66bb97aafb74aa
-#EXTINF:-1 tvg-name="bd-loc: bijoy tv" group-title="🇧🇩 Bangladesh",bd-loc: bijoy tv
-http://mxonlive.xyz/live/xap/245946.m3u8?e=1781986593&token=b4c3a0c0820acc25fc010d66a3a2f14d651fe5c4821f7f1295fb4a482026c336
-#EXTINF:-1 tvg-name="BD-loc: Btv world" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="🇧🇩 Bangladesh",BD-loc: Btv world
-http://mxonlive.xyz/live/xap/245922.m3u8?e=1781986593&token=1d1484ca791ad12ac2ae7f31262d59002579304e1bd974de4dde6db7dc255dff
-#EXTINF:-1 tvg-name="BD-loc: BTV-" group-title="🇧🇩 Bangladesh",BD-loc: BTV-
-http://mxonlive.xyz/live/xap/245930.m3u8?e=1781986593&token=1ab84293420eddc431a839c0310271a99e089410eaac6d92e2402249935dc2b1
-#EXTINF:-1 tvg-name="BD-loc: Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="🇧🇩 Bangladesh",BD-loc: Channel 9
-http://mxonlive.xyz/live/xap/245902.m3u8?e=1781986593&token=bfce04dfbbe43af39538d895ffa4f426b9badce20b96171818342b7a8f21ef13
-#EXTINF:-1 tvg-name="BD-LOC: channel I" group-title="🇧🇩 Bangladesh",BD-LOC: channel I
-http://mxonlive.xyz/live/xap/245913.m3u8?e=1781986593&token=7c4c672c3fb8f65510917a48d104efb437e21bcb547358ce8d0c8a1f740fce5e
-#EXTINF:-1 tvg-name="BD-loc: Deepto tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="🇧🇩 Bangladesh",BD-loc: Deepto tv
-http://mxonlive.xyz/live/xap/245927.m3u8?e=1781986593&token=c800451bf1fab4cda6a7fa51384487ceb686e7eec895809b962e74b8287031f0
-#EXTINF:-1 tvg-name="bd-loc: Ekushey TV" group-title="🇧🇩 Bangladesh",bd-loc: Ekushey TV
-http://mxonlive.xyz/live/xap/245937.m3u8?e=1781986593&token=2383fd3a477702e10cc5a2599e4f5f50b7b88daa97717f95d2d084aed8967e18
-#EXTINF:-1 tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="🇧🇩 Bangladesh",BD-loc: Gazi TV
-http://mxonlive.xyz/live/xap/245901.m3u8?e=1781986593&token=ae09b513fa681b3aa7d8e1d11baa39d9e3636cf984a7e3dc118fd7bbe8e1f9d4
-#EXTINF:-1 tvg-name="BD-LOC: independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="🇧🇩 Bangladesh",BD-LOC: independent
-http://mxonlive.xyz/live/xap/245916.m3u8?e=1781986593&token=ca00e0578d976c21ce1a40db932cd20a4fc5ad7a9b036d5d94a95b95e09ee90c
-#EXTINF:-1 tvg-name="BD-LOC: jamuna tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="🇧🇩 Bangladesh",BD-LOC: jamuna tv
-http://mxonlive.xyz/live/xap/245917.m3u8?e=1781986593&token=4a39f2224a0b528ff92f6f13c02893ec97746f0da3b39a266ca941607c8ec90c
-#EXTINF:-1 tvg-name="bd-loc: Nagorik tv" group-title="🇧🇩 Bangladesh",bd-loc: Nagorik tv
-http://mxonlive.xyz/live/xap/245939.m3u8?e=1781986593&token=a9df35bf7564fd448a6b109f473196c5511a21e467f95b0124ab050f7c8a44db
-#EXTINF:-1 tvg-name="BD-LOC: RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="🇧🇩 Bangladesh",BD-LOC: RTV
-http://mxonlive.xyz/live/xap/245911.m3u8?e=1781986593&token=b0457e55592765b3bda7e9fc0918a440c69685f96d1031835792098f63bf308a
-#EXTINF:-1 tvg-name="bd-loc: SA TV" group-title="🇧🇩 Bangladesh",bd-loc: SA TV
-http://mxonlive.xyz/live/xap/245945.m3u8?e=1781986593&token=bf0473114203f4a42ddd54acec602c8116b718bc54bad5a2cdd8f2d244483310
-#EXTINF:-1 tvg-name="BD-loc: SOMOY tv NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="🇧🇩 Bangladesh - News",BD-loc: SOMOY tv NEWS
-http://mxonlive.xyz/live/xap/245925.m3u8?e=1781986593&token=ab73d438a08db1d6e82fd0f6ba294e0e6ac31d2d183b8c8c6bed92d938e3daac
-#EXTINF:-1 tvg-name="BD: Ananda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="🇧🇩 Bangladesh",BD: Ananda TV
-http://mxonlive.xyz/live/xap/245929.m3u8?e=1781986593&token=641b0d5d5dd5ff526b288c03c0858d91aa1226a5d980440eca2d8667287e8175
-#EXTINF:-1 tvg-name="BD: CHANNEL 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" group-title="🇧🇩 Bangladesh - News",BD: CHANNEL 24
-http://mxonlive.xyz/live/xap/245969.m3u8?e=1781986593&token=c9d3fea1371c86d549a50bf4b05b1f9e0c95e410e94ed861c6de8b93d46cff8c
 #EXTINF:-1 group-title="🇧🇩 Bangladesh"  Source=" SRC-ID:eb25061146813829500ee806",BDVS AUS
 http://172.31.235.10:8080/hls/32-nagorik/0_1/index.m3u8?tkn=624752266
-#EXTINF:-1 tvg-name="BG: BTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7dc620582892912b4c91809be3f8896.png" group-title="🇧🇩 Bangladesh",BG: BTV
-http://mxonlive.xyz/live/xap/348752.m3u8?e=1781986593&token=b88c3299cee5484c360f77a682977c5be1dc2f6b2aa7fc07c3a9daba995b9ae1
-#EXTINF:-1 tvg-id="btvaction.bg" tvg-name="BG: BTV Action" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a49df39bf4976034d3cfcb9f4ce765ae.png" group-title="🇧🇩 Bangladesh",BG: BTV Action
-http://mxonlive.xyz/live/xap/348774.m3u8?e=1781986593&token=7e236271286f1308f72700db9ac28dbdc3f331a699fe760241de66f48a1d373b
-#EXTINF:-1 tvg-id="btvcinema.bg" tvg-name="BG: BTV Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fafbbc81d328af154102c02e19b07eea.png" group-title="🇧🇩 Bangladesh - Movies",BG: BTV Cinema
-http://mxonlive.xyz/live/xap/348775.m3u8?e=1781986593&token=be17164f2c1783ee51fb33b7c247e4492b03d1777f15403d764f3551caf40c3f
-#EXTINF:-1 tvg-id="btvcomedy.bg" tvg-name="BG: BTV Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b41ae46fab3df82763e193dec088613a.png" group-title="🇧🇩 Bangladesh",BG: BTV Comedy
-http://mxonlive.xyz/live/xap/348776.m3u8?e=1781986593&token=c455b396017f6ec5b3daf3ca82d2a4e34c36884c02ee54a9778fe182c8cc6e48
-#EXTINF:-1 tvg-id="btvlady.bg" tvg-name="BG: BTV Lady" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/249f0d50918d0f6aa08471f4d0ea3b71.png" group-title="🇧🇩 Bangladesh",BG: BTV Lady
-http://mxonlive.xyz/live/xap/348777.m3u8?e=1781986593&token=d6fe28c40d1af65393a71ee967c36cf5a80a3b20f60c04bf01365ac3e623ffa1
-#EXTINF:-1 tvg-name="BIH: RTV Cazin" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c3f095c6ae021281a36c290d758ee6e8.jpg" group-title="🇧🇩 Bangladesh",BIH: RTV Cazin
-http://mxonlive.xyz/live/xap/348457.m3u8?e=1781986593&token=b28c93530c8e9fe2d9c1921ab30c9a4d693c27865b9b7fc77f330e7d25736fe6
-#EXTINF:-1 tvg-name="BIH: RTV Herceg Bosne" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2f42646f83f48e0b08df0867925bd3e2.png" group-title="🇧🇩 Bangladesh",BIH: RTV Herceg Bosne
-http://mxonlive.xyz/live/xap/348458.m3u8?e=1781986593&token=e37471dcd619f0dd7bd523bab204ecbf9b5a824497fabb7d0026c5bc9ec1455d
-#EXTINF:-1 tvg-id="rtv7.nl" tvg-name="BIH: RTV Sana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76d70e360e06ed0ec01a7428a7aaf686.jpg" group-title="🇧🇩 Bangladesh",BIH: RTV Sana
-http://mxonlive.xyz/live/xap/348459.m3u8?e=1781986593&token=8355e73b1eb8a9e8dcf764e81d55994eafbeff7b725bc6413912c581706a1d45
-#EXTINF:-1 tvg-name="BIH: RTV TK Tuzla" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e12a5fdd8ca963732e87f5218e52d11c.png" group-title="🇧🇩 Bangladesh",BIH: RTV TK Tuzla
-http://mxonlive.xyz/live/xap/348460.m3u8?e=1781986593&token=f545379f73274d2a32640dbe3866dc7f073c90c268364c5a670de92b7a9d7eab
-#EXTINF:-1 tvg-name="BIH: RTV Zenica" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8b9b0194fd0afe4c4901c35d1d72db9c.png" group-title="🇧🇩 Bangladesh",BIH: RTV Zenica
-http://mxonlive.xyz/live/xap/348461.m3u8?e=1781986593&token=8b5dc4790896367631eb97c4470aa4f3cd0b615a4834518cc69f3720bd50092d
-#EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://otapp.store/uploads/tv_image/bijoy-tv.png" group-title="🇧🇩 Bangladesh",Bijoy TV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f7c89459-37bf-4129-904d-33b0a4c0d590
-#EXTINF:-1 tvg-id="boishakhi-tv" tvg-name="Boishakhi TV" tvg-logo="https://otapp.store/uploads/tv_image/boishakhi-tv.png" group-title="🇧🇩 Bangladesh",Boishakhi TV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=92890d5c-473a-454c-ad10-2c6c0c91062a
-#EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-logo="https://ottking.top/app/uploads/tv_image/btv-hd.png" group-title="🇧🇩 Bangladesh",BTV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHl76lzKQFKpcwL_B1-PZEBo/m3u8
+#EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="🇧🇩 Bangladesh",Bijoy TV
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0" group-title="🇧🇩 Bangladesh",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=e10129405246583b9ba73a05230c26d9
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="🇧🇩 Bangladesh",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇧🇩 Bangladesh",BTV B 🇧🇩
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-#EXTINF:-1 tvg-name="BTV CTG" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" group-title="🇧🇩 Bangladesh",BTV CTG
-http://mxonlive.xyz/live/xap/245990.m3u8?e=1781986593&token=5b00152f5eeb758e16bc255e3a874082cba1fdcb3ea8c23f8f9f16d4702761a5
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" group-title="🇧🇩 Bangladesh",BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=7377f7bab9e2e5f62698a765ec325756
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇧🇩 Bangladesh",BTV Live 🇧🇩
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 #EXTINF:-1 tvg-id="BTVNational.bd" tvg-logo="https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78" group-title="🇧🇩 Bangladesh",BTV NATIONAL HD
 https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=eddeee027a5f808f03ac9ac8314480df
 #EXTINF:-1 tvg-id="BTVNews.bd" tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" group-title="🇧🇩 Bangladesh - News",BTV News
 https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=648d638d7cf936c894c50968c55c78cb
-#EXTINF:-1 tvg-id="240" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png" group-title="🇧🇩 Bangladesh",BTV Shangshad
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://s3.aynaott.com/storage/b30147b97d86754e4b97fc2989628391" group-title="🇧🇩 Bangladesh",BTV World
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=8c2b6d72ed9c406ca5ba6f2429b5d1be
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24 HD" tvg-logo="https://media.zongmobiletv.com/file/channel_thumbs/Gh38O6MLAzMt1kKfK356IwV1Bolijms0hRsEsR85.webp" group-title="🇧🇩 Bangladesh - News",Channel 24 HD
-https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
-#EXTINF:-1 tvg-id="channel-9" tvg-name="Channel 9" tvg-logo="https://otapp.store/uploads/tv_image/channel-9.png" group-title="🇧🇩 Bangladesh",Channel 9
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="🇧🇩 Bangladesh",Channel I HD
+#EXTINF:-1 tvg-id="94000" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="🇧🇩 Bangladesh - News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="🇧🇩 Bangladesh",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="🇧🇩 Bangladesh",Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-id="deepto-tv" tvg-name="Deepto TV" tvg-logo="https://otapp.store/uploads/tv_image/deepto-tv.png" group-title="🇧🇩 Bangladesh",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="desh-tv" tvg-name="Desh TV" tvg-logo="https://otapp.store/uploads/tv_image/desh-tv.png" group-title="🇧🇩 Bangladesh",Desh TV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad
+#EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="🇧🇩 Bangladesh",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-logo="https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb" group-title="🇧🇩 Bangladesh",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1781708094&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=7e1acd5fc59bcc3241080bfb6e40c95e
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ld3Yw0PH/Duronto-TV.png" group-title="🇧🇩 Bangladesh",Duronto Live
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3da514e08a15c80daed60a18b3f423fa
-#EXTINF:-1 tvg-id="duronto-tv" tvg-name="Duronto TV" tvg-logo="https://otapp.store/uploads/tv_image/duronto-tv.png" group-title="🇧🇩 Bangladesh",Duronto TV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c
-#EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="🇧🇩 Bangladesh",Ekattor HD
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title="🇧🇩 Bangladesh",Duronto TV
+https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=f2152eee5f23301048b6b326d30d03e91832433f-ccbd15a34479fa054518bba22a207054-1781701495-1781700595&remote=no_check_ip
+#EXTINF:-1 tvg-id="102000" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="🇧🇩 Bangladesh",Ekattor HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2023/11/l2LMIbNZAdsmZUIrk8M6_01_15d80a8ec78988bc878460c39d5a771e_image.jpg" group-title="🇧🇩 Bangladesh",Ekattor S1 720p (2020)
-https://vfgtyy.b-cdn.net/upload/videos/2023/11/[Fibwatch.Com]Ekattor.S1.720p.(2020).mkv|Referer=https://fibwatch.art/
 #EXTINF:-1 tvg-id="ekattor_tv" tvg-name="Ekattor TV" tvg-logo="https://assets-prod.services.toffeelive.com//PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="🇧🇩 Bangladesh",Ekattor TV
 https://sm-monirul.top/toffee/play/ekattor_tv.m3u8
-#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="https://otapp.store/uploads/tv_image/ekushey-tv.png" group-title="🇧🇩 Bangladesh",Ekushey TV
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV (480p)" group-title="🇧🇩 Bangladesh",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-name="ES: RTV Vida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/19fa9d93e325e52d950b696a7b05b314.png" group-title="🇧🇩 Bangladesh",ES: RTV Vida
-http://mxonlive.xyz/live/xap/354061.m3u8?e=1781986593&token=6f4de00092d3100e06169f323a771ee37f0bca81e5b4fca1506d23859a0289eb
-#EXTINF:-1 group-title="🇧🇩 Bangladesh" KODIPROP="inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Cookie=hdntl=exp=1779527799~acl=%2fbpk-tv%2firdeto_com_Channel_249%2foutput%2f*~id=9441230843~data=hdntl~hmac=b0c41f68f79554a471caf5526d329753c14429d747366454e38e0f1b4a8ec5bc" EXTVLCOPT="http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png" group-title="TPlay 3 (IND IP)",ABP Ananda
-https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/manifest.mpd
-#EXTINF:-1 tvg-id="gazi-tv-hd" tvg-name="Gazi TV HD" tvg-logo="https://otapp.store/uploads/tv_image/gazi-tv-hd.png" group-title="🇧🇩 Bangladesh",Gazi TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-logo="https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4" group-title="🇧🇩 Bangladesh",Gazi TV
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=8edfccc4d4a55b36f0ffc5840582ee3b
 #EXTINF:-1 tvg-id="GeorgetownTV.us" tvg-logo="https://i.ibb.co.com/cc5rftrN/Gazi-TV.png" group-title="🇧🇩 Bangladesh",GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Gtv News HD" tvg-logo="https://media.zongmobiletv.com/file/channel_thumbs/Crbko79F4vHr4f3EnktlgKRbKcyTmVobNgdDcx21.webp" group-title="🇧🇩 Bangladesh - News",Gtv News HD
-https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
-#EXTINF:-1 tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="🇧🇩 Bangladesh",ID: GTV
-http://mxonlive.xyz/live/xap/350954.m3u8?e=1781986593&token=d6f59943c6aafbbf96fb9b0b7bbf267354dab7910a133793ab92222af8328399
-#EXTINF:-1 tvg-name="IL: Channel 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/267be5482552a5d6806f930b4f0d55b0.png" group-title="🇧🇩 Bangladesh - News",IL: Channel 24
-http://mxonlive.xyz/live/xap/351309.m3u8?e=1781986593&token=836cfb58232202b5344bd21301df3987b265eba8599732667a3f3f5244e05f36
-#EXTINF:-1 tvg-name="IN-KN | BTV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Btv-News.png" group-title="🇧🇩 Bangladesh",IN-KN | BTV
-http://mxonlive.xyz/live/xap/381203.m3u8?e=1781986593&token=9483272d1f1296e53618a6d79d105e5d75535bd27cfc892c7bf102ad770e92aa
-#EXTINF:-1 tvg-id="independent-tv" tvg-name="Independent Tv" tvg-logo="https://otapp.store/uploads/tv_image/independent-tv.png" group-title="🇧🇩 Bangladesh",Independent Tv
-https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=independent-tv
-#EXTINF:-1 tvg-name="IR: MY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/e58cae2ea94f0eb59a3a4c320162b68b.png" group-title="🇧🇩 Bangladesh",IR: MY TV
-http://mxonlive.xyz/live/xap/351201.m3u8?e=1781986593&token=99917a4f887eff8fec8a597beb7ea4c6f95f869181f995584fa5dd296bdbf19a
-#EXTINF:-1 tvg-name="IT: RTV Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f54b2276bbc41f25a9e0319de185a236.png" group-title="🇧🇩 Bangladesh - Sports",IT: RTV Sport
-http://mxonlive.xyz/live/xap/351562.m3u8?e=1781986593&token=30aa9a250a6c2ff6b28fef60814a06dc92f32cdb8402533cf419980216d6b45c
-#EXTINF:-1 tvg-name="IT: San Marino RTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cd7b41d61a3fe49634fc685735f541ee.jpg" group-title="🇧🇩 Bangladesh",IT: San Marino RTV
-http://mxonlive.xyz/live/xap/351563.m3u8?e=1781986593&token=9bcbd3a422bbe89bd5314c1901e3159efa3c4144a34d0c8b659e78284320bcba
-#EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://otapp.store/uploads/tv_image/jamuna-tv.png" group-title="🇧🇩 Bangladesh",Jamuna TV
-https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=jamuna-tv
+#EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="🇧🇩 Bangladesh",Independent TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="97000" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="🇧🇩 Bangladesh",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png" group-title="🇧🇩 Bangladesh",MAASRANGA HD
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-id="maasranga-tv" tvg-name="Maasranga TV" tvg-logo="https://otapp.store/uploads/tv_image/maasranga-tv.png" group-title="🇧🇩 Bangladesh",Maasranga TV
-https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://vfgtyy.b-cdn.net/upload/photos/2023/04/jd3sD4rA9kgeY3EmWZGW_19_3ab21b91ca9b739475777350e4bde48c_image.jpg" group-title="🇧🇩 Bangladesh",Mohanagar (2023) S02 1080p
-https://vfgtyy.b-cdn.net/upload/videos/2023/04/[Fibwatch.Com]Mohanagar.(2023).S02.1080p.mkv|Referer=https://fibwatch.art/
-#EXTINF:-1 tvg-id="my-tv" tvg-name="My TV" tvg-logo="https://otapp.store/uploads/tv_image/my-tv.png" group-title="🇧🇩 Bangladesh",My TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png" group-title="🇧🇩 Bangladesh",NAGORIK TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHgGF3Kt-wtQAHmegTeUK6ms/m3u8
-#EXTINF:-1 tvg-name="NL: RTV Amstelveen" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7e570ad54806dac6629a35e83e747d7f.png" group-title="🇧🇩 Bangladesh",NL: RTV Amstelveen
-http://mxonlive.xyz/live/xap/352350.m3u8?e=1781986593&token=38546e21af78d980011da17e49a373b545fc557ece7f24bf32b7dc573cd39636
-#EXTINF:-1 tvg-name="NL: RTV Connect TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c16deb741d3f6d1c60b7bddc3d85e652.png" group-title="🇧🇩 Bangladesh",NL: RTV Connect TV
-http://mxonlive.xyz/live/xap/352394.m3u8?e=1781986593&token=bb59d2b2857cab4e6507e653a65b4e8a097a7d525c11cd192bcaf52212f46e8a
-#EXTINF:-1 tvg-name="NL: RTV Dordrecht" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c023856ebd4fdd99423cacc9585f2bc7.png" group-title="🇧🇩 Bangladesh",NL: RTV Dordrecht
-http://mxonlive.xyz/live/xap/352432.m3u8?e=1781986593&token=d5277acfba09799b97210cc0712beae548ff0bb4b45f644baeb2d7dfd0d25bd7
-#EXTINF:-1 tvg-id="rtvdrenthe.nl" tvg-name="NL: RTV Drenthe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a70eaa8e35ec82deee2b160a75b9f426.png" group-title="🇧🇩 Bangladesh",NL: RTV Drenthe
-http://mxonlive.xyz/live/xap/352395.m3u8?e=1781986593&token=fae4993435eb0a311c5bfceea9f04f92f106c84e13f30942ec60bde82a0caaf2
-#EXTINF:-1 tvg-name="NL: RTV Maastricht" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eaca7adfd8de319516f58a9377c0289c.png" group-title="🇧🇩 Bangladesh",NL: RTV Maastricht
-http://mxonlive.xyz/live/xap/352381.m3u8?e=1781986593&token=e2c47815ad2d4b2c34599d474066b83bbd50956c8c46fba152fb65fe73604b0d
-#EXTINF:-1 tvg-name="NL: RTV NOF 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/072caff996526eca89d630627f709cc1.jpg" group-title="🇧🇩 Bangladesh",NL: RTV NOF 1
-http://mxonlive.xyz/live/xap/352433.m3u8?e=1781986593&token=ecab07d88a7cd4844c0423ae1acae0e8445ba15911149e8aad3113337ba9edf9
-#EXTINF:-1 tvg-name="NL: RTV Noord Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/675d9e2010797b2686bb3cc3847b9f7c.png" group-title="🇧🇩 Bangladesh",NL: RTV Noord Extra
-http://mxonlive.xyz/live/xap/352396.m3u8?e=1781986593&token=6497b7851380a0e02d87eba11a9c42bbab96634543f1f4fcea47b0349cc40592
-#EXTINF:-1 tvg-name="NL: RTV Noordoost Friesland" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/70886fea426d50d5cb39744f1b48c193.jpg" group-title="🇧🇩 Bangladesh",NL: RTV Noordoost Friesland
-http://mxonlive.xyz/live/xap/352434.m3u8?e=1781986593&token=8a4ae57528668c5fdcdb4661a9fba2491d39a904e8cb29a2cb988caa8137d782
-#EXTINF:-1 tvg-name="NL: RTV Purmerend" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ebdfc3dbfd218ca0325381af1994c717.jpg" group-title="🇧🇩 Bangladesh",NL: RTV Purmerend
-http://mxonlive.xyz/live/xap/352435.m3u8?e=1781986593&token=6a8a21c0856be01390afb588c5c7bd52857d14feb097062031b069d0b7e2bf31
-#EXTINF:-1 tvg-name="NL: RTV Rijnstreek TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/05c4e184d055fae06488063bdc7f2bda.png" group-title="🇧🇩 Bangladesh",NL: RTV Rijnstreek TV
-http://mxonlive.xyz/live/xap/352436.m3u8?e=1781986593&token=603f7de95e0c29ec9c500b505c8e0eb1cb9e3d05cb0df305a94d8ebadbee6ad3
-#EXTINF:-1 tvg-name="NL: RTV Slingeland" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1779ee337d47cc9c6657670061d0f2fc.jpg" group-title="🇧🇩 Bangladesh",NL: RTV Slingeland
-http://mxonlive.xyz/live/xap/352437.m3u8?e=1781986593&token=8b563e7a8a02375c39f5be227216c63edbad8fb094646d88c977623210280057
-#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-name="NL: RTV Utrecht" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d2a386193b75dc9d6797024f8b699741.png" group-title="🇧🇩 Bangladesh",NL: RTV Utrecht
-http://mxonlive.xyz/live/xap/352351.m3u8?e=1781986593&token=1d95f015bc5d5eb91d6f635a15d6d9380a1e087f82039a716184cee0c37df78f
-#EXTINF:-1 tvg-name="PK: GTV" group-title="🇧🇩 Bangladesh",PK: GTV
-http://mxonlive.xyz/live/xap/103687.m3u8?e=1781986593&token=cebcfd4e1ac817936ee3a06ae3960fad3d7ad6d9b069db32f3aeb152526b0ee2
-#EXTINF:-1 group-title="🇧🇩 Bangladesh" tvg-chno="",q_75,f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png", Desh TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RS: RTV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15b7fff5aa80c9265284dfb536ccc610.png" group-title="🇧🇩 Bangladesh",RS: RTV 1
-http://mxonlive.xyz/live/xap/353716.m3u8?e=1781986593&token=370cc90ed0dfc8e23e4736910c5be4f51e4721a1d25c97b32e9e0344aeccf1b6
-#EXTINF:-1 tvg-name="RS: RTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/a2d0f0aae99ca0a8f8f4650f38018510.png" group-title="🇧🇩 Bangladesh",RS: RTV 2
-http://mxonlive.xyz/live/xap/353717.m3u8?e=1781986593&token=f47b5af98799c7ac68c82faee9dc7bb0f93b64b4e441a2dee06ca4be761b546f
-#EXTINF:-1 tvg-name="RS: RTV 21" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/cbda710e0f5572bb2b445d10c88b153c.png" group-title="🇧🇩 Bangladesh",RS: RTV 21
-http://mxonlive.xyz/live/xap/353650.m3u8?e=1781986593&token=1196eb8c4cc51db10d1d0c9a479d6513c038a10cf36e0b74bde14334ef736914
-#EXTINF:-1 tvg-name="RS: RTV 21 Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d7fa196c508152a84ee94ae035cc1896.png" group-title="🇧🇩 Bangladesh",RS: RTV 21 Junior
-http://mxonlive.xyz/live/xap/353596.m3u8?e=1781986593&token=b6ecb8c3967aa1de097c208a49dc850d9a21d6a4c411e6d008535718ffe50eb6
-#EXTINF:-1 tvg-name="RS: RTV 21 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/c6240742bab3c07512dcea23b384c4e0.png" group-title="🇧🇩 Bangladesh",RS: RTV 21 Plus
-http://mxonlive.xyz/live/xap/353651.m3u8?e=1781986593&token=f4fbb78fe8319e51cf3e6439c6778f1263486a804ca9e049d84a0526c12bc13e
-#EXTINF:-1 tvg-name="RS: RTV 21 Popullore" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/be23ee0cc70057d09bb5b458ea2b5352.png" group-title="🇧🇩 Bangladesh",RS: RTV 21 Popullore
-http://mxonlive.xyz/live/xap/353706.m3u8?e=1781986593&token=581777d10fa0f153cb5e89e5a1bf18130eb5246d4c38c108a3cfbb262d279d57
-#EXTINF:-1 tvg-name="RS: RTV Fontana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/63ba20a8c50f85e6657b79fe709b3956.jpg" group-title="🇧🇩 Bangladesh",RS: RTV Fontana
-http://mxonlive.xyz/live/xap/353748.m3u8?e=1781986593&token=faa7adbb6472883c5364d87b6aac5ba9d6c541bbfafe842c94acf965506ef515
-#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/rtv.png" group-title="🇧🇩 Bangladesh",RTV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=70e97db9-5a9e-4642-874e-af3d30ba9925
+#EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="🇧🇩 Bangladesh",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="KAASLP172.us" tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="🇧🇩 Bangladesh",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=baac144b32b78618facd4c9305ebae58
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="🇧🇩 Bangladesh",Nagorik TV
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="K30RFD302.us" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="🇧🇩 Bangladesh",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=e3769223f86b570d2fb19d1f33d64467
 #EXTINF:-1 tvg-id="RTVIslam.ch" tvg-logo="https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf" group-title="🇧🇩 Bangladesh - Religious",RTV Islam
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:-1 tvg-id="sa-tv" tvg-name="SA TV" tvg-logo="https://otapp.store/uploads/tv_image/sa-tv.png" group-title="🇧🇩 Bangladesh",SA TV
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=d07563b0-7580-4cbd-a7c9-e67535c0164a
+#EXTINF:-1 tvg-id="SATV.bd" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="🇧🇩 Bangladesh",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=dd5977e8d8920465b5d9202ee30e76cf
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm@SD" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="🇧🇩 Bangladesh - Sports",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" tvg-logo="https://ottking.top/app/uploads/tv_image/sa-tv.png" group-title="🇧🇩 Bangladesh",SATV HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuqIWbdx7c3qIaAwZsHR4NU/m3u8
-#EXTINF:-1 tvg-name="SI: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/8870407d3b42cbeb6c176f9be96ed860.jpg" group-title="🇧🇩 Bangladesh",SI: GTV
-http://mxonlive.xyz/live/xap/353813.m3u8?e=1781986593&token=36b8a88de94b39283b8118c7bd733c511ed80af3c2e914d6424e954e860c0791
-#EXTINF:-1 tvg-id="somoy-news-tv" tvg-name="Somoy News TV" tvg-logo="https://otapp.store/uploads/tv_image/somoy-news-tv.png" group-title="🇧🇩 Bangladesh - News",Somoy News TV
-https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=somoy-tv
+#EXTINF:-1 tvg-id="SATV.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="🇧🇩 Bangladesh",SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
+#EXTINF:-1 tvg-id="SomoyNewsTV.bd" tvg-name="Somoy News TV (1080p)" group-title="🇧🇩 Bangladesh - News",Somoy News TV (1080p)
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="🇧🇩 Bangladesh",Somoy TV
 https://sm-monirul.top/toffee/play/somoy_tv.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇧🇩 Bangladesh",Somoy TV C 🇧🇩
 https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="🇧🇩 Bangladesh",Somoy TV D
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="t-sports" tvg-name="T Sports" tvg-logo="https://otapp.store/uploads/tv_image/t-sports.webp" group-title="🇧🇩 Bangladesh - Sports",T Sports
-http://book4u.top/royr/index.php?id=T-SPORTS
-#EXTINF:-1 tvg-id="t-sports-2" tvg-name="T Sports 2" tvg-logo="https://otapp.store/uploads/tv_image/t-sports-2.png" group-title="🇧🇩 Bangladesh - Sports",T Sports 2
-http://book4u.top/royr/index.php?id=liveevent
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="🇧🇩 Bangladesh - Sports",T SPORTS
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="T Sports HD UCS" group-title="🇧🇩 Bangladesh - Sports",T Sports HD UCS
+http://113.21.231.219:789/Tsports/index.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="🇧🇩 Bangladesh - Sports",T-Sports
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-name="TR: Sun RTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/81ecb7e8e8ab5bd3607858972add72a1.png" group-title="🇧🇩 Bangladesh",TR: Sun RTV
-http://mxonlive.xyz/live/xap/354756.m3u8?e=1781986593&token=2e2518ded357b8dac7b765ac6ff9feddcfe3f20b79106edd969daf04a1e088a6
+#EXTINF:-1 tvg-id="bns4l5sBcqxnFHJBVZ32" group-title="🇧🇩 Bangladesh - News",w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="News",Bijoy TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES_cZZsBNnOkwJLW1Oz1" group-title="🇧🇩 Bangladesh - News",w_300,q_85/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="News",Independent TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PiL635oBEef-9-uV2uCe" group-title="🇧🇩 Bangladesh - News",w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="News",Jamuna TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PS_La5oBNnOkwJLWLRN_" group-title="🇧🇩 Bangladesh - News",w_300,q_85/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="News",Ekattor TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="qnv835oBcqxnFHJBuQcB" group-title="🇧🇩 Bangladesh - News",w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="News",Channel i
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
-#EXTINF:-1 tvg-name="William Hill BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPWhKBjDwxo3vYQmROAF9GwCsR-pz6CULQQ&usqp=CAU" group-title="🇧🇩 Bangladesh",William Hill BTV
-http://mxonlive.xyz/live/xap/217590.m3u8?e=1781986593&token=52e6b780a1391ac1248e487d802b078dffa6eb90e48256c30cb3fcb3c36b0e1c
+#EXTINF:-1 tvg-id="wCM3l5sBEef-9-uVXFvD" group-title="🇧🇩 Bangladesh - News",w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="News",Ananda TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" group-title="🇧🇩 Bangladesh - News",w_300,q_85/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="News",Somoy TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8

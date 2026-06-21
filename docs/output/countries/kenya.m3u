@@ -1,49 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AF: Citizen TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/ed770caab22bd8e258cf24a63674b828.png" group-title="🇰🇪 Kenya",AF: Citizen TV
-http://mxonlive.xyz/live/xap/419381.m3u8?e=1781986593&token=eddea58df83286d0b7859411840d03d1c16eebd71ca7c5d7b683aa248df385e2
-#EXTINF:-1 tvg-name="AF: K24 (KENYA)" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/K24-1.jpg" group-title="🇰🇪 Kenya",AF: K24 (KENYA)
-http://mxonlive.xyz/live/xap/419300.m3u8?e=1781986593&token=b43fe3e1beaaad0f951867fae30f66172fd5920bd089feab6b85acae83ad66a2
-#EXTINF:-1 tvg-name="AF: KBC (KENYA)" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/KBC-1.jpg" group-title="🇰🇪 Kenya",AF: KBC (KENYA)
-http://mxonlive.xyz/live/xap/419301.m3u8?e=1781986593&token=d5cef322481279bbda8203347504e8227ae1ff53f355ba7558f757fc4b95fe49
-#EXTINF:-1 tvg-name="AF: KTN NEWS (KENYA)" tvg-logo="https://server4ip.ath.cx/logo/tv/kk/ktn_news_ke.png" group-title="🇰🇪 Kenya - News",AF: KTN NEWS (KENYA)
-http://mxonlive.xyz/live/xap/419298.m3u8?e=1781986593&token=1e6a7266c619b250de18a4cf0062837dc33ed7f125fa23a201747ba842c0a93c
-#EXTINF:-1 tvg-name="AL: KTV Kohavision" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/35bb4fd82d973921030f0189694522fa.jpg" group-title="🇰🇪 Kenya",AL: KTV Kohavision
-http://mxonlive.xyz/live/xap/347672.m3u8?e=1781986593&token=0bd3b2fcc4dfa0074cc8d0f396498015243b8b1ced16cb779ce8c222917c2c42
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="DE: K-TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7771cd8f308e600d9f331b46f74788d7.png" group-title="🇰🇪 Kenya",DE: K-TV
-http://mxonlive.xyz/live/xap/350295.m3u8?e=1781986593&token=67e7c8b4420a2a0b472b51b5cf99c91d3f6b4cdbffc8b0e29091df897c27af27
-#EXTINF:-1 tvg-name="IN-TM | KTV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="🇰🇪 Kenya",IN-TM | KTV FHD
-http://mxonlive.xyz/live/xap/380961.m3u8?e=1781986593&token=389f337cf0b90d738d835da0db942ef8b4973d43ac47d209b3cb96a3b67525fa
-#EXTINF:-1 tvg-id="ts1334" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/kbc-news-Logo_2000_X_1125_Transpharent.png" group-title="🇰🇪 Kenya - News",KBC News
-https://cable81tataplay.akamaized.net/kbcnews/kbcnews/index.mpd
-#EXTINF:-1 tvg-name="KR: KBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/405dc8d455972dfc4ce0934eec517d21.png" group-title="🇰🇪 Kenya",KR: KBC
-http://mxonlive.xyz/live/xap/353997.m3u8?e=1781986593&token=a6cd1e53d066bfc96803a706d990efa83724af1754bd7ecda2957801be20ca1a
-#EXTINF:-1 tvg-id="KTVBangla.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" group-title="🇰🇪 Kenya",KTV Bangla
-https://alex4528.site/jplus/LIiLLIOLoii1ii01O1i1ii/manifest.mpd
-#EXTINF:-1 tvg-id="KantipurTV.np" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="🇰🇪 Kenya",KTV HD
-https://alex4528.site/jplus/LIIOl00ioii1ioloLIil/manifest.mpd
+#EXTINF:-1 tvg-id="KTVBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png" group-title="🇰🇪 Kenya",KTV Bangla (720p)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="🇰🇪 Kenya - Sports",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="🇰🇪 Kenya - Sports",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KW: KTV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/123b30ee86b91d350ad0495de8510eab.png" group-title="🇰🇪 Kenya",KW: KTV 1
-http://mxonlive.xyz/live/xap/351789.m3u8?e=1781986593&token=c08fd58965345b4c814707cd81fb0d30cc7df394817631b90e4518b64ed3a899
-#EXTINF:-1 tvg-name="KW: KTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/6f7731ead6ce6d885f0df89a9a668eff.png" group-title="🇰🇪 Kenya",KW: KTV 2
-http://mxonlive.xyz/live/xap/351790.m3u8?e=1781986593&token=63dbade3ad53183c8e8be8b6d41411578c9b6de9b7a989a73d9c0281dd4167f2
-#EXTINF:-1 tvg-name="KW: KTV Al Qurain" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/38cdf1cc66f9d50b1366622e40ac1905.png" group-title="🇰🇪 Kenya",KW: KTV Al Qurain
-http://mxonlive.xyz/live/xap/351791.m3u8?e=1781986593&token=f4d6b25dcf7112715e5b3ef6d31cbf1c6fcc3907f63b9f9c1121a2e344f4ed8c
-#EXTINF:-1 tvg-name="KW: KTV Arabe" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6778e7ec12ad7518b43d73a1182d2e73.png" group-title="🇰🇪 Kenya",KW: KTV Arabe
-http://mxonlive.xyz/live/xap/351792.m3u8?e=1781986593&token=9a1cfae6db3112afd888ce0a508f1602c443ae27551afb11405ab2291a280438
-#EXTINF:-1 tvg-name="KW: KTV Ethraa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/473253f46392ab04170b747dc4bbe3b1.png" group-title="🇰🇪 Kenya",KW: KTV Ethraa
-http://mxonlive.xyz/live/xap/351794.m3u8?e=1781986593&token=1fa6d5d6c2701cd9f05a8228efbce2101b460b4340dcb9f12cdbb06610fc0ecc
-#EXTINF:-1 tvg-name="KW: KTV Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/17661dce11a86e01a2d34e96d9b39f68.png" group-title="🇰🇪 Kenya - Sports",KW: KTV Sport
-http://mxonlive.xyz/live/xap/351795.m3u8?e=1781986593&token=27b39b6f440016cd9e5a10e0ff69723f265f5f7e0317d7da1cbd5f8dfe037e15
-#EXTINF:-1 tvg-name="KW: KTV Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/78950aa0d9e81794c73186c7a38824c3.png" group-title="🇰🇪 Kenya - Sports",KW: KTV Sport 2
-http://mxonlive.xyz/live/xap/351796.m3u8?e=1781986593&token=563305d515b68863a76db18032a791054791b95bc4f8527107b30201c279ba94
-#EXTINF:-1 tvg-name="MK: KTV Kavadarci" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8becaa68de8accbe6dbc227ea412450a.png" group-title="🇰🇪 Kenya",MK: KTV Kavadarci
-http://mxonlive.xyz/live/xap/352052.m3u8?e=1781986593&token=203d8a8921e658b204a79394bcfe486c928c448287bda0995c1c7e741a5382fd
-#EXTINF:-1 tvg-name="PK | KTN ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg" group-title="🇰🇪 Kenya",PK | KTN ENTERTAINMENT
-http://mxonlive.xyz/live/xap/26026.m3u8?e=1781986593&token=685b07162362220af602e110d63eae70f6b17760d45925f1787c2c1c90280817
-#EXTINF:-1 tvg-name="PK: KTN News" tvg-logo="https://www.nicepng.com/png/detail/472-4725557_tv-channel-logos-ktn-news.png" group-title="🇰🇪 Kenya - News",PK: KTN News
-http://mxonlive.xyz/live/xap/103695.m3u8?e=1781986593&token=e1db9b1f5942fc61fb3f8b627d06b1ccf0deb92802ba42c8e05d81b3f3cac96a
-#EXTINF:-1 tvg-name="RS: KTV Kohavision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/083ed4b7291d455b953451e3b4ca455b.jpg" group-title="🇰🇪 Kenya",RS: KTV Kohavision
-http://mxonlive.xyz/live/xap/353612.m3u8?e=1781986593&token=2af395eadeba7dd3f6e4d7285e84ed01e557453b78fc639938415f4aec665819
