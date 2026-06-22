@@ -1,55 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="NO: Canal Motor TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7de65f15b2781dbb436ba2d6098eb44f.jpg" group-title="🇳🇴 Norway",NO: Canal Motor TV
-http://mxonlive.xyz/live/xap/352510.m3u8?e=1781986593&token=3762a572aabca4d8218620d596c76f657e4e7bebb0205f528f5e8c332d7aacae
+http://mxonlive.xyz/live/xap/352510.m3u8?e=1782230014&token=fdaed956ea70c5993d1c121eb5e2ec1faec2e9c91665c76d2b615688b5d41c6a
 #EXTINF:-1 tvg-name="NO: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ca221c127fc0c385950ae39de518baf.png" group-title="🇳🇴 Norway",NO: E!
-http://mxonlive.xyz/live/xap/352467.m3u8?e=1781986593&token=673e5d54aca88f6cc9de06d69caee16b6baf0a6b4919a24cabdbc7aebf296592
+http://mxonlive.xyz/live/xap/352467.m3u8?e=1782230014&token=f8909640d1b1c58824c8358343ae3be2b7e692198c88e81de9af3f0083104216
 #EXTINF:-1 tvg-name="NO: Fem" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/5ee6691e7245b047d9cc3baa17058221.png" group-title="🇳🇴 Norway",NO: Fem
-http://mxonlive.xyz/live/xap/352481.m3u8?e=1781986593&token=e0df355e2420c7f05dce9659230141f425807020ad8c32bf596facadb0a67be3
+http://mxonlive.xyz/live/xap/352481.m3u8?e=1782230014&token=be8cf9476949945e965007a461e8e4d792a7d597d0899f18a35e425dbe5d33b6
 #EXTINF:-1 tvg-name="NO: Hope Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c0e2424c301cd655b99429a7fbef1b24.png" group-title="🇳🇴 Norway",NO: Hope Channel
-http://mxonlive.xyz/live/xap/352483.m3u8?e=1781986593&token=d44895d425166b0b01c90560a1ed0872b1512db2aca5f7f358a6f5316afa32f3
+http://mxonlive.xyz/live/xap/352483.m3u8?e=1782230014&token=7d16b41766c9b5c3372e2d55cfc6bc76fb1230f7a74a9dfd44826b0976dde57f
 #EXTINF:-1 tvg-id="matkanalen.no" tvg-name="NO: Matkanalen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d82fc35833a8065fc4ce1d622e05c2b6.png" group-title="🇳🇴 Norway",NO: Matkanalen
-http://mxonlive.xyz/live/xap/352484.m3u8?e=1781986593&token=55ffd198199261bda8fd9b00ea389035ff8a5ff544ca5a60626989c35d9e9a31
+http://mxonlive.xyz/live/xap/352484.m3u8?e=1782230014&token=d14169406e7749f3404f601cd98d26d53d8a6291fb8a743d3f48b066724391c1
 #EXTINF:-1 tvg-id="max.no" tvg-name="NO: Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e9bee8a342930f7591c276724e5800e5.png" group-title="🇳🇴 Norway",NO: Max
-http://mxonlive.xyz/live/xap/352485.m3u8?e=1781986593&token=1992813c909249fe9d2be81cfb7906067c32371f4d5f26eb01892505c8ed2df4
+http://mxonlive.xyz/live/xap/352485.m3u8?e=1782230014&token=904145b18a02633be4aee6c4f18158b7ec5ba7a7cc10d9b0e27442e3132e1086
 #EXTINF:-1 tvg-name="NO: Nicktoons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c1d6c740f51e84647430f8933d40c916.png" group-title="🇳🇴 Norway",NO: Nicktoons
-http://mxonlive.xyz/live/xap/352478.m3u8?e=1781986593&token=9bd09453f5f5fd3a994f66e4f980b8f406dc0d5c3ac41a7d523801b7773cd21d
+http://mxonlive.xyz/live/xap/352478.m3u8?e=1782230014&token=f5d51f4040506f9566753d87cf4cd43b081bdf996cd4cd281dbe7e7a3c4ea788
 #EXTINF:-1 tvg-id="nrk1.no" tvg-name="NO: NRK1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2253dcc63280713bc98ba322912fc682.png" group-title="🇳🇴 Norway",NO: NRK1
-http://mxonlive.xyz/live/xap/352486.m3u8?e=1781986593&token=2b4fd151c67571caae95e8349f30f41a7f9965365155114fc5acfebcead9090e
+http://mxonlive.xyz/live/xap/352486.m3u8?e=1782230014&token=307991598b7f106889b6526888cbfdfe0d0241e64b5e7f283dfe52436f9c8ac4
 #EXTINF:-1 tvg-id="nrk2.no" tvg-name="NO: NRK2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/de148418edf8d629914e1eab170cb910.png" group-title="🇳🇴 Norway",NO: NRK2
-http://mxonlive.xyz/live/xap/352487.m3u8?e=1781986593&token=6cdb723087a75debe5641e41a3b6fd3b7124838eeb39e4c7f7c017a7b5fbe2a9
+http://mxonlive.xyz/live/xap/352487.m3u8?e=1782230014&token=a543e352ebbdb66a6491bc7dc379caee0cff737196cc844f06fb3ec0782cc412
 #EXTINF:-1 tvg-id="nrk3.no" tvg-name="NO: NRK3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/41f7c1a102bfbb1eb4e4348c9a1ec1f4.svg" group-title="🇳🇴 Norway",NO: NRK3
-http://mxonlive.xyz/live/xap/352488.m3u8?e=1781986593&token=ccea08dcebcf6fa0174e9839f953055ffd4ecc350d49b98bbf6e9989922fbd1e
+http://mxonlive.xyz/live/xap/352488.m3u8?e=1782230014&token=c52b1577c765da9ac2524d370abe0c811f91bed32f5e8a324d695950bf24dfbe
 #EXTINF:-1 tvg-name="NO: Rikstoto Direkte" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/951c4e99894cf6e1f3bcdcf7f161008a.png" group-title="🇳🇴 Norway",NO: Rikstoto Direkte
-http://mxonlive.xyz/live/xap/352501.m3u8?e=1781986593&token=7a5ed6cc28dd7629dc6c29ccc2509663ad349296ccfc1982633eaaf8d1796ae8
+http://mxonlive.xyz/live/xap/352501.m3u8?e=1782230014&token=980c3e8eea8addebd45e69b15077ad3883c42d67d88008adabeecce67e80d3b5
 #EXTINF:-1 tvg-name="NO: Stortinget" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/370190e563feb4e76352b1bb9b295c1d.png" group-title="🇳🇴 Norway",NO: Stortinget
-http://mxonlive.xyz/live/xap/352512.m3u8?e=1781986593&token=208a2464a32419066a80fe7916cc7496327cd789a3fb245599dd30c0385f77ae
+http://mxonlive.xyz/live/xap/352512.m3u8?e=1782230014&token=d2a90b89d98459bf54e9e3d8eab93c7858f2e4e6a17db655edeba9c6d78a05e2
 #EXTINF:-1 tvg-name="NO: TV 2 Direkte" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64f17308761ec65a490af763b0832a36.svg" group-title="🇳🇴 Norway",NO: TV 2 Direkte
-http://mxonlive.xyz/live/xap/352490.m3u8?e=1781986593&token=e8d814ffe54d340dff195b2f26ec9a5062cb93ef7aae9593179bdd7e7455432d
+http://mxonlive.xyz/live/xap/352490.m3u8?e=1782230014&token=6398f003e0927ad6e76d7e5f1dd26351c4a117e783f83d13ae2862a74062386c
 #EXTINF:-1 tvg-name="NO: TV 2 Livsstil" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4e8759e8a949ec9ef6d4b35c321bb9a8.svg" group-title="🇳🇴 Norway",NO: TV 2 Livsstil
-http://mxonlive.xyz/live/xap/352491.m3u8?e=1781986593&token=b9ad0b0e988f67d5d4385adc90b6bdb475c06b75ee14aad812b2243eed998e45
+http://mxonlive.xyz/live/xap/352491.m3u8?e=1782230014&token=e02623d4a440db86dba304a7422fbd1120494f34ac4086745ddae682806eb65b
 #EXTINF:-1 tvg-id="tv2nyhetskanalen.no" tvg-name="NO: TV 2 Nyheter" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1cedd48e0b468078e6918d0e56e1e3c3.svg" group-title="🇳🇴 Norway",NO: TV 2 Nyheter
-http://mxonlive.xyz/live/xap/352513.m3u8?e=1781986593&token=1f559164c3b14cdfa103931e939981ccf95e2b4cc0b5ead94d6544c65f09ea1c
+http://mxonlive.xyz/live/xap/352513.m3u8?e=1782230014&token=951eb426a1addccfd7d4ba9457a5d81e7a6d0f66dba81065471310987363a5b1
 #EXTINF:-1 tvg-name="NO: TV 2 Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1ef8c7a902c1dd5955a63c0d4241aeae.svg" group-title="🇳🇴 Norway - Sports",NO: TV 2 Sport 1
-http://mxonlive.xyz/live/xap/352502.m3u8?e=1781986593&token=322cc9e5a6434ca9312735a625ec872f945965b86a40f8b0f4b6e33a6be7e4bf
+http://mxonlive.xyz/live/xap/352502.m3u8?e=1782230014&token=6f66631a9e06c8e21792d43f7f3f44705ccf25889f462f45fbc6537f8da7e5bf
 #EXTINF:-1 tvg-name="NO: TV 2 Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/92f6adb922a104b7246cef872d2a4c20.svg" group-title="🇳🇴 Norway - Sports",NO: TV 2 Sport 2
-http://mxonlive.xyz/live/xap/352503.m3u8?e=1781986593&token=99fb084e1820565d21c64bf2f54f286696f57ccee14819f56493520f880304ae
+http://mxonlive.xyz/live/xap/352503.m3u8?e=1782230014&token=fd9ca1e008f29158724cbae386fdb81f4de149a26c323f1e91843a06b6497b19
 #EXTINF:-1 tvg-name="NO: TV 2 Sport Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/019e4ae02af6b0336c0b28b15f98cbce.svg" group-title="🇳🇴 Norway - Sports",NO: TV 2 Sport Premium
-http://mxonlive.xyz/live/xap/352504.m3u8?e=1781986593&token=0f4c45a28599bac061846020cad4b98c669fe71109bb07398e7d2e1da8899686
+http://mxonlive.xyz/live/xap/352504.m3u8?e=1782230014&token=4809733eff217dc1fa550257a2737cdde3338dd008a8ebd3d01c9fe5c5f9ab8b
 #EXTINF:-1 tvg-name="NO: TV 2 Sport Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5507f7402de40aa508559b463b3cd2e.svg" group-title="🇳🇴 Norway - Sports",NO: TV 2 Sport Premium 2
-http://mxonlive.xyz/live/xap/352505.m3u8?e=1781986593&token=10e623c23482a0c540238d27f864b4680f155f155bd4f329ad9da73852bea548
+http://mxonlive.xyz/live/xap/352505.m3u8?e=1782230014&token=a1921eacc97ecd5b4fe7127e28614eb1b3ceaeb549baeb3256a23c63f0189726
 #EXTINF:-1 tvg-id="tv2zebra.no" tvg-name="NO: TV 2 Zebra" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/364229cb3365fb8347b71eda4e20289f.svg" group-title="🇳🇴 Norway",NO: TV 2 Zebra
-http://mxonlive.xyz/live/xap/352492.m3u8?e=1781986593&token=a63a2f3818f53067ba33354a0e0d763f1c858c0f9433706d036d165f22f376cc
+http://mxonlive.xyz/live/xap/352492.m3u8?e=1782230014&token=2938c2a5672d6de9229864f0d8da37b4c9ce9c1f7df700477fc045e97626e0e8
 #EXTINF:-1 tvg-id="tv6norge.no" tvg-name="NO: TV 6 Norge" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa8e27da9a4113f350f7a352fca63b.png" group-title="🇳🇴 Norway",NO: TV 6 Norge
-http://mxonlive.xyz/live/xap/352494.m3u8?e=1781986593&token=6be3ce0d2da067403606c5c3dc7c5af3a8ffee7731d51fa573f37969e6455817
+http://mxonlive.xyz/live/xap/352494.m3u8?e=1782230014&token=199324fc0bf5d5dcf2b130d5ff631e8fa74747bf7a8ba4cc5496c240f616e5f3
 #EXTINF:-1 tvg-name="NO: TV Norge" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/931f4a055b59112b55c5a31188e05b0b.svg" group-title="🇳🇴 Norway",NO: TV Norge
-http://mxonlive.xyz/live/xap/352495.m3u8?e=1781986593&token=dcc4d10b5bcd6a11b476d65f17024290ad63bae4cdf764e95b23aa117feb3f12
+http://mxonlive.xyz/live/xap/352495.m3u8?e=1782230014&token=6f4769707a5c46f3a78d00f365849673412e3ea39f86a1396a76b9bd06d7815a
 #EXTINF:-1 tvg-name="NO: V Sport +" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/183da74beb63ba7ef939532adb358cfe.svg" group-title="🇳🇴 Norway - Sports",NO: V Sport +
-http://mxonlive.xyz/live/xap/352506.m3u8?e=1781986593&token=d4bb2326c5ded46c3e46b07ad025bc661cfec93586f852f99e5f941c389eb9f9
+http://mxonlive.xyz/live/xap/352506.m3u8?e=1782230014&token=1fc22934b2019231886f9cf916b6df224cb037b82c91b09f63081178c5e50346
 #EXTINF:-1 tvg-name="NO: V Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/a46c51476308438f6de6537df3bec190.png" group-title="🇳🇴 Norway - Sports",NO: V Sport 1
-http://mxonlive.xyz/live/xap/352507.m3u8?e=1781986593&token=7ef52d1b7d9697a46846c5ce5ccb8ac456f40c3b3a70e49231e0a78feec2344d
+http://mxonlive.xyz/live/xap/352507.m3u8?e=1782230014&token=441857e9fd9f05f702ccf00437055f2a57fe7c15792cab222cb035efab934365
 #EXTINF:-1 tvg-name="NO: V Sport 1 Norge" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b66c3a0222aca431ca7d5dba6092f19.png" group-title="🇳🇴 Norway - Sports",NO: V Sport 1 Norge
-http://mxonlive.xyz/live/xap/352508.m3u8?e=1781986593&token=9b1d1e51973b9dce2921c145203ac88f69b0fc0ac6d2bae91667c7dddb88f287
+http://mxonlive.xyz/live/xap/352508.m3u8?e=1782230014&token=83dcdb044394baa2b09f737db908460315a6dd7b6946edc4edd2021f89d42193
 #EXTINF:-1 tvg-name="NO: VG TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/165e39d65d2f71fe45f557f4b926d60e.png" group-title="🇳🇴 Norway",NO: VG TV
-http://mxonlive.xyz/live/xap/352496.m3u8?e=1781986593&token=0bc6363e21700af2501a3eeb86d12e2037f34245f93641b54dff6bc7a06e48db
+http://mxonlive.xyz/live/xap/352496.m3u8?e=1782230014&token=dd6fe89db09cafd13a19634f9ecb2aee8bdff16e382759aa2e165a5e14a3f4e0
 #EXTINF:-1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="🇳🇴 Norway",•●★--- Welcome ----★●•
-http://mxonlive.xyz/live/xap/352509.m3u8?e=1781986593&token=17e7e1328d0d514be1b4118ea1178cffa21eb80588ae3121ce3cab4e4f2831ab
+http://mxonlive.xyz/live/xap/352509.m3u8?e=1782230014&token=2821de72f4fa858c254c4d402eacd2e48a27b60da948a7f317b5816094690fc9

@@ -3,8 +3,8 @@
   "download_success": 1,
   "download_failed": 0,
   "total_channels_raw": 15949,
-  "total_channels_unique": 15353,
-  "duplicates_removed": 596,
+  "total_channels_unique": 15352,
+  "duplicates_removed": 597,
   "total_countries": 75,
   "countries": {
     "Adult": 550,
@@ -61,7 +61,7 @@
     "Poland": 158,
     "Portugal": 95,
     "Qatar": 14,
-    "Religious": 105,
+    "Religious": 104,
     "Romania": 133,
     "Russia": 273,
     "Saudi Arabia": 149,
@@ -83,5 +83,5 @@
     "Venezuela": 13,
     "Vietnam": 55
   },
-  "last_updated": "2026-06-22T03:34:37.503446+00:00"
+  "last_updated": "2026-06-22T16:44:45.318756+00:00"
 }

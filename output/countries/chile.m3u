@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CL: 24 Horas" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d03f92f5fdc2107d32e3e6f00a0dd6ba.png" group-title="🇨🇱 Chile - News",CL: 24 Horas
-http://mxonlive.xyz/live/xap/349078.m3u8?e=1781986593&token=7f2778ff5ed050db19653f19bfc96d4d437ecd857bbd2c93b7d667ab13379496
+http://mxonlive.xyz/live/xap/349078.m3u8?e=1782230014&token=2ff313b200e39752b89181966e08314a84e4fbdd6f7596b2b0519c0091b3a8d8
 #EXTINF:-1 tvg-name="CL: ChileVision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/5fd29cb69e62e4eb3ad7cdf1ef1356b4.png" group-title="🇨🇱 Chile",CL: ChileVision
-http://mxonlive.xyz/live/xap/349082.m3u8?e=1781986593&token=84b75fe482e0d1b2169c8c99a340ff099cbbb38f516db9ac01881915ac153d2f
+http://mxonlive.xyz/live/xap/349082.m3u8?e=1782230014&token=9d08d6285279a0d668fed7edc78619554e1953f400c27c841044afc081797322
 #EXTINF:-1 tvg-name="CL: La Red" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/130437616a06a29f49e96aa3aad926d0.png" group-title="🇨🇱 Chile",CL: La Red
-http://mxonlive.xyz/live/xap/349094.m3u8?e=1781986593&token=f6b30ab0039681f59aff9150067f018619d9fcb0d14c407a5f718411bb8022ac
+http://mxonlive.xyz/live/xap/349094.m3u8?e=1782230014&token=06f83153a3746e542ba9ffa452b0130939be5814bb4b1c9c1f7f5407f5a3e584
 #EXTINF:-1 tvg-name="DO: Telecanal 28" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5ab89a583c64aab8120cb5b45e289ed8.png" group-title="🇨🇱 Chile",DO: Telecanal 28
-http://mxonlive.xyz/live/xap/349645.m3u8?e=1781986593&token=c07753aee5f51a751e094fa283f8def4fd34e8a10f7b5d57b8a24fde1ee041c3
+http://mxonlive.xyz/live/xap/349645.m3u8?e=1782230014&token=5fa3529e66ffc1fc82080381d608cdeecd5d9bf2f06efcade039ee77b079edd8
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: Canal 24 Horas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png" group-title="🇨🇱 Chile - News",ES: Canal 24 Horas
-http://mxonlive.xyz/live/xap/354224.m3u8?e=1781986593&token=8bc44d72eab62610ddb931cc350721a29d413bbac15f4171215ba010f5d3b7db
+http://mxonlive.xyz/live/xap/354224.m3u8?e=1782230014&token=bb2670d596938457170921b890030a6024a03f6d794409293dd73550a4f674fd
 #EXTINF:-1 tvg-name="UY: La Red TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/3661fb520412cdaf68d24b14d62350da.png" group-title="🇨🇱 Chile",UY: La Red TV
-http://mxonlive.xyz/live/xap/355097.m3u8?e=1781986593&token=6420dd323d3e160c2042fc21f1311a5e6005fd0b41dcb7b0a0f8263a6299aa32
+http://mxonlive.xyz/live/xap/355097.m3u8?e=1782230014&token=3b7d438d0544d0ef11dd9716f6a1d2b3e2b3ba04e9aa09f874c15175f21b603c

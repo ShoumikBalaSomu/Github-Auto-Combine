@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ARG: A24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1b1a1e85ea09acd758763a34b0316689.png" group-title="🇦🇷 Argentina",ARG: A24
-http://mxonlive.xyz/live/xap/348068.m3u8?e=1781986593&token=442263b61a2ab43bdf065054e974b2bb0dbeca1d0a023c3d3f8d5fdd32496f27
+http://mxonlive.xyz/live/xap/348068.m3u8?e=1782230014&token=497cb454600c40dc6d56afe3952ce9e11f8cbc225391179548c731d5ef9d01b9
 #EXTINF:-1 tvg-name="ARG: C5N" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b7326b8795e4f9e84e08a6d890cc598f.png" group-title="🇦🇷 Argentina",ARG: C5N
-http://mxonlive.xyz/live/xap/348076.m3u8?e=1781986593&token=8d5d645a5001d1f1e8cedc9cf75454c2038985bda3d28d1a1ef9b58f352b6968
+http://mxonlive.xyz/live/xap/348076.m3u8?e=1782230014&token=7e55127405aac7e7ea5c61cf68d3285895112f535ca637ab7b50570b186556e0
 #EXTINF:-1 tvg-name="ARG: Cronica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12d03d3b0c1ee223bbef7afff54f99bd.png" group-title="🇦🇷 Argentina",ARG: Cronica TV
-http://mxonlive.xyz/live/xap/348100.m3u8?e=1781986593&token=2317d86a675d32efe7aa03d9e9f2a590e11ae3c2c8d7bb81408c6e257ab565d9
+http://mxonlive.xyz/live/xap/348100.m3u8?e=1782230014&token=ff30bde15bbf45f22d3e3ca4f9ae8acf2a8a287bc76badbed27bddb1686b0222
 #EXTINF:-1 tvg-name="ARG: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eb9362ea0d5367005473c800f29a566d.png" group-title="🇦🇷 Argentina",ARG: Telefe
-http://mxonlive.xyz/live/xap/348152.m3u8?e=1781986593&token=6af2e870571ad9bc986601bc0cf62e6804afd5857a38dbdb931721b00646303d
+http://mxonlive.xyz/live/xap/348152.m3u8?e=1782230014&token=2e515922a28eb648dcb4ab03e8454e438e4084a83dd81a2b3c69cf92c98dbdfb
 #EXTINF:-1 tvg-name="ARG: Telefe Rosario" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/e75ef46f2a2da062f5022b4e8dd1eb98.png" group-title="🇦🇷 Argentina",ARG: Telefe Rosario
-http://mxonlive.xyz/live/xap/348153.m3u8?e=1781986593&token=d4d3a02fdceab1853f2442784ef1025dcf9d1e9884197dae05d5079bef9b9b4a
+http://mxonlive.xyz/live/xap/348153.m3u8?e=1782230014&token=2417e1a6b81a6cb45b8406ef32643fd417a23789775de1dfbfee0a6b69f2666f
 #EXTINF:-1 tvg-name="ARG: Todo Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7b8105d8ff6faab8fe9ba38744cfc995.png" group-title="🇦🇷 Argentina - News",ARG: Todo Noticias
-http://mxonlive.xyz/live/xap/348159.m3u8?e=1781986593&token=97fa097a643d78bff8a962ac2ba3ce21ac17785add8691d6aed16e4fe6b754f3
+http://mxonlive.xyz/live/xap/348159.m3u8?e=1782230014&token=bc02f55f0eae25e5387c779a5a46fd2be303006a6a6da123f94731b192acfda7
 #EXTINF:-1 tvg-name="ARG: TV Publica" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2d8e676fd2deada29d1f02f24973f0b1.svg" group-title="🇦🇷 Argentina",ARG: TV Publica
-http://mxonlive.xyz/live/xap/348160.m3u8?e=1781986593&token=ffd91cd38a1922145a92754d3f201a1fddab7cd81e994f8668ed1cccdeca23ea
+http://mxonlive.xyz/live/xap/348160.m3u8?e=1782230014&token=c14c7301471c23d4ee7364e69c3689c5d0f42e395f29f376f263e5e0e8c1e9bb
 #EXTINF:-1 tvg-name="GT: TN 23" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2536d682dd1099ed8bf655f37adbefc1.png" group-title="🇦🇷 Argentina",GT: TN 23
-http://mxonlive.xyz/live/xap/350743.m3u8?e=1781986593&token=31ecd51659490451f58f58586ffc5c2728fefad3c8e1c22ef7643757e23f2495
+http://mxonlive.xyz/live/xap/350743.m3u8?e=1782230014&token=3e99c1671a21f683a174f41b65324c47f34ef5a1517d053ffd08800e4d7d5eb0
 #EXTINF:-1 tvg-name="SUR: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f5dd194858c5ccc641fa47654b4c323f.png" group-title="🇦🇷 Argentina",SUR: Telefe
-http://mxonlive.xyz/live/xap/354339.m3u8?e=1781986593&token=2a4abc9bf0e7e228f1d4a62bbe9741466ba8449678860678158fe5856f41dc38
+http://mxonlive.xyz/live/xap/354339.m3u8?e=1782230014&token=cdf8ef2e57ac397624fac0b57b9f070df952404901cce5ccb04b9aef118b829a
 #EXTINF:-1 tvg-name="TN: Al Insen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/37f77021f465397ac107441c12798451.png" group-title="🇦🇷 Argentina",TN: Al Insen TV
-http://mxonlive.xyz/live/xap/354594.m3u8?e=1781986593&token=9b8c0250371cbd3d629e657d9d3b919f4a1ee61a1bc27ae83f5602c023a5523f
+http://mxonlive.xyz/live/xap/354594.m3u8?e=1782230014&token=ff2b7cee0f6f758d6fe926567490353bccdda08ab545d0504370c0b0a47be8ef
 #EXTINF:-1 tvg-name="TN: AL Janoubia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/dfe762d1862deafd829657f7a02b6f2e.png" group-title="🇦🇷 Argentina",TN: AL Janoubia TV
-http://mxonlive.xyz/live/xap/354595.m3u8?e=1781986593&token=d57392f23f569c9b7028d888e94edb2cac0f4f27f8b00aa96c256396225570b9
+http://mxonlive.xyz/live/xap/354595.m3u8?e=1782230014&token=a9adb6b69ea001d74b2cafad5a54a82d9d6e8b15a6ddf881bc5ab015e2a6b868
 #EXTINF:-1 tvg-name="TN: Attessia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8fcaf0ce18cf400a78df1364b394d90f.png" group-title="🇦🇷 Argentina",TN: Attessia TV
-http://mxonlive.xyz/live/xap/354596.m3u8?e=1781986593&token=509affd0de646cb024677aa304ef17868de048dd1e0b5ed969e96d3a7ec66c90
+http://mxonlive.xyz/live/xap/354596.m3u8?e=1782230014&token=1ef1fc609a2f55dd6d4b2c0e532176fc6fe008552eee7c67671fb61eea466121
 #EXTINF:-1 tvg-name="TN: Carthage+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cdc57388a615c7dede67da92f5088565.jpg" group-title="🇦🇷 Argentina",TN: Carthage+
-http://mxonlive.xyz/live/xap/354597.m3u8?e=1781986593&token=ed824168516710239c4723eed8399d2c9ae06a9bf2352fb41c468e814bd3b743
+http://mxonlive.xyz/live/xap/354597.m3u8?e=1782230014&token=8bb0724ba0736d89fbd045ea8142568af6408c0356eb900d26058ca2e134aadc
 #EXTINF:-1 tvg-name="TN: Jawhara FM" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/92b757127c3e4144c3cbb11345bfb7dd.png" group-title="🇦🇷 Argentina",TN: Jawhara FM
-http://mxonlive.xyz/live/xap/354600.m3u8?e=1781986593&token=2a82b7ca7e899d11e5a6f49b674649075768b84e59554136e5ae8704358b2088
+http://mxonlive.xyz/live/xap/354600.m3u8?e=1782230014&token=26a7de5a2a831a2034ee9cccb456801039d852adcf656d724828a696c1db8a8a
 #EXTINF:-1 tvg-name="TN: Sahel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a05355a02cfddcd13e23e2ddea852eef.jpg" group-title="🇦🇷 Argentina",TN: Sahel TV
-http://mxonlive.xyz/live/xap/354602.m3u8?e=1781986593&token=bc3d4779a30ecf87b7394f264a2d0abebd7922dbf359aa5da064aae068c74072
+http://mxonlive.xyz/live/xap/354602.m3u8?e=1782230014&token=588509fa9b9d4ab892bf86ba42f5d6f88e5e8833bc50dd0a06d78b3537d5cc45
 #EXTINF:-1 tvg-name="TN: Telvza TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/846cbed51912dd4ab59d4b02263e367b.png" group-title="🇦🇷 Argentina",TN: Telvza TV
-http://mxonlive.xyz/live/xap/354603.m3u8?e=1781986593&token=231d842b95fec674e564aebf38e846e644473d5aa0e7feb036e0806c4d4c295b
+http://mxonlive.xyz/live/xap/354603.m3u8?e=1782230014&token=4c103270011709b77077e739899821c2a64bd5a88d4cdf5e98c199f13df16e04
 #EXTINF:-1 tvg-name="TN: Tunisia Immobilier TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/35815b936b9d5612751d42e54105b450.png" group-title="🇦🇷 Argentina",TN: Tunisia Immobilier TV
-http://mxonlive.xyz/live/xap/354604.m3u8?e=1781986593&token=b92b39a7938d89844e9b552981cdc26b30ed2b9382f4124872cb1e0668d1d3be
+http://mxonlive.xyz/live/xap/354604.m3u8?e=1782230014&token=8e65f93d41fcc45b252690927a1c03a07df94d7587af8d2683dc2239d44d09e2
 #EXTINF:-1 tvg-name="TN: Zitouna TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/847dc72d032cff94b129a80f0bc26a30.png" group-title="🇦🇷 Argentina",TN: Zitouna TV
-http://mxonlive.xyz/live/xap/354608.m3u8?e=1781986593&token=0ae2c4327616a8231b2e38b4f0d9a72ff4ceec51b263cb9135708152f7812903
+http://mxonlive.xyz/live/xap/354608.m3u8?e=1782230014&token=327c9352c3a381e7bb41cedc885ec35d3dc7631f013e041f1fbf4f841e759a29
