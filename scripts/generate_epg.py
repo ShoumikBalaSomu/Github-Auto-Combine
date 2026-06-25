@@ -54,7 +54,7 @@ def generate_epg(channels: list):
         with open(OUTPUT_EPG, 'w', encoding='utf-8') as f:
             f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
             f.write('<!DOCTYPE tv SYSTEM "xmltv.dtd">\n')
-            f.write('<tv generator-info-name="IPTV Auto-Combine V3" generator-info-url="https://github.com/shoumikbalasomu/Github-Auto-Combine">\n')
+            f.write('<tv generator-info-name="IPTV Auto-Combine V6 Omniverse" generator-info-url="https://github.com/shoumikbalasomu/Github-Auto-Combine">\n')
             
             # Write Channels
             for ch in channels:
@@ -74,7 +74,7 @@ def generate_epg(channels: list):
                 
                 f.write(f'  <programme start="{start_str}" stop="{end_str}" channel="{ch_id}">\n')
                 f.write(f'    <title lang="en">{ch.name} Live Stream</title>\n')
-                f.write(f'    <desc lang="en">Live 24/7 broadcast from {ch.name}. Managed by IPTV Auto-Combine V3.</desc>\n')
+                f.write(f'    <desc lang="en">Live 24/7 broadcast from {ch.name}. Managed by IPTV Auto-Combine V6 Omniverse.</desc>\n')
                 if ch.group:
                     f.write(f'    <category lang="en">{ch.group}</category>\n')
                 f.write(f'  </programme>\n')

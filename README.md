@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shoumikbalasomu/Github-Auto-Combine/main/docs/output/logo.png" width="120" alt="IPTV Auto-Combine Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3159/3159302.png'">
-  <h1>🌟 IPTV Auto-Combine (V3 Peak Premium)</h1>
-  <p><em>A fully automated, ultra-fast IPTV playlist manager with Serverless Xtream Codes API.</em></p>
+  <img src="https://raw.githubusercontent.com/shoumikbalasomu/Github-Auto-Combine/main/assets/banner.png" alt="IPTV Auto-Combine Banner" width="800">
+  <h1>🌟 IPTV Auto-Combine (V6 Omniverse)</h1>
+  <p><em>The Ultimate Automated, Serverless IPTV Pipeline</em></p>
 
   <p>
     <a href="https://github.com/shoumikbalasomu/Github-Auto-Combine/actions"><img src="https://github.com/shoumikbalasomu/Github-Auto-Combine/actions/workflows/merge-playlists.yml/badge.svg" alt="Pipeline Status"></a>
@@ -13,7 +13,7 @@
 
 <br>
 
-Welcome to **IPTV Auto-Combine V3**, the most advanced automated IPTV engine on GitHub. This repository goes beyond a standard M3U generator. It provides a full **Serverless Xtream Codes API**, **EPG XMLTV Generation**, and advanced deployment strategies to keep your fork **100% private** while serving public users.
+Welcome to **IPTV Auto-Combine V6 Omniverse**, the most advanced automated IPTV engine on GitHub. This repository goes beyond a standard M3U generator. It provides a full **Serverless Xtream Codes API**, **EPG XMLTV Generation**, **Time-Shift Catch-up**, **Netflix-Style Web Player**, and advanced deployment strategies to keep your fork **100% private** while serving public users.
 
 ---
 
