@@ -76,6 +76,23 @@ If you want to provide your feeds to older MAG 250/254 boxes that strictly requi
 
 ---
 
+## ➕ Adding Your Premium Providers (Xtream & MAC)
+
+If you already have a subscription to a premium IPTV provider and want this GitHub scraper to automatically pull, verify, and merge its channels, you can add them to `input/playlists.txt`:
+
+### For Xtream Codes Providers
+Xtream Codes natively supports M3U output. You can construct your URL like this and place it in `input/playlists.txt`:
+```text
+http://PROVIDER_DOMAIN:PORT/get.php?username=YOUR_USER&password=YOUR_PASS&type=m3u_plus&output=ts
+```
+
+### For MAC Portal (Stalker) Providers
+MAC Portals authenticate via a device MAC address and do not directly provide an `.m3u` link. To use a MAC portal with this GitHub scraper, you must first convert it:
+1. Ask your provider if they offer an **"M3U Alternative"** or an Xtream Codes login for your account (most do!). If they provide it, use the Xtream format above.
+2. If they do not, you will need to use a Stalker-to-M3U extraction tool to dump your channels into an `.m3u` file, host that file somewhere (like a private GitHub Gist), and add the raw Gist URL to your `input/playlists.txt`.
+
+---
+
 ## 🏗️ Repository Architecture
 
 - 📁 **`input/`** - Define your raw M3U playlist sources here (`playlists.txt`).
