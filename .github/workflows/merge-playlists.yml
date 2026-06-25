@@ -61,6 +61,14 @@ jobs:
       - name: 🎥 Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       
+      - name: 🔄 Run VOD Extractor (Omniverse)
+        run: python scripts/extract_vod.py --verbose
+        env:
+          SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
+
+      - name: 🔄 Run EPG Generator
+        run: python scripts/generate_epg.py --verbose
+
       - name: 🔄 Run playlist merger
         run: python scripts/merge_playlists.py --verbose
       

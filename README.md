@@ -17,16 +17,18 @@ Welcome to **IPTV Auto-Combine V3**, the most advanced automated IPTV engine on 
 
 ---
 
-## ✨ V3 Premium Features
+## ✨ V6 Omniverse Features
 
 | Feature | Description |
 | :--- | :--- |
-| ⚡ **Async Engine** | Verifies thousands of channels concurrently using `asyncio` & `aiohttp`. |
-| 🛡️ **Stealth Deployment** | Host this on a private repository while serving public users via Vercel! |
-| 📡 **Xtream Codes API** | Emulates `player_api.php` so your users can log in via IPTV Smarters or TiviMate natively. |
-| 📅 **EPG Generator** | Automatically generates a lightning-fast `epg.xml` for your live channels. |
-| 📺 **MAC Portal Ready** | Complete guides included to bridge your feeds into Stalker Middleware portals. |
-| 💎 **Glassmorphism UI** | A premium interactive web dashboard for checking stream stats. |
+| 🍿 **Web Player** | A fully functional Netflix-style browser player (`/docs`). Watch live streams natively! |
+| 🎬 **VOD Engine** | Automatically scrapes thousands of Movies & TV Shows from your Xtream Codes providers into an offline JSON DB! |
+| ⏪ **Catch-Up TV** | A serverless Time-Shift DVR API. Rewind live TV up to 7 days backward natively in the player! |
+| 🔐 **Anti-Piracy Security** | Lock your Vercel `api/play.js` with an `AUTH_TOKEN` environment variable so no one can steal your bandwidth! |
+| 🔄 **Auto-Healing Router** | Groups identical channels. If one stream dies, the API seamlessly redirects you to the backup stream! |
+| 🧠 **Smart Tagger** | Uses Fuzzy-Logic AI to auto-correct messy channel names and inject official Logos and EPG IDs! |
+| 🎬 **Deep Codec Priority** | Auto-extracts stream resolution and tags channels with `[4K]` or `[1080p]`. |
+| ⚡ **Vercel Edge CDN** | Lightning fast API responses across the globe using Edge caching. |
 
 ---
 

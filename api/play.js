@@ -9,6 +9,15 @@ module.exports = async (req, res) => {
         return res.status(400).send("Missing 'id' parameter.");
     }
 
+    // V6 Omniverse Anti-Piracy Token Security
+    const expectedToken = process.env.AUTH_TOKEN;
+    if (expectedToken) {
+        const { token } = req.query;
+        if (!token || token !== expectedToken) {
+            return res.status(403).send("Forbidden: Invalid or missing authorization token.");
+        }
+    }
+
     // Determine the base URL to fetch the router.json
     const protocol = req.headers['x-forwarded-proto'] || 'https';
     const baseUrl = `${protocol}://${req.headers.host}`;

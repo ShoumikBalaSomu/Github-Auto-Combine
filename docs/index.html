@@ -3,411 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IPTV Auto-Combine Dashboard</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg-base: #09090b;
-            --bg-card: rgba(24, 24, 27, 0.6);
-            --text-primary: #fafafa;
-            --text-secondary: #a1a1aa;
-            --accent: #8b5cf6;
-            --accent-hover: #7c3aed;
-            --border: rgba(255, 255, 255, 0.1);
-            --gradient-glow: linear-gradient(135deg, #8b5cf6 0%, #3b82f6 100%);
-            --shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
-        }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Inter', sans-serif;
-        }
-
-        body {
-            background-color: var(--bg-base);
-            color: var(--text-primary);
-            min-height: 100vh;
-            overflow-x: hidden;
-            position: relative;
-        }
-
-        /* Animated Background Particles */
-        .bg-glow {
-            position: fixed;
-            width: 60vw;
-            height: 60vw;
-            background: var(--gradient-glow);
-            filter: blur(150px);
-            opacity: 0.15;
-            border-radius: 50%;
-            z-index: -1;
-            top: -20%;
-            left: -10%;
-            animation: float 20s ease-in-out infinite alternate;
-        }
-
-        .bg-glow.right {
-            top: 40%;
-            left: auto;
-            right: -20%;
-            background: linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%);
-            animation-delay: -10s;
-        }
-
-        @keyframes float {
-            0% { transform: translate(0, 0) scale(1); }
-            100% { transform: translate(50px, 50px) scale(1.1); }
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 4rem 2rem;
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 4rem;
-        }
-
-        h1 {
-            font-size: 3.5rem;
-            font-weight: 800;
-            letter-spacing: -0.05em;
-            margin-bottom: 1rem;
-            background: var(--gradient-glow);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .subtitle {
-            font-size: 1.25rem;
-            color: var(--text-secondary);
-            font-weight: 400;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-
-        /* Stats Grid */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 4rem;
-        }
-
-        .stat-card {
-            background: var(--bg-card);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border: 1px solid var(--border);
-            border-radius: 1rem;
-            padding: 2rem;
-            text-align: center;
-            transition: transform 0.3s ease, border-color 0.3s ease;
-        }
-
-        .stat-card:hover {
-            transform: translateY(-5px);
-            border-color: rgba(139, 92, 246, 0.5);
-        }
-
-        .stat-value {
-            font-size: 2.5rem;
-            font-weight: 800;
-            color: var(--text-primary);
-            margin-bottom: 0.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .stat-label {
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            font-weight: 600;
-        }
-
-        /* Playlist Cards */
-        .playlists-section {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 2rem;
-        }
-
-        .playlist-card {
-            background: var(--bg-card);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border: 1px solid var(--border);
-            border-radius: 1rem;
-            padding: 2.5rem;
-            position: relative;
-            overflow: hidden;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-
-        .playlist-card::before {
-            content: '';
-            position: absolute;
-            top: 0; left: 0; right: 0;
-            height: 4px;
-            background: var(--gradient-glow);
-            opacity: 0;
-            transition: opacity 0.4s ease;
-        }
-
-        .playlist-card:hover {
-            transform: translateY(-8px);
-            border-color: rgba(139, 92, 246, 0.5);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(139, 92, 246, 0.2);
-        }
-
-        .playlist-card:hover::before {
-            opacity: 1;
-        }
-
-        .card-header {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            margin-bottom: 1.5rem;
-        }
-
-        .card-icon {
-            width: 48px;
-            height: 48px;
-            border-radius: 12px;
-            background: rgba(139, 92, 246, 0.1);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-            color: var(--accent);
-        }
-
-        .card-title {
-            font-size: 1.5rem;
-            font-weight: 700;
-            letter-spacing: -0.02em;
-        }
-
-        .card-desc {
-            color: var(--text-secondary);
-            line-height: 1.6;
-            margin-bottom: 2rem;
-        }
-
-        .btn-copy {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.5rem;
-            width: 100%;
-            padding: 1rem;
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid var(--border);
-            border-radius: 0.75rem;
-            color: var(--text-primary);
-            font-weight: 600;
-            font-size: 1rem;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-
-        .btn-copy:hover {
-            background: var(--accent);
-            border-color: var(--accent);
-            transform: scale(1.02);
-        }
-
-        .btn-copy:active {
-            transform: scale(0.98);
-        }
-
-        /* Toast Notification */
-        #toast {
-            position: fixed;
-            bottom: 2rem;
-            left: 50%;
-            transform: translateX(-50%) translateY(100px);
-            background: rgba(16, 185, 129, 0.2);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(16, 185, 129, 0.4);
-            color: #34d399;
-            padding: 1rem 2rem;
-            border-radius: 2rem;
-            font-weight: 600;
-            opacity: 0;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-            z-index: 1000;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        #toast.show {
-            transform: translateX(-50%) translateY(0);
-            opacity: 1;
-        }
-
-        footer {
-            margin-top: 6rem;
-            text-align: center;
-            padding-top: 2rem;
-            border-top: 1px solid var(--border);
-            color: var(--text-secondary);
-        }
-        
-        .last-update {
-            margin-top: 0.5rem;
-            font-size: 0.875rem;
-            opacity: 0.7;
-        }
-
-        @media (max-width: 768px) {
-            h1 { font-size: 2.5rem; }
-            .container { padding: 2rem 1.5rem; }
-            .playlists-section { grid-template-columns: 1fr; }
-        }
-    </style>
+    <title>Omniverse IPTV Player</title>
+    <!-- Include HLS.js for browser streaming -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="bg-glow"></div>
-    <div class="bg-glow right"></div>
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar glass">
+        <div class="logo">
+            <h2>🌌 Omniverse</h2>
+            <p>V6 Peak Premium</p>
+        </div>
+        <ul class="nav-links">
+            <li class="active" onclick="switchTab('live')">📺 Live TV</li>
+            <li onclick="switchTab('movies')">🎬 Movies VOD</li>
+            <li onclick="switchTab('series')">🍿 TV Series</li>
+            <li onclick="switchTab('settings')">⚙️ Settings</li>
+        </ul>
+        
+        <div class="auth-box">
+            <p><strong>Auth Token:</strong></p>
+            <input type="password" id="authToken" placeholder="Enter JWT key..." onchange="saveToken()">
+        </div>
+    </nav>
 
-    <div class="container">
-        <header>
-            <h1>IPTV Auto-Combine</h1>
-            <p class="subtitle">Premium, automated M3U8 playlists aggregated and verified in real-time by GitHub Actions.</p>
+    <!-- Main Content Area -->
+    <main class="content">
+        <header class="glass-header">
+            <input type="text" id="searchInput" placeholder="Search channels or movies..." onkeyup="filterContent()">
         </header>
 
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-value" id="stat-live">--</div>
-                <div class="stat-label">Verified Live</div>
+        <div id="loading" class="loading">Loading Omniverse Database...</div>
+
+        <!-- Live TV Grid -->
+        <section id="live" class="grid-container active-tab"></section>
+        
+        <!-- Movies Grid -->
+        <section id="movies" class="grid-container hidden-tab"></section>
+
+        <!-- Series Grid -->
+        <section id="series" class="grid-container hidden-tab"></section>
+    </main>
+
+    <!-- Video Player Modal -->
+    <div id="playerModal" class="modal hidden">
+        <div class="modal-content glass">
+            <span class="close-btn" onclick="closePlayer()">&times;</span>
+            <h2 id="playerTitle">Channel Name</h2>
+            <div class="video-container">
+                <video id="videoPlayer" controls autoplay></video>
             </div>
-            <div class="stat-card">
-                <div class="stat-value" id="stat-total">--</div>
-                <div class="stat-label">Total Aggregated</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value" id="stat-countries">--</div>
-                <div class="stat-label">Countries</div>
-            </div>
+            <div id="playerError" class="error-msg hidden">Stream is currently offline or unauthorized.</div>
         </div>
-
-        <div class="playlists-section">
-            <!-- Live Channels Card -->
-            <div class="playlist-card">
-                <div class="card-header">
-                    <div class="card-icon">📺</div>
-                    <div class="card-title">Live Channels Only</div>
-                </div>
-                <p class="card-desc">The ultimate playlist. Contains only streams that have been actively pinged and verified as working by the async engine.</p>
-                <button class="btn-copy" onclick="copyLink('combine_live.m3u8')">
-                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
-                    Copy Live Link
-                </button>
-            </div>
-
-            <!-- All Channels Card -->
-            <div class="playlist-card">
-                <div class="card-header">
-                    <div class="card-icon">⚡</div>
-                    <div class="card-title">All Channels</div>
-                </div>
-                <p class="card-desc">The raw aggregated feed. Contains every channel from all sources. Note: Includes channels that may currently be offline.</p>
-                <button class="btn-copy" onclick="copyLink('combine.m3u8')">
-                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
-                    Copy All Link
-                </button>
-            </div>
-        </div>
-
-        <footer>
-            <p>Powered by ultra-fast asyncio Python Engine</p>
-            <p class="last-update" id="last-update">Waiting for engine sync...</p>
-        </footer>
     </div>
 
-    <div id="toast">
-        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg>
-        Link copied to clipboard!
-    </div>
-
-    <script>
-        const BASE_URL = window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '/');
-
-        function copyLink(filename) {
-            const url = BASE_URL + 'output/' + filename;
-            navigator.clipboard.writeText(url).then(() => {
-                showToast();
-            }).catch(() => {
-                const input = document.createElement('input');
-                input.value = url;
-                document.body.appendChild(input);
-                input.select();
-                document.execCommand('copy');
-                document.body.removeChild(input);
-                showToast();
-            });
-        }
-
-        function showToast() {
-            const toast = document.getElementById('toast');
-            toast.classList.add('show');
-            setTimeout(() => toast.classList.remove('show'), 2500);
-        }
-
-        async function fetchStats() {
-            try {
-                const response = await fetch('output/stats.json');
-                if (!response.ok) throw new Error('Stats file not found');
-                const stats = await response.json();
-                
-                // Animate numbers
-                animateValue("stat-live", 0, stats.live_channels || 0, 1500);
-                animateValue("stat-total", 0, stats.total_channels_unique || 0, 1500);
-                animateValue("stat-countries", 0, stats.total_countries || 0, 1000);
-
-                if (stats.last_updated) {
-                    const date = new Date(stats.last_updated);
-                    document.getElementById('last-update').textContent = `Last Engine Sync: ${date.toLocaleString()}`;
-                }
-            } catch (error) {
-                console.error('Failed to load stats:', error);
-                document.getElementById('stat-live').textContent = 'N/A';
-                document.getElementById('stat-total').textContent = 'N/A';
-                document.getElementById('stat-countries').textContent = 'N/A';
-            }
-        }
-
-        function animateValue(id, start, end, duration) {
-            if (start === end) return;
-            const obj = document.getElementById(id);
-            let startTimestamp = null;
-            const step = (timestamp) => {
-                if (!startTimestamp) startTimestamp = timestamp;
-                const progress = Math.min((timestamp - startTimestamp) / duration, 1);
-                // Easing out cubic
-                const easeProgress = 1 - Math.pow(1 - progress, 3);
-                obj.innerHTML = Math.floor(easeProgress * (end - start) + start).toLocaleString();
-                if (progress < 1) {
-                    window.requestAnimationFrame(step);
-                }
-            };
-            window.requestAnimationFrame(step);
-        }
-
-        // Initialize
-        document.addEventListener('DOMContentLoaded', fetchStats);
-    </script>
+    <script src="app.js"></script>
 </body>
 </html>
