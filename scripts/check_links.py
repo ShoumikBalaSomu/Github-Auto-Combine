@@ -18,8 +18,11 @@ import aiohttp
 from datetime import datetime, timezone
 from typing import List, Tuple, Optional
 from pathlib import Path
-
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import re
+try:
+    from thefuzz import fuzz
+except ImportError:
+    fuzz = None
 
 from merge_playlists import M3UParser, OutputGenerator, Channel, OUTPUT_DIR
 from country_mapper import get_country_with_flag
@@ -222,8 +225,7 @@ def run_link_checker(do_probe: bool = False):
     log.info(f"\n🔍 Checking links (probe={do_probe})...")
     live_channels, dead_channels = asyncio.run(check_links_async(channels, max_workers=MAX_WORKERS, do_probe=do_probe))
 
-    # Write live channels to combine_live.m3u8
-    log.info("\n📦 Writing live channels...")
+    log.info("\n📦 Writing live channels (Standard)...")
     sorted_live = sorted(live_channels, key=lambda c: (c.country or "ZZZ", c.display_name.lower()))
     count = OutputGenerator.write_m3u(
         sorted_live,
@@ -231,6 +233,85 @@ def run_link_checker(do_probe: bool = False):
         use_country_group=True,
     )
     log.info(f"  ✓ combine_live.m3u8: {count} live channels")
+
+    # V5 Singularity: Auto-Healing Router & Smart Grouping
+    if fuzz:
+        log.info("\n🌌 Initiating V5 Singularity (Smart Tagger & Router)...")
+        router_map = {}
+        virtual_channels = []
+        
+        # Group by country
+        country_groups = {}
+        for ch in sorted_live:
+            c = ch.country or "ZZZ"
+            if c not in country_groups:
+                country_groups[c] = []
+            country_groups[c].append(ch)
+            
+        def clean_name(name):
+            n = re.sub(r'\[.*?\]|\(.*?\)|\{.*?\}', '', name)
+            n = re.sub(r'\b(HD|FHD|UHD|4K|1080p|720p|SD|UK|US|HEVC|H265)\b', '', n, flags=re.IGNORECASE)
+            n = re.sub(r'[^a-zA-Z0-9 ]', '', n)
+            return n.strip().lower()
+            
+        for c, channels_in_c in country_groups.items():
+            grouped = []
+            for ch in channels_in_c:
+                matched = False
+                ch_clean = clean_name(ch.display_name)
+                for g in grouped:
+                    g_clean = clean_name(g[0].display_name)
+                    if fuzz.ratio(ch_clean, g_clean) > 85:
+                        g.append(ch)
+                        matched = True
+                        break
+                if not matched:
+                    grouped.append([ch])
+                    
+            for g in grouped:
+                best_ch = g[0]
+                virtual_id = re.sub(r'[^a-z0-9]', '_', clean_name(best_ch.display_name)) + "_" + c.lower()
+                # If ID is too short or empty, just use a hash
+                if len(virtual_id) < 3:
+                    virtual_id = f"ch_{hash(best_ch.display_name)}"
+                
+                # Make sure ID is unique
+                orig_id = virtual_id
+                counter = 1
+                while virtual_id in router_map:
+                    virtual_id = f"{orig_id}_{counter}"
+                    counter += 1
+                    
+                # The virtual channel points to the Vercel API!
+                import copy
+                v_ch = copy.deepcopy(best_ch)
+                # Ensure the best channel has the highest resolution tag
+                max_res = 0
+                for c_in_g in g:
+                    res = int(c_in_g.extra_attrs.get("tvg-resolution", 0))
+                    if res > max_res:
+                        max_res = res
+                if max_res > 0:
+                    tag = "4K" if max_res >= 2160 else f"{max_res}p"
+                    v_ch.display_name = f"{clean_name(best_ch.display_name).title()} [{tag}]"
+                
+                v_ch.url = f"../api/play?id={virtual_id}"
+                virtual_channels.append(v_ch)
+                router_map[virtual_id] = [ch.url for ch in g]
+                
+        # Write the Router map
+        with open(OUTPUT_DIR / "router.json", 'w', encoding='utf-8') as f:
+            json.dump(router_map, f, indent=2)
+        log.info(f"  ✓ router.json: {len(router_map)} virtual channels created from {count} sources")
+        
+        # Write the Vercel M3U8
+        sorted_virtual = sorted(virtual_channels, key=lambda c: (c.country or "ZZZ", c.display_name.lower()))
+        OutputGenerator.write_m3u(
+            sorted_virtual,
+            OUTPUT_DIR / "combine_vercel.m3u8",
+            use_country_group=True,
+        )
+        log.info(f"  ✓ combine_vercel.m3u8 created for Auto-Healing Router")
 
     # Update stats
     stats_file = OUTPUT_DIR / "stats.json"
