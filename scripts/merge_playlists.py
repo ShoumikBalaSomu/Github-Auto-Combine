@@ -382,7 +382,9 @@ class OutputGenerator:
         filepath.parent.mkdir(parents=True, exist_ok=True)
         
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(f'#EXTM3U{" " + header_attrs if header_attrs else ""}\n')
+            vip_headers = 'x-tvg-url="epg.xml" catchup="xtream" catchup-days="7"'
+            combined_headers = f"{header_attrs} {vip_headers}".strip()
+            f.write(f'#EXTM3U {combined_headers}\n')
             for ch in channels:
                 f.write(ch.to_m3u_line(use_country_group=use_country_group) + '\n')
         

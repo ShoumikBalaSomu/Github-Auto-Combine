@@ -75,6 +75,8 @@ def generate_epg(channels: list):
                 f.write(f'  <programme start="{start_str}" stop="{end_str}" channel="{ch_id}">\n')
                 f.write(f'    <title lang="en">{ch.name} Live Stream</title>\n')
                 f.write(f'    <desc lang="en">Live 24/7 broadcast from {ch.name}. Managed by IPTV Auto-Combine V3.</desc>\n')
+                if ch.group:
+                    f.write(f'    <category lang="en">{ch.group}</category>\n')
                 f.write(f'  </programme>\n')
 
             f.write('</tv>\n')
