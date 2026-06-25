@@ -45,38 +45,13 @@ If you are using the public GitHub Pages deployment:
 
 ---
 
-## 🕵️‍♂️ "Stealth Mode" Setup (Private Fork + Public API)
+## 🚀 How to Deploy (Stealth Mode)
 
-If you fork this repository to build your own premium service, you probably want to **hide your sources** from the public. GitHub Pages cannot host private repos for free. Here is the ultimate workaround using Vercel.
+To get the absolute most out of the V6 Omniverse, you should deploy it using a **Private Fork + Vercel Serverless Architecture**. 
 
-1. **Fork** this repository and make it **Private**.
-2. Go to [Vercel](https://vercel.com) and sign in with GitHub.
-3. Click **Add New Project** -> **Import your private fork**.
-4. Leave all build settings as default. Click **Deploy**.
-5. *Boom!* Vercel will instantly host your `docs/` UI, your `output/combine_live.m3u8` files, AND your `api/player_api.js` serverless function.
+This completely hides your premium IPTV credentials from the public while giving you access to the ultra-fast Xtream Codes API.
 
-### 🤫 How to Hide Your Premium Xtream Codes
-If you are aggregating premium paid IPTV providers, you do NOT want to put their URLs in `input/playlists.txt` publicly. 
-1. Go to your GitHub Repository -> **Settings** -> **Secrets and variables** -> **Actions**.
-2. Click **New repository secret**.
-3. Name it exactly: `SECRET_PLAYLISTS`
-4. Paste your premium Xtream Codes M3U URLs here (one per line).
-5. The automated GitHub Action will automatically merge these hidden URLs, extract their VODs, and generate the public playlist securely without ever exposing your upstream provider!
-
-Your source code remains completely hidden, but your users get a lightning-fast premium service!
-
----
-
-## 🚀 How to Connect Players (Xtream Codes API)
-
-If you deployed using the Vercel method above, your users don't need clunky M3U URLs. They can log in like a premium service:
-
-**App:** IPTV Smarters / TiviMate / XCIPTV  
-**Server URL:** `https://your-vercel-domain.vercel.app`  
-**Username:** `admin` *(or anything)*  
-**Password:** `admin` *(or anything)*  
-
-The built-in Vercel serverless function (`api/player_api.js`) automatically intercepts these requests, parses your live M3U8, and serves the exact JSON categories and streams the apps expect.
+👉 **[Read the Ultimate Deployment Guide](./docs/DEPLOYMENT.md)** to learn how to clone, inject secrets, and deploy the V6 Omniverse in under 5 minutes.
 
 ---
 
