@@ -66,11 +66,10 @@ jobs:
         env:
           SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
 
-      - name: 🔄 Run EPG Generator
-        run: python scripts/generate_epg.py --verbose
-
       - name: 🔄 Run playlist merger
         run: python scripts/merge_playlists.py --verbose
+        env:
+          SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
       
       - name: 🔍 Check dead links & probe resolution
         # Runs every time to ensure live playlist is always up-to-date

@@ -55,6 +55,14 @@ If you fork this repository to build your own premium service, you probably want
 4. Leave all build settings as default. Click **Deploy**.
 5. *Boom!* Vercel will instantly host your `docs/` UI, your `output/combine_live.m3u8` files, AND your `api/player_api.js` serverless function.
 
+### 🤫 How to Hide Your Premium Xtream Codes
+If you are aggregating premium paid IPTV providers, you do NOT want to put their URLs in `input/playlists.txt` publicly. 
+1. Go to your GitHub Repository -> **Settings** -> **Secrets and variables** -> **Actions**.
+2. Click **New repository secret**.
+3. Name it exactly: `SECRET_PLAYLISTS`
+4. Paste your premium Xtream Codes M3U URLs here (one per line).
+5. The automated GitHub Action will automatically merge these hidden URLs, extract their VODs, and generate the public playlist securely without ever exposing your upstream provider!
+
 Your source code remains completely hidden, but your users get a lightning-fast premium service!
 
 ---
