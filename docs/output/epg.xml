@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="IPTV Auto-Combine V6 Omniverse" generator-info-url="https://github.com/shoumikbalasomu/Github-Auto-Combine">
+  <channel id="Test_Channel">
+    <display-name>Test Channel</display-name>
+  </channel>
+  <programme start="20260624000000 +0000" stop="20260627000000 +0000" channel="Test_Channel">
+    <title lang="en">Test Channel Live Stream</title>
+    <desc lang="en">Live 24/7 broadcast from Test Channel. Managed by IPTV Auto-Combine V6 Omniverse.</desc>

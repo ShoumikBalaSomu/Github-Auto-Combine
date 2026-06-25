@@ -83,5 +83,8 @@
     "Venezuela": 13,
     "Vietnam": 55
   },
-  "last_updated": "2026-06-23T02:40:38.526040+00:00"
+  "last_updated": "2026-06-23T02:40:38.526040+00:00",
+  "live_channels": 1,
+  "dead_channels": 0,
+  "link_check_time": "2026-06-25T04:13:58.254714+00:00"
 }
