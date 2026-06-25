@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="JO: Al Mamlaka TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/27c4698460c0873f6ae8d268cf2824b0.png" group-title="🇯🇴 Jordan",JO: Al Mamlaka TV
-http://mxonlive.xyz/live/xap/351690.m3u8?e=1782259688&token=fceb415718587b0f7249ba7def884354633d94b5be66b9fcd0482a31faf2cf98
-#EXTINF:-1 tvg-name="JO: Jordan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/957fbab19175346c348eecb8de442a51.png" group-title="🇯🇴 Jordan",JO: Jordan TV
-http://mxonlive.xyz/live/xap/351699.m3u8?e=1782259688&token=3297d2c12408dedd834b76f293ce7e81a272b2600e2bcf35a34e9723c53c5312
-#EXTINF:-1 tvg-name="JO: Roya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a9f1ff4c9915109ba78c081102f01519.png" group-title="🇯🇴 Jordan",JO: Roya TV
-http://mxonlive.xyz/live/xap/351703.m3u8?e=1782259688&token=9058843c7861de9a5d0a5467b284503b4724b1255b8bb03b1d87661473736f3f
