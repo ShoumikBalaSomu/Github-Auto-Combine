@@ -313,6 +313,47 @@ def run_link_checker(do_probe: bool = False):
         )
         log.info(f"  ✓ combine_vercel.m3u8 created for Auto-Healing Router")
 
+        # 🚀 V7 Enterprise Polish: Pre-compile Xtream Codes JSONs to prevent Vercel 10s timeouts
+        log.info("📦 Pre-compiling Xtream Codes JSON...")
+        categories_map = {}
+        xtream_categories = []
+        xtream_streams = []
+        cat_id_counter = 1
+        stream_id_counter = 1
+
+        for ch in live_channels:
+            group = ch.group or "Uncategorized"
+            if group not in categories_map:
+                categories_map[group] = str(cat_id_counter)
+                xtream_categories.append({
+                    "category_id": str(cat_id_counter),
+                    "category_name": group,
+                    "parent_id": 0
+                })
+                cat_id_counter += 1
+            
+            xtream_streams.append({
+                "num": stream_id_counter,
+                "name": ch.name,
+                "stream_type": "live",
+                "stream_id": stream_id_counter,
+                "stream_icon": ch.logo or "",
+                "epg_channel_id": None,
+                "added": "1600000000",
+                "category_id": categories_map[group],
+                "custom_sid": "",
+                "tv_archive": 1,
+                "direct_source": ch.url,
+                "tv_archive_duration": 7
+            })
+            stream_id_counter += 1
+
+        with open(OUTPUT_DIR / "xtream_categories.json", 'w', encoding='utf-8') as f:
+            json.dump(xtream_categories, f, indent=2)
+        with open(OUTPUT_DIR / "xtream_live.json", 'w', encoding='utf-8') as f:
+            json.dump(xtream_streams, f, indent=2)
+        log.info(f"  ✓ Pre-compiled {len(xtream_streams)} live streams and {len(xtream_categories)} categories for fast Vercel API serving.")
+
     # Update stats
     stats_file = OUTPUT_DIR / "stats.json"
     if stats_file.exists():

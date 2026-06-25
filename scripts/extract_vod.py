@@ -103,11 +103,13 @@ async def main():
     log.info("Starting V6 Omniverse VOD Scraper")
     creds = get_xtream_credentials()
     
-    if not creds:
-        log.info("No Xtream Codes providers found. Skipping VOD extraction.")
-        return
-        
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    
+    if not creds:
+        log.info("No Xtream Codes providers found. Creating empty VOD databases to prevent API crashes.")
+        with open(OUTPUT_DIR / "movies.json", 'w', encoding='utf-8') as f: json.dump([], f)
+        with open(OUTPUT_DIR / "series.json", 'w', encoding='utf-8') as f: json.dump([], f)
+        return
     
     all_movies = []
     all_series = []

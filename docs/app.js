@@ -12,14 +12,14 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadVODs() {
     try {
-        const mRes = await fetch('../output/movies.json');
+        const mRes = await fetch('./output/movies.json');
         if (mRes.ok) {
             const movies = await mRes.json();
             allChannels = allChannels.concat(movies);
             renderGrid('movies', movies);
         }
         
-        const sRes = await fetch('../output/series.json');
+        const sRes = await fetch('./output/series.json');
         if (sRes.ok) {
             const series = await sRes.json();
             allChannels = allChannels.concat(series);
@@ -53,9 +53,9 @@ async function loadLiveChannels() {
     try {
         // Fetch the V5 Singularity Auto-Healing Router M3U8
         // or fallback to the standard one if not deployed on Vercel
-        let res = await fetch('../output/combine_vercel.m3u8');
+        let res = await fetch('./output/combine_vercel.m3u8');
         if (!res.ok) {
-            res = await fetch('../output/combine_live.m3u8');
+            res = await fetch('./output/combine_live.m3u8');
         }
         
         const m3uText = await res.text();
