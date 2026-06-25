@@ -149,10 +149,15 @@ class Channel:
             attrs.append(f'tvg-language="{self.tvg_language}"')
         if self.tvg_shift:
             attrs.append(f'tvg-shift="{self.tvg_shift}"')
-        
-        # Force LIVE group-title
-        attrs.append('group-title="LIVE"')
-        
+        # Group channel by country
+        if use_country_group and self.country:
+            group = get_country_with_flag(self.country)
+        elif self.group_title:
+            group = self.group_title
+        else:
+            group = get_country_with_flag("International")
+        attrs.append(f'group-title="{group}"')
+
         # Add catchup attributes
         if self.catchup:
             attrs.append(f'catchup="{self.catchup}"')
@@ -407,7 +412,7 @@ class OutputGenerator:
         count = OutputGenerator.write_m3u(
             sorted_channels,
             OUTPUT_DIR / "combine.m3u8",
-            use_country_group=False,
+            use_country_group=True,
         )
         stats['combine'] = count
         log.info(f"  ✓ combine.m3u8: {count} channels (Filtered to allowed countries)")

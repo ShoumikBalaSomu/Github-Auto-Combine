@@ -242,7 +242,7 @@ def run_link_checker(do_probe: bool = False):
     count = OutputGenerator.write_m3u(
         sorted_live,
         OUTPUT_DIR / "combine_live.m3u8",
-        use_country_group=False,
+        use_country_group=True,
     )
     log.info(f"  ✓ combine_live.m3u8: {count} live channels")
 
