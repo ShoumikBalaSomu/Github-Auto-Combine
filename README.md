@@ -1,55 +1,74 @@
-# IPTV Auto-Combine
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shoumikbalasomu/Github-Auto-Combine/main/docs/output/logo.png" width="120" alt="IPTV Auto-Combine Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3159/3159302.png'">
+  <h1>🌟 IPTV Auto-Combine</h1>
+  <p><em>A fully automated, incredibly fast, and smart IPTV playlist manager.</em></p>
+  
+  <p>
+    <a href="https://github.com/shoumikbalasomu/Github-Auto-Combine/actions"><img src="https://github.com/shoumikbalasomu/Github-Auto-Combine/actions/workflows/merge-playlists.yml/badge.svg" alt="Pipeline Status"></a>
+    <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python 3.11+">
+    <img src="https://img.shields.io/badge/Asyncio-Powered-purple.svg" alt="Asyncio Powered">
+    <img src="https://img.shields.io/github/license/shoumikbalasomu/Github-Auto-Combine" alt="License">
+  </p>
+</div>
 
-A fully automated IPTV playlist manager that collects, merges, deduplicates, and organizes IPTV channels by country. Powered by GitHub Actions and served via GitHub Pages.
+<br>
 
-## Features
+Welcome to **IPTV Auto-Combine**, an automated engine running exclusively on GitHub Actions to collect, merge, deduplicate, and organize IPTV channels from across the globe into beautiful, clean playlists.
 
-- **Automated Collection**: Pulls IPTV M3U/M3U8 links from multiple sources
-- **Intelligent Organization**: Removes default groups and categorizes channels by their actual country of origin
-- **Deduplication**: Automatically removes duplicate channels, keeping the one with the best metadata
-- **Dead Link Filtering**: Verifies streams and provides a `combined_live.m3u` of only working channels
-- **Zero Cost**: Runs entirely on GitHub Actions within the free tier
+---
+
+## ✨ Premium Features
+
+| Feature | Description |
+| :--- | :--- |
+| ⚡ **Async I/O Processing** | Downloads and verifies thousands of channels in seconds using highly optimized `asyncio` and `aiohttp` pipelines. |
+| 🌍 **Smart Geolocation** | Automatically identifies the channel's country of origin and organizes them neatly with country flags. |
+| 🔍 **Dead-Link Removal** | Probes stream URLs and video resolutions using asynchronous `ffprobe` to remove dead links. |
+| 🛡️ **Auto-Deduplication** | Identifies identical streams across different source playlists and keeps only the highest quality link. |
+| 💎 **Beautiful Dashboard** | Comes with a sleek, interactive GitHub Pages dashboard for one-click playlist copying. |
+
+---
+
 ## 📺 Your Playlist Links
 
-Use these links directly in your IPTV player (like OTT Navigator, TiViMate, VLC, Kodi):
+Simply copy these links and paste them directly into your favorite IPTV player (e.g., *OTT Navigator*, *TiViMate*, *VLC*, *Kodi*).
 
-**1. All Channels (Untested - Includes Dead Links)**  
-👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combine.m3u8`
+| Playlist Type | Features | Direct URL |
+| :--- | :--- | :--- |
+| **All Channels** | Includes all merged channels. *(Fastest update, untested links)* | [`combine.m3u8`](https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combine.m3u8) |
+| **Live Channels Only** | Guaranteed working streams. *(Dead links removed)* | [`combine_live.m3u8`](https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combine_live.m3u8) |
 
-**2. Live Channels Only (Tested - Dead Links Removed)**  
-👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combine_live.m3u8`
+> **Note:** The `combine_live.m3u8` playlist is updated daily or whenever a manual workflow is triggered via the GitHub Actions tab.
 
-*(Note: The "Live Channels Only" playlist updates when you manually run the dead-link check from the Actions tab, or automatically every Sunday).*
+---
 
-## Setup Guide
+## 🚀 Quick Setup Guide
 
-### How to add your own playlists
-1. Edit the `input/playlists.txt` file in this repository
-2. Add your IPTV M3U/M3U8 URLs (one per line)
-3. Commit and push your changes
-4. GitHub Actions will automatically process the playlists and update the output!
+### 1️⃣ Add Your Playlists
+Want to use your own sources? 
+1. Open the `input/playlists.txt` file in this repository.
+2. Add your M3U/M3U8 URLs (one URL per line).
+3. Commit the changes. 
+*GitHub Actions will instantly spin up to process and merge your sources!*
 
-### How to use with OTT Navigator
-1. Go to your GitHub Pages dashboard (Link is available in the repository settings)
-2. Copy the link for "All Channels (By Country)" or "Live Channels Only"
-3. Open **OTT Navigator** on your device
-4. Go to **Settings** → **Providers** → **Add Provider**
-5. Select "M3U Playlist" and paste the link
-6. Save and the channels will load, beautifully organized by country!
+### 2️⃣ Use in OTT Navigator
+1. Navigate to **Settings** → **Providers** → **Add Provider**.
+2. Select **"M3U Playlist"**.
+3. Paste either the *All Channels* or *Live Channels* link from above.
+4. Hit **Save**. The channels will load automatically grouped by country!
 
-## Repository Structure
+---
 
-- `input/`: Contains `playlists.txt` where you define your sources
-- `scripts/`: Python processing engine
-- `docs/`: GitHub Pages dashboard (HTML/CSS)
-- `output/`: Generated M3U files (auto-committed)
-- `android/`: Native Android IPTV player (TV/Mobile/Tablet)
+## 🏗️ Repository Architecture
 
-## Automated Updates
-The repository uses GitHub Actions to automatically run the scripts:
-- Once daily at midnight UTC
-- Manually via the "Actions" tab
-- Whenever `input/playlists.txt` is updated
+- 📁 **`input/`** - Define your raw M3U playlist sources here (`playlists.txt`).
+- 📁 **`scripts/`** - The high-performance Python engine (`asyncio` / `aiohttp`).
+- 📁 **`docs/`** - The source code for the premium Glassmorphism GitHub Pages dashboard.
+- 📁 **`output/`** - The final, auto-generated M3U8 files served to your players.
+- 📁 **`android/`** - Native Android IPTV player (TV/Mobile/Tablet) tailored for these playlists.
 
-## License
-MIT License
+---
+
+<div align="center">
+  <p>Built with ❤️ and 🐍 Python. Licensed under the <strong>MIT License</strong>.</p>
+</div>

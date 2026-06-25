@@ -21,6 +21,8 @@ import hashlib
 import logging
 import argparse
 import unicodedata
+import asyncio
+import aiohttp
 from typing import Dict, List, Optional, Tuple, Set
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -276,46 +278,41 @@ class M3UParser:
 
 
 # ─── Playlist Downloader ─────────────────────────────────────────
-class PlaylistDownloader:
-    """Download playlists from URLs."""
+class AsyncPlaylistDownloader:
+    """Download playlists from URLs asynchronously."""
     
-    def __init__(self):
-        self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': USER_AGENT,
-            'Accept': '*/*',
-        })
-    
-    def download(self, url: str) -> Optional[str]:
+    @staticmethod
+    async def download(session: aiohttp.ClientSession, url: str) -> Optional[str]:
         """Download a playlist from URL with retries."""
         for attempt in range(MAX_RETRIES):
             try:
                 log.info(f"  Downloading: {url} (attempt {attempt + 1})")
-                response = self.session.get(url, timeout=REQUEST_TIMEOUT, allow_redirects=True)
-                response.raise_for_status()
-                
-                # Try to decode with different encodings
-                content = None
-                for encoding in ['utf-8', 'latin-1', 'iso-8859-1', 'cp1252']:
-                    try:
-                        content = response.content.decode(encoding)
-                        break
-                    except (UnicodeDecodeError, LookupError):
-                        continue
-                
-                if content is None:
-                    content = response.content.decode('utf-8', errors='replace')
-                
-                # Validate it's a valid M3U
-                if '#EXTINF' in content or '#EXTM3U' in content:
-                    log.info(f"  ✓ Downloaded successfully ({len(content)} bytes)")
-                    return content
-                else:
-                    log.warning(f"  ✗ Content doesn't appear to be M3U format")
-                    return None
+                async with session.get(url, timeout=REQUEST_TIMEOUT, allow_redirects=True) as response:
+                    response.raise_for_status()
+                    content_bytes = await response.read()
                     
-            except requests.exceptions.RequestException as e:
-                log.warning(f"  ✗ Attempt {attempt + 1} failed: {e}")
+                    # Try to decode with different encodings
+                    content = None
+                    for encoding in ['utf-8', 'latin-1', 'iso-8859-1', 'cp1252']:
+                        try:
+                            content = content_bytes.decode(encoding)
+                            break
+                        except (UnicodeDecodeError, LookupError):
+                            continue
+                    
+                    if content is None:
+                        content = content_bytes.decode('utf-8', errors='replace')
+                    
+                    # Validate it's a valid M3U
+                    if '#EXTINF' in content or '#EXTM3U' in content:
+                        log.info(f"  ✓ Downloaded successfully ({len(content)} bytes)")
+                        return content
+                    else:
+                        log.warning(f"  ✗ Content doesn't appear to be M3U format from {url}")
+                        return None
+                        
+            except Exception as e:
+                log.warning(f"  ✗ Attempt {attempt + 1} failed for {url}: {e}")
                 if attempt == MAX_RETRIES - 1:
                     log.error(f"  ✗ All attempts failed for: {url}")
                     return None
@@ -464,25 +461,31 @@ def run_merge_pipeline(check_links: bool = False) -> Dict:
     all_channels: List[Channel] = []
     download_stats = {"success": 0, "failed": 0}
     
-    def process_url(target_url: str) -> Optional[List[Channel]]:
-        # Use a fresh downloader instance per thread for complete safety
-        local_downloader = PlaylistDownloader()
-        content = local_downloader.download(target_url)
-        if content:
-            channels = M3UParser.parse(content, source_url=target_url)
-            log.info(f"    Parsed {len(channels)} channels from {urlparse(target_url).netloc}")
-            return channels
-        return None
+    async def download_all_playlists(urls: List[str]) -> List[Channel]:
+        all_channels_result: List[Channel] = []
+        timeout = aiohttp.ClientTimeout(total=REQUEST_TIMEOUT * MAX_RETRIES)
+        async with aiohttp.ClientSession(headers={'User-Agent': USER_AGENT, 'Accept': '*/*'}, timeout=timeout) as session:
+            tasks = [AsyncPlaylistDownloader.download(session, url) for url in urls]
+            results = await asyncio.gather(*tasks, return_exceptions=True)
+            
+            for i, result in enumerate(results):
+                if isinstance(result, Exception):
+                    log.error(f"  Error downloading {urls[i]}: {result}")
+                    download_stats["failed"] += 1
+                elif result is not None:
+                    channels = M3UParser.parse(result, source_url=urls[i])
+                    log.info(f"    Parsed {len(channels)} channels from {urlparse(urls[i]).netloc}")
+                    all_channels_result.extend(channels)
+                    download_stats["success"] += 1
+                else:
+                    download_stats["failed"] += 1
+        return all_channels_result
 
-    with ThreadPoolExecutor(max_workers=20) as executor:
-        future_to_url = {executor.submit(process_url, url): url for url in urls}
-        for future in as_completed(future_to_url):
-            result = future.result()
-            if result is not None:
-                all_channels.extend(result)
-                download_stats["success"] += 1
-            else:
-                download_stats["failed"] += 1
+    # Run the async downloads
+    # In Windows this fixes asyncio loop errors with subprocesses/network
+    if sys.platform == 'win32':
+        asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
+    all_channels = asyncio.run(download_all_playlists(urls))
     
     if not all_channels:
         log.error("No channels found in any playlist!")

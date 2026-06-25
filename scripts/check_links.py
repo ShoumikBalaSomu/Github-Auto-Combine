@@ -2,9 +2,9 @@
 """
 Dead Link Checker — Checks IPTV stream URLs for availability.
 
-Uses concurrent HEAD/GET requests to check if streams are alive.
+Uses asyncio and aiohttp for massive concurrency.
 Optionally probes stream resolution via ffprobe.
-Generates a 'combined_live.m3u' file containing only working channels.
+Generates a 'combine_live.m3u8' file containing only working channels.
 """
 
 import os
@@ -13,19 +13,13 @@ import json
 import time
 import logging
 import argparse
-import subprocess
+import asyncio
+import aiohttp
 from datetime import datetime, timezone
 from typing import List, Tuple, Optional
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-
-try:
-    import requests
-except ImportError:
-    print("ERROR: 'requests' package not found. Install with: pip install requests")
-    sys.exit(1)
 
 from merge_playlists import M3UParser, OutputGenerator, Channel, OUTPUT_DIR
 from country_mapper import get_country_with_flag
@@ -33,9 +27,8 @@ from country_mapper import get_country_with_flag
 # ─── Configuration ────────────────────────────────────────────────
 LINK_TIMEOUT = 10  # seconds per link check
 PROBE_TIMEOUT = 8  # seconds for ffprobe analysis
-MAX_WORKERS = 10  # concurrent checks
-MAX_CHANNELS_TO_CHECK = 5000  # limit to avoid excessive checking
-USER_AGENT = "Mozilla/5.0 (IPTV-Link-Checker/1.0)"
+MAX_WORKERS = 1000  # massive concurrency for GitHub Actions
+USER_AGENT = "Mozilla/5.0 (IPTV-Link-Checker/2.0) aiohttp/3.9.0"
 
 # ─── Logging ──────────────────────────────────────────────────────
 logging.basicConfig(
@@ -46,8 +39,8 @@ logging.basicConfig(
 log = logging.getLogger("check_links")
 
 
-def probe_resolution(url: str) -> Optional[int]:
-    """Uses ffprobe to quickly extract the vertical resolution of the stream."""
+async def probe_resolution(url: str) -> Optional[int]:
+    """Uses ffprobe asynchronously to quickly extract the vertical resolution of the stream."""
     cmd = [
         "ffprobe",
         "-v", "error",
@@ -56,27 +49,34 @@ def probe_resolution(url: str) -> Optional[int]:
         "-of", "csv=s=x:p=0",
         "-analyzeduration", "2000000",
         "-probesize", "2000000",
-        "-timeout", "5000000",
         url
     ]
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=PROBE_TIMEOUT)
-        output = result.stdout.strip()
-        # ffprobe can return multiple lines; take the first valid one
-        for line in output.splitlines():
-            line = line.strip()
-            if line.isdigit():
-                return int(line)
-    except (subprocess.TimeoutExpired, FileNotFoundError, OSError):
-        pass
+        process = await asyncio.create_subprocess_exec(
+            *cmd,
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE
+        )
+        try:
+            stdout, _ = await asyncio.wait_for(process.communicate(), timeout=PROBE_TIMEOUT)
+            output = stdout.decode('utf-8').strip()
+            # ffprobe can return multiple lines; take the first valid one
+            for line in output.splitlines():
+                line = line.strip()
+                if line.isdigit():
+                    return int(line)
+        except asyncio.TimeoutError:
+            process.kill()
+            await process.wait()
+            return None
     except Exception:
         pass
     return None
 
 
-def check_single_link(channel: Channel, do_probe: bool = False) -> Tuple[Channel, bool, str]:
+async def check_single_link(session: aiohttp.ClientSession, channel: Channel, do_probe: bool) -> Tuple[Channel, bool, str]:
     """
-    Check if a single stream URL is alive.
+    Check if a single stream URL is alive asynchronously.
     Returns (channel, is_alive, reason).
     """
     url = channel.url.strip()
@@ -85,46 +85,36 @@ def check_single_link(channel: Channel, do_probe: bool = False) -> Tuple[Channel
         return channel, False, "empty URL"
 
     try:
-        session = requests.Session()
-        session.headers.update({
-            'User-Agent': USER_AGENT,
-            'Accept': '*/*',
-        })
-
         # First try HEAD request (faster)
         is_alive = False
         reason = ""
         try:
-            response = session.head(url, timeout=LINK_TIMEOUT, allow_redirects=True)
-            if response.status_code < 400:
-                is_alive = True
-                reason = f"HEAD {response.status_code}"
-        except requests.exceptions.RequestException:
+            async with session.head(url, allow_redirects=True) as response:
+                if response.status < 400:
+                    is_alive = True
+                    reason = f"HEAD {response.status}"
+        except Exception:
             pass
 
         # Fallback to GET with stream
         if not is_alive:
             try:
-                response = session.get(url, timeout=LINK_TIMEOUT, stream=True, allow_redirects=True)
-                if response.status_code < 400:
-                    chunk = next(response.iter_content(1024), None)
-                    response.close()
-                    if chunk:
-                        is_alive = True
-                        reason = f"GET {response.status_code}"
+                async with session.get(url, allow_redirects=True) as response:
+                    if response.status < 400:
+                        chunk = await response.content.read(1024)
+                        if chunk:
+                            is_alive = True
+                            reason = f"GET {response.status}"
+                        else:
+                            return channel, False, f"GET {response.status} (no data)"
                     else:
-                        return channel, False, f"GET {response.status_code} (no data)"
-                else:
-                    response.close()
-                    return channel, False, f"HTTP {response.status_code}"
-            except StopIteration:
-                return channel, False, "no data in stream"
-            except requests.exceptions.RequestException:
-                return channel, False, "connection error (GET fallback)"
+                        return channel, False, f"HTTP {response.status}"
+            except Exception as e:
+                return channel, False, f"connection error (GET fallback): {str(e)[:50]}"
 
         # If alive and probing is enabled, extract resolution
         if is_alive and do_probe:
-            res = probe_resolution(url)
+            res = await probe_resolution(url)
             if res:
                 name_lower = channel.name.lower()
                 # Add resolution tag if not already present
@@ -146,46 +136,43 @@ def check_single_link(channel: Channel, do_probe: bool = False) -> Tuple[Channel
 
         return channel, is_alive, reason
 
-    except requests.exceptions.Timeout:
+    except asyncio.TimeoutError:
         return channel, False, "timeout"
-    except requests.exceptions.ConnectionError:
-        return channel, False, "connection error"
-    except requests.exceptions.TooManyRedirects:
-        return channel, False, "too many redirects"
     except Exception as e:
         return channel, False, f"error: {str(e)[:50]}"
 
 
-def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS, do_probe: bool = False, max_channels: int = 0) -> Tuple[List[Channel], List[Channel]]:
+async def check_links_async(channels: List[Channel], max_workers: int = MAX_WORKERS, do_probe: bool = False) -> Tuple[List[Channel], List[Channel]]:
     """
-    Check all channel links concurrently.
-    Returns (live_channels, dead_channels).
+    Check all channel links concurrently using asyncio.
     """
     total = len(channels)
-
-    if max_channels and total > max_channels:
-        log.warning(f"Too many channels ({total}). Checking first {max_channels} only.")
-        channels = channels[:max_channels]
-        total = len(channels)
-
-    log.info(f"Checking {total} channels with {max_workers} workers (probe={do_probe})...")
+    log.info(f"Checking {total} channels with {max_workers} concurrent workers (probe={do_probe})...")
 
     live_channels = []
     dead_channels = []
     checked = 0
     start_time = time.time()
 
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(check_single_link, ch, do_probe): ch for ch in channels}
+    semaphore = asyncio.Semaphore(max_workers)
+    
+    timeout = aiohttp.ClientTimeout(total=LINK_TIMEOUT)
+    connector = aiohttp.TCPConnector(limit=max_workers, ssl=False)
+    
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout, headers={"User-Agent": USER_AGENT}) as session:
+        
+        async def bounded_check(channel):
+            async with semaphore:
+                return await check_single_link(session, channel, do_probe)
 
-        for future in as_completed(futures):
+        tasks = [asyncio.create_task(bounded_check(ch)) for ch in channels]
+        
+        for future in asyncio.as_completed(tasks):
             checked += 1
             try:
-                channel, is_alive, reason = future.result()
+                channel, is_alive, reason = await future
             except Exception as e:
-                log.debug(f"  Future exception: {e}")
-                checked_ch = futures[future]
-                dead_channels.append(checked_ch)
+                log.debug(f"  Task exception: {e}")
                 continue
 
             if is_alive:
@@ -193,7 +180,6 @@ def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS, do_prob
             else:
                 dead_channels.append(channel)
 
-            # Progress update every 100 channels
             if checked % 100 == 0 or checked == total:
                 elapsed = time.time() - start_time
                 rate = checked / elapsed if elapsed > 0 else 0
@@ -215,7 +201,7 @@ def check_links(channels: List[Channel], max_workers: int = MAX_WORKERS, do_prob
 def run_link_checker(do_probe: bool = False):
     """Run the link checker on the combined playlist."""
     log.info("=" * 60)
-    log.info("IPTV Dead Link Checker")
+    log.info("IPTV Dead Link Checker (Asyncio Powered)")
     log.info("=" * 60)
 
     # Load the combined playlist
@@ -234,7 +220,7 @@ def run_link_checker(do_probe: bool = False):
 
     # Check links
     log.info(f"\n🔍 Checking links (probe={do_probe})...")
-    live_channels, dead_channels = check_links(channels, max_workers=MAX_WORKERS, do_probe=do_probe)
+    live_channels, dead_channels = asyncio.run(check_links_async(channels, max_workers=MAX_WORKERS, do_probe=do_probe))
 
     # Write live channels to combine_live.m3u8
     log.info("\n📦 Writing live channels...")
@@ -297,5 +283,9 @@ if __name__ == "__main__":
 
     if args.verbose:
         logging.getLogger().setLevel(logging.DEBUG)
+
+    # In Windows this fixes asyncio loop errors with subprocesses
+    if sys.platform == 'win32':
+        asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
     run_link_checker(do_probe=args.probe)

@@ -3,197 +3,154 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IPTV Auto Combine — Advanced Dashboard</title>
-    <meta name="description" content="Automated IPTV playlist combiner — EPG integrated, 4K/1080p probed, deduplicated, and micro-categorized. Compatible with OTT Navigator.">
+    <title>IPTV Auto-Combine Dashboard</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-primary: #05050a;
-            --bg-secondary: #0a0a14;
-            --bg-card: rgba(15, 15, 30, 0.7);
-            --bg-card-hover: rgba(25, 25, 45, 0.9);
-            --border-color: rgba(120, 120, 250, 0.15);
-            --text-primary: #f0f0f5;
-            --text-secondary: #a0a0c0;
-            --text-muted: #606080;
-            --accent-primary: #8c6cfc;
-            --accent-secondary: #6cbcfc;
-            --accent-gradient: linear-gradient(135deg, #8c6cfc 0%, #6cbcfc 50%, #6cfcc0 100%);
-            --success: #2cdc8c;
-            --warning: #fccc4c;
-            --danger: #fc4c4c;
-            --glow: rgba(140, 108, 252, 0.4);
-            --radius: 16px;
-            --radius-sm: 10px;
-            --shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            --bg-base: #09090b;
+            --bg-card: rgba(24, 24, 27, 0.6);
+            --text-primary: #fafafa;
+            --text-secondary: #a1a1aa;
+            --accent: #8b5cf6;
+            --accent-hover: #7c3aed;
+            --border: rgba(255, 255, 255, 0.1);
+            --gradient-glow: linear-gradient(135deg, #8b5cf6 0%, #3b82f6 100%);
+            --shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
         }
 
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
         body {
-            font-family: 'Inter', -apple-system, sans-serif;
-            background: var(--bg-primary);
+            background-color: var(--bg-base);
             color: var(--text-primary);
             min-height: 100vh;
-            line-height: 1.6;
             overflow-x: hidden;
+            position: relative;
         }
 
-        /* Animated background */
-        body::before {
-            content: '';
+        /* Animated Background Particles */
+        .bg-glow {
             position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: 
-                radial-gradient(ellipse at 10% 40%, rgba(140, 108, 252, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 90% 10%, rgba(108, 188, 252, 0.06) 0%, transparent 50%),
-                radial-gradient(ellipse at 60% 90%, rgba(108, 252, 192, 0.04) 0%, transparent 50%);
-            pointer-events: none;
-            z-index: 0;
+            width: 60vw;
+            height: 60vw;
+            background: var(--gradient-glow);
+            filter: blur(150px);
+            opacity: 0.15;
+            border-radius: 50%;
+            z-index: -1;
+            top: -20%;
+            left: -10%;
+            animation: float 20s ease-in-out infinite alternate;
+        }
+
+        .bg-glow.right {
+            top: 40%;
+            left: auto;
+            right: -20%;
+            background: linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%);
+            animation-delay: -10s;
+        }
+
+        @keyframes float {
+            0% { transform: translate(0, 0) scale(1); }
+            100% { transform: translate(50px, 50px) scale(1.1); }
         }
 
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 24px;
-            position: relative;
-            z-index: 1;
+            padding: 4rem 2rem;
         }
 
-        /* Header */
         header {
-            padding: 60px 0 40px;
             text-align: center;
-        }
-
-        .logo {
-            font-size: 13px;
-            font-weight: 700;
-            letter-spacing: 4px;
-            text-transform: uppercase;
-            background: var(--accent-gradient);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 16px;
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .logo::before, .logo::after {
-            content: '';
-            height: 1px;
-            width: 30px;
-            background: linear-gradient(90deg, transparent, var(--accent-primary), transparent);
+            margin-bottom: 4rem;
         }
 
         h1 {
-            font-size: clamp(36px, 6vw, 64px);
+            font-size: 3.5rem;
             font-weight: 800;
-            line-height: 1.1;
-            margin-bottom: 20px;
-            letter-spacing: -1px;
-            background: linear-gradient(135deg, #fff 0%, #b0b0e0 100%);
+            letter-spacing: -0.05em;
+            margin-bottom: 1rem;
+            background: var(--gradient-glow);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            background-clip: text;
         }
 
         .subtitle {
-            font-size: 18px;
+            font-size: 1.25rem;
             color: var(--text-secondary);
+            font-weight: 400;
             max-width: 600px;
             margin: 0 auto;
-            font-weight: 400;
         }
 
-        /* Stats bar */
-        .stats-bar {
-            display: flex;
-            gap: 16px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin: 40px 0;
-        }
-
-        .stat-chip {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            backdrop-filter: blur(20px);
-            border-radius: 100px;
-            padding: 12px 24px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            font-size: 15px;
-            font-weight: 500;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-
-        .stat-chip:hover {
-            border-color: var(--accent-primary);
-            box-shadow: 0 0 25px var(--glow);
-            transform: translateY(-3px) scale(1.02);
-            background: rgba(30, 30, 50, 0.8);
-        }
-
-        .stat-chip .number {
-            font-weight: 800;
-            font-size: 18px;
-            background: var(--accent-gradient);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        /* Playlist cards */
-        .section-title {
-            font-size: 14px;
-            font-weight: 700;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-            color: var(--text-muted);
-            margin-bottom: 24px;
-            padding-left: 4px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-        
-        .section-title::after {
-            content: '';
-            flex: 1;
-            height: 1px;
-            background: linear-gradient(90deg, var(--border-color), transparent);
-        }
-
-        .playlist-grid {
+        /* Stats Grid */
+        .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-            gap: 20px;
-            margin-bottom: 60px;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 4rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--border);
+            border-radius: 1rem;
+            padding: 2rem;
+            text-align: center;
+            transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(139, 92, 246, 0.5);
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 600;
+        }
+
+        /* Playlist Cards */
+        .playlists-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
         }
 
         .playlist-card {
             background: var(--bg-card);
-            border: 1px solid var(--border-color);
             backdrop-filter: blur(20px);
-            border-radius: var(--radius);
-            padding: 28px;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--border);
+            border-radius: 1rem;
+            padding: 2.5rem;
             position: relative;
             overflow: hidden;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .playlist-card.featured {
-            background: linear-gradient(145deg, rgba(30, 30, 60, 0.8) 0%, rgba(15, 15, 30, 0.8) 100%);
-            border-color: rgba(140, 108, 252, 0.4);
-            box-shadow: inset 0 0 0 1px rgba(140, 108, 252, 0.2), 0 10px 40px rgba(0,0,0,0.5);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         .playlist-card::before {
@@ -201,522 +158,195 @@
             position: absolute;
             top: 0; left: 0; right: 0;
             height: 4px;
-            background: var(--accent-gradient);
+            background: var(--gradient-glow);
             opacity: 0;
             transition: opacity 0.4s ease;
         }
-        
-        .playlist-card.featured::before {
-            opacity: 1;
-        }
 
         .playlist-card:hover {
-            border-color: rgba(140, 108, 252, 0.5);
-            box-shadow: var(--shadow), 0 0 40px var(--glow);
-            transform: translateY(-6px);
+            transform: translateY(-8px);
+            border-color: rgba(139, 92, 246, 0.5);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(139, 92, 246, 0.2);
         }
 
         .playlist-card:hover::before {
             opacity: 1;
         }
 
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
         .card-icon {
-            font-size: 36px;
-            margin-bottom: 16px;
-            background: var(--accent-gradient);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            display: inline-block;
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            background: rgba(139, 92, 246, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            color: var(--accent);
         }
 
         .card-title {
-            font-size: 20px;
-            font-weight: 800;
-            margin-bottom: 8px;
-            letter-spacing: -0.5px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
         }
 
         .card-desc {
-            font-size: 15px;
             color: var(--text-secondary);
-            margin-bottom: 24px;
             line-height: 1.6;
-            flex-grow: 1;
+            margin-bottom: 2rem;
         }
 
-        .tags {
-            display: flex;
-            gap: 8px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-        }
-
-        .tag {
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            padding: 4px 10px;
-            border-radius: 100px;
-            background: rgba(255,255,255,0.05);
-            color: var(--text-secondary);
-            border: 1px solid rgba(255,255,255,0.1);
-        }
-        
-        .tag.pro {
-            background: rgba(140, 108, 252, 0.15);
-            color: #bca4fc;
-            border-color: rgba(140, 108, 252, 0.3);
-        }
-
-        .card-actions {
-            display: flex;
-            gap: 12px;
-            flex-wrap: wrap;
-        }
-
-        .btn {
+        .btn-copy {
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            gap: 8px;
-            padding: 12px 20px;
-            border-radius: var(--radius-sm);
-            font-size: 14px;
-            font-weight: 700;
-            text-decoration: none;
-            cursor: pointer;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            border: none;
-            font-family: inherit;
-            flex: 1;
-            white-space: nowrap;
-        }
-
-        .btn-primary {
-            background: var(--accent-gradient);
-            color: #000;
-        }
-
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px var(--glow);
-            filter: brightness(1.1);
-        }
-
-        .btn-secondary {
+            gap: 0.5rem;
+            width: 100%;
+            padding: 1rem;
             background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
             color: var(--text-primary);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-
-        .btn-secondary:hover {
-            background: rgba(255, 255, 255, 0.1);
-            border-color: rgba(255, 255, 255, 0.2);
-            transform: translateY(-2px);
-        }
-
-        /* Interactive Builder Builder */
-        .builder-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: var(--radius);
-            padding: 32px;
-            margin-bottom: 60px;
-            position: relative;
-        }
-
-        .builder-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-end;
-            margin-bottom: 24px;
-            padding-bottom: 24px;
-            border-bottom: 1px solid var(--border-color);
-        }
-
-        .builder-title h3 {
-            font-size: 24px;
-            font-weight: 800;
-            margin-bottom: 8px;
-        }
-
-        .builder-title p {
-            color: var(--text-secondary);
-            font-size: 15px;
-        }
-
-        .filter-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 32px;
-        }
-
-        .filter-group h4 {
-            font-size: 14px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--text-muted);
-            margin-bottom: 16px;
-        }
-
-        .checkbox-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-            gap: 12px;
-            max-height: 300px;
-            overflow-y: auto;
-            padding-right: 12px;
-        }
-
-        /* Custom Scrollbar */
-        .checkbox-grid::-webkit-scrollbar { width: 6px; }
-        .checkbox-grid::-webkit-scrollbar-track { background: rgba(0,0,0,0.2); border-radius: 10px; }
-        .checkbox-grid::-webkit-scrollbar-thumb { background: rgba(140, 108, 252, 0.3); border-radius: 10px; }
-        .checkbox-grid::-webkit-scrollbar-thumb:hover { background: rgba(140, 108, 252, 0.6); }
-
-        .checkbox-label {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 10px 14px;
-            background: rgba(255,255,255,0.03);
-            border: 1px solid rgba(255,255,255,0.05);
-            border-radius: 8px;
+            font-weight: 600;
+            font-size: 1rem;
             cursor: pointer;
-            transition: all 0.2s;
-            font-size: 14px;
-            user-select: none;
+            transition: all 0.2s ease;
         }
 
-        .checkbox-label:hover {
-            background: rgba(255,255,255,0.08);
-            border-color: rgba(255,255,255,0.15);
+        .btn-copy:hover {
+            background: var(--accent);
+            border-color: var(--accent);
+            transform: scale(1.02);
         }
 
-        .checkbox-label.active {
-            background: rgba(140, 108, 252, 0.15);
-            border-color: var(--accent-primary);
-            color: #fff;
+        .btn-copy:active {
+            transform: scale(0.98);
         }
 
-        .checkbox-label input {
-            display: none;
-        }
-
-        .builder-footer {
-            margin-top: 32px;
-            padding-top: 24px;
-            border-top: 1px solid var(--border-color);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .selection-count {
-            font-size: 15px;
-            color: var(--text-secondary);
-        }
-        .selection-count span {
-            font-weight: 700;
-            color: #fff;
-        }
-
-        /* OTT Navigator guide */
-        .guide-card {
-            background: linear-gradient(to right, rgba(15, 15, 30, 0.8), rgba(20, 20, 40, 0.8));
-            border: 1px solid var(--border-color);
-            border-radius: var(--radius);
-            padding: 40px;
-            margin-bottom: 60px;
-        }
-
-        .guide-card h3 {
-            font-size: 24px;
-            font-weight: 800;
-            margin-bottom: 24px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .steps {
-            list-style: none;
-            counter-reset: steps;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 24px;
-        }
-
-        .steps li {
-            counter-increment: steps;
-            background: rgba(0,0,0,0.2);
-            border: 1px solid rgba(255,255,255,0.05);
-            padding: 24px;
-            border-radius: 12px;
-            position: relative;
-            color: var(--text-secondary);
-            font-size: 15px;
-            transition: transform 0.3s ease;
-        }
-        
-        .steps li:hover {
-            transform: translateY(-5px);
-            border-color: rgba(140, 108, 252, 0.3);
-        }
-
-        .steps li::before {
-            content: counter(steps);
-            position: absolute;
-            right: 20px;
-            top: 20px;
-            font-size: 60px;
-            font-weight: 900;
-            line-height: 1;
-            color: rgba(255,255,255,0.03);
-            pointer-events: none;
-        }
-
-        .steps li strong {
-            display: block;
-            color: var(--text-primary);
-            font-size: 18px;
-            margin-bottom: 8px;
-        }
-
-        /* Toast notification */
-        .toast {
+        /* Toast Notification */
+        #toast {
             position: fixed;
-            bottom: 40px;
+            bottom: 2rem;
             left: 50%;
             transform: translateX(-50%) translateY(100px);
-            background: var(--success);
-            color: #000;
-            padding: 14px 28px;
-            border-radius: 100px;
-            font-size: 15px;
-            font-weight: 700;
-            z-index: 1000;
+            background: rgba(16, 185, 129, 0.2);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(16, 185, 129, 0.4);
+            color: #34d399;
+            padding: 1rem 2rem;
+            border-radius: 2rem;
+            font-weight: 600;
             opacity: 0;
-            box-shadow: 0 10px 30px rgba(44, 220, 140, 0.3);
             transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-            pointer-events: none;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
         }
 
-        .toast.show {
+        #toast.show {
             transform: translateX(-50%) translateY(0);
             opacity: 1;
         }
 
-        /* Footer */
         footer {
+            margin-top: 6rem;
             text-align: center;
-            padding: 60px 0;
-            color: var(--text-muted);
-            font-size: 14px;
-            border-top: 1px solid var(--border-color);
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            color: var(--text-secondary);
+        }
+        
+        .last-update {
+            margin-top: 0.5rem;
+            font-size: 0.875rem;
+            opacity: 0.7;
         }
 
-        footer a {
-            color: var(--accent-secondary);
-            text-decoration: none;
-            font-weight: 600;
-        }
-
-        .last-updated {
-            display: inline-block;
-            margin-top: 16px;
-            padding: 8px 16px;
-            background: rgba(255,255,255,0.03);
-            border-radius: 100px;
-            font-size: 12px;
-            font-family: monospace;
-        }
-
-        /* Loading */
-        .loading {
-            position: absolute;
-            inset: 0;
-            background: rgba(10,10,20,0.8);
-            backdrop-filter: blur(5px);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            z-index: 10;
-            border-radius: var(--radius);
-        }
-        .spinner {
-            width: 40px;
-            height: 40px;
-            border: 3px solid rgba(140, 108, 252, 0.3);
-            border-top-color: var(--accent-primary);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin-bottom: 16px;
-        }
-        @keyframes spin { 100% { transform: rotate(360deg); } }
-
-        @media (max-width: 800px) {
-            .filter-grid { grid-template-columns: 1fr; }
-            .builder-header { flex-direction: column; align-items: flex-start; gap: 16px; }
-            .builder-footer { flex-direction: column; gap: 20px; align-items: stretch; }
-            .builder-footer .btn { width: 100%; }
-            .selection-count { text-align: center; }
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            .container { padding: 2rem 1.5rem; }
+            .playlists-section { grid-template-columns: 1fr; }
         }
     </style>
 </head>
 <body>
+    <div class="bg-glow"></div>
+    <div class="bg-glow right"></div>
+
     <div class="container">
         <header>
-            <div class="logo">⚡ IPTV Auto Combine V2</div>
-            <h1>The Ultimate Playlist</h1>
-            <p class="subtitle">EPG integrated, stream resolutions probed (4K/1080p), categorized by country and genre, and duplicates eliminated.</p>
+            <h1>IPTV Auto-Combine</h1>
+            <p class="subtitle">Premium, automated M3U8 playlists aggregated and verified in real-time by GitHub Actions.</p>
         </header>
 
-        <div class="stats-bar" id="stats-bar">
-            <div class="stat-chip">
-                <span>📺</span>
-                <span id="stat-channels" class="number">—</span>
-                <span>Channels</span>
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value" id="stat-live">--</div>
+                <div class="stat-label">Verified Live</div>
             </div>
-            <div class="stat-chip">
-                <span>🌍</span>
-                <span id="stat-countries" class="number">—</span>
-                <span>Countries</span>
+            <div class="stat-card">
+                <div class="stat-value" id="stat-total">--</div>
+                <div class="stat-label">Total Aggregated</div>
             </div>
-            <div class="stat-chip">
-                <span>🔥</span>
-                <span id="stat-live" class="number">—</span>
-                <span>Live Streams</span>
+            <div class="stat-card">
+                <div class="stat-value" id="stat-countries">--</div>
+                <div class="stat-label">Countries</div>
             </div>
         </div>
 
-        <div class="section-title">🚀 Core Playlists</div>
-        <div class="playlist-grid">
-            <div class="playlist-card featured">
-                <div class="card-icon">👑</div>
-                <div class="card-title">Ultimate List (Live Only)</div>
-                <div class="tags">
-                    <span class="tag pro">EPG Mapped</span>
-                    <span class="tag pro">1080p Probed</span>
-                    <span class="tag">Categorized</span>
-                </div>
-                <div class="card-desc">The absolute best playlist. Only live, working streams. Duplicates removed keeping the highest resolution. Fully categorized by Country + Genre.</div>
-                <div class="card-actions">
-                    <button class="btn btn-primary" onclick="copyLink('combined_live.m3u')">📋 Copy URL</button>
-                    <button class="btn btn-secondary" onclick="copyLink('combined_live.m3u.gz')">📋 Copy GZIP</button>
-                </div>
-            </div>
-
+        <div class="playlists-section">
+            <!-- Live Channels Card -->
             <div class="playlist-card">
-                <div class="card-icon">🌍</div>
-                <div class="card-title">All Channels (Include Unchecked)</div>
-                <div class="tags">
-                    <span class="tag pro">EPG Mapped</span>
-                    <span class="tag">Categorized</span>
+                <div class="card-header">
+                    <div class="card-icon">📺</div>
+                    <div class="card-title">Live Channels Only</div>
                 </div>
-                <div class="card-desc">Every single channel found across all your sources, including ones that might be offline. Organized beautifully by country and category.</div>
-                <div class="card-actions">
-                    <button class="btn btn-primary" onclick="copyLink('combined_by_country.m3u')">📋 Copy URL</button>
-                    <a class="btn btn-secondary" href="output/combined_by_country.m3u" download>⬇ DL</a>
+                <p class="card-desc">The ultimate playlist. Contains only streams that have been actively pinged and verified as working by the async engine.</p>
+                <button class="btn-copy" onclick="copyLink('combine_live.m3u8')">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
+                    Copy Live Link
+                </button>
+            </div>
+
+            <!-- All Channels Card -->
+            <div class="playlist-card">
+                <div class="card-header">
+                    <div class="card-icon">⚡</div>
+                    <div class="card-title">All Channels</div>
                 </div>
+                <p class="card-desc">The raw aggregated feed. Contains every channel from all sources. Note: Includes channels that may currently be offline.</p>
+                <button class="btn-copy" onclick="copyLink('combine.m3u8')">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
+                    Copy All Link
+                </button>
             </div>
         </div>
 
-        <div class="section-title">🎛️ Interactive Playlist Builder</div>
-        <div class="builder-card" id="builder-app">
-            <div class="loading" id="builder-loading">
-                <div class="spinner"></div>
-                <p>Loading the master playlist...</p>
-            </div>
-            
-            <div class="builder-header">
-                <div class="builder-title">
-                    <h3>Custom M3U Generator</h3>
-                    <p>Build a personalized playlist by selecting exactly what you want to watch. Processing happens locally in your browser.</p>
-                </div>
-            </div>
-
-            <div class="filter-grid">
-                <div class="filter-group">
-                    <h4>Select Countries</h4>
-                    <div class="checkbox-grid" id="country-filters">
-                        <!-- Populated via JS -->
-                    </div>
-                </div>
-                <div class="filter-group">
-                    <h4>Select Categories</h4>
-                    <div class="checkbox-grid" id="category-filters">
-                        <label class="checkbox-label active"><input type="checkbox" value="News" checked> 📰 News</label>
-                        <label class="checkbox-label active"><input type="checkbox" value="Sports" checked> ⚽ Sports</label>
-                        <label class="checkbox-label active"><input type="checkbox" value="Movies" checked> 🎬 Movies</label>
-                        <label class="checkbox-label active"><input type="checkbox" value="Kids" checked> 👶 Kids</label>
-                        <label class="checkbox-label active"><input type="checkbox" value="Music" checked> 🎵 Music</label>
-                        <label class="checkbox-label active"><input type="checkbox" value="Documentary" checked> 📚 Docu</label>
-                        <label class="checkbox-label active"><input type="checkbox" value="Entertainment" checked> 🎭 Entertainment</label>
-                        <label class="checkbox-label"><input type="checkbox" value="Adult"> 🔞 Adult</label>
-                    </div>
-                </div>
-            </div>
-
-            <div class="builder-footer">
-                <div class="selection-count">
-                    Estimated Channels: <span id="estimate-count">---</span>
-                </div>
-                <div class="card-actions">
-                    <button class="btn btn-secondary" onclick="selectAllFilters()">Select All</button>
-                    <button class="btn btn-primary" onclick="generateCustomPlaylist()">⚡ Generate & Download M3U</button>
-                </div>
-            </div>
-        </div>
-
-        <div class="section-title">📖 Setup Guide</div>
-        <div class="guide-card">
-            <h3>📱 Ultimate OTT Navigator Setup</h3>
-            <ul class="steps">
-                <li>
-                    <strong>1. Get the Link</strong>
-                    Copy the "Ultimate List (Live Only)" URL or GZIP link from above.
-                </li>
-                <li>
-                    <strong>2. Add Provider</strong>
-                    Open OTT Navigator → Settings → Providers → Add Provider → M3U Playlist. Paste the link.
-                </li>
-                <li>
-                    <strong>3. Enable EPG (Magic)</strong>
-                    OTT Navigator will automatically read the `tvg-id` we added and download the TV Guide for your channels instantly!
-                </li>
-                <li>
-                    <strong>4. Enjoy 1080p</strong>
-                    Channels with probed resolutions will literally say `[1080p]` in their names. Sit back and watch.
-                </li>
-            </ul>
-        </div>
+        <footer>
+            <p>Powered by ultra-fast asyncio Python Engine</p>
+            <p class="last-update" id="last-update">Waiting for engine sync...</p>
+        </footer>
     </div>
 
-    <div class="toast" id="toast">✓ Copied to clipboard!</div>
-
-    <footer>
-        <div class="container">
-            <p>V2 Peak Optimization Built with ❤️ by <a href="https://github.com/ShoumikBalaSomu">ShoumikBalaSomu</a></p>
-            <div class="last-updated" id="last-updated">Last Engine Run: Loading...</div>
-        </div>
-    </footer>
+    <div id="toast">
+        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg>
+        Link copied to clipboard!
+    </div>
 
     <script>
-        // Core Logic
         const BASE_URL = window.location.origin + window.location.pathname.replace(/\/[^/]*$/, '/');
-        let rawM3uData = "";
-        let parsedChannels = [];
-        let availableCountries = new Set();
-
-        function getPlaylistUrl(filename) {
-            return BASE_URL + 'output/' + filename;
-        }
 
         function copyLink(filename) {
-            const url = getPlaylistUrl(filename);
+            const url = BASE_URL + 'output/' + filename;
             navigator.clipboard.writeText(url).then(() => {
                 showToast();
             }).catch(() => {
@@ -736,175 +366,48 @@
             setTimeout(() => toast.classList.remove('show'), 2500);
         }
 
-        // Stats Loader
-        async function loadStats() {
+        async function fetchStats() {
             try {
                 const response = await fetch('output/stats.json');
-                if (!response.ok) throw new Error('Stats not found');
+                if (!response.ok) throw new Error('Stats file not found');
                 const stats = await response.json();
-
-                document.getElementById('stat-channels').textContent = (stats.total_channels_unique || 0).toLocaleString();
-                document.getElementById('stat-countries').textContent = stats.total_countries || 0;
-                document.getElementById('stat-live').textContent = stats.live_channels !== undefined ? stats.live_channels.toLocaleString() : '—';
+                
+                // Animate numbers
+                animateValue("stat-live", 0, stats.live_channels || 0, 1500);
+                animateValue("stat-total", 0, stats.total_channels_unique || 0, 1500);
+                animateValue("stat-countries", 0, stats.total_countries || 0, 1000);
 
                 if (stats.last_updated) {
                     const date = new Date(stats.last_updated);
-                    document.getElementById('last-updated').textContent = 'Last Engine Run: ' + date.toLocaleString();
+                    document.getElementById('last-update').textContent = `Last Engine Sync: ${date.toLocaleString()}`;
                 }
-            } catch (e) {
-                console.log('Stats error:', e.message);
+            } catch (error) {
+                console.error('Failed to load stats:', error);
+                document.getElementById('stat-live').textContent = 'N/A';
+                document.getElementById('stat-total').textContent = 'N/A';
+                document.getElementById('stat-countries').textContent = 'N/A';
             }
         }
 
-        // Builder Logic
-        async function initBuilder() {
-            try {
-                const response = await fetch('output/combined_live.m3u');
-                if (!response.ok) throw new Error('M3U not found');
-                rawM3uData = await response.text();
-                
-                parseM3uForBuilder(rawM3uData);
-                populateBuilderUI();
-                
-                document.getElementById('builder-loading').style.display = 'none';
-                updateEstimate();
-            } catch (e) {
-                document.getElementById('builder-loading').innerHTML = '<p style="color:var(--danger)">Playlists not generated yet. Please wait for GitHub Actions to run.</p>';
-            }
-        }
-
-        function parseM3uForBuilder(m3u) {
-            const lines = m3u.split('\n');
-            let currentChannel = null;
-
-            for (let i = 0; i < lines.length; i++) {
-                const line = lines[i].trim();
-                if (line.startsWith('#EXTINF:')) {
-                    // Extract group-title
-                    const groupMatch = line.match(/group-title="([^"]+)"/);
-                    let country = "Unknown";
-                    let category = "Entertainment";
-                    
-                    if (groupMatch) {
-                        const fullGroup = groupMatch[1];
-                        if (fullGroup.includes(' - ')) {
-                            const parts = fullGroup.split(' - ');
-                            country = parts[0].trim();
-                            category = parts[1].trim();
-                        } else {
-                            country = fullGroup;
-                        }
-                    }
-                    
-                    // Remove flags from country for clean UI
-                    const cleanCountry = country.replace(/[\uD800-\uDBFF][\uDC00-\uDFFF]|\uD83C[\uDDE6-\uDDFF]\uD83C[\uDDE6-\uDDFF]/g, '').trim();
-                    
-                    if (cleanCountry) availableCountries.add(cleanCountry);
-
-                    currentChannel = {
-                        extinf: line,
-                        country: cleanCountry,
-                        category: category,
-                        url: ""
-                    };
-                } else if (line && !line.startsWith('#') && currentChannel) {
-                    currentChannel.url = line;
-                    parsedChannels.push(currentChannel);
-                    currentChannel = null;
+        function animateValue(id, start, end, duration) {
+            if (start === end) return;
+            const obj = document.getElementById(id);
+            let startTimestamp = null;
+            const step = (timestamp) => {
+                if (!startTimestamp) startTimestamp = timestamp;
+                const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                // Easing out cubic
+                const easeProgress = 1 - Math.pow(1 - progress, 3);
+                obj.innerHTML = Math.floor(easeProgress * (end - start) + start).toLocaleString();
+                if (progress < 1) {
+                    window.requestAnimationFrame(step);
                 }
-            }
+            };
+            window.requestAnimationFrame(step);
         }
 
-        function populateBuilderUI() {
-            const container = document.getElementById('country-filters');
-            const sortedCountries = Array.from(availableCountries).sort();
-            
-            // Major countries default checked
-            const majorCountries = ['India', 'USA', 'United Kingdom', 'Canada', 'Australia'];
-            
-            sortedCountries.forEach(c => {
-                const isChecked = majorCountries.includes(c) ? 'checked' : '';
-                const activeClass = isChecked ? 'active' : '';
-                
-                const label = document.createElement('label');
-                label.className = `checkbox-label ${activeClass}`;
-                label.innerHTML = `<input type="checkbox" value="${c}" ${isChecked}> ${c}`;
-                
-                // Add toggle styling
-                const input = label.querySelector('input');
-                input.addEventListener('change', (e) => {
-                    if(e.target.checked) label.classList.add('active');
-                    else label.classList.remove('active');
-                    updateEstimate();
-                });
-                
-                container.appendChild(label);
-            });
-
-            // Bind category checkboxes
-            document.querySelectorAll('#category-filters input').forEach(input => {
-                input.addEventListener('change', (e) => {
-                    const label = e.target.closest('label');
-                    if(e.target.checked) label.classList.add('active');
-                    else label.classList.remove('active');
-                    updateEstimate();
-                });
-            });
-        }
-
-        function updateEstimate() {
-            const selectedCountries = Array.from(document.querySelectorAll('#country-filters input:checked')).map(i => i.value);
-            const selectedCategories = Array.from(document.querySelectorAll('#category-filters input:checked')).map(i => i.value);
-            
-            let count = 0;
-            parsedChannels.forEach(ch => {
-                if (selectedCountries.includes(ch.country) && selectedCategories.includes(ch.category)) {
-                    count++;
-                }
-            });
-            
-            document.getElementById('estimate-count').textContent = count.toLocaleString();
-        }
-
-        function selectAllFilters() {
-            document.querySelectorAll('.checkbox-label input').forEach(input => {
-                input.checked = true;
-                input.closest('label').classList.add('active');
-            });
-            updateEstimate();
-        }
-
-        function generateCustomPlaylist() {
-            const selectedCountries = Array.from(document.querySelectorAll('#country-filters input:checked')).map(i => i.value);
-            const selectedCategories = Array.from(document.querySelectorAll('#category-filters input:checked')).map(i => i.value);
-            
-            if (selectedCountries.length === 0 || selectedCategories.length === 0) {
-                alert("Please select at least one country and one category.");
-                return;
-            }
-
-            let output = "#EXTM3U\n";
-            parsedChannels.forEach(ch => {
-                if (selectedCountries.includes(ch.country) && selectedCategories.includes(ch.category)) {
-                    output += `${ch.extinf}\n${ch.url}\n`;
-                }
-            });
-
-            // Trigger download
-            const blob = new Blob([output], { type: 'audio/x-mpegurl' });
-            const url = window.URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `custom_iptv_${new Date().toISOString().split('T')[0]}.m3u`;
-            document.body.appendChild(a);
-            a.click();
-            window.URL.revokeObjectURL(url);
-            document.body.removeChild(a);
-        }
-
-        // Init
-        loadStats();
-        initBuilder();
+        // Initialize
+        document.addEventListener('DOMContentLoaded', fetchStats);
     </script>
 </body>
 </html>
