@@ -438,6 +438,17 @@ def load_playlist_urls() -> List[str]:
                 urls.append(line)
             else:
                 log.warning(f"  Skipping invalid URL: {line}")
+                
+    # Load from GitHub Secrets environment variable
+    import os
+    secret_urls = os.environ.get('SECRET_PLAYLISTS', '')
+    if secret_urls:
+        log.info("  Found SECRET_PLAYLISTS environment variable!")
+        for line in secret_urls.split('\n'):
+            line = line.strip()
+            if line and not line.startswith('#'):
+                if line.startswith('http://') or line.startswith('https://'):
+                    urls.append(line)
     
     return urls
 

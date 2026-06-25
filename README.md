@@ -78,18 +78,28 @@ If you want to provide your feeds to older MAG 250/254 boxes that strictly requi
 
 ## ➕ Adding Your Premium Providers (Xtream & MAC)
 
-If you already have a subscription to a premium IPTV provider and want this GitHub scraper to automatically pull, verify, and merge its channels, you can add them to `input/playlists.txt`:
+If you have your own premium subscriptions, this repository provides advanced **Serverless Middleware Bridges** to securely use them without leaking your credentials!
 
-### For Xtream Codes Providers
-Xtream Codes natively supports M3U output. You can construct your URL like this and place it in `input/playlists.txt`:
-```text
-http://PROVIDER_DOMAIN:PORT/get.php?username=YOUR_USER&password=YOUR_PASS&type=m3u_plus&output=ts
-```
+### 1. The GitHub Secrets Method (Recommended for GitHub Actions)
+If you just want the GitHub scraper to merge your premium Xtream Codes M3U along with the public channels:
+1. Go to your GitHub repository **Settings** -> **Secrets and variables** -> **Actions**.
+2. Create a new repository secret named `SECRET_PLAYLISTS`.
+3. Paste your Xtream Codes M3U URLs (one per line). 
+*The GitHub Action will now securely merge these premium channels without exposing your credentials!*
 
-### For MAC Portal (Stalker) Providers
-MAC Portals authenticate via a device MAC address and do not directly provide an `.m3u` link. To use a MAC portal with this GitHub scraper, you must first convert it:
-1. Ask your provider if they offer an **"M3U Alternative"** or an Xtream Codes login for your account (most do!). If they provide it, use the Xtream format above.
-2. If they do not, you will need to use a Stalker-to-M3U extraction tool to dump your channels into an `.m3u` file, host that file somewhere (like a private GitHub Gist), and add the raw Gist URL to your `input/playlists.txt`.
+### 2. The Vercel Middleware Bridges (For Live Streaming)
+If you deployed to Vercel, this repository acts as an **Active Middleware Proxy**!
+
+**A) Stalker to M3U Bridge:**
+Got a MAC portal but want to use it on an M3U player (like VLC or Apple TV)?
+Simply construct this URL using your Vercel domain:
+`https://your-vercel.app/api/stalker?portal=http://provider.com/c/&mac=00:1A:79:XX:YY:ZZ`
+*The serverless function will dynamically perform the Stalker handshake and stream a fresh M3U playlist directly to your player!*
+
+**B) Xtream Codes Proxy:**
+Want to hide your IP or share a playlist without exposing the real server?
+`https://your-vercel.app/api/xtream?server=http://provider.com:80&username=USER&password=PASS`
+*This outputs a proxied M3U file where every video stream routes through your Vercel serverless function!*
 
 ---
 
