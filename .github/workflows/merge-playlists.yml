@@ -68,6 +68,10 @@ jobs:
         # Runs every time to ensure live playlist is always up-to-date
         run: python scripts/check_links.py --timeout 12 --workers 1000 --probe --verbose
         continue-on-error: true
+
+      - name: 📅 Generate EPG (XMLTV)
+        run: python scripts/generate_epg.py
+        continue-on-error: true
       
       - name: 🗜️ Compress outputs (GZIP)
         run: |
