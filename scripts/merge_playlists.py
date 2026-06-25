@@ -83,7 +83,8 @@ class Channel:
     country: str = ""  # Resolved country
     category: str = "" # Resolved category
     source_url: str = ""  # Which playlist this came from
-    
+    raw_directives: List[str] = field(default_factory=list)
+
     @property
     def normalized_name(self) -> str:
         """Normalize channel name for deduplication comparison."""
@@ -149,16 +150,8 @@ class Channel:
         if self.tvg_shift:
             attrs.append(f'tvg-shift="{self.tvg_shift}"')
         
-        # Set group-title to country + category if using country groups
-        if use_country_group and self.country:
-            group = get_country_with_flag(self.country)
-            if self.category and self.category != "Entertainment":
-                group = f"{group} - {self.category}"
-        elif self.group_title:
-            group = self.group_title
-        else:
-            group = get_country_with_flag("International")
-        attrs.append(f'group-title="{group}"')
+        # Force LIVE group-title
+        attrs.append('group-title="LIVE"')
         
         # Add catchup attributes
         if self.catchup:
@@ -176,7 +169,10 @@ class Channel:
         display = self.display_name
         duration = self.duration or "-1"
         
-        return f'#EXTINF:{duration} {attrs_str},{display}\n{self.url}'
+        lines = [f'#EXTINF:{duration} {attrs_str},{display}']
+        lines.extend(self.raw_directives)
+        lines.append(self.url)
+        return '\n'.join(lines)
 
 
 # ─── M3U Parser ──────────────────────────────────────────────────
@@ -197,7 +193,7 @@ class M3UParser:
             return channels
         
         current_channel: Optional[Channel] = None
-        extra_directives: Dict[str, str] = {}
+        pending_directives: List[str] = []
         
         for line in lines:
             line = line.strip()
@@ -213,18 +209,15 @@ class M3UParser:
             if line.startswith('#EXTINF:'):
                 current_channel = Channel(source_url=source_url)
                 
+                # Apply any accumulated pre-directives
+                current_channel.raw_directives.extend(pending_directives)
+                pending_directives = []
+                
                 match = M3UParser.EXTINF_RE.match(line)
                 if match:
                     current_channel.duration = match.group(1) or "-1"
                     attr_string = match.group(2) or ""
                     current_channel.name = (match.group(3) or "").strip()
-                    
-                    # Extract attributes
-                    known_attrs = {
-                        'tvg-id', 'tvg-name', 'tvg-logo', 'tvg-country',
-                        'tvg-language', 'tvg-shift', 'group-title',
-                        'catchup', 'catchup-source', 'catchup-days',
-                    }
                     
                     for attr_match in M3UParser.ATTR_RE.finditer(attr_string):
                         key = attr_match.group(1).lower()
@@ -252,20 +245,16 @@ class M3UParser:
                             current_channel.catchup_days = value
                         else:
                             current_channel.extra_attrs[attr_match.group(1)] = value
-                
-                # Apply any accumulated extra directives
-                current_channel.extra_attrs.update(extra_directives)
-                extra_directives = {}
                 continue
             
-            # Parse other directives (EXTVLCOPT, KODIPROP, etc.)
+            # Parse other directives (EXTVLCOPT, EXTHTTP, KODIPROP, etc.)
             if line.startswith('#'):
-                if current_channel is None:
-                    # Accumulate directives before next channel
-                    if ':' in line:
-                        key = line.split(':')[0][1:]
-                        value = line.split(':', 1)[1]
-                        extra_directives[key] = value
+                if current_channel is not None:
+                    # Directive belonging to the current channel (after EXTINF)
+                    current_channel.raw_directives.append(line)
+                else:
+                    # Directive before the next EXTINF
+                    pending_directives.append(line)
                 continue
             
             # This is a URL line
@@ -276,7 +265,7 @@ class M3UParser:
                     current_channel.url = url
                     channels.append(current_channel)
                 current_channel = None
-                extra_directives = {}
+                pending_directives = []
         
         return channels
 
@@ -402,47 +391,28 @@ class OutputGenerator:
         """Generate all output M3U files. Returns stats dict."""
         stats = {}
         
+        # Define allowed countries
+        ALLOWED_COUNTRIES = {"India", "Bangladesh", "USA", "United Kingdom", "Canada", "Australia", "New Zealand", "International"}
+        
+        # Filter channels
+        filtered_channels = []
+        for ch in channels:
+            if ch.country in ALLOWED_COUNTRIES and ch.category != "Adult" and ch.country != "Adult":
+                filtered_channels.append(ch)
+                
         # Sort channels by country, then by name
-        sorted_channels = sorted(channels, key=lambda c: (c.country, c.display_name.lower()))
+        sorted_channels = sorted(filtered_channels, key=lambda c: (c.country, c.display_name.lower()))
         
-        # 1. Combined all channels (organized by country)
+        # 1. Combined live (untested here, output directly to combine.m3u8)
         count = OutputGenerator.write_m3u(
             sorted_channels,
-            OUTPUT_DIR / "combined_all.m3u",
-            use_country_group=True,
+            OUTPUT_DIR / "combine.m3u8",
+            use_country_group=False,
         )
-        stats['combined_all'] = count
-        log.info(f"  ✓ combined_all.m3u: {count} channels")
+        stats['combine'] = count
+        log.info(f"  ✓ combine.m3u8: {count} channels (Filtered to allowed countries)")
         
-        # 2. Combined by country (same as above, but explicit name)
-        count = OutputGenerator.write_m3u(
-            sorted_channels,
-            OUTPUT_DIR / "combined_by_country.m3u",
-            use_country_group=True,
-        )
-        stats['combined_by_country'] = count
-        log.info(f"  ✓ combined_by_country.m3u: {count} channels")
-        
-        # 3. Individual country files
-        country_channels: Dict[str, List[Channel]] = {}
-        for ch in sorted_channels:
-            country = ch.country or "International"
-            if country not in country_channels:
-                country_channels[country] = []
-            country_channels[country].append(ch)
-        
-        stats['countries'] = {}
-        for country, chs in sorted(country_channels.items()):
-            # Create safe filename
-            safe_name = re.sub(r'[^a-z0-9_]', '_', country.lower()).strip('_')
-            filepath = COUNTRIES_DIR / f"{safe_name}.m3u"
-            count = OutputGenerator.write_m3u(
-                chs, filepath, use_country_group=True,
-            )
-            stats['countries'][country] = count
-            log.info(f"    ✓ countries/{safe_name}.m3u: {count} channels")
-        
-        stats['total_countries'] = len(country_channels)
+        stats['total_countries'] = len(set(c.country for c in sorted_channels))
         
         return stats
 
@@ -600,23 +570,21 @@ def run_test():
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="https://example.com/star.png" tvg-country="IN" tvg-language="Hindi" group-title="Entertainment",Star Plus
 http://example.com/starplus/stream.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://example.com/bbc.png" tvg-country="GB" tvg-language="English" group-title="UK General",BBC One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie"}
 http://example.com/bbcone/stream.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://example.com/cnn.png" group-title="News",CNN
 http://example.com/cnn/stream.m3u8
 #EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://example.com/star-hd.png" group-title="Hindi Entertainment",Star Plus HD
 http://example.com/starplus-hd/stream.m3u8
-#EXTINF:-1 tvg-name="CNN" group-title="News",CNN
-http://example.com/cnn/stream.m3u8
+#EXTINF:-1 tvg-name="Playboy TV" group-title="Adult",Playboy TV
+http://example.com/playboy/stream.m3u8
 #EXTINF:-1 tvg-name="Geo TV" tvg-language="Urdu" group-title="Pakistani",Geo TV
 http://example.com/geotv/stream.m3u8
 #EXTINF:-1 tvg-name="NTV Bangla" tvg-country="BD" group-title="Bangla",NTV Bangla
 http://example.com/ntv/stream.m3u8
 #EXTINF:-1 tvg-name="Hiru TV" tvg-country="LK" group-title="Sinhala",Hiru TV
 http://example.com/hiru/stream.m3u8
-#EXTINF:-1 tvg-name="Unknown Channel 1" group-title="Random Group",Unknown Channel 1
-http://example.com/unknown1/stream.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
-http://example.com/aljazeera/stream.m3u8
 '''
     
     # Parse

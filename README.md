@@ -14,10 +14,10 @@ A fully automated IPTV playlist manager that collects, merges, deduplicates, and
 Use these links directly in your IPTV player (like OTT Navigator, TiViMate, VLC, Kodi):
 
 **1. All Channels (Untested - Includes Dead Links)**  
-👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combined_by_country.m3u`
+👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combine.m3u8`
 
 **2. Live Channels Only (Tested - Dead Links Removed)**  
-👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combined_live.m3u`
+👉 `https://shoumikbalasomu.github.io/Github-Auto-Combine/output/combine_live.m3u8`
 
 *(Note: The "Live Channels Only" playlist updates when you manually run the dead-link check from the Actions tab, or automatically every Sunday).*
 

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NTV Bangla" tvg-country="BD" group-title="LIVE",NTV Bangla
+http://example.com/ntv/stream.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="https://example.com/star.png" tvg-country="IN" tvg-language="Hindi" group-title="LIVE",Star Plus
+http://example.com/starplus/stream.m3u8
+#EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://example.com/star-hd.png" group-title="LIVE",Star Plus HD
+http://example.com/starplus-hd/stream.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://example.com/cnn.png" group-title="LIVE",CNN
+http://example.com/cnn/stream.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://example.com/bbc.png" tvg-country="GB" tvg-language="English" group-title="LIVE",BBC One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie"}
+http://example.com/bbcone/stream.m3u8

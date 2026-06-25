@@ -219,7 +219,7 @@ def run_link_checker(do_probe: bool = False):
     log.info("=" * 60)
 
     # Load the combined playlist
-    combined_file = OUTPUT_DIR / "combined_all.m3u"
+    combined_file = OUTPUT_DIR / "combine.m3u8"
     if not combined_file.exists():
         log.error(f"Combined playlist not found: {combined_file}")
         log.error("Run merge_playlists.py first!")
@@ -236,15 +236,15 @@ def run_link_checker(do_probe: bool = False):
     log.info(f"\n🔍 Checking links (probe={do_probe})...")
     live_channels, dead_channels = check_links(channels, max_workers=MAX_WORKERS, do_probe=do_probe)
 
-    # Write live channels to combined_live.m3u
+    # Write live channels to combine_live.m3u8
     log.info("\n📦 Writing live channels...")
     sorted_live = sorted(live_channels, key=lambda c: (c.country or "ZZZ", c.display_name.lower()))
     count = OutputGenerator.write_m3u(
         sorted_live,
-        OUTPUT_DIR / "combined_live.m3u",
-        use_country_group=True,
+        OUTPUT_DIR / "combine_live.m3u8",
+        use_country_group=False,
     )
-    log.info(f"  ✓ combined_live.m3u: {count} live channels")
+    log.info(f"  ✓ combine_live.m3u8: {count} live channels")
 
     # Update stats
     stats_file = OUTPUT_DIR / "stats.json"
