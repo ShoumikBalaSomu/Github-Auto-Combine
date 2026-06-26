@@ -4,6 +4,6 @@
   <channel id="Test_Channel">
     <display-name>Test Channel</display-name>
   </channel>
-  <programme start="20260624000000 +0000" stop="20260627000000 +0000" channel="Test_Channel">
+  <programme start="20260625000000 +0000" stop="20260628000000 +0000" channel="Test_Channel">
     <title lang="en">Test Channel Live Stream</title>
     <desc lang="en">Live 24/7 broadcast from Test Channel. Managed by IPTV Auto-Combine V6 Omniverse.</desc>
