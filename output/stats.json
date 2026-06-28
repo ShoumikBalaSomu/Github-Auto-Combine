@@ -2,10 +2,10 @@
   "total_urls": 1,
   "download_success": 1,
   "download_failed": 0,
-  "total_channels_raw": 12928,
-  "total_channels_unique": 11240,
-  "duplicates_removed": 1688,
+  "total_channels_raw": 12983,
+  "total_channels_unique": 11291,
+  "duplicates_removed": 1692,
   "total_countries": 8,
   "countries": {},
-  "last_updated": "2026-06-27T13:20:14.664156+00:00"
+  "last_updated": "2026-06-28T03:51:54.554341+00:00"
 }
