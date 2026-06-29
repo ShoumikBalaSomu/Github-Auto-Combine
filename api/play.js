@@ -9,7 +9,7 @@ module.exports = async (req, res) => {
         return res.status(400).send("Missing 'id' parameter.");
     }
 
-    // V6 Omniverse Anti-Piracy Token Security
+    // V8 Titan Anti-Piracy Token Security
     const expectedToken = process.env.AUTH_TOKEN;
     if (expectedToken) {
         const { token } = req.query;

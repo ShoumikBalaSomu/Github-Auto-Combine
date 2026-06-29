@@ -1,6 +1,6 @@
-# 🚀 The 100% FREE Deployment Guide: IPTV Auto-Combine V6 Omniverse
+# 🚀 The 100% FREE Deployment Guide: IPTV Auto-Combine V8 Titan
 
-Deploying the **V6 Omniverse** gives you two massive advantages over a standard M3U playlist:
+Deploying the **V8 Titan** gives you two massive advantages over a standard M3U playlist:
 1. **Stealth**: You can aggregate premium, paid IPTV feeds completely privately.
 2. **Xtream Codes API**: You can serve these feeds to modern apps (TiviMate, Smarters, OTT Navigator) using an enterprise-grade Serverless API, complete with VODs, Series, and Catch-up.
 
@@ -67,7 +67,7 @@ GitHub Actions handles the heavy lifting (scraping, merging, dead-link checking)
 4. On the left side, click **IPTV Playlist Auto-Combine**.
 5. On the right side, click **Run workflow** ➔ **Run workflow**.
 
-Wait about 5–10 minutes. The V6 Omniverse Engine will extract all your live channels, compile the VODs, and build the optimized databases.
+Wait about 5–10 minutes. The V8 Titan Engine will extract all your live channels, compile the VODs, and build the optimized databases.
 
 ---
 

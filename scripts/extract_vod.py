@@ -100,7 +100,7 @@ async def extract_vods(session, cred):
     return movies, series
 
 async def main():
-    log.info("Starting V6 Omniverse VOD Scraper")
+    log.info("Starting V8 Titan VOD Scraper")
     creds = get_xtream_credentials()
     
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

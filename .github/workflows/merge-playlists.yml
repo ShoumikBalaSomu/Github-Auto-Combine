@@ -1,23 +1,21 @@
-name: IPTV Playlist Auto-Combine
+name: "IPTV Playlist Auto-Combine \U0001F680"
 
 on:
-  # Run daily at 00:00 UTC (6:00 AM BDT) and 12:00 UTC (6:00 PM BDT)
+  # Run 4x daily: every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
   schedule:
-    - cron: '0 0,12 * * 1-6'
-    - cron: '0 12 * * 0'
-    - cron: '0 0 * * 0'
+    - cron: '0 0,6,12,18 * * *'
   
-  # Manual trigger
+  # Manual trigger with options
   workflow_dispatch:
     inputs:
-      check_links:
-        description: 'Also check for dead links'
+      skip_link_check:
+        description: 'Skip dead link checking (faster run)'
         required: false
-        default: 'true'
+        default: 'false'
         type: choice
         options:
-          - 'true'
           - 'false'
+          - 'true'
   
   # Run when playlists.txt is updated
   push:
@@ -38,9 +36,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  merge-and-deploy:
+  # ──────────────────────────────────────────────────────────────────
+  # JOB 1: Download & Merge all playlists + Extract VODs (in parallel)
+  # ──────────────────────────────────────────────────────────────────
+  merge:
+    name: "📥 Download & Merge Playlists"
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 30
     
     steps:
       - name: 📥 Checkout repository
@@ -48,10 +50,51 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: 🐍 Setup Python
+      - name: 🐍 Setup Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+      
+      - name: 📦 Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+      
+      - name: 🔄 Extract VODs (Omniverse)
+        run: python scripts/extract_vod.py --verbose
+        env:
+          SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
+      
+      - name: 🔄 Merge all playlists
+        run: python scripts/merge_playlists.py --verbose
+        env:
+          SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
+      
+      - name: 📤 Upload merged output
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-playlists
+          path: output/
+          retention-days: 1
+
+  # ──────────────────────────────────────────────────────────────────
+  # JOB 2: Check dead links with maximum parallelism
+  # ──────────────────────────────────────────────────────────────────
+  check-links:
+    name: "🔍 Check Dead Links & Probe Resolution"
+    needs: merge
+    if: ${{ github.event.inputs.skip_link_check != 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 🐍 Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
           cache: 'pip'
           cache-dependency-path: 'scripts/requirements.txt'
       
@@ -61,37 +104,75 @@ jobs:
       - name: 🎥 Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       
-      - name: 🔄 Run VOD Extractor (Omniverse)
-        run: python scripts/extract_vod.py --verbose
-        env:
-          SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
-
-      - name: 🔄 Run playlist merger
-        run: python scripts/merge_playlists.py --verbose
-        env:
-          SECRET_PLAYLISTS: ${{ secrets.SECRET_PLAYLISTS }}
+      - name: 📥 Download merged playlists
+        uses: actions/download-artifact@v4
+        with:
+          name: merged-playlists
+          path: output/
       
       - name: 🔍 Check dead links & probe resolution
-        # Runs every time to ensure live playlist is always up-to-date
-        run: python scripts/check_links.py --timeout 12 --workers 1000 --probe --verbose
+        run: python scripts/check_links.py --timeout 10 --workers 2000 --probe --verbose
         continue-on-error: true
+      
+      - name: 📤 Upload live output
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-playlists
+          path: output/
+          retention-days: 1
 
+  # ──────────────────────────────────────────────────────────────────
+  # JOB 3: Generate EPG + Deploy to GitHub Pages
+  # ──────────────────────────────────────────────────────────────────
+  deploy:
+    name: "🚀 Generate EPG & Deploy"
+    needs: [merge, check-links]
+    if: ${{ always() && needs.merge.result == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🐍 Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+      
+      - name: 📦 Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+      
+      - name: 📥 Download live playlists (if link check ran)
+        uses: actions/download-artifact@v4
+        with:
+          name: live-playlists
+          path: output/
+        continue-on-error: true
+      
+      - name: 📥 Download merged playlists (fallback if link check was skipped)
+        if: ${{ needs.check-links.result == 'skipped' }}
+        uses: actions/download-artifact@v4
+        with:
+          name: merged-playlists
+          path: output/
+      
       - name: 📅 Generate EPG (XMLTV)
         run: python scripts/generate_epg.py
         continue-on-error: true
       
       - name: 🗜️ Compress outputs (GZIP)
         run: |
-          # Create compressed versions of all m3u files
           find output/ -name "*.m3u8" -exec gzip -k -f -9 {} +
       
       - name: 📊 Generate GitHub Pages
         run: |
-          # Copy output files to docs for GitHub Pages
           mkdir -p docs/output
           cp -r output/* docs/output/ 2>/dev/null || true
-          
-          # Generate timestamp
           echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > docs/output/last_updated.txt
       
       - name: 💾 Commit and push changes
@@ -100,17 +181,16 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add output/ docs/
           
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Auto-update: Merged IPTV playlists $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "🔄 Auto-update: V8 Titan $(date -u '+%Y-%m-%d %H:%M UTC') | $(cat output/stats.json 2>/dev/null | python -c 'import sys,json; d=json.load(sys.stdin); print(f"{d.get(\"live_channels\",\"?\")} live channels")' 2>/dev/null || echo 'updated')"
             git push
           fi
       
       - name: 📄 Summary
         run: |
-          echo "## 📊 Merge Results" >> $GITHUB_STEP_SUMMARY
+          echo "## 🏆 V8 Titan Pipeline Results" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           if [ -f output/stats.json ]; then
             echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
@@ -118,9 +198,8 @@ jobs:
             echo "| Total Channels | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("total_channels_unique", "N/A"))')" >> $GITHUB_STEP_SUMMARY
             echo "| Duplicates Removed | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("duplicates_removed", "N/A"))')" >> $GITHUB_STEP_SUMMARY
             echo "| Countries | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("total_countries", "N/A"))')" >> $GITHUB_STEP_SUMMARY
-            if [ -f output/combined_live.m3u ]; then
-              echo "| Live Channels | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("live_channels", "N/A"))')" >> $GITHUB_STEP_SUMMARY
-            fi
+            echo "| Live Channels | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("live_channels", "N/A"))')" >> $GITHUB_STEP_SUMMARY
+            echo "| Dead Channels | $(python -c 'import json; d=json.load(open("output/stats.json")); print(d.get("dead_channels", "N/A"))')" >> $GITHUB_STEP_SUMMARY
           fi
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ Pipeline completed successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "✅ V8 Titan pipeline completed!" >> $GITHUB_STEP_SUMMARY
