@@ -1,21 +1,67 @@
 # ═══════════════════════════════════════════════════════════════════
-# IPTV Auto-Combine V8 Titan — Playlist Sources
+# IPTV Auto-Combine V9 Apex — Playlist Sources
 # ═══════════════════════════════════════════════════════════════════
 # Add one M3U/M3U8 URL per line. Lines starting with # are ignored.
 # The engine downloads, parses, deduplicates, and organizes all
 # channels by country automatically.
 # ═══════════════════════════════════════════════════════════════════
 
-# ─── iptv-org/iptv (The largest open IPTV playlist — 9,000+ channels, 250+ countries) ───
+# ─────────────────────────────────────────────────────────────────
+# TIER 1: iptv-org/iptv — The World's Largest Open IPTV Database
+#         9,000+ channels • 250+ countries • Updated hourly
+# ─────────────────────────────────────────────────────────────────
 https://iptv-org.github.io/iptv/index.m3u
 https://iptv-org.github.io/iptv/index.country.m3u
 https://iptv-org.github.io/iptv/index.category.m3u
 https://iptv-org.github.io/iptv/index.language.m3u
 
-# ─── Free-TV/IPTV (Legally free, publicly available streams) ───
+# ─────────────────────────────────────────────────────────────────
+# TIER 2: Free-TV/IPTV — Legally Free Streams
+# ─────────────────────────────────────────────────────────────────
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
-# ─── iptv-org country-specific feeds ───
+# ─────────────────────────────────────────────────────────────────
+# TIER 3: 🇧🇩 Bangladesh — MAXIMUM Coverage
+# ─────────────────────────────────────────────────────────────────
+https://iptv-org.github.io/iptv/countries/bd.m3u
+https://raw.githubusercontent.com/byte-developer-yt/Bangladeshi-IPTV/main/bdix.m3u
+https://raw.githubusercontent.com/byte-developer-yt/Bangladeshi-IPTV/main/non-bdix.m3u
+https://raw.githubusercontent.com/SR-Jethy/BD-IPTV-Players/refs/heads/main/BDPlayers.m3u
+https://raw.githubusercontent.com/mitthu786/JEETH-TV/refs/heads/main/JEETH_TV.m3u
+https://raw.githubusercontent.com/Paradise-91/ParadiseTV/main/livetv.m3u8
+https://raw.githubusercontent.com/riad-azz/IPTV-Playlists/refs/heads/master/public/playlists/bd.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 3: 🇮🇳 India — MAXIMUM Coverage
+# ─────────────────────────────────────────────────────────────────
+https://iptv-org.github.io/iptv/countries/in.m3u
+https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u8
+https://raw.githubusercontent.com/mitthu786/TataPlayIPTV/main/tataplay.m3u
+https://raw.githubusercontent.com/byte-developer-yt/Indian-IPTV/main/india.m3u
+https://raw.githubusercontent.com/riad-azz/IPTV-Playlists/refs/heads/master/public/playlists/in.m3u
+https://raw.githubusercontent.com/Starter2k24/STARTER-IPTV/main/starter.m3u
+https://raw.githubusercontent.com/Starter2k24/STARTER-IPTV/main/starter_hindi.m3u
+https://raw.githubusercontent.com/Starter2k24/STARTER-IPTV/main/starter_regional.m3u
+https://iptv-org.github.io/iptv/languages/hin.m3u
+https://iptv-org.github.io/iptv/languages/ben.m3u
+https://iptv-org.github.io/iptv/languages/tam.m3u
+https://iptv-org.github.io/iptv/languages/tel.m3u
+https://iptv-org.github.io/iptv/languages/mal.m3u
+https://iptv-org.github.io/iptv/languages/kan.m3u
+https://iptv-org.github.io/iptv/languages/mar.m3u
+https://iptv-org.github.io/iptv/languages/guj.m3u
+https://iptv-org.github.io/iptv/languages/pan.m3u
+https://iptv-org.github.io/iptv/languages/urd.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 3: 🇵🇰 Pakistan
+# ─────────────────────────────────────────────────────────────────
+https://iptv-org.github.io/iptv/countries/pk.m3u
+https://raw.githubusercontent.com/riad-azz/IPTV-Playlists/refs/heads/master/public/playlists/pk.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 4: Major Country Feeds — Americas & Europe
+# ─────────────────────────────────────────────────────────────────
 https://iptv-org.github.io/iptv/countries/us.m3u
 https://iptv-org.github.io/iptv/countries/gb.m3u
 https://iptv-org.github.io/iptv/countries/ca.m3u
@@ -24,12 +70,9 @@ https://iptv-org.github.io/iptv/countries/fr.m3u
 https://iptv-org.github.io/iptv/countries/es.m3u
 https://iptv-org.github.io/iptv/countries/it.m3u
 https://iptv-org.github.io/iptv/countries/br.m3u
-https://iptv-org.github.io/iptv/countries/in.m3u
 https://iptv-org.github.io/iptv/countries/ru.m3u
 https://iptv-org.github.io/iptv/countries/tr.m3u
 https://iptv-org.github.io/iptv/countries/ar.m3u
-https://iptv-org.github.io/iptv/countries/bd.m3u
-https://iptv-org.github.io/iptv/countries/pk.m3u
 https://iptv-org.github.io/iptv/countries/jp.m3u
 https://iptv-org.github.io/iptv/countries/kr.m3u
 https://iptv-org.github.io/iptv/countries/cn.m3u
@@ -48,17 +91,38 @@ https://iptv-org.github.io/iptv/countries/gr.m3u
 https://iptv-org.github.io/iptv/countries/za.m3u
 https://iptv-org.github.io/iptv/countries/ng.m3u
 https://iptv-org.github.io/iptv/countries/eg.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 4: South & Southeast Asia
+# ─────────────────────────────────────────────────────────────────
 https://iptv-org.github.io/iptv/countries/th.m3u
 https://iptv-org.github.io/iptv/countries/id.m3u
 https://iptv-org.github.io/iptv/countries/my.m3u
 https://iptv-org.github.io/iptv/countries/ph.m3u
 https://iptv-org.github.io/iptv/countries/vn.m3u
+https://iptv-org.github.io/iptv/countries/lk.m3u
+https://iptv-org.github.io/iptv/countries/np.m3u
+https://iptv-org.github.io/iptv/countries/mm.m3u
+https://iptv-org.github.io/iptv/countries/kh.m3u
+https://iptv-org.github.io/iptv/countries/af.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 4: Latin America
+# ─────────────────────────────────────────────────────────────────
 https://iptv-org.github.io/iptv/countries/co.m3u
 https://iptv-org.github.io/iptv/countries/cl.m3u
 https://iptv-org.github.io/iptv/countries/pe.m3u
 https://iptv-org.github.io/iptv/countries/ve.m3u
 
-# ─── iptv-org by category ───
+# ─────────────────────────────────────────────────────────────────
+# TIER 5: Community Curated Lists (GitHub)
+# ─────────────────────────────────────────────────────────────────
+https://raw.githubusercontent.com/riad-azz/IPTV-Playlists/refs/heads/master/public/playlists/all.m3u
+https://raw.githubusercontent.com/aniketdebnath/Ani-IPTV/main/ani_iptv.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 6: By Category
+# ─────────────────────────────────────────────────────────────────
 https://iptv-org.github.io/iptv/categories/news.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
 https://iptv-org.github.io/iptv/categories/entertainment.m3u
@@ -69,3 +133,42 @@ https://iptv-org.github.io/iptv/categories/documentary.m3u
 https://iptv-org.github.io/iptv/categories/education.m3u
 https://iptv-org.github.io/iptv/categories/religious.m3u
 https://iptv-org.github.io/iptv/categories/weather.m3u
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+https://iptv-org.github.io/iptv/categories/cooking.m3u
+https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+https://iptv-org.github.io/iptv/categories/science.m3u
+https://iptv-org.github.io/iptv/categories/travel.m3u
+https://iptv-org.github.io/iptv/categories/animation.m3u
+https://iptv-org.github.io/iptv/categories/auto.m3u
+https://iptv-org.github.io/iptv/categories/business.m3u
+https://iptv-org.github.io/iptv/categories/culture.m3u
+https://iptv-org.github.io/iptv/categories/family.m3u
+https://iptv-org.github.io/iptv/categories/general.m3u
+https://iptv-org.github.io/iptv/categories/legislative.m3u
+https://iptv-org.github.io/iptv/categories/outdoor.m3u
+https://iptv-org.github.io/iptv/categories/relax.m3u
+https://iptv-org.github.io/iptv/categories/shop.m3u
+
+# ─────────────────────────────────────────────────────────────────
+# TIER 7: By Language (additional non-country-specific)
+# ─────────────────────────────────────────────────────────────────
+https://iptv-org.github.io/iptv/languages/eng.m3u
+https://iptv-org.github.io/iptv/languages/spa.m3u
+https://iptv-org.github.io/iptv/languages/ara.m3u
+https://iptv-org.github.io/iptv/languages/por.m3u
+https://iptv-org.github.io/iptv/languages/fra.m3u
+https://iptv-org.github.io/iptv/languages/deu.m3u
+https://iptv-org.github.io/iptv/languages/ita.m3u
+https://iptv-org.github.io/iptv/languages/rus.m3u
+https://iptv-org.github.io/iptv/languages/zho.m3u
+https://iptv-org.github.io/iptv/languages/jpn.m3u
+https://iptv-org.github.io/iptv/languages/kor.m3u
+https://iptv-org.github.io/iptv/languages/tur.m3u
+https://iptv-org.github.io/iptv/languages/tha.m3u
+https://iptv-org.github.io/iptv/languages/vie.m3u
+https://iptv-org.github.io/iptv/languages/msa.m3u
+https://iptv-org.github.io/iptv/languages/ind.m3u
+https://iptv-org.github.io/iptv/languages/fil.m3u
+https://iptv-org.github.io/iptv/languages/nep.m3u
+https://iptv-org.github.io/iptv/languages/sin.m3u
+https://iptv-org.github.io/iptv/languages/mya.m3u

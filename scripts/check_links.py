@@ -33,6 +33,10 @@ PROBE_TIMEOUT = 8  # seconds for ffprobe analysis
 MAX_WORKERS = 1000  # massive concurrency for GitHub Actions
 USER_AGENT = "Mozilla/5.0 (IPTV-Link-Checker/2.0) aiohttp/3.9.0"
 
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_DIR = SCRIPT_DIR.parent
+DOMAIN_IGNORE_FILE = PROJECT_DIR / "input" / "domain_ignore_list.txt"
+
 # ─── Logging ──────────────────────────────────────────────────────
 logging.basicConfig(
     level=logging.INFO,
@@ -75,6 +79,35 @@ async def probe_resolution(url: str) -> Optional[int]:
     except Exception:
         pass
     return None
+
+
+def load_domain_ignore_list() -> set:
+    """Load trusted domains from domain_ignore_list.txt. Channels on these domains skip checking."""
+    ignored = set()
+    if DOMAIN_IGNORE_FILE.exists():
+        with open(DOMAIN_IGNORE_FILE, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    ignored.add(line.lower())
+        if ignored:
+            log.info(f"  Loaded {len(ignored)} ignored domains from domain_ignore_list.txt")
+    return ignored
+
+
+def is_domain_ignored(url: str, ignored_domains: set) -> bool:
+    """Check if a URL's domain matches any entry in the ignore list."""
+    if not ignored_domains:
+        return False
+    try:
+        from urllib.parse import urlparse
+        parsed = urlparse(url)
+        host = parsed.hostname or ""
+        host_with_port = parsed.netloc or ""
+        # Check both hostname and hostname:port
+        return host.lower() in ignored_domains or host_with_port.lower() in ignored_domains
+    except Exception:
+        return False
 
 
 async def check_single_link(session: aiohttp.ClientSession, channel: Channel, do_probe: bool) -> Tuple[Channel, bool, str]:
@@ -148,11 +181,25 @@ async def check_single_link(session: aiohttp.ClientSession, channel: Channel, do
 async def check_links_async(channels: List[Channel], max_workers: int = MAX_WORKERS, do_probe: bool = False) -> Tuple[List[Channel], List[Channel]]:
     """
     Check all channel links concurrently using asyncio.
+    Channels on ignored domains are auto-marked as live.
     """
     total = len(channels)
-    log.info(f"Checking {total} channels with {max_workers} concurrent workers (probe={do_probe})...")
+    ignored_domains = load_domain_ignore_list()
 
+    # Separate ignored channels from those that need checking
+    to_check = []
     live_channels = []
+    for ch in channels:
+        if is_domain_ignored(ch.url, ignored_domains):
+            live_channels.append(ch)
+        else:
+            to_check.append(ch)
+
+    if live_channels:
+        log.info(f"  ⏭️  Auto-passed {len(live_channels)} channels (domain ignore list)")
+
+    log.info(f"Checking {len(to_check)} channels with {max_workers} concurrent workers (probe={do_probe})...")
+
     dead_channels = []
     checked = 0
     start_time = time.time()
@@ -168,7 +215,7 @@ async def check_links_async(channels: List[Channel], max_workers: int = MAX_WORK
             async with semaphore:
                 return await check_single_link(session, channel, do_probe)
 
-        tasks = [asyncio.create_task(bounded_check(ch)) for ch in channels]
+        tasks = [asyncio.create_task(bounded_check(ch)) for ch in to_check]
         
         for future in asyncio.as_completed(tasks):
             checked += 1

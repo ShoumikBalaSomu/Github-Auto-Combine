@@ -79,3 +79,21 @@ interface ChannelDao {
     @Query("SELECT * FROM channels ORDER BY name ASC")
     suspend fun getAllChannelsList(): List<Channel>
 }
+
+@Dao
+interface IgnoredDomainDao {
+    @Query("SELECT * FROM ignored_domains ORDER BY domain ASC")
+    fun getAllIgnoredDomains(): Flow<List<IgnoredDomain>>
+
+    @Query("SELECT domain FROM ignored_domains")
+    suspend fun getAllIgnoredDomainStrings(): List<String>
+
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    suspend fun insertDomain(domain: IgnoredDomain): Long
+
+    @Delete
+    suspend fun deleteDomain(domain: IgnoredDomain)
+
+    @Query("DELETE FROM ignored_domains WHERE domain = :domain")
+    suspend fun deleteDomainByName(domain: String)
+}

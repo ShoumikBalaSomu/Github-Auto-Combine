@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Omniverse IPTV Player</title>
-    <!-- Include HLS.js for browser streaming -->
+    <title>IPTV Omniverse — V9 Apex Web Player</title>
+    <meta name="description" content="Free IPTV Web Player — 15,000+ live channels from 250+ countries. Watch TV, movies, and sports instantly.">
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,15 +14,22 @@
     <nav class="sidebar glass">
         <div class="logo">
             <h2>🌌 Omniverse</h2>
-            <p>V6 Peak Premium</p>
+            <p class="version-tag">V9 Apex</p>
         </div>
         <ul class="nav-links">
             <li class="active" onclick="switchTab('live')">📺 Live TV</li>
             <li onclick="switchTab('movies')">🎬 Movies VOD</li>
             <li onclick="switchTab('series')">🍿 TV Series</li>
+            <li onclick="switchTab('external')">🌐 External Sources</li>
             <li onclick="switchTab('settings')">⚙️ Settings</li>
         </ul>
-        
+
+        <div class="stats-box" id="statsBox">
+            <div class="stat-row"><span>📡 Live</span><span id="statLive">0</span></div>
+            <div class="stat-row"><span>🌍 Countries</span><span id="statCountries">0</span></div>
+            <div class="stat-row"><span>⏱️ Updated</span><span id="statUpdated">—</span></div>
+        </div>
+
         <div class="auth-box">
             <p><strong>Auth Token:</strong></p>
             <input type="password" id="authToken" placeholder="Enter JWT key..." onchange="saveToken()">
@@ -32,19 +39,63 @@
     <!-- Main Content Area -->
     <main class="content">
         <header class="glass-header">
-            <input type="text" id="searchInput" placeholder="Search channels or movies..." onkeyup="filterContent()">
+            <div class="search-wrapper">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchInput" placeholder="Search channels, countries, or categories..." onkeyup="filterContent()">
+            </div>
+            <!-- Country quick-filter pills -->
+            <div class="filter-pills" id="filterPills"></div>
         </header>
 
-        <div id="loading" class="loading">Loading Omniverse Database...</div>
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>Loading Omniverse Database...</p>
+            <p class="loading-sub" id="loadingStatus">Connecting to 150+ sources...</p>
+        </div>
 
         <!-- Live TV Grid -->
         <section id="live" class="grid-container active-tab"></section>
-        
+
         <!-- Movies Grid -->
         <section id="movies" class="grid-container hidden-tab"></section>
 
         <!-- Series Grid -->
         <section id="series" class="grid-container hidden-tab"></section>
+
+        <!-- External Sources Tab -->
+        <section id="external" class="grid-container hidden-tab">
+            <div class="external-panel">
+                <h2>🌐 Load External Playlists</h2>
+                <p>Paste any free M3U/M3U8 playlist URL to load channels from the web.</p>
+                <div class="external-input-row">
+                    <input type="text" id="externalUrl" placeholder="https://example.com/playlist.m3u8">
+                    <button onclick="loadExternalPlaylist()">Load</button>
+                </div>
+                <div id="externalStatus" class="external-status"></div>
+
+                <h3>🔥 Popular Free Sources</h3>
+                <div class="quick-sources">
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/countries/bd.m3u')">🇧🇩 Bangladesh</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/countries/in.m3u')">🇮🇳 India</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/countries/pk.m3u')">🇵🇰 Pakistan</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/countries/us.m3u')">🇺🇸 USA</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/countries/gb.m3u')">🇬🇧 UK</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/sports.m3u')">⚽ Sports</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/news.m3u')">📰 News</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/music.m3u')">🎵 Music</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/kids.m3u')">👶 Kids</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/movies.m3u')">🎬 Movies</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/entertainment.m3u')">🎭 Entertainment</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/categories/documentary.m3u')">📚 Documentary</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/languages/hin.m3u')">🗣️ Hindi</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/languages/ben.m3u')">🗣️ Bengali</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/languages/urd.m3u')">🗣️ Urdu</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/languages/tam.m3u')">🗣️ Tamil</button>
+                    <button class="source-chip" onclick="quickLoad('https://iptv-org.github.io/iptv/languages/ara.m3u')">🗣️ Arabic</button>
+                    <button class="source-chip" onclick="quickLoad('https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8')">📺 Free-TV</button>
+                </div>
+            </div>
+        </section>
     </main>
 
     <!-- Video Player Modal -->

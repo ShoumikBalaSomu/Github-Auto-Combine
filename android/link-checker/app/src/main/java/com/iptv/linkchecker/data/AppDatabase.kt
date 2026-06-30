@@ -7,14 +7,15 @@ import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 
 @Database(
-    entities = [Source::class, Channel::class],
-    version = 1,
+    entities = [Source::class, Channel::class, IgnoredDomain::class],
+    version = 2,
     exportSchema = false
 )
 @TypeConverters(Converters::class)
 abstract class AppDatabase : RoomDatabase() {
     abstract fun sourceDao(): SourceDao
     abstract fun channelDao(): ChannelDao
+    abstract fun ignoredDomainDao(): IgnoredDomainDao
 
     companion object {
         @Volatile

@@ -13,6 +13,7 @@ import androidx.lifecycle.viewModelScope
 import com.iptv.linkchecker.data.AppDatabase
 import com.iptv.linkchecker.data.Channel
 import com.iptv.linkchecker.data.ChannelStatus
+import com.iptv.linkchecker.data.IgnoredDomain
 import com.iptv.linkchecker.data.Repository
 import com.iptv.linkchecker.data.Source
 import com.iptv.linkchecker.data.SourceType
@@ -113,6 +114,10 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     val channelStats: StateFlow<ChannelStats> = _channelStats.asStateFlow()
 
     private var checkJob: Job? = null
+
+    // Ignored domains
+    val ignoredDomains = repository.getAllIgnoredDomains()
+        .stateIn(viewModelScope, SharingStarted.Lazily, emptyList())
 
     data class ChannelStats(
         val total: Int = 0,
@@ -261,7 +266,13 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
                     return@launch
                 }
 
-                linkChecker.checkChannels(allChannels) { checkedChannel ->
+                // Load ignored domains
+                val ignored = repository.getIgnoredDomainStrings()
+                if (ignored.isNotEmpty()) {
+                    _uiMessage.value = UiMessage("⏭️ ${ignored.size} ignored domains will auto-pass as live")
+                }
+
+                linkChecker.checkChannels(allChannels, ignored) { checkedChannel ->
                     repository.updateChannel(checkedChannel)
                 }
 
@@ -384,6 +395,22 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     fun clearExportResult() {
         _exportResult.value = null
+    }
+
+    // Ignored Domains
+    fun addIgnoredDomain(domain: String) {
+        if (domain.isBlank()) return
+        viewModelScope.launch {
+            repository.addIgnoredDomain(domain)
+            _uiMessage.value = UiMessage("Added $domain to ignore list")
+        }
+    }
+
+    fun removeIgnoredDomain(domain: IgnoredDomain) {
+        viewModelScope.launch {
+            repository.removeIgnoredDomain(domain)
+            _uiMessage.value = UiMessage("Removed ${domain.domain} from ignore list")
+        }
     }
 
     override fun onCleared() {

@@ -1,0 +1,22 @@
+# ═══════════════════════════════════════════════════════════════════
+# Domain Ignore List — V8 Titan
+# ═══════════════════════════════════════════════════════════════════
+# Domains listed here will SKIP the dead-link check and be
+# automatically marked as LIVE.
+#
+# Use this when you KNOW a provider is alive but their server
+# blocks HEAD/GET health checks (e.g., geo-locked CDNs, token-auth
+# streams, or Xtream Codes servers that reject bots).
+#
+# Format: one domain per line (no protocol, no path).
+# Examples:
+#   cdn.premium-provider.com
+#   iptv.trusted-server.net
+#   my-private-server.com:8080
+#
+# Lines starting with # are comments.
+# ═══════════════════════════════════════════════════════════════════
+
+# Example (uncomment and replace with your trusted domains):
+# cdn.my-premium-provider.com
+# iptv.trusted-server.net

@@ -45,3 +45,11 @@ data class Channel(
     val lastCheckedAt: Long? = null,
     val errorMessage: String = ""
 )
+
+@Entity(tableName = "ignored_domains")
+data class IgnoredDomain(
+    @PrimaryKey(autoGenerate = true)
+    val id: Long = 0,
+    val domain: String,
+    val addedAt: Long = System.currentTimeMillis()
+)

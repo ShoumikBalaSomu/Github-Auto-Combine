@@ -16,6 +16,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Checklist
 import androidx.compose.material.icons.filled.FileDownload
 import androidx.compose.material.icons.filled.PlayCircle
+import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Source
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
@@ -39,6 +40,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.iptv.linkchecker.ui.CheckScreen
 import com.iptv.linkchecker.ui.ExportScreen
 import com.iptv.linkchecker.ui.ResultsScreen
+import com.iptv.linkchecker.ui.SettingsScreen
 import com.iptv.linkchecker.ui.SourcesScreen
 import com.iptv.linkchecker.ui.theme.LinkCheckerTheme
 import com.iptv.linkchecker.viewmodel.MainViewModel
@@ -66,7 +68,8 @@ fun LinkCheckerApp(viewModel: MainViewModel = viewModel()) {
         NavItem("Sources", Icons.Default.Source),
         NavItem("Check", Icons.Default.PlayCircle),
         NavItem("Results", Icons.Default.Checklist),
-        NavItem("Export", Icons.Default.FileDownload)
+        NavItem("Export", Icons.Default.FileDownload),
+        NavItem("Settings", Icons.Default.Settings)
     )
 
     var selectedTab by rememberSaveable { mutableIntStateOf(0) }
@@ -109,6 +112,7 @@ fun LinkCheckerApp(viewModel: MainViewModel = viewModel()) {
                 1 -> CheckScreen(viewModel = viewModel)
                 2 -> ResultsScreen(viewModel = viewModel)
                 3 -> ExportScreen(viewModel = viewModel)
+                4 -> SettingsScreen(viewModel = viewModel)
             }
         }
     }

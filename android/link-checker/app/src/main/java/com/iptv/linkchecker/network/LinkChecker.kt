@@ -56,6 +56,7 @@ class LinkChecker {
 
     suspend fun checkChannels(
         channels: List<Channel>,
+        ignoredDomains: Set<String> = emptySet(),
         onChannelChecked: suspend (Channel) -> Unit
     ): List<Channel> = coroutineScope {
         isCancelled = false
@@ -73,6 +74,33 @@ class LinkChecker {
             async(Dispatchers.IO) {
                 if (isCancelled) {
                     return@async channel
+                }
+
+                // Check if domain is in the ignore list → auto-pass as LIVE
+                if (ignoredDomains.isNotEmpty()) {
+                    try {
+                        val host = java.net.URL(channel.streamUrl).host?.lowercase() ?: ""
+                        if (host in ignoredDomains || ignoredDomains.any { host.endsWith(it) }) {
+                            val result = channel.copy(
+                                status = ChannelStatus.LIVE,
+                                responseTimeMs = 0,
+                                lastCheckedAt = System.currentTimeMillis(),
+                                errorMessage = "Auto-passed (ignored domain)"
+                            )
+                            val checked = checkedCount.incrementAndGet()
+                            liveCount.incrementAndGet()
+                            _progress.value = CheckProgress(
+                                total = channels.size,
+                                checked = checked,
+                                live = liveCount.get(),
+                                dead = deadCount.get(),
+                                slow = slowCount.get(),
+                                isRunning = !isCancelled
+                            )
+                            onChannelChecked(result)
+                            return@async result
+                        }
+                    } catch (_: Exception) { }
                 }
 
                 semaphore.withPermit {

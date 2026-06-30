@@ -58,4 +58,19 @@ class Repository(private val db: AppDatabase) {
         channelDao.getUncheckedChannels(limit)
 
     suspend fun getAllChannelsList(): List<Channel> = channelDao.getAllChannelsList()
+
+    // Ignored Domains
+    private val ignoredDomainDao = db.ignoredDomainDao()
+
+    fun getAllIgnoredDomains(): Flow<List<IgnoredDomain>> =
+        ignoredDomainDao.getAllIgnoredDomains()
+
+    suspend fun getIgnoredDomainStrings(): Set<String> =
+        ignoredDomainDao.getAllIgnoredDomainStrings().map { it.lowercase() }.toSet()
+
+    suspend fun addIgnoredDomain(domain: String): Long =
+        ignoredDomainDao.insertDomain(IgnoredDomain(domain = domain.lowercase().trim()))
+
+    suspend fun removeIgnoredDomain(domain: IgnoredDomain) =
+        ignoredDomainDao.deleteDomain(domain)
 }
