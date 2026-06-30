@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#FF6C63FF</color>
+    <color name="purple_primary_dark">#FF5A52E0</color>
+    <color name="purple_accent">#FF9D97FF</color>
+    <color name="background_dark">#FF0D0D1A</color>
+    <color name="surface_dark">#FF1A1A2E</color>
+    <color name="surface_variant">#FF252540</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_surface_variant">#FFB0B0CC</color>
+    <color name="status_live">#FF4CAF50</color>
+    <color name="status_dead">#FFF44336</color>
+    <color name="status_slow">#FFFF9800</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FF6C63FF</color>
+</resources>

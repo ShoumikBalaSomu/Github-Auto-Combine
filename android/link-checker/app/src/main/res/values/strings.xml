@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV Link Checker</string>
+    <string name="tab_sources">Sources</string>
+    <string name="tab_check">Check</string>
+    <string name="tab_results">Results</string>
+    <string name="tab_export">Export</string>
+    <string name="add_source">Add Source</string>
+    <string name="m3u_playlist">M3U Playlist</string>
+    <string name="xtream_codes">Xtream Codes</string>
+    <string name="mac_portal">MAC Portal</string>
+    <string name="url_hint">Enter M3U URL</string>
+    <string name="server_url_hint">Server URL</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="portal_url_hint">Portal URL</string>
+    <string name="mac_address_hint">MAC Address</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="start_check">Start Checking</string>
+    <string name="stop_check">Stop Checking</string>
+    <string name="checking">Checking links…</string>
+    <string name="export_live">Export Live Channels</string>
+    <string name="no_sources">No sources added yet</string>
+    <string name="no_results">No results yet. Run a check first.</string>
+    <string name="filter_all">All</string>
+    <string name="filter_live">Live</string>
+    <string name="filter_dead">Dead</string>
+    <string name="filter_slow">Slow</string>
+    <string name="search_hint">Search channels…</string>
+    <string name="exported_successfully">Exported successfully!</string>
+    <string name="export_failed">Export failed</string>
+    <string name="share">Share</string>
+    <string name="channels_found">%d channels found</string>
+    <string name="loading_sources">Loading sources…</string>
+    <string name="response_time_ms">%dms</string>
+</resources>
