@@ -6127,7 +6127,7 @@ https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16206
 #EXTINF:-1 tvg-id="IntheKitchen.us@SD" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="🌍 International",In the kitchen (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-#EXTINF:-1 tvg-id="KDNULD73.us" group-title="🌍 International",In Touch+ (1080p)
+#EXTINF:-1 tvg-id="InTouchPlus.us" group-title="🌍 International",In Touch+ (1080p)
 https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌍 International",INA 70 (720p)
 https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
